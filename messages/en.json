@@ -1,0 +1,26 @@
+{
+  "LocaleLayout": {
+    "title": "Create Next App"
+  },
+  "HomePage": {
+    "title": "To get started, edit the <code>page.tsx</code> file.",
+    "description": "Looking for a starting point or more instructions? Head over to <templates>Templates</templates> or the <learn>Learning</learn> center.",
+    "deploy": "Deploy Now",
+    "docs": "Documentation"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, en {English} ru {Русский} kk {Қазақша} other {Unknown}}"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist."
+  },
+  "ProductsPage": {
+    "title": "Products",
+    "count": "{count, plural, one {# product} other {# products}}"
+  },
+  "ProductPage": {
+    "backToList": "← Back to all products"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "LocaleLayout": {
+    "title": "Создать Next-приложение"
+  },
+  "HomePage": {
+    "title": "Чтобы начать, отредактируйте файл <code>page.tsx</code>.",
+    "description": "Ищете отправную точку или подробные инструкции? Загляните в <templates>Шаблоны</templates> или в <learn>Обучающий</learn> центр.",
+    "deploy": "Развернуть",
+    "docs": "Документация"
+  },
+  "LocaleSwitcher": {
+    "label": "Сменить язык",
+    "locale": "{locale, select, en {English} ru {Русский} kk {Қазақша} other {Неизвестно}}"
+  },
+  "NotFound": {
+    "title": "Страница не найдена",
+    "description": "Страница, которую вы ищете, не существует."
+  },
+  "ProductsPage": {
+    "title": "Продукты",
+    "count": "{count, plural, one {# продукт} few {# продукта} many {# продуктов} other {# продукта}}"
+  },
+  "ProductPage": {
+    "backToList": "← Ко всем продуктам"
+  }
+}

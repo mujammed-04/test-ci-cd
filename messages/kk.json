@@ -1,0 +1,26 @@
+{
+  "LocaleLayout": {
+    "title": "Next қолданбасын құру"
+  },
+  "HomePage": {
+    "title": "Бастау үшін <code>page.tsx</code> файлын өңдеңіз.",
+    "description": "Бастапқы нүкте немесе қосымша нұсқаулар керек пе? <templates>Үлгілер</templates> бөліміне немесе <learn>Оқу</learn> орталығына өтіңіз.",
+    "deploy": "Орналастыру",
+    "docs": "Құжаттама"
+  },
+  "LocaleSwitcher": {
+    "label": "Тілді ауыстыру",
+    "locale": "{locale, select, en {English} ru {Русский} kk {Қазақша} other {Белгісіз}}"
+  },
+  "NotFound": {
+    "title": "Бет табылмады",
+    "description": "Сіз іздеген бет жоқ."
+  },
+  "ProductsPage": {
+    "title": "Өнімдер",
+    "count": "{count, plural, one {# өнім} other {# өнім}}"
+  },
+  "ProductPage": {
+    "backToList": "← Барлық өнімдерге"
+  }
+}
