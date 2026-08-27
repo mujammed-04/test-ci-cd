@@ -22,8 +22,34 @@ jobs:
       - run: yarn lint
 
       - name: Typecheck
-        run: npx tsc --noEmit
+        run: yarn typecheck
 
       - run: yarn build
         env:
           NEXT_TELEMETRY_DISABLED: 1
+
+  commitlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: yarn
+
+      - run: yarn install --frozen-lockfile
+
+      - name: Validate PR commit messages
+        if: github.event_name == 'pull_request'
+        run: >-
+          yarn commitlint
+          --from ${{ github.event.pull_request.base.sha }}
+          --to ${{ github.event.pull_request.head.sha }}
+          --verbose
+
+      - name: Validate pushed commit message
+        if: github.event_name == 'push'
+        run: yarn commitlint --last --verbose
