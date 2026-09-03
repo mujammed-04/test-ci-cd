@@ -1,49 +1,94 @@
 {
-  "generatedAt": "2026-09-03T06:50:46.642Z",
+  "generatedAt": "2026-09-03T07:23:51.486Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "32777398",
-      "url": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimal desk",
+      "id": "6044914",
+      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#5B5B59",
+      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
+      "credit": {
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+      }
+    },
+    {
+      "prompt": "handmade ceramic bowl",
+      "id": "9736483",
+      "url": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#A17955",
+      "alt": "A woman artist holding ceramic bowls in a sunlit workshop, surrounded by shelves filled with pottery.",
+      "credit": {
+        "name": "KoolShooters",
+        "link": "https://www.pexels.com/@koolshooters",
+        "photoLink": "https://www.pexels.com/photo/woman-carrying-a-bowl-with-paint-9736483/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "19128992",
+      "url": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#363636",
-      "alt": "Black and white photo of a rustic workbench with wrenches and tools in a vintage setting.",
+      "color": "#696F61",
+      "alt": "A modern minimalist building facade with glass windows and clear skies.",
       "credit": {
-        "name": "MD. Raktim Raze",
-        "link": "https://www.pexels.com/@roktim619",
-        "photoLink": "https://www.pexels.com/photo/monochrome-industrial-workbench-with-tools-32777398/"
+        "name": "Mengtry  Lorn",
+        "link": "https://www.pexels.com/@mengtry-lorn-782826812",
+        "photoLink": "https://www.pexels.com/photo/clear-sky-over-white-building-19128992/"
       }
     },
     {
-      "prompt": "gritty urban textures",
-      "id": "9981497",
-      "url": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#959595",
-      "alt": "Black and white abstract graffiti on a textured concrete wall with shadows.",
+      "prompt": "coastal weather",
+      "id": "38350381",
+      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#829091",
+      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/black-textile-on-white-textile-9981497/"
+        "name": "Margarita K",
+        "link": "https://www.pexels.com/@margarita-k-105195494",
+        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "35228360",
-      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#5F4632",
-      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "prompt": "analogue film grain",
+      "id": "16851158",
+      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3360,
+      "height": 2240,
+      "color": "#4E4F49",
+      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
       "credit": {
-        "name": "Meltem  B.",
-        "link": "https://www.pexels.com/@meltem-b-300284420",
-        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
+        "name": "Scenehaus Production",
+        "link": "https://www.pexels.com/@scenehaus",
+        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "14637831",
+      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#52453F",
+      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
+      "credit": {
+        "name": "Ayub Abdul Rahman",
+        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
+        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
       }
     }
   ]
