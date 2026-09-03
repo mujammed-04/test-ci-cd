@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-03T13:15:06.349Z",
+  "generatedAt": "2026-09-03T17:31:02.370Z",
   "photos": [
     {
-      "prompt": "urban brick texture",
-      "id": "14617143",
-      "url": "https://images.pexels.com/photos/14617143/pexels-photo-14617143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14617143/pexels-photo-14617143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5068,
-      "height": 3444,
-      "color": "#A77A5D",
-      "alt": "Close-up of a rustic brick wall showcasing its detailed texture and warm tones.",
+      "prompt": "grainy film texture",
+      "id": "9983069",
+      "url": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#888691",
+      "alt": "Abstract film negative featuring bare trees in a forest. Moody, dark, and artistic vibe.",
       "credit": {
-        "name": "Janek Sergejev",
-        "link": "https://www.pexels.com/@junkieyankee",
-        "photoLink": "https://www.pexels.com/photo/photograph-of-a-brick-wall-14617143/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/polaroid-photo-of-forest-at-night-9983069/"
       }
     },
     {
-      "prompt": "botanical leaf macro",
-      "id": "1302883",
-      "url": "https://images.pexels.com/photos/1302883/pexels-photo-1302883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1302883/pexels-photo-1302883.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#1F4024",
-      "alt": "Detailed macro shot of vibrant green fern leaves in a lush garden setting.",
-      "credit": {
-        "name": "Min An",
-        "link": "https://www.pexels.com/@minan1398",
-        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-green-leafed-plant-1302883/"
-      }
-    },
-    {
-      "prompt": "workshop tool set",
-      "id": "8661618",
-      "url": "https://images.pexels.com/photos/8661618/pexels-photo-8661618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8661618/pexels-photo-8661618.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
+      "prompt": "scandinavian living room",
+      "id": "19846383",
+      "url": "https://images.pexels.com/photos/19846383/pexels-photo-19846383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19846383/pexels-photo-19846383.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5999,
       "height": 4000,
-      "color": "#655D5B",
-      "alt": "A collection of hand tools neatly arranged on a pegboard for easy access and organization.",
+      "color": "#A4A59D",
+      "alt": "A stylish and bright living room with modern furnishings and plants, exuding a minimalist vibe.",
       "credit": {
-        "name": "Victtor Daniel",
-        "link": "https://www.pexels.com/@fotografovicttor",
-        "photoLink": "https://www.pexels.com/photo/stainless-steel-hand-tools-hanging-on-the-shelf-8661618/"
+        "name": "Lisa Anna",
+        "link": "https://www.pexels.com/@lisa-anna-901356985",
+        "photoLink": "https://www.pexels.com/photo/living-room-with-blue-couch-and-tv-19846383/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "35611566",
-      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4125,
-      "color": "#5C5D58",
-      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
+      "prompt": "stormy coastline sky",
+      "id": "38350381",
+      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#829091",
+      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
       "credit": {
-        "name": "Jose Luis  Vanasco",
-        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
-        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
+        "name": "Margarita K",
+        "link": "https://www.pexels.com/@margarita-k-105195494",
+        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "prompt": "minimalist work desk",
+      "id": "270694",
+      "url": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#B9A79C",
+      "alt": "Top view of a tidy workspace featuring a laptop, smartphone, notebook, and pen on a wooden desk.",
       "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/macbook-pro-beside-silver-iphone-5s-270694/"
       }
     },
     {
-      "prompt": "morning soft light",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
+      "prompt": "vintage workshop tools",
+      "id": "5095894",
+      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#403527",
+      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
       "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
+      }
+    },
+    {
+      "prompt": "linen wooden table",
+      "id": "6962755",
+      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6201,
+      "height": 4134,
+      "color": "#B0A79F",
+      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
+      "credit": {
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
       }
     }
   ]
