@@ -2,7 +2,7 @@ name: Random Gallery
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # every 20 minutes (temporary: revert to "0 */2 * * *")
+    - cron: "0 */2 * * *"   # every 2 hours (UTC)
   workflow_dispatch:
     inputs:
       count:
