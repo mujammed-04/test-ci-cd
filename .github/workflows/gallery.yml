@@ -15,10 +15,12 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  generate:
+  refresh:
     runs-on: ubuntu-latest
     permissions:
       contents: write   # commit the refreshed gallery back to main
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -34,9 +36,11 @@ jobs:
         run: node scripts/generate-gallery.mjs
 
       - name: Commit refreshed gallery
+        id: commit
         run: |
           if git diff --quiet -- src/data/gallery.json; then
             echo "Gallery unchanged, nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "github-actions[bot]"
@@ -44,6 +48,22 @@ jobs:
           git add src/data/gallery.json
           git commit -m "chore(gallery): refresh random photos"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Summary
         run: node -e "for (const p of require('./src/data/gallery.json').photos) console.log('-', p.prompt, '->', p.url)" >> $GITHUB_STEP_SUMMARY
+
+  # A commit made with GITHUB_TOKEN does not trigger `push` workflows, so the
+  # pipeline is invoked explicitly here — otherwise the published image would
+  # keep serving the previous set of photos.
+  verify:
+    needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
+    uses: ./.github/workflows/ci.yml
+
+  publish:
+    needs: verify
+    permissions:
+      contents: read
+      packages: write
+    uses: ./.github/workflows/release.yml

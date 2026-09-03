@@ -5,6 +5,9 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  # Lets other workflows (e.g. the gallery refresh) reuse this pipeline, since a
+  # commit made with GITHUB_TOKEN does not trigger `push` workflows on its own.
+  workflow_call:
 
 jobs:
   verify:

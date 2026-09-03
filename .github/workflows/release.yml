@@ -5,6 +5,8 @@ on:
     branches: [main]
     tags: ["v*.*.*"]
   workflow_dispatch:
+  # Callable so the gallery refresh can publish an image containing new photos.
+  workflow_call:
 
 env:
   REGISTRY: ghcr.io
