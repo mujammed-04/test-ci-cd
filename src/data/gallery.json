@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-03T17:31:02.370Z",
+  "generatedAt": "2026-09-03T20:30:18.549Z",
   "photos": [
     {
-      "prompt": "grainy film texture",
-      "id": "9983069",
-      "url": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#888691",
-      "alt": "Abstract film negative featuring bare trees in a forest. Moody, dark, and artistic vibe.",
+      "prompt": "linen wood texture",
+      "id": "7533973",
+      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2592,
+      "height": 1728,
+      "color": "#C9B79F",
+      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/polaroid-photo-of-forest-at-night-9983069/"
+        "name": "amanda cavalcante",
+        "link": "https://www.pexels.com/@amandaaaaaaaa",
+        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
       }
     },
     {
-      "prompt": "scandinavian living room",
-      "id": "19846383",
-      "url": "https://images.pexels.com/photos/19846383/pexels-photo-19846383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19846383/pexels-photo-19846383.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5999,
-      "height": 4000,
-      "color": "#A4A59D",
-      "alt": "A stylish and bright living room with modern furnishings and plants, exuding a minimalist vibe.",
+      "prompt": "botanical macro",
+      "id": "865866",
+      "url": "https://images.pexels.com/photos/865866/pexels-photo-865866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/865866/pexels-photo-865866.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3888,
+      "height": 2592,
+      "color": "#7C5646",
+      "alt": "Close-up of a delicate flower petal with a single dew drop, creating a soft and dreamy effect.",
       "credit": {
-        "name": "Lisa Anna",
-        "link": "https://www.pexels.com/@lisa-anna-901356985",
-        "photoLink": "https://www.pexels.com/photo/living-room-with-blue-couch-and-tv-19846383/"
+        "name": "Soumojit Basu",
+        "link": "https://www.pexels.com/@soumojit-basu-132763",
+        "photoLink": "https://www.pexels.com/photo/pink-flower-petal-with-dew-drop-close-up-photo-865866/"
       }
     },
     {
-      "prompt": "stormy coastline sky",
-      "id": "38350381",
-      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#829091",
-      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
+      "prompt": "analogue film grain",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
       "credit": {
-        "name": "Margarita K",
-        "link": "https://www.pexels.com/@margarita-k-105195494",
-        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     },
     {
-      "prompt": "minimalist work desk",
-      "id": "270694",
-      "url": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/270694/pexels-photo-270694.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#B9A79C",
-      "alt": "Top view of a tidy workspace featuring a laptop, smartphone, notebook, and pen on a wooden desk.",
+      "prompt": "coastal storm",
+      "id": "9764167",
+      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4854,
+      "height": 2731,
+      "color": "#565D67",
+      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/macbook-pro-beside-silver-iphone-5s-270694/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
       }
     },
     {
-      "prompt": "vintage workshop tools",
-      "id": "5095894",
-      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#403527",
-      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
+      "prompt": "urban texture",
+      "id": "3735605",
+      "url": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4998,
+      "height": 3112,
+      "color": "#735D4B",
+      "alt": "A textured brick wall showcasing varied patterns and tones, perfect for backgrounds and design elements.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-3735605/"
       }
     },
     {
-      "prompt": "linen wooden table",
-      "id": "6962755",
-      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6201,
-      "height": 4134,
-      "color": "#B0A79F",
-      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
+      "prompt": "nordic interior",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
       }
     }
   ]
