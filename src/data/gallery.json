@@ -1,34 +1,64 @@
 {
-  "generatedAt": "2026-09-03T20:30:18.549Z",
+  "generatedAt": "2026-09-03T22:58:23.428Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "7533973",
-      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#C9B79F",
-      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
+      "prompt": "soft morning light",
+      "id": "39304776",
+      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3456,
+      "color": "#BDAA8C",
+      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
+        "name": "Suvrodip Saha",
+        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
+        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
       }
     },
     {
-      "prompt": "botanical macro",
-      "id": "865866",
-      "url": "https://images.pexels.com/photos/865866/pexels-photo-865866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/865866/pexels-photo-865866.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3888,
-      "height": 2592,
-      "color": "#7C5646",
-      "alt": "Close-up of a delicate flower petal with a single dew drop, creating a soft and dreamy effect.",
+      "prompt": "linen wood texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
       "credit": {
-        "name": "Soumojit Basu",
-        "link": "https://www.pexels.com/@soumojit-basu-132763",
-        "photoLink": "https://www.pexels.com/photo/pink-flower-petal-with-dew-drop-close-up-photo-865866/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "6045232",
+      "url": "https://images.pexels.com/photos/6045232/pexels-photo-6045232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6045232/pexels-photo-6045232.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#5F5551",
+      "alt": "Contemporary computer with headphones hanging on monitor placed on table with laptop keyboard and mouse at convenient workplace in room",
+      "credit": {
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/flatscreen-on-top-of-a-desk-6045232/"
+      }
+    },
+    {
+      "prompt": "still life arrangement",
+      "id": "6773345",
+      "url": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#848387",
+      "alt": "Artistic arrangement of orange roses in glass vases casting shadows on the floor.",
+      "credit": {
+        "name": "Jill Burrow",
+        "link": "https://www.pexels.com/@jill-burrow",
+        "photoLink": "https://www.pexels.com/photo/yellow-roses-in-glass-vases-on-the-floor-6773345/"
       }
     },
     {
@@ -47,48 +77,18 @@
       }
     },
     {
-      "prompt": "coastal storm",
-      "id": "9764167",
-      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4854,
-      "height": 2731,
-      "color": "#565D67",
-      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
+      "prompt": "urban concrete texture",
+      "id": "30397830",
+      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#C2BEBB",
+      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
-      }
-    },
-    {
-      "prompt": "urban texture",
-      "id": "3735605",
-      "url": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4998,
-      "height": 3112,
-      "color": "#735D4B",
-      "alt": "A textured brick wall showcasing varied patterns and tones, perfect for backgrounds and design elements.",
-      "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/brick-wall-3735605/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "7055629",
-      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5834,
-      "height": 3895,
-      "color": "#7D756D",
-      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
-      "credit": {
-        "name": "Pavel Danilyuk",
-        "link": "https://www.pexels.com/@pavel-danilyuk",
-        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
       }
     }
   ]
