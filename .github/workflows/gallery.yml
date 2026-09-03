@@ -1,0 +1,49 @@
+name: Random Gallery
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # every 20 minutes (temporary: revert to "0 */2 * * *")
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many photos to fetch"
+        required: false
+        default: "6"
+
+concurrency:
+  group: random-gallery
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commit the refreshed gallery back to main
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate prompts with Groq and fetch photos from Pexels
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PHOTO_COUNT: ${{ inputs.count || '6' }}
+        run: node scripts/generate-gallery.mjs
+
+      - name: Commit refreshed gallery
+        run: |
+          if git diff --quiet -- src/data/gallery.json; then
+            echo "Gallery unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/gallery.json
+          git commit -m "chore(gallery): refresh random photos"
+          git push
+
+      - name: Summary
+        run: node -e "for (const p of require('./src/data/gallery.json').photos) console.log('-', p.prompt, '->', p.url)" >> $GITHUB_STEP_SUMMARY

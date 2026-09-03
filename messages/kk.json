@@ -16,11 +16,19 @@
     "title": "Бет табылмады",
     "description": "Сіз іздеген бет жоқ."
   },
-  "ProductsPage": {
-    "title": "Өнімдер",
-    "count": "{count, plural, one {# өнім} other {# өнім}}"
+  "GalleryPage": {
+    "title": "Галерея",
+    "count": "{count, plural, one {# фото} other {# фото}}",
+    "empty": "Әзірге фото жоқ. Оларды кесте бойынша workflow қосады.",
+    "credit": "<author></author> түсірген фото, <source></source>",
+    "updated": "Жаңартылды {date}"
   },
-  "ProductPage": {
-    "backToList": "← Барлық өнімдерге"
+  "PhotoPage": {
+    "backToGallery": "← Галереяға оралу",
+    "dimensions": "Өлшемі",
+    "color": "Орташа түсі",
+    "photographer": "Фотограф",
+    "source": "Дереккөз",
+    "viewOnPexels": "Pexels-те ашу"
   }
 }

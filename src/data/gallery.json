@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-09-03T06:50:46.642Z",
+  "photos": [
+    {
+      "prompt": "rusty workshop tools",
+      "id": "32777398",
+      "url": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#363636",
+      "alt": "Black and white photo of a rustic workbench with wrenches and tools in a vintage setting.",
+      "credit": {
+        "name": "MD. Raktim Raze",
+        "link": "https://www.pexels.com/@roktim619",
+        "photoLink": "https://www.pexels.com/photo/monochrome-industrial-workbench-with-tools-32777398/"
+      }
+    },
+    {
+      "prompt": "gritty urban textures",
+      "id": "9981497",
+      "url": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#959595",
+      "alt": "Black and white abstract graffiti on a textured concrete wall with shadows.",
+      "credit": {
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/black-textile-on-white-textile-9981497/"
+      }
+    },
+    {
+      "prompt": "soft morning light",
+      "id": "35228360",
+      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#5F4632",
+      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "credit": {
+        "name": "Meltem  B.",
+        "link": "https://www.pexels.com/@meltem-b-300284420",
+        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
+      }
+    }
+  ]
+}

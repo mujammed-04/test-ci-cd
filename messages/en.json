@@ -16,11 +16,19 @@
     "title": "Page not found",
     "description": "The page you are looking for does not exist."
   },
-  "ProductsPage": {
-    "title": "Products",
-    "count": "{count, plural, one {# product} other {# products}}"
+  "GalleryPage": {
+    "title": "Gallery",
+    "count": "{count, plural, one {# photo} other {# photos}}",
+    "empty": "No photos yet. The scheduled workflow will fill this in.",
+    "credit": "Photo by <author></author> on <source></source>",
+    "updated": "Updated {date}"
   },
-  "ProductPage": {
-    "backToList": "← Back to all products"
+  "PhotoPage": {
+    "backToGallery": "← Back to gallery",
+    "dimensions": "Dimensions",
+    "color": "Average colour",
+    "photographer": "Photographer",
+    "source": "Source",
+    "viewOnPexels": "View on Pexels"
   }
 }

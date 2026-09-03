@@ -16,11 +16,19 @@
     "title": "Страница не найдена",
     "description": "Страница, которую вы ищете, не существует."
   },
-  "ProductsPage": {
-    "title": "Продукты",
-    "count": "{count, plural, one {# продукт} few {# продукта} many {# продуктов} other {# продукта}}"
+  "GalleryPage": {
+    "title": "Галерея",
+    "count": "{count, plural, one {# фото} few {# фото} many {# фото} other {# фото}}",
+    "empty": "Фотографий пока нет. Их добавит workflow по расписанию.",
+    "credit": "Фото <author></author> на <source></source>",
+    "updated": "Обновлено {date}"
   },
-  "ProductPage": {
-    "backToList": "← Ко всем продуктам"
+  "PhotoPage": {
+    "backToGallery": "← Ко всей галерее",
+    "dimensions": "Размер",
+    "color": "Средний цвет",
+    "photographer": "Фотограф",
+    "source": "Источник",
+    "viewOnPexels": "Открыть на Pexels"
   }
 }
