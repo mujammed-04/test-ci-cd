@@ -2,7 +2,7 @@ name: Random Gallery
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+    - cron: "0 * * * *"   # hourly, on the hour (UTC; Almaty is UTC+5, so the same minute)
   workflow_dispatch:
     inputs:
       count:
