@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-04T14:46:52.206Z",
+  "generatedAt": "2026-09-04T18:05:20.090Z",
   "photos": [
     {
-      "prompt": "handcrafted pottery",
-      "id": "6611306",
-      "url": "https://images.pexels.com/photos/6611306/pexels-photo-6611306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611306/pexels-photo-6611306.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#8C8A86",
-      "alt": "A focused potter crafting pottery on a wheel in an artisan workshop setting.",
-      "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/potter-working-on-a-pottery-wheel-6611306/"
-      }
-    },
-    {
-      "prompt": "scandinavian interior",
-      "id": "3705536",
-      "url": "https://images.pexels.com/photos/3705536/pexels-photo-3705536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3705536/pexels-photo-3705536.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#7D7A77",
-      "alt": "Serene minimalist bedroom with rustic accents, showcasing a cozy bed, side table, and wall decor.",
-      "credit": {
-        "name": "Alexander Zvir",
-        "link": "https://www.pexels.com/@algrey",
-        "photoLink": "https://www.pexels.com/photo/white-bed-linen-on-brown-wooden-bed-frame-3705536/"
-      }
-    },
-    {
-      "prompt": "minimal workspace",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimalist desk",
+      "id": "6177596",
+      "url": "https://images.pexels.com/photos/6177596/pexels-photo-6177596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6177596/pexels-photo-6177596.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6720,
       "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "color": "#AEABAA",
+      "alt": "High angle of crop faceless person sitting at table with wireless gadgets and computer",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/crop-person-browsing-computer-in-workplace-6177596/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "19157371",
-      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4128,
-      "color": "#999896",
-      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
+      "prompt": "urban concrete texture",
+      "id": "2455119",
+      "url": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#7B7C7D",
+      "alt": "Close-up of a textured grey concrete wall with a metal pipeline along the bottom edge.",
       "credit": {
-        "name": "Parveen Singh",
-        "link": "https://www.pexels.com/@psingh",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
+        "name": "𝗛&𝗖𝗢 　",
+        "link": "https://www.pexels.com/@hngstrm",
+        "photoLink": "https://www.pexels.com/photo/gray-surface-2455119/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "38706946",
-      "url": "https://images.pexels.com/photos/38706946/pexels-photo-38706946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38706946/pexels-photo-38706946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5150,
-      "height": 3433,
-      "color": "#363732",
-      "alt": "Vibrant glass bottles in various colors on a white tablecloth against a dark background.",
+      "prompt": "coastal foggy sky",
+      "id": "29909733",
+      "url": "https://images.pexels.com/photos/29909733/pexels-photo-29909733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29909733/pexels-photo-29909733.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#878B8E",
+      "alt": "A foggy seascape featuring rocky shores and gentle ocean waves under a cloudy sky.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/colorful-glass-bottles-on-white-tablecloth-38706946/"
+        "name": "Ambient Vista",
+        "link": "https://www.pexels.com/@ambientvista",
+        "photoLink": "https://www.pexels.com/photo/foggy-rocky-shoreline-with-ocean-waves-29909733/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "prompt": "handmade ceramic vase",
+      "id": "28867382",
+      "url": "https://images.pexels.com/photos/28867382/pexels-photo-28867382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28867382/pexels-photo-28867382.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#646255",
+      "alt": "A collection of elegant handcrafted ceramic vases featuring detailed floral designs.",
       "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+        "name": "Lâm Thanh",
+        "link": "https://www.pexels.com/@lam-thanh-1100392445",
+        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-vases-with-floral-designs-28867382/"
+      }
+    },
+    {
+      "prompt": "quiet architectural corridor",
+      "id": "32560954",
+      "url": "https://images.pexels.com/photos/32560954/pexels-photo-32560954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32560954/pexels-photo-32560954.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9422,
+      "height": 6271,
+      "color": "#1F170C",
+      "alt": "A shadowy indoor hallway with lights leading to a bright exit, creating a sense of mystery.",
+      "credit": {
+        "name": "Adrien Olichon",
+        "link": "https://www.pexels.com/@adrien-olichon-1257089",
+        "photoLink": "https://www.pexels.com/photo/dimly-lit-hallway-leading-to-bright-exit-32560954/"
+      }
+    },
+    {
+      "prompt": "vintage workshop tools",
+      "id": "4346914",
+      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3929,
+      "height": 2481,
+      "color": "#443F40",
+      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
+      "credit": {
+        "name": "Csongor Kemény",
+        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
+        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
       }
     }
   ]
