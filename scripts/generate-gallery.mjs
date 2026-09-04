@@ -125,8 +125,8 @@ for (const prompt of prompts) {
 if (!photos.length) throw new Error("No photos found for any generated prompt");
 
 await writeFile(
-  new URL("../src/data/gallery.json", import.meta.url),
+  new URL("../src/entities/photo/api/gallery.json", import.meta.url),
   `${JSON.stringify({ generatedAt: new Date().toISOString(), photos }, null, 2)}\n`,
 );
 
-console.log(`Wrote ${photos.length} photo(s) to src/data/gallery.json`);
+console.log(`Wrote ${photos.length} photo(s) to src/entities/photo/api/gallery.json`);

@@ -18,10 +18,7 @@
   },
   "GalleryPage": {
     "title": "Gallery",
-    "count": "{count, plural, one {# photo} other {# photos}}",
-    "empty": "No photos yet. The scheduled workflow will fill this in.",
-    "credit": "Photo by <author></author> on <source></source>",
-    "updated": "Updated {date}"
+    "count": "{count, plural, one {# photo} other {# photos}}"
   },
   "PhotoPage": {
     "backToGallery": "← Back to gallery",
@@ -30,5 +27,12 @@
     "photographer": "Photographer",
     "source": "Source",
     "viewOnPexels": "View on Pexels"
+  },
+  "PhotoCard": {
+    "credit": "Photo by <author></author> on <source></source>"
+  },
+  "PhotoGrid": {
+    "empty": "No photos yet. The scheduled workflow will fill this in.",
+    "updated": "Updated {date}"
   }
 }

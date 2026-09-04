@@ -18,10 +18,7 @@
   },
   "GalleryPage": {
     "title": "Галерея",
-    "count": "{count, plural, one {# фото} other {# фото}}",
-    "empty": "Әзірге фото жоқ. Оларды кесте бойынша workflow қосады.",
-    "credit": "<author></author> түсірген фото, <source></source>",
-    "updated": "Жаңартылды {date}"
+    "count": "{count, plural, one {# фото} other {# фото}}"
   },
   "PhotoPage": {
     "backToGallery": "← Галереяға оралу",
@@ -30,5 +27,12 @@
     "photographer": "Фотограф",
     "source": "Дереккөз",
     "viewOnPexels": "Pexels-те ашу"
+  },
+  "PhotoCard": {
+    "credit": "<author></author> түсірген фото, <source></source>"
+  },
+  "PhotoGrid": {
+    "empty": "Әзірге фото жоқ. Оларды кесте бойынша workflow қосады.",
+    "updated": "Жаңартылды {date}"
   }
 }

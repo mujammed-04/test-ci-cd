@@ -118,22 +118,36 @@ yarn dev
 
 ## Структура
 
+Код разложен по [Feature-Sliced Design](https://feature-sliced.design/). Маршруты Next.js
+живут в корневой `app/` и только собирают страницы из слоёв внутри `src/`.
+Слой `pages` называется `views`, потому что Next.js не даёт держать `src/pages`
+рядом с корневым `app/`.
+
 ```
+app/                          маршруты Next.js: тонкие адаптеры над src/views
+  [locale]/gallery/page.tsx
+  [locale]/gallery/[id]/page.tsx
+proxy.ts                      next-intl middleware
+src/
+  app/                        слой app: RootDocument, провайдеры, globals.css, шрифты
+  views/                      слой pages: home, gallery, photo, not-found
+  widgets/                    photo-grid, site-header
+  features/                   locale-switch
+  entities/photo/             типы, gallery.json (← пишется workflow'ом), PhotoCard
+  shared/
+    config/                   next-intl: routing, navigation, request
+    ui/                       PageShell, NotFoundMessage, StyleX-токены
 scripts/
   generate-gallery.mjs        генерация: Groq → Pexels → JSON
-src/
-  app/[locale]/
-    gallery/page.tsx          сетка фотографий
-    gallery/[id]/page.tsx     размер, средний цвет, автор
-  data/
-    gallery.json              ← пишется workflow'ом
-    gallery.ts                типы и лукап по id
-  i18n/                       next-intl: en, ru, kk
 .github/workflows/
   gallery.yml                 cron + генерация + вызов CI
   ci.yml                      lint, typecheck, build, commitlint
   release.yml                 сборка образа в GHCR
 ```
+
+Правила слоёв проверяет ESLint (`eslint-plugin-boundaries`): импорт только вниз,
+слайсы одного слоя не импортируют друг друга, чужой слайс доступен только через
+его `index.ts`.
 
 ### Страницы
 
@@ -162,7 +176,7 @@ src/
 ## Стек
 
 **Next.js 16** (App Router, `output: standalone`) · **React 19** ·
-**TypeScript 5** · **StyleX** · **next-intl** ·
+**TypeScript 5** · **StyleX** · **FSD** · **next-intl** ·
 **Node 22** · **Docker** → GHCR
 
 Коммиты — [Conventional Commits](https://www.conventionalcommits.org/),

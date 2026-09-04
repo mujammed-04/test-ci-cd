@@ -18,10 +18,7 @@
   },
   "GalleryPage": {
     "title": "Галерея",
-    "count": "{count, plural, one {# фото} few {# фото} many {# фото} other {# фото}}",
-    "empty": "Фотографий пока нет. Их добавит workflow по расписанию.",
-    "credit": "Фото <author></author> на <source></source>",
-    "updated": "Обновлено {date}"
+    "count": "{count, plural, one {# фото} few {# фото} many {# фото} other {# фото}}"
   },
   "PhotoPage": {
     "backToGallery": "← Ко всей галерее",
@@ -30,5 +27,12 @@
     "photographer": "Фотограф",
     "source": "Источник",
     "viewOnPexels": "Открыть на Pexels"
+  },
+  "PhotoCard": {
+    "credit": "Фото <author></author> на <source></source>"
+  },
+  "PhotoGrid": {
+    "empty": "Фотографий пока нет. Их добавит workflow по расписанию.",
+    "updated": "Обновлено {date}"
   }
 }
