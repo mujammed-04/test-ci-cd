@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-04T00:53:33.462Z",
+  "generatedAt": "2026-09-04T05:29:52.236Z",
   "photos": [
     {
-      "prompt": "urban textures",
-      "id": "36924685",
-      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
+      "prompt": "White ceramic vase",
+      "id": "30236967",
+      "url": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5328,
       "height": 4000,
-      "color": "#786B5A",
-      "alt": "A textured wall with cracks and budding branches against it.",
+      "color": "#E8E3E0",
+      "alt": "Artistic still life featuring ceramics, books, and a bust for a classic look.",
       "credit": {
-        "name": "Müca 🇩🇪",
-        "link": "https://www.pexels.com/@muca-2159917767",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
+        "name": "İrem Dur",
+        "link": "https://www.pexels.com/@i-rem-dur-1175044181",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-ceramic-and-books-30236967/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "35228360",
-      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#5F4632",
-      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "prompt": "Grey oak desk",
+      "id": "39219742",
+      "url": "https://images.pexels.com/photos/39219742/pexels-photo-39219742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39219742/pexels-photo-39219742.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#646D6A",
+      "alt": "Young woman works in modern office, smiling at smartphone, surrounded by plants.",
       "credit": {
-        "name": "Meltem  B.",
-        "link": "https://www.pexels.com/@meltem-b-300284420",
-        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
+        "name": "Vitaly Gariev",
+        "link": "https://www.pexels.com/@silverkblack",
+        "photoLink": "https://www.pexels.com/photo/smiling-woman-using-smartphone-in-cozy-office-setting-39219742/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "5964663",
-      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#90704C",
-      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
+      "prompt": "Morning window light",
+      "id": "9717311",
+      "url": "https://images.pexels.com/photos/9717311/pexels-photo-9717311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9717311/pexels-photo-9717311.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3324,
+      "height": 2304,
+      "color": "#6C5231",
+      "alt": "A woman stands indoors, looking out a window as autumn light filters in.",
       "credit": {
-        "name": "Eva Bronzini",
-        "link": "https://www.pexels.com/@eva-bronzini",
-        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
+        "name": "Susanna Davtyan",
+        "link": "https://www.pexels.com/@heyjude9",
+        "photoLink": "https://www.pexels.com/photo/a-person-standing-near-window-9717311/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "19826486",
-      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4687,
-      "height": 3106,
-      "color": "#8B8B8B",
-      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
+      "prompt": "Coastal misty sky",
+      "id": "19719518",
+      "url": "https://images.pexels.com/photos/19719518/pexels-photo-19719518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19719518/pexels-photo-19719518.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6739,
+      "height": 4493,
+      "color": "#90968A",
+      "alt": "Explore a tranquil foggy coastal scene with lush grass and still water, evoking peace.",
       "credit": {
-        "name": "Misak Aghababyan",
-        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
+        "name": "Liudmyla Shalimova",
+        "link": "https://www.pexels.com/@ludakavun",
+        "photoLink": "https://www.pexels.com/photo/island-by-the-lake-covered-with-fog-19719518/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "6044914",
-      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#5B5B59",
-      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
+      "prompt": "Botanical fern leaf",
+      "id": "5923249",
+      "url": "https://images.pexels.com/photos/5923249/pexels-photo-5923249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5923249/pexels-photo-5923249.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3435,
+      "height": 2290,
+      "color": "#161A14",
+      "alt": "A dramatic black and white close-up of fern leaves showcasing natural patterns and textures.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+        "name": "Jorge Urosa",
+        "link": "https://www.pexels.com/@jorgeural",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-fern-leaves-5923249/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "11000789",
-      "url": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#5F7537",
-      "alt": "Macro shot of green pine flower buds with vivid textures and details.",
+      "prompt": "Nordic wool rug",
+      "id": "35197098",
+      "url": "https://images.pexels.com/photos/35197098/pexels-photo-35197098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35197098/pexels-photo-35197098.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#C3785B",
+      "alt": "Macro shot of a textured red and beige wool fabric, highlighting fabric texture and patterns.",
       "credit": {
-        "name": "Piotr Wojnowski",
-        "link": "https://www.pexels.com/@piotr-wojnowski-2767306",
-        "photoLink": "https://www.pexels.com/photo/macro-shot-photography-of-buds-of-a-flower-11000789/"
+        "name": "Cc Liu",
+        "link": "https://www.pexels.com/@moilens",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-red-and-beige-textile-texture-35197098/"
       }
     }
   ]
