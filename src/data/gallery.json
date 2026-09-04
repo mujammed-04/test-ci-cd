@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-03T22:58:23.428Z",
+  "generatedAt": "2026-09-04T00:53:33.462Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "39304776",
-      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#BDAA8C",
-      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "prompt": "urban textures",
+      "id": "36924685",
+      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#786B5A",
+      "alt": "A textured wall with cracks and budding branches against it.",
       "credit": {
-        "name": "Suvrodip Saha",
-        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
-        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
+        "name": "Müca 🇩🇪",
+        "link": "https://www.pexels.com/@muca-2159917767",
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "7794365",
-      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#C1B4AB",
-      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "prompt": "morning light",
+      "id": "35228360",
+      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#5F4632",
+      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
       "credit": {
-        "name": "Monstera Production",
-        "link": "https://www.pexels.com/@gabby-k",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+        "name": "Meltem  B.",
+        "link": "https://www.pexels.com/@meltem-b-300284420",
+        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "6045232",
-      "url": "https://images.pexels.com/photos/6045232/pexels-photo-6045232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6045232/pexels-photo-6045232.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#5F5551",
-      "alt": "Contemporary computer with headphones hanging on monitor placed on table with laptop keyboard and mouse at convenient workplace in room",
+      "prompt": "linen wood",
+      "id": "5964663",
+      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#90704C",
+      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/flatscreen-on-top-of-a-desk-6045232/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "6773345",
-      "url": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#848387",
-      "alt": "Artistic arrangement of orange roses in glass vases casting shadows on the floor.",
-      "credit": {
-        "name": "Jill Burrow",
-        "link": "https://www.pexels.com/@jill-burrow",
-        "photoLink": "https://www.pexels.com/photo/yellow-roses-in-glass-vases-on-the-floor-6773345/"
+        "name": "Eva Bronzini",
+        "link": "https://www.pexels.com/@eva-bronzini",
+        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "id": "19826486",
+      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4687,
+      "height": 3106,
+      "color": "#8B8B8B",
+      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+        "name": "Misak Aghababyan",
+        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
       }
     },
     {
-      "prompt": "urban concrete texture",
-      "id": "30397830",
-      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#C2BEBB",
-      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "prompt": "minimal desks",
+      "id": "6044914",
+      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#5B5B59",
+      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "11000789",
+      "url": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#5F7537",
+      "alt": "Macro shot of green pine flower buds with vivid textures and details.",
+      "credit": {
+        "name": "Piotr Wojnowski",
+        "link": "https://www.pexels.com/@piotr-wojnowski-2767306",
+        "photoLink": "https://www.pexels.com/photo/macro-shot-photography-of-buds-of-a-flower-11000789/"
       }
     }
   ]
