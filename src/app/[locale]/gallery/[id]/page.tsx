@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import * as stylex from "@stylexjs/stylex";
 import { hasLocale } from "next-intl";
 import { getFormatter, getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
 import { gallery, getPhoto } from "@/data/gallery";
+import { colors, fonts } from "@/styles/tokens.stylex";
 
 // Every photo page is prerendered at build time; anything else is a 404.
 export const dynamicParams = false;
@@ -53,12 +55,9 @@ export default async function PhotoPage({
   const format = await getFormatter();
 
   return (
-    <div className="flex flex-1 flex-col items-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex w-full max-w-4xl flex-1 flex-col gap-8 bg-white px-16 py-24 dark:bg-black">
-        <Link
-          href="/gallery"
-          className="text-sm font-medium text-zinc-600 transition-colors hover:text-black dark:text-zinc-400 dark:hover:text-zinc-50"
-        >
+    <div {...stylex.props(styles.canvas)}>
+      <main {...stylex.props(styles.main)}>
+        <Link href="/gallery" {...stylex.props(styles.back)}>
           {t("backToGallery")}
         </Link>
 
@@ -69,59 +68,50 @@ export default async function PhotoPage({
           alt={photo.alt}
           width={photo.width}
           height={photo.height}
-          className="w-full rounded-lg"
-          style={{ backgroundColor: photo.color }}
+          {...stylex.props(styles.photo, styles.tint(photo.color))}
         />
 
-        <div className="flex flex-col gap-4">
-          <span className="font-mono text-xs uppercase tracking-widest text-zinc-500">
-            {photo.prompt}
-          </span>
-          <h1 className="text-3xl font-semibold tracking-tight text-black dark:text-zinc-50">
-            {photo.alt}
-          </h1>
+        <div {...stylex.props(styles.heading)}>
+          <span {...stylex.props(styles.prompt)}>{photo.prompt}</span>
+          <h1 {...stylex.props(styles.title)}>{photo.alt}</h1>
         </div>
 
-        <dl className="flex flex-col divide-y divide-black/[.08] dark:divide-white/[.145]">
-          <div className="flex justify-between gap-8 py-3">
-            <dt className="text-zinc-500">{t("dimensions")}</dt>
-            <dd className="font-mono text-black dark:text-zinc-50">
+        <dl {...stylex.props(styles.details)}>
+          <div {...stylex.props(styles.row)}>
+            <dt {...stylex.props(styles.label)}>{t("dimensions")}</dt>
+            <dd {...stylex.props(styles.value, styles.mono)}>
               {format.number(photo.width)} × {format.number(photo.height)}
             </dd>
           </div>
-          <div className="flex justify-between gap-8 py-3">
-            <dt className="text-zinc-500">{t("color")}</dt>
-            <dd className="flex items-center gap-2 font-mono text-black dark:text-zinc-50">
-              <span
-                aria-hidden
-                className="size-4 rounded border border-black/[.08] dark:border-white/[.145]"
-                style={{ backgroundColor: photo.color }}
-              />
+          <div {...stylex.props(styles.row)}>
+            <dt {...stylex.props(styles.label)}>{t("color")}</dt>
+            <dd {...stylex.props(styles.value, styles.mono, styles.swatchRow)}>
+              <span aria-hidden {...stylex.props(styles.swatch, styles.tint(photo.color))} />
               {photo.color}
             </dd>
           </div>
-          <div className="flex justify-between gap-8 py-3">
-            <dt className="text-zinc-500">{t("photographer")}</dt>
+          <div {...stylex.props(styles.row)}>
+            <dt {...stylex.props(styles.label)}>{t("photographer")}</dt>
             <dd>
               {/* Pexels asks for a visible credit linking to the photographer. */}
               <a
                 href={photo.credit.link}
                 target="_blank"
                 rel="noreferrer"
-                className="text-black underline underline-offset-4 dark:text-zinc-50"
+                {...stylex.props(styles.value, styles.link)}
               >
                 {photo.credit.name}
               </a>
             </dd>
           </div>
-          <div className="flex justify-between gap-8 py-3">
-            <dt className="text-zinc-500">{t("source")}</dt>
+          <div {...stylex.props(styles.row)}>
+            <dt {...stylex.props(styles.label)}>{t("source")}</dt>
             <dd>
               <a
                 href={photo.credit.photoLink}
                 target="_blank"
                 rel="noreferrer"
-                className="text-black underline underline-offset-4 dark:text-zinc-50"
+                {...stylex.props(styles.value, styles.link)}
               >
                 {t("viewOnPexels")}
               </a>
@@ -132,3 +122,112 @@ export default async function PhotoPage({
     </div>
   );
 }
+
+const styles = stylex.create({
+  canvas: {
+    display: "flex",
+    flexGrow: 1,
+    flexShrink: 1,
+    flexBasis: "0%",
+    flexDirection: "column",
+    alignItems: "center",
+    backgroundColor: colors.canvas,
+    fontFamily: fonts.sans,
+  },
+  main: {
+    display: "flex",
+    flexGrow: 1,
+    flexShrink: 1,
+    flexBasis: "0%",
+    flexDirection: "column",
+    gap: 32,
+    width: "100%",
+    maxWidth: "56rem",
+    paddingInline: 64,
+    paddingBlock: 96,
+    backgroundColor: colors.surface,
+  },
+  back: {
+    fontSize: "0.875rem",
+    lineHeight: "1.25rem",
+    fontWeight: 500,
+    color: {
+      default: colors.body,
+      ":hover": colors.heading,
+    },
+    transitionProperty: "color",
+    transitionDuration: "150ms",
+    transitionTimingFunction: "cubic-bezier(0.4, 0, 0.2, 1)",
+  },
+  photo: {
+    width: "100%",
+    borderRadius: 8,
+  },
+  // The provider's average colour: a placeholder behind the image and the swatch.
+  tint: (color: string) => ({
+    backgroundColor: color,
+  }),
+  heading: {
+    display: "flex",
+    flexDirection: "column",
+    gap: 16,
+  },
+  prompt: {
+    fontFamily: fonts.mono,
+    fontSize: "0.75rem",
+    lineHeight: "1rem",
+    textTransform: "uppercase",
+    letterSpacing: "0.1em",
+    color: colors.muted,
+  },
+  title: {
+    fontSize: "1.875rem",
+    lineHeight: "2.25rem",
+    fontWeight: 600,
+    letterSpacing: "-0.025em",
+    color: colors.heading,
+  },
+  details: {
+    display: "flex",
+    flexDirection: "column",
+  },
+  // Stands in for Tailwind's divide-y: a hairline above every row but the first.
+  row: {
+    display: "flex",
+    justifyContent: "space-between",
+    gap: 32,
+    paddingBlock: 12,
+    borderTopWidth: {
+      default: 1,
+      ":first-child": 0,
+    },
+    borderTopStyle: "solid",
+    borderTopColor: colors.hairline,
+  },
+  label: {
+    color: colors.muted,
+  },
+  value: {
+    color: colors.heading,
+  },
+  mono: {
+    fontFamily: fonts.mono,
+  },
+  swatchRow: {
+    display: "flex",
+    alignItems: "center",
+    gap: 8,
+  },
+  swatch: {
+    width: 16,
+    height: 16,
+    borderRadius: 4,
+    borderWidth: 1,
+    borderStyle: "solid",
+    borderColor: colors.hairline,
+  },
+  link: {
+    textDecorationLine: "underline",
+    textUnderlineOffset: 4,
+  },
+});

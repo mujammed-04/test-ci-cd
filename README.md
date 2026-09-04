@@ -14,7 +14,7 @@ GitHub Actions коммитит результат и пересобирает �
 ![Next.js](https://img.shields.io/badge/Next.js-16.3-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)
+![StyleX](https://img.shields.io/badge/StyleX-0.19-7A3FD6?logo=meta&logoColor=white)
 ![Docker](https://img.shields.io/badge/GHCR-published-2496ED?logo=docker&logoColor=white)
 
 </div>
@@ -162,7 +162,7 @@ src/
 ## Стек
 
 **Next.js 16** (App Router, `output: standalone`) · **React 19** ·
-**TypeScript 5** · **Tailwind CSS 4** · **next-intl** ·
+**TypeScript 5** · **StyleX** · **next-intl** ·
 **Node 22** · **Docker** → GHCR
 
 Коммиты — [Conventional Commits](https://www.conventionalcommits.org/),

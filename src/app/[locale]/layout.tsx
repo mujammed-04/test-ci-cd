@@ -45,12 +45,11 @@ export default async function LocaleLayout({
   // Enable static rendering
   setRequestLocale(locale);
 
+  // The html/body base styles live in globals.css; only the font variables
+  // need to be attached here.
   return (
-    <html
-      lang={locale}
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">
+    <html lang={locale} className={`${geistSans.variable} ${geistMono.variable}`}>
+      <body>
         <NextIntlClientProvider>{children}</NextIntlClientProvider>
       </body>
     </html>
