@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-04T05:29:52.236Z",
+  "generatedAt": "2026-09-04T10:36:03.864Z",
   "photos": [
     {
-      "prompt": "White ceramic vase",
-      "id": "30236967",
-      "url": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5328,
+      "prompt": "analogue film grain",
+      "id": "32909013",
+      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3088,
+      "height": 2048,
+      "color": "#8A8A8A",
+      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
+      "credit": {
+        "name": "Faruk Canpolat",
+        "link": "https://www.pexels.com/@farukcanpolat",
+        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "7815314",
+      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1999,
+      "color": "#B79F7B",
+      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
+      "credit": {
+        "name": "Ch  SAAD",
+        "link": "https://www.pexels.com/@ch-saad-3019259",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
+      "credit": {
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
+      }
+    },
+    {
+      "prompt": "minimal desks",
+      "id": "6044844",
+      "url": "https://images.pexels.com/photos/6044844/pexels-photo-6044844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044844/pexels-photo-6044844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#7D7C76",
+      "alt": "Black and white of workspace of office with computers placed on table with wireless mouse and keyboard near smartphone",
+      "credit": {
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/modern-workplace-with-contemporary-expensive-computers-6044844/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "35162977",
+      "url": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#E8E3E0",
-      "alt": "Artistic still life featuring ceramics, books, and a bust for a classic look.",
+      "color": "#5D7985",
+      "alt": "A serene ocean scene with gentle waves and a cloudy sky on a calm day.",
       "credit": {
-        "name": "İrem Dur",
-        "link": "https://www.pexels.com/@i-rem-dur-1175044181",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-ceramic-and-books-30236967/"
+        "name": "Bilal Yahya",
+        "link": "https://www.pexels.com/@bilal-yahya-2158113463",
+        "photoLink": "https://www.pexels.com/photo/peaceful-ocean-waves-under-cloudy-sky-35162977/"
       }
     },
     {
-      "prompt": "Grey oak desk",
-      "id": "39219742",
-      "url": "https://images.pexels.com/photos/39219742/pexels-photo-39219742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39219742/pexels-photo-39219742.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#646D6A",
-      "alt": "Young woman works in modern office, smiling at smartphone, surrounded by plants.",
+      "prompt": "linen wood texture",
+      "id": "34860684",
+      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#5F5D5E",
+      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
       "credit": {
-        "name": "Vitaly Gariev",
-        "link": "https://www.pexels.com/@silverkblack",
-        "photoLink": "https://www.pexels.com/photo/smiling-woman-using-smartphone-in-cozy-office-setting-39219742/"
-      }
-    },
-    {
-      "prompt": "Morning window light",
-      "id": "9717311",
-      "url": "https://images.pexels.com/photos/9717311/pexels-photo-9717311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9717311/pexels-photo-9717311.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3324,
-      "height": 2304,
-      "color": "#6C5231",
-      "alt": "A woman stands indoors, looking out a window as autumn light filters in.",
-      "credit": {
-        "name": "Susanna Davtyan",
-        "link": "https://www.pexels.com/@heyjude9",
-        "photoLink": "https://www.pexels.com/photo/a-person-standing-near-window-9717311/"
-      }
-    },
-    {
-      "prompt": "Coastal misty sky",
-      "id": "19719518",
-      "url": "https://images.pexels.com/photos/19719518/pexels-photo-19719518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19719518/pexels-photo-19719518.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6739,
-      "height": 4493,
-      "color": "#90968A",
-      "alt": "Explore a tranquil foggy coastal scene with lush grass and still water, evoking peace.",
-      "credit": {
-        "name": "Liudmyla Shalimova",
-        "link": "https://www.pexels.com/@ludakavun",
-        "photoLink": "https://www.pexels.com/photo/island-by-the-lake-covered-with-fog-19719518/"
-      }
-    },
-    {
-      "prompt": "Botanical fern leaf",
-      "id": "5923249",
-      "url": "https://images.pexels.com/photos/5923249/pexels-photo-5923249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5923249/pexels-photo-5923249.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3435,
-      "height": 2290,
-      "color": "#161A14",
-      "alt": "A dramatic black and white close-up of fern leaves showcasing natural patterns and textures.",
-      "credit": {
-        "name": "Jorge Urosa",
-        "link": "https://www.pexels.com/@jorgeural",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-fern-leaves-5923249/"
-      }
-    },
-    {
-      "prompt": "Nordic wool rug",
-      "id": "35197098",
-      "url": "https://images.pexels.com/photos/35197098/pexels-photo-35197098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35197098/pexels-photo-35197098.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#C3785B",
-      "alt": "Macro shot of a textured red and beige wool fabric, highlighting fabric texture and patterns.",
-      "credit": {
-        "name": "Cc Liu",
-        "link": "https://www.pexels.com/@moilens",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-red-and-beige-textile-texture-35197098/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
       }
     }
   ]
