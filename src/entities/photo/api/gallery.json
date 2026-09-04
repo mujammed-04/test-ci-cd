@@ -1,23 +1,68 @@
 {
-  "generatedAt": "2026-09-04T21:14:00.289Z",
+  "generatedAt": "2026-09-04T23:43:00.514Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "linen wood texture",
+      "id": "34860687",
+      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#272727",
+      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
       }
     },
     {
-      "prompt": "morning light",
+      "prompt": "handmade ceramic bowl",
+      "id": "6611272",
+      "url": "https://images.pexels.com/photos/6611272/pexels-photo-6611272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611272/pexels-photo-6611272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4268,
+      "height": 2849,
+      "color": "#8A857E",
+      "alt": "Close-up of hands shaping a ceramic bowl on a potter's wheel in a workshop.",
+      "credit": {
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/potter-making-bowl-6611272/"
+      }
+    },
+    {
+      "prompt": "nordic interior design",
+      "id": "39134614",
+      "url": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5328,
+      "height": 4000,
+      "color": "#75706A",
+      "alt": "Stylish modern living room featuring a beige sofa with decorative cushions and indoor plants.",
+      "credit": {
+        "name": "hank yu",
+        "link": "https://www.pexels.com/@hank-yu-2163709186",
+        "photoLink": "https://www.pexels.com/photo/modern-minimalist-living-room-with-cozy-sofa-39134614/"
+      }
+    },
+    {
+      "prompt": "workshop tool set",
+      "id": "29181493",
+      "url": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5873,
+      "height": 3915,
+      "color": "#293237",
+      "alt": "A mechanic in gloves organizing engine parts and tools in a workshop setting.",
+      "credit": {
+        "name": "Sergei Starostin",
+        "link": "https://www.pexels.com/@sejio402",
+        "photoLink": "https://www.pexels.com/photo/mechanic-organizing-engine-components-in-workshop-29181493/"
+      }
+    },
+    {
+      "prompt": "quiet architectural space",
       "id": "36501697",
       "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -32,63 +77,18 @@
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "545046",
-      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4460,
-      "height": 2974,
-      "color": "#CEBBA8",
-      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
+      "prompt": "urban concrete surface",
+      "id": "13890012",
+      "url": "https://images.pexels.com/photos/13890012/pexels-photo-13890012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13890012/pexels-photo-13890012.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3456,
+      "color": "#AC9F8F",
+      "alt": "Close-up view of an abstract concrete wall with yellow and gray textures and patterns.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "30227710",
-      "url": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#3B586A",
-      "alt": "Sharp angles of a minimalist building against a clear blue sky, showcasing modern design.",
-      "credit": {
-        "name": "Matthew Jesús",
-        "link": "https://www.pexels.com/@matthew-jesus-468170389",
-        "photoLink": "https://www.pexels.com/photo/minimalist-modern-architecture-against-blue-sky-30227710/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
-      "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "26598056",
-      "url": "https://images.pexels.com/photos/26598056/pexels-photo-26598056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26598056/pexels-photo-26598056.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2264,
-      "color": "#807B78",
-      "alt": "Peaceful coastal scene with waves around concrete blocks under a cloudy sky.",
-      "credit": {
-        "name": "Ray Bilcliff",
-        "link": "https://www.pexels.com/@raybilcliff",
-        "photoLink": "https://www.pexels.com/photo/concrete-blocks-in-sand-at-beach-26598056/"
+        "name": "mauro riccobon",
+        "link": "https://www.pexels.com/@mauro-riccobon-306417004",
+        "photoLink": "https://www.pexels.com/photo/concrete-surface-with-yellow-paint-smudges-13890012/"
       }
     }
   ]
