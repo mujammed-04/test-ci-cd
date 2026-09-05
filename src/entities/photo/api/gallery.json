@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-04T23:43:00.514Z",
+  "generatedAt": "2026-09-05T02:57:49.735Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34860687",
-      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#272727",
-      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
+      "prompt": "weathered brick wall",
+      "id": "31844481",
+      "url": "https://images.pexels.com/photos/31844481/pexels-photo-31844481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31844481/pexels-photo-31844481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#776A62",
+      "alt": "Detailed texture of an outdoor rustic brick wall with visible mortar cracks.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+        "name": "Christian Alfa",
+        "link": "https://www.pexels.com/@apictures",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-rustic-brick-wall-texture-31844481/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "6611272",
-      "url": "https://images.pexels.com/photos/6611272/pexels-photo-6611272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611272/pexels-photo-6611272.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4268,
-      "height": 2849,
-      "color": "#8A857E",
-      "alt": "Close-up of hands shaping a ceramic bowl on a potter's wheel in a workshop.",
+      "prompt": "stormy sea cliffs",
+      "id": "7112541",
+      "url": "https://images.pexels.com/photos/7112541/pexels-photo-7112541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7112541/pexels-photo-7112541.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4138,
+      "height": 2747,
+      "color": "#5D5F69",
+      "alt": "Discover the rugged and breathtaking coastal cliffs of Sandoy, Faroe Islands, captured in a dramatic scene.",
       "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/potter-making-bowl-6611272/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-a-rocky-shore-7112541/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "39134614",
-      "url": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5328,
-      "height": 4000,
-      "color": "#75706A",
-      "alt": "Stylish modern living room featuring a beige sofa with decorative cushions and indoor plants.",
+      "prompt": "silent concrete hallway",
+      "id": "160932",
+      "url": "https://images.pexels.com/photos/160932/cemetery-path-hall-horror-160932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/160932/cemetery-path-hall-horror-160932.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5152,
+      "height": 3864,
+      "color": "#545454",
+      "alt": "A black and white photo of an eerie, deserted cemetery corridor with gothic architecture.",
       "credit": {
-        "name": "hank yu",
-        "link": "https://www.pexels.com/@hank-yu-2163709186",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-living-room-with-cozy-sofa-39134614/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-cemetery-hall-160932/"
       }
     },
     {
-      "prompt": "workshop tool set",
-      "id": "29181493",
-      "url": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5873,
-      "height": 3915,
-      "color": "#293237",
-      "alt": "A mechanic in gloves organizing engine parts and tools in a workshop setting.",
-      "credit": {
-        "name": "Sergei Starostin",
-        "link": "https://www.pexels.com/@sejio402",
-        "photoLink": "https://www.pexels.com/photo/mechanic-organizing-engine-components-in-workshop-29181493/"
-      }
-    },
-    {
-      "prompt": "quiet architectural space",
-      "id": "36501697",
-      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 6144,
-      "color": "#675845",
-      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
-      "credit": {
-        "name": "Arnu",
-        "link": "https://www.pexels.com/@arnu-2158905519",
-        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
-      }
-    },
-    {
-      "prompt": "urban concrete surface",
-      "id": "13890012",
-      "url": "https://images.pexels.com/photos/13890012/pexels-photo-13890012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13890012/pexels-photo-13890012.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handcrafted pottery vase",
+      "id": "7134318",
+      "url": "https://images.pexels.com/photos/7134318/pexels-photo-7134318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7134318/pexels-photo-7134318.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4608,
-      "height": 3456,
-      "color": "#AC9F8F",
-      "alt": "Close-up view of an abstract concrete wall with yellow and gray textures and patterns.",
+      "height": 3072,
+      "color": "#71573D",
+      "alt": "A collection of traditional handmade clay vases illuminated by sunlight, showcasing intricate designs.",
       "credit": {
-        "name": "mauro riccobon",
-        "link": "https://www.pexels.com/@mauro-riccobon-306417004",
-        "photoLink": "https://www.pexels.com/photo/concrete-surface-with-yellow-paint-smudges-13890012/"
+        "name": "MudaSsir  BhaTti",
+        "link": "https://www.pexels.com/@mudassir-bhatti-2329430",
+        "photoLink": "https://www.pexels.com/photo/earthen-vases-in-sunlight-7134318/"
+      }
+    },
+    {
+      "prompt": "grainy film negative",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "credit": {
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+      }
+    },
+    {
+      "prompt": "minimalist fruit arrangement",
+      "id": "7629760",
+      "url": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8E7A70",
+      "alt": "Elegant minimalist photo of yellow quinces casting shadows on a pastel surface.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/yellow-fruits-over-white-and-purple-surface-7629760/"
       }
     }
   ]
