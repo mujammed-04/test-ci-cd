@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-05T07:32:26.923Z",
+  "generatedAt": "2026-09-05T11:38:16.940Z",
   "photos": [
     {
+      "prompt": "botanical macro",
+      "id": "6118653",
+      "url": "https://images.pexels.com/photos/6118653/pexels-photo-6118653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6118653/pexels-photo-6118653.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5616,
+      "height": 3744,
+      "color": "#3D524E",
+      "alt": "Macro shot of a green echeveria succulent with blurred background, showcasing natural beauty.",
+      "credit": {
+        "name": "Olivier Alfaiate",
+        "link": "https://www.pexels.com/@olivier-alfaiate-90118",
+        "photoLink": "https://www.pexels.com/photo/green-plant-in-close-up-photography-6118653/"
+      }
+    },
+    {
+      "prompt": "morning sunlight",
+      "id": "13975",
+      "url": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3872,
+      "height": 2592,
+      "color": "#443A17",
+      "alt": "A serene backyard captured at sunrise with lens flare through trees.",
+      "credit": {
+        "name": "Anders Kristensen",
+        "link": "https://www.pexels.com/@andersbk",
+        "photoLink": "https://www.pexels.com/photo/green-grass-field-13975/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "credit": {
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+      }
+    },
+    {
       "prompt": "urban textures",
-      "id": "30397833",
-      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B1AC",
-      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "6542520",
-      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
-      "height": 2048,
-      "color": "#8C7D6D",
-      "alt": "Modern white brick facade with geometric design in soft evening light.",
-      "credit": {
-        "name": "Sinitta Leunen",
-        "link": "https://www.pexels.com/@sinileunen",
-        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "8656144",
-      "url": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4272,
-      "height": 2848,
-      "color": "#474842",
-      "alt": "Sunlight filtering through trees in a serene forest setting.",
-      "credit": {
-        "name": "Sudipta Mondal",
-        "link": "https://www.pexels.com/@sudipta-mondal-74513527",
-        "photoLink": "https://www.pexels.com/photo/trees-and-green-grass-during-morning-8656144/"
-      }
-    },
-    {
-      "prompt": "nordic interiors",
-      "id": "39134614",
-      "url": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5328,
+      "id": "36924685",
+      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#75706A",
-      "alt": "Stylish modern living room featuring a beige sofa with decorative cushions and indoor plants.",
+      "color": "#786B5A",
+      "alt": "A textured wall with cracks and budding branches against it.",
       "credit": {
-        "name": "hank yu",
-        "link": "https://www.pexels.com/@hank-yu-2163709186",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-living-room-with-cozy-sofa-39134614/"
-      }
-    },
-    {
-      "prompt": "minimal desks",
-      "id": "8534373",
-      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5654,
-      "height": 3769,
-      "color": "#B5B5B5",
-      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
-      "credit": {
-        "name": "Hanna Pad",
-        "link": "https://www.pexels.com/@anna-nekrashevich",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
+        "name": "Müca 🇩🇪",
+        "link": "https://www.pexels.com/@muca-2159917767",
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
       }
     },
     {
       "prompt": "coastal weather",
-      "id": "38350380",
-      "url": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4819,
-      "height": 3213,
-      "color": "#879192",
-      "alt": "A captivating view of the stormy sea with rough waves and thick clouds overhead, showcasing nature's power.",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
       "credit": {
-        "name": "Margarita K",
-        "link": "https://www.pexels.com/@margarita-k-105195494",
-        "photoLink": "https://www.pexels.com/photo/dramatic-stormy-sea-with-choppy-waves-and-clouds-38350380/"
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "279815",
+      "url": "https://images.pexels.com/photos/279815/pexels-photo-279815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/279815/pexels-photo-279815.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4638,
+      "height": 2736,
+      "color": "#4C4B4A",
+      "alt": "A vintage table with an open book in a dimly lit classic interior space.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/brown-wooden-coffee-table-inside-room-279815/"
       }
     }
   ]
