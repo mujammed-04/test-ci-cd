@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-05T11:38:16.940Z",
+  "generatedAt": "2026-09-05T14:35:18.985Z",
   "photos": [
     {
-      "prompt": "botanical macro",
-      "id": "6118653",
-      "url": "https://images.pexels.com/photos/6118653/pexels-photo-6118653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6118653/pexels-photo-6118653.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5616,
-      "height": 3744,
-      "color": "#3D524E",
-      "alt": "Macro shot of a green echeveria succulent with blurred background, showcasing natural beauty.",
+      "prompt": "Morning light",
+      "id": "10813682",
+      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#6C5432",
+      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
       "credit": {
-        "name": "Olivier Alfaiate",
-        "link": "https://www.pexels.com/@olivier-alfaiate-90118",
-        "photoLink": "https://www.pexels.com/photo/green-plant-in-close-up-photography-6118653/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
       }
     },
     {
-      "prompt": "morning sunlight",
-      "id": "13975",
-      "url": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3872,
-      "height": 2592,
-      "color": "#443A17",
-      "alt": "A serene backyard captured at sunrise with lens flare through trees.",
-      "credit": {
-        "name": "Anders Kristensen",
-        "link": "https://www.pexels.com/@andersbk",
-        "photoLink": "https://www.pexels.com/photo/green-grass-field-13975/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "36924685",
-      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Workshop tools",
+      "id": "16243260",
+      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#786B5A",
-      "alt": "A textured wall with cracks and budding branches against it.",
+      "color": "#817B61",
+      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
       "credit": {
-        "name": "Müca 🇩🇪",
-        "link": "https://www.pexels.com/@muca-2159917767",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
+        "name": "Luis Quintero",
+        "link": "https://www.pexels.com/@jibarofoto",
+        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "prompt": "Urban textures",
+      "id": "1101123",
+      "url": "https://images.pexels.com/photos/1101123/pexels-photo-1101123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1101123/pexels-photo-1101123.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3984,
+      "height": 2656,
+      "color": "#BDBCB7",
+      "alt": "Close-up of textured brick wall with abstract graffiti, showing weathered surface.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+        "name": "Madison Inouye",
+        "link": "https://www.pexels.com/@mdsnmdsnmdsn",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-abstract-painting-1101123/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "279815",
-      "url": "https://images.pexels.com/photos/279815/pexels-photo-279815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/279815/pexels-photo-279815.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4638,
-      "height": 2736,
-      "color": "#4C4B4A",
-      "alt": "A vintage table with an open book in a dimly lit classic interior space.",
+      "prompt": "Nordic interiors",
+      "id": "37173314",
+      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#C6C8C7",
+      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/brown-wooden-coffee-table-inside-room-279815/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+      }
+    },
+    {
+      "prompt": "Minimal desks",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+      }
+    },
+    {
+      "prompt": "Coastal weather",
+      "id": "20146063",
+      "url": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4912,
+      "height": 2958,
+      "color": "#908E8F",
+      "alt": "A dramatic aerial view of a coastal landscape with expansive clouds and a sunset horizon over the ocean.",
+      "credit": {
+        "name": "Robert So",
+        "link": "https://www.pexels.com/@robertkso",
+        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-coast-at-sunset-20146063/"
       }
     }
   ]
