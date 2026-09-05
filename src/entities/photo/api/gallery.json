@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-05T17:08:48.146Z",
+  "generatedAt": "2026-09-05T19:55:53.781Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "28529023",
-      "url": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2880,
-      "color": "#A79881",
-      "alt": "Minimalist cube house in natural setting at sunset with vibrant colors.",
+      "prompt": "grainy film texture",
+      "id": "19826486",
+      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4687,
+      "height": 3106,
+      "color": "#8B8B8B",
+      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
       "credit": {
-        "name": "Gaurav Yadav",
-        "link": "https://www.pexels.com/@gaurav-yadav-434373730",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-cube-house-in-nature-28529023/"
+        "name": "Misak Aghababyan",
+        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "3844516",
-      "url": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7680,
-      "height": 5120,
-      "color": "#6A6052",
-      "alt": "From above of vise fixing at workbench among different tools in workshop",
+      "prompt": "urban brick wall",
+      "id": "19884844",
+      "url": "https://images.pexels.com/photos/19884844/pexels-photo-19884844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19884844/pexels-photo-19884844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#888493",
+      "alt": "Detailed texture of a rustic brick wall in Jessheim, Norway, showcasing distinct brick patterns.",
       "credit": {
-        "name": "Andrea Piacquadio",
-        "link": "https://www.pexels.com/@olly",
-        "photoLink": "https://www.pexels.com/photo/metal-vise-and-assorted-tools-in-workshop-3844516/"
+        "name": "Surdu Horia",
+        "link": "https://www.pexels.com/@surdu-horia-743788511",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-19884844/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8473795",
-      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#BAB7A8",
-      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
+      "prompt": "morning soft light",
+      "id": "13245210",
+      "url": "https://images.pexels.com/photos/13245210/pexels-photo-13245210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13245210/pexels-photo-13245210.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4592,
+      "height": 3448,
+      "color": "#6F5548",
+      "alt": "A cozy bedroom scene with soft light highlighting pillows and a bed sheet.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
+        "name": "Giorgia Ester Serra",
+        "link": "https://www.pexels.com/@giorgia-ester-serra-294957446",
+        "photoLink": "https://www.pexels.com/photo/pillows-and-sheet-on-bed-in-sunlight-13245210/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20539730",
-      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#8B8E95",
-      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
+      "prompt": "linen wood panel",
+      "id": "450063",
+      "url": "https://images.pexels.com/photos/450063/pexels-photo-450063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/450063/pexels-photo-450063.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6024,
+      "height": 4016,
+      "color": "#FBD69C",
+      "alt": "Detailed close-up of textured yellow wooden panels, ideal for design projects.",
       "credit": {
-        "name": "Nguyen Huy",
-        "link": "https://www.pexels.com/@ngochuy",
-        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
+        "name": "Tirachard Kumtanom",
+        "link": "https://www.pexels.com/@tirachard-kumtanom-112571",
+        "photoLink": "https://www.pexels.com/photo/yellow-wooden-pallet-450063/"
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "37173314",
-      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C6C8C7",
-      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
+      "prompt": "workshop tool set",
+      "id": "9607048",
+      "url": "https://images.pexels.com/photos/9607048/pexels-photo-9607048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9607048/pexels-photo-9607048.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#736059",
+      "alt": "Hands selecting tools from a well-organized toolbox on a concrete surface.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+        "name": "Anastasia  Shuraeva",
+        "link": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoLink": "https://www.pexels.com/photo/a-person-touching-tools-in-a-box-9607048/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "3094036",
-      "url": "https://images.pexels.com/photos/3094036/pexels-photo-3094036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3094036/pexels-photo-3094036.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4231,
-      "height": 2379,
-      "color": "#7B7061",
-      "alt": "Handcrafted ceramic bowls and plates in a rustic workshop ambiance.",
+      "prompt": "handmade ceramic bowl",
+      "id": "32212371",
+      "url": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6021,
+      "height": 3902,
+      "color": "#81572D",
+      "alt": "A collection of handcrafted ceramic bowls displayed in an artisan pottery studio with soft lighting.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/photo-of-ceramic-kitchenware-3094036/"
+        "name": "leo asher",
+        "link": "https://www.pexels.com/@leo-asher-2152467602",
+        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-bowls-in-artisan-studio-32212371/"
       }
     }
   ]
