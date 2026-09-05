@@ -1,53 +1,68 @@
 {
-  "generatedAt": "2026-09-05T14:35:18.985Z",
+  "generatedAt": "2026-09-05T17:08:48.146Z",
   "photos": [
     {
-      "prompt": "Morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
+      "prompt": "quiet architecture",
+      "id": "28529023",
+      "url": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2880,
+      "color": "#A79881",
+      "alt": "Minimalist cube house in natural setting at sunset with vibrant colors.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
+        "name": "Gaurav Yadav",
+        "link": "https://www.pexels.com/@gaurav-yadav-434373730",
+        "photoLink": "https://www.pexels.com/photo/modern-minimalist-cube-house-in-nature-28529023/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
+      "prompt": "workshop tools",
+      "id": "3844516",
+      "url": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7680,
+      "height": 5120,
+      "color": "#6A6052",
+      "alt": "From above of vise fixing at workbench among different tools in workshop",
       "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
+        "name": "Andrea Piacquadio",
+        "link": "https://www.pexels.com/@olly",
+        "photoLink": "https://www.pexels.com/photo/metal-vise-and-assorted-tools-in-workshop-3844516/"
       }
     },
     {
-      "prompt": "Urban textures",
-      "id": "1101123",
-      "url": "https://images.pexels.com/photos/1101123/pexels-photo-1101123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1101123/pexels-photo-1101123.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3984,
-      "height": 2656,
-      "color": "#BDBCB7",
-      "alt": "Close-up of textured brick wall with abstract graffiti, showing weathered surface.",
+      "prompt": "minimal desks",
+      "id": "8473795",
+      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#BAB7A8",
+      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
       "credit": {
-        "name": "Madison Inouye",
-        "link": "https://www.pexels.com/@mdsnmdsnmdsn",
-        "photoLink": "https://www.pexels.com/photo/white-and-gray-abstract-painting-1101123/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
       }
     },
     {
-      "prompt": "Nordic interiors",
+      "prompt": "analogue film grain",
+      "id": "20539730",
+      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#8B8E95",
+      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
+      "credit": {
+        "name": "Nguyen Huy",
+        "link": "https://www.pexels.com/@ngochuy",
+        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
+      }
+    },
+    {
+      "prompt": "nordic interiors",
       "id": "37173314",
       "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -62,33 +77,18 @@
       }
     },
     {
-      "prompt": "Minimal desks",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "handmade ceramics",
+      "id": "3094036",
+      "url": "https://images.pexels.com/photos/3094036/pexels-photo-3094036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3094036/pexels-photo-3094036.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4231,
+      "height": 2379,
+      "color": "#7B7061",
+      "alt": "Handcrafted ceramic bowls and plates in a rustic workshop ambiance.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
-      }
-    },
-    {
-      "prompt": "Coastal weather",
-      "id": "20146063",
-      "url": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4912,
-      "height": 2958,
-      "color": "#908E8F",
-      "alt": "A dramatic aerial view of a coastal landscape with expansive clouds and a sunset horizon over the ocean.",
-      "credit": {
-        "name": "Robert So",
-        "link": "https://www.pexels.com/@robertkso",
-        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-coast-at-sunset-20146063/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/photo-of-ceramic-kitchenware-3094036/"
       }
     }
   ]
