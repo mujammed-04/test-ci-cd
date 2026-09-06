@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-06T11:57:26.573Z",
+  "generatedAt": "2026-09-06T15:12:24.934Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "36770657",
-      "url": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6024,
-      "height": 4016,
-      "color": "#838B58",
-      "alt": "Close-up of dewy grass with a blurred, sunlit background, featuring artistic bokeh.",
-      "credit": {
-        "name": "Aneesh Thazhathethil",
-        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
-        "photoLink": "https://www.pexels.com/photo/dewy-grass-with-sunlit-background-36770657/"
-      }
-    },
-    {
-      "prompt": "quiet historic building",
-      "id": "38094387",
-      "url": "https://images.pexels.com/photos/38094387/pexels-photo-38094387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38094387/pexels-photo-38094387.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8256,
-      "height": 5504,
-      "color": "#796C5B",
-      "alt": "Discover a quaint European street lined with historic architecture and wrought iron details.",
-      "credit": {
-        "name": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
-        "link": "https://www.pexels.com/@oleksiy-yeshtokyn-2147541276",
-        "photoLink": "https://www.pexels.com/photo/charming-european-street-with-historic-buildings-38094387/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "931186",
-      "url": "https://images.pexels.com/photos/931186/pexels-photo-931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/931186/pexels-photo-931186.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#867D76",
-      "alt": "Beautiful red and green floral arrangement in a vase on a modern wooden chair.",
-      "credit": {
-        "name": "Secret Garden",
-        "link": "https://www.pexels.com/@secret-garden-333350",
-        "photoLink": "https://www.pexels.com/photo/red-tulip-flowers-in-vase-on-armchair-931186/"
-      }
-    },
-    {
-      "prompt": "urban brick wall",
-      "id": "17391841",
-      "url": "https://images.pexels.com/photos/17391841/pexels-photo-17391841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17391841/pexels-photo-17391841.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3148,
-      "height": 2099,
-      "color": "#935F49",
-      "alt": "A minimalist urban scene with contrasting red and yellow brick walls and a white lamp.",
-      "credit": {
-        "name": "Brendan Rühli",
-        "link": "https://www.pexels.com/@brendanruehli",
-        "photoLink": "https://www.pexels.com/photo/white-lamp-on-buildings-walls-17391841/"
-      }
-    },
-    {
-      "prompt": "coastal stormy sky",
-      "id": "30448982",
-      "url": "https://images.pexels.com/photos/30448982/pexels-photo-30448982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30448982/pexels-photo-30448982.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7699,
-      "height": 5135,
-      "color": "#919191",
-      "alt": "Tranquil seascape featuring smooth rocks and gentle ocean waves under a cloudy sky.",
-      "credit": {
-        "name": "Susanne Jutzeler, suju-foto",
-        "link": "https://www.pexels.com/@suju",
-        "photoLink": "https://www.pexels.com/photo/serene-rocky-shoreline-with-calm-ocean-waves-30448982/"
-      }
-    },
-    {
-      "prompt": "handmade pottery bowl",
-      "id": "7222335",
-      "url": "https://images.pexels.com/photos/7222335/pexels-photo-7222335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7222335/pexels-photo-7222335.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "cracked pavement",
+      "id": "6711845",
+      "url": "https://images.pexels.com/photos/6711845/pexels-photo-6711845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6711845/pexels-photo-6711845.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 3500,
       "height": 2333,
-      "color": "#64625D",
-      "alt": "Hands crafting pottery bowls in a studio, showcasing artisanal manufacture and attention to detail.",
+      "color": "#C4C0BE",
+      "alt": "From above of textured background of rough surface with loose texture cracks and sand",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/a-person-making-ceramic-bowls-7222335/"
+        "name": "Anna Tarazevich",
+        "link": "https://www.pexels.com/@anntarazevich",
+        "photoLink": "https://www.pexels.com/photo/rough-concrete-texture-background-with-crack-6711845/"
+      }
+    },
+    {
+      "prompt": "rusty wrenches",
+      "id": "5194769",
+      "url": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#9E816D",
+      "alt": "A vibrant assortment of various hand tools arranged in a pile. Ideal for construction themes.",
+      "credit": {
+        "name": "Şahin Sezer Dinçer",
+        "link": "https://www.pexels.com/@sahinsezerdincer",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-assorted-tools-5194769/"
+      }
+    },
+    {
+      "prompt": "vintage fruit bowl",
+      "id": "13971939",
+      "url": "https://images.pexels.com/photos/13971939/pexels-photo-13971939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13971939/pexels-photo-13971939.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4752,
+      "height": 3168,
+      "color": "#8E7D73",
+      "alt": "A vibrant bowl of assorted fruits on a table inside a Greek home, showcasing decorative elements.",
+      "credit": {
+        "name": "Dimitris Mourousiadis",
+        "link": "https://www.pexels.com/@dimi",
+        "photoLink": "https://www.pexels.com/photo/bowl-of-grapes-and-apples-set-on-coffee-table-13971939/"
+      }
+    },
+    {
+      "prompt": "quiet stairwell",
+      "id": "1362025",
+      "url": "https://images.pexels.com/photos/1362025/pexels-photo-1362025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1362025/pexels-photo-1362025.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3872,
+      "height": 2592,
+      "color": "#4F4F4F",
+      "alt": "Artistic black and white shot of a spiral staircase showcasing modern architecture.",
+      "credit": {
+        "name": "Jan Kroon",
+        "link": "https://www.pexels.com/@jan-kroon-357445",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photography-of-stairs-1362025/"
+      }
+    },
+    {
+      "prompt": "delicate fern leaf",
+      "id": "14269673",
+      "url": "https://images.pexels.com/photos/14269673/pexels-photo-14269673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14269673/pexels-photo-14269673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#969893",
+      "alt": "Single green fern leaf elegantly placed on soft white fabric, captured in Aracati, Brazil.",
+      "credit": {
+        "name": "Kássia Melo",
+        "link": "https://www.pexels.com/@kassiamelox",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-green-plant-on-white-cloth-14269673/"
+      }
+    },
+    {
+      "prompt": "minimalist wood furniture",
+      "id": "29917912",
+      "url": "https://images.pexels.com/photos/29917912/pexels-photo-29917912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29917912/pexels-photo-29917912.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4224,
+      "height": 2816,
+      "color": "#5B4B31",
+      "alt": "Modern wooden chairs with sleek design in an indoor minimalist setting.",
+      "credit": {
+        "name": "Davide Armanti",
+        "link": "https://www.pexels.com/@davide-armanti-1289782677",
+        "photoLink": "https://www.pexels.com/photo/minimalist-wooden-chair-design-in-modern-setting-29917912/"
       }
     }
   ]
