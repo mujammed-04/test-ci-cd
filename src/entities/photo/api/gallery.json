@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-05T23:36:39.048Z",
+  "generatedAt": "2026-09-06T02:57:03.916Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "prompt": "minimal desk surface",
+      "id": "187107",
+      "url": "https://images.pexels.com/photos/187107/pexels-photo-187107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/187107/pexels-photo-187107.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4162,
+      "height": 2901,
+      "color": "#847966",
+      "alt": "A well-organized workspace featuring a laptop, notebook, and glasses on a leather surface.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+        "name": "Suset Briseño",
+        "link": "https://www.pexels.com/@susetbr",
+        "photoLink": "https://www.pexels.com/photo/macbook-pro-beside-black-framed-eyeglasses-on-brown-wooden-surface-187107/"
+      }
+    },
+    {
+      "prompt": "coastal sky mist",
+      "id": "6198187",
+      "url": "https://images.pexels.com/photos/6198187/pexels-photo-6198187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6198187/pexels-photo-6198187.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5794,
+      "height": 3260,
+      "color": "#A09E9C",
+      "alt": "Explore the rugged beauty of the foggy Big Sur coast with dramatic cliffs and misty sea views.",
+      "credit": {
+        "name": "Gary Sylvester",
+        "link": "https://www.pexels.com/@gsylvest",
+        "photoLink": "https://www.pexels.com/photo/white-sky-over-a-foggy-coast-6198187/"
       }
     },
     {
       "prompt": "handcrafted ceramic vase",
-      "id": "36280037",
-      "url": "https://images.pexels.com/photos/36280037/pexels-photo-36280037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36280037/pexels-photo-36280037.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "31553230",
+      "url": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6240,
       "height": 4160,
-      "color": "#9B7850",
-      "alt": "A collection of vibrant ceramic vases displayed on shelves in Hội An, Vietnam, showcasing artistic craft.",
+      "color": "#7B6760",
+      "alt": "Warm rustic still life with ceramic vases and dried flowers on a red mat indoors.",
       "credit": {
-        "name": "Nhi Huynh",
-        "link": "https://www.pexels.com/@nhi-huynh-2126546965",
-        "photoLink": "https://www.pexels.com/photo/colorful-artistic-ceramic-vases-in-h-i-an-36280037/"
+        "name": "🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳",
+        "link": "https://www.pexels.com/@nguy-n-ti-n-th-nh-2150376175",
+        "photoLink": "https://www.pexels.com/photo/rustic-indoor-still-life-with-ceramic-vases-31553230/"
       }
     },
     {
-      "prompt": "stormy coastline",
-      "id": "29857091",
-      "url": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7500,
-      "height": 4219,
-      "color": "#7A7B76",
-      "alt": "Waves crash against a distant shore under dark, stormy clouds.",
-      "credit": {
-        "name": "Raul Ling",
-        "link": "https://www.pexels.com/@raulling",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-with-distant-tower-and-moody-clouds-29857091/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "1726962",
-      "url": "https://images.pexels.com/photos/1726962/pexels-photo-1726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1726962/pexels-photo-1726962.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#2E3132",
-      "alt": "Silhouette of a person walking by a sunlit building, creating dramatic shadows.",
-      "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/brown-buildings-1726962/"
-      }
-    },
-    {
-      "prompt": "fruit bowl stilllife",
-      "id": "6952328",
-      "url": "https://images.pexels.com/photos/6952328/pexels-photo-6952328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952328/pexels-photo-6952328.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#AA9382",
-      "alt": "A wooden bowl filled with apples and kiwis sitting on a white table indoors.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/photograph-of-kiwis-and-apples-in-a-wooden-bowl-6952328/"
-      }
-    },
-    {
-      "prompt": "dewy botanical macro",
-      "id": "9965960",
-      "url": "https://images.pexels.com/photos/9965960/pexels-photo-9965960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9965960/pexels-photo-9965960.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet architecture interior",
+      "id": "15009841",
+      "url": "https://images.pexels.com/photos/15009841/pexels-photo-15009841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15009841/pexels-photo-15009841.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5184,
       "height": 3456,
-      "color": "#757B57",
-      "alt": "Vibrant green and red plant leaves covered in fresh dewdrops, captured with selective focus.",
+      "color": "#201D18",
+      "alt": "An atmospheric interior view of Sancaklar Mosque in Istanbul, showcasing its modern and minimalist design.",
       "credit": {
-        "name": "Наталья",
-        "link": "https://www.pexels.com/@121008338",
-        "photoLink": "https://www.pexels.com/photo/pink-and-green-leaves-in-close-up-photography-9965960/"
+        "name": "Hakan Sevim",
+        "link": "https://www.pexels.com/@hakan-sevim-205355724",
+        "photoLink": "https://www.pexels.com/photo/interior-of-sancaklar-mosque-buyukcekmece-istanbul-turkey-15009841/"
+      }
+    },
+    {
+      "prompt": "botanical leaf macro",
+      "id": "18462849",
+      "url": "https://images.pexels.com/photos/18462849/pexels-photo-18462849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18462849/pexels-photo-18462849.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4900,
+      "height": 4277,
+      "color": "#859E04",
+      "alt": "Detailed macro shot of a green leaf showing intricate vein patterns.",
+      "credit": {
+        "name": "Petr Ganaj",
+        "link": "https://www.pexels.com/@ganajp",
+        "photoLink": "https://www.pexels.com/photo/texture-of-leaf-18462849/"
+      }
+    },
+    {
+      "prompt": "still life composition",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
+      "height": 4000,
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "credit": {
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
       }
     }
   ]
