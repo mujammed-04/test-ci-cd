@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-06T18:00:59.826Z",
+  "generatedAt": "2026-09-06T21:01:55.677Z",
   "photos": [
     {
-      "prompt": "linen wood stilllife",
-      "id": "36532362",
-      "url": "https://images.pexels.com/photos/36532362/pexels-photo-36532362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36532362/pexels-photo-36532362.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 6143,
-      "color": "#A6927A",
-      "alt": "A flat lay of vintage sewing tools and a wooden hand mannequin on linen fabric.",
+      "prompt": "stormy coastline",
+      "id": "29857091",
+      "url": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7500,
+      "height": 4219,
+      "color": "#7A7B76",
+      "alt": "Waves crash against a distant shore under dark, stormy clouds.",
       "credit": {
-        "name": "Mariia Stepanova",
-        "link": "https://www.pexels.com/@mariia-stepanova-2152382414",
-        "photoLink": "https://www.pexels.com/photo/vintage-sewing-craft-tools-with-wooden-hand-mannequin-36532362/"
+        "name": "Raul Ling",
+        "link": "https://www.pexels.com/@raulling",
+        "photoLink": "https://www.pexels.com/photo/stormy-sea-with-distant-tower-and-moody-clouds-29857091/"
       }
     },
     {
-      "prompt": "nordic interior daylight",
-      "id": "10811231",
-      "url": "https://images.pexels.com/photos/10811231/pexels-photo-10811231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10811231/pexels-photo-10811231.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#A79275",
-      "alt": "Bright living room with green sofa, wooden furniture, and natural light.",
+      "prompt": "vintage film grain",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
       "credit": {
-        "name": "Yusuf P",
-        "link": "https://www.pexels.com/@artyusufpatel",
-        "photoLink": "https://www.pexels.com/photo/colorful-interior-wallpaper-blender-10811231/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     },
     {
-      "prompt": "quiet urban textures",
-      "id": "5822579",
-      "url": "https://images.pexels.com/photos/5822579/pexels-photo-5822579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5822579/pexels-photo-5822579.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4368,
-      "height": 2912,
-      "color": "#505150",
-      "alt": "Black and white of aged house with weathered brick wall and shades in town",
+      "prompt": "minimalist desk",
+      "id": "1034650",
+      "url": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5051,
+      "height": 3310,
+      "color": "#7E6458",
+      "alt": "A sleek modern workspace featuring an iMac displaying a desert road and a stylish desk lamp.",
       "credit": {
-        "name": "Plato Terentev",
-        "link": "https://www.pexels.com/@plato-terentev-3804555",
-        "photoLink": "https://www.pexels.com/photo/old-building-with-brick-wall-and-shadows-5822579/"
+        "name": "Tom Swinnen",
+        "link": "https://www.pexels.com/@shottrotter",
+        "photoLink": "https://www.pexels.com/photo/close-up-photography-of-imac-turned-on-1034650/"
       }
     },
     {
-      "prompt": "morning light hallway",
-      "id": "2294135",
-      "url": "https://images.pexels.com/photos/2294135/pexels-photo-2294135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2294135/pexels-photo-2294135.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#152424",
-      "alt": "Gloomy indoor corridor with glass partitions and dim lighting in a modern office building.",
+      "prompt": "handmade ceramic bowl",
+      "id": "9736483",
+      "url": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#A17955",
+      "alt": "A woman artist holding ceramic bowls in a sunlit workshop, surrounded by shelves filled with pottery.",
       "credit": {
-        "name": "Alina Ananko",
-        "link": "https://www.pexels.com/@vayvoline",
-        "photoLink": "https://www.pexels.com/photo/empty-office-hallway-2294135/"
+        "name": "KoolShooters",
+        "link": "https://www.pexels.com/@koolshooters",
+        "photoLink": "https://www.pexels.com/photo/woman-carrying-a-bowl-with-paint-9736483/"
       }
     },
     {
-      "prompt": "soft linen drape",
-      "id": "8465951",
-      "url": "https://images.pexels.com/photos/8465951/pexels-photo-8465951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8465951/pexels-photo-8465951.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4000,
-      "color": "#C8C1AF",
-      "alt": "Close-up of elegant cream-colored textile folds with smooth texture, perfect for backgrounds.",
+      "prompt": "still life composition",
+      "id": "27544689",
+      "url": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6421,
+      "height": 3598,
+      "color": "#BEB9A6",
+      "alt": "Elegant minimalist interior design featuring contemporary plant arrangements and geometric forms.",
       "credit": {
-        "name": "Davis  Vidal",
-        "link": "https://www.pexels.com/@davis-vidal-24041114",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-folded-white-fabric-8465951/"
+        "name": "Deepa Nishad",
+        "link": "https://www.pexels.com/@deepa-nishad-1620501673",
+        "photoLink": "https://www.pexels.com/photo/three-vases-and-a-plant-on-a-shelf-27544689/"
       }
     },
     {
-      "prompt": "rustic wooden table",
-      "id": "37900940",
-      "url": "https://images.pexels.com/photos/37900940/pexels-photo-37900940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37900940/pexels-photo-37900940.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4016,
-      "color": "#3E372D",
-      "alt": "Beautifully decorated wedding reception with elegant table setting in a rustic indoor venue.",
+      "prompt": "quiet architectural facade",
+      "id": "38507995",
+      "url": "https://images.pexels.com/photos/38507995/pexels-photo-38507995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38507995/pexels-photo-38507995.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#847B7C",
+      "alt": "Artistic capture of shadows on a white brick wall with vertical windows, creating a geometric pattern.",
       "credit": {
-        "name": "Jonathan Borba",
-        "link": "https://www.pexels.com/@jonathanborba",
-        "photoLink": "https://www.pexels.com/photo/elegant-wedding-reception-setup-in-rustic-venue-37900940/"
+        "name": "princess",
+        "link": "https://www.pexels.com/@princess-2150885580",
+        "photoLink": "https://www.pexels.com/photo/shadow-patterns-on-urban-brick-wall-38507995/"
       }
     }
   ]
