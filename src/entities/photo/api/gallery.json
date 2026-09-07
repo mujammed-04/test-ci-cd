@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-06T23:28:16.536Z",
+  "generatedAt": "2026-09-07T02:54:32.019Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "7533973",
-      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#C9B79F",
-      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
+      "prompt": "minimalist desk",
+      "id": "8004107",
+      "url": "https://images.pexels.com/photos/8004107/pexels-photo-8004107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8004107/pexels-photo-8004107.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#B5BEBD",
+      "alt": "Clean minimalist desk featuring a laptop, blue vase with plant, and coffee mug.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
+        "name": "Darina Belonogova",
+        "link": "https://www.pexels.com/@darina-belonogova",
+        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-set-up-on-white-table-8004107/"
       }
     },
     {
-      "prompt": "nordic interior light",
-      "id": "39047230",
-      "url": "https://images.pexels.com/photos/39047230/pexels-photo-39047230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39047230/pexels-photo-39047230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "analog film grain",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "credit": {
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+      }
+    },
+    {
+      "prompt": "soft morning light",
+      "id": "28118363",
+      "url": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5314,
+      "height": 3543,
+      "color": "#786D40",
+      "alt": "Golden sunlight filters through trees in a misty forest landscape, capturing autumn's beauty.",
+      "credit": {
+        "name": "Stephen Leonardi",
+        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
+        "photoLink": "https://www.pexels.com/photo/a-field-with-trees-and-grass-in-the-sun-28118363/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "39238143",
+      "url": "https://images.pexels.com/photos/39238143/pexels-photo-39238143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39238143/pexels-photo-39238143.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4774,
+      "height": 3183,
+      "color": "#D7D7D7",
+      "alt": "Three arched windows on a white chapel wall in Hvide Sande, Denmark, showcasing symmetry and minimalism.",
+      "credit": {
+        "name": "Wolfgang Weiser",
+        "link": "https://www.pexels.com/@wolfgang-weiser-467045605",
+        "photoLink": "https://www.pexels.com/photo/symmetrical-windows-on-white-chapel-in-hvide-sande-39238143/"
+      }
+    },
+    {
+      "prompt": "coastal storm",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "credit": {
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+      }
+    },
+    {
+      "prompt": "botanical macro detail",
+      "id": "35908844",
+      "url": "https://images.pexels.com/photos/35908844/pexels-photo-35908844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35908844/pexels-photo-35908844.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#646F75",
-      "alt": "Discover the serene twilight cityscape of Malmö, Sweden with iconic buildings along the waterfront.",
+      "color": "#292735",
+      "alt": "Detailed macro shot of a leaf showcasing vivid red veins against dark foliage.",
       "credit": {
-        "name": "Vish Pix",
-        "link": "https://www.pexels.com/@vishpix",
-        "photoLink": "https://www.pexels.com/photo/twilight-cityscape-of-malmo-sweden-waterfront-39047230/"
-      }
-    },
-    {
-      "prompt": "morning sunlight window",
-      "id": "36197104",
-      "url": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 4347,
-      "color": "#937E6B",
-      "alt": "Warm sunlight casting shadows through window blinds, creating a tranquil indoor setting.",
-      "credit": {
-        "name": "Alec Adriano",
-        "link": "https://www.pexels.com/@alec",
-        "photoLink": "https://www.pexels.com/photo/sunlight-filtering-through-window-blinds-indoors-36197104/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "9736483",
-      "url": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#A17955",
-      "alt": "A woman artist holding ceramic bowls in a sunlit workshop, surrounded by shelves filled with pottery.",
-      "credit": {
-        "name": "KoolShooters",
-        "link": "https://www.pexels.com/@koolshooters",
-        "photoLink": "https://www.pexels.com/photo/woman-carrying-a-bowl-with-paint-9736483/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "12042192",
-      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5686,
-      "height": 3887,
-      "color": "#262624",
-      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
-      "credit": {
-        "name": "Gintare Baradinske",
-        "link": "https://www.pexels.com/@gintare",
-        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
-      }
-    },
-    {
-      "prompt": "workshop tool set",
-      "id": "4480533",
-      "url": "https://images.pexels.com/photos/4480533/pexels-photo-4480533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4480533/pexels-photo-4480533.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#252624",
-      "alt": "Close-up of assorted metal tools in an organized workshop setting, ideal for mechanical repairs.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/silver-and-black-metal-tools-4480533/"
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-leaf-with-vibrant-veins-35908844/"
       }
     }
   ]
