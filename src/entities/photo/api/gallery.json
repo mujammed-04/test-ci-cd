@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-07T18:58:59.976Z",
+  "generatedAt": "2026-09-07T21:57:37.710Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "9987493",
-      "url": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5464,
-      "height": 3643,
-      "color": "#907E56",
-      "alt": "Misty rural landscape in Wisconsin with trees in a foggy field at dawn, creating a serene nature scene.",
+      "prompt": "handmade ceramics",
+      "id": "6611184",
+      "url": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#777369",
+      "alt": "A collection of elegant ceramic dishes and cups organized on storage shelves.",
       "credit": {
-        "name": "Tom Fisk",
-        "link": "https://www.pexels.com/@tomfisk",
-        "photoLink": "https://www.pexels.com/photo/trees-on-a-grassy-field-9987493/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/ceramic-products-on-a-shelf-6611184/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
-      "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "prompt": "urban textures",
+      "id": "31061268",
+      "url": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#BAB5B1",
+      "alt": "Close-up of a weathered wall with peeling posters and exposed textures, showcasing urban decay.",
       "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-peeling-posters-on-urban-wall-31061268/"
       }
     },
     {
-      "prompt": "coastal stormy sky",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "prompt": "morning light",
+      "id": "35228360",
+      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#5F4632",
+      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+        "name": "Meltem  B.",
+        "link": "https://www.pexels.com/@meltem-b-300284420",
+        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
       }
     },
     {
-      "prompt": "nordic living room",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "prompt": "quiet architecture",
+      "id": "28257494",
+      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5455,
+      "height": 3636,
+      "color": "#7B96B3",
+      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "28228015",
-      "url": "https://images.pexels.com/photos/28228015/pexels-photo-28228015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28228015/pexels-photo-28228015.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4805,
-      "height": 3203,
-      "color": "#70786D",
-      "alt": "A sleek office desk with tech gadgets and decor, perfect for productivity.",
+      "prompt": "coastal weather",
+      "id": "1478521",
+      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8561,
+      "height": 5830,
+      "color": "#5F6C70",
+      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
       "credit": {
-        "name": "Minh Phuc",
-        "link": "https://www.pexels.com/@mintworkspace",
-        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-computer-monitor-keyboard-and-mouse-28228015/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "4593955",
-      "url": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6330,
-      "height": 4220,
-      "color": "#485944",
-      "alt": "Detailed close-up of a vibrant green leaf with rich textures and patterns.",
+      "prompt": "analogue film grain",
+      "id": "9941176",
+      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1698,
+      "color": "#41494C",
+      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/jungle-leaf-texture-4593955/"
+        "name": "Karina Guseva",
+        "link": "https://www.pexels.com/@karina-guseva-101151339",
+        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
       }
     }
   ]
