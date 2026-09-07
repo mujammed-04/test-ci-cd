@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-07T02:54:32.019Z",
+  "generatedAt": "2026-09-07T07:55:51.691Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "8004107",
-      "url": "https://images.pexels.com/photos/8004107/pexels-photo-8004107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8004107/pexels-photo-8004107.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#B5BEBD",
-      "alt": "Clean minimalist desk featuring a laptop, blue vase with plant, and coffee mug.",
+      "prompt": "coastal storm clouds",
+      "id": "35611566",
+      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4125,
+      "color": "#5C5D58",
+      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
       "credit": {
-        "name": "Darina Belonogova",
-        "link": "https://www.pexels.com/@darina-belonogova",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-set-up-on-white-table-8004107/"
+        "name": "Jose Luis  Vanasco",
+        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
+        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "prompt": "still life fruit",
+      "id": "26159450",
+      "url": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4113,
+      "height": 2742,
+      "color": "#3D190D",
+      "alt": "A striking arrangement of fresh fruits including apples, orange, and pear against a dark background.",
       "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+        "name": "J E",
+        "link": "https://www.pexels.com/@j-e-22471780",
+        "photoLink": "https://www.pexels.com/photo/ripe-fresh-fruits-26159450/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "28118363",
-      "url": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5314,
-      "height": 3543,
-      "color": "#786D40",
-      "alt": "Golden sunlight filters through trees in a misty forest landscape, capturing autumn's beauty.",
+      "prompt": "quiet historic façade",
+      "id": "39185000",
+      "url": "https://images.pexels.com/photos/39185000/pexels-photo-39185000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39185000/pexels-photo-39185000.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4032,
+      "color": "#886640",
+      "alt": "A beautiful sunlit facade of a traditional house in Arles, France, showcasing warm Provencal architecture.",
       "credit": {
-        "name": "Stephen Leonardi",
-        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
-        "photoLink": "https://www.pexels.com/photo/a-field-with-trees-and-grass-in-the-sun-28118363/"
+        "name": "Bingqian Li",
+        "link": "https://www.pexels.com/@bingqian-li-230971044",
+        "photoLink": "https://www.pexels.com/photo/charming-sunlit-house-facade-in-arles-39185000/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "39238143",
-      "url": "https://images.pexels.com/photos/39238143/pexels-photo-39238143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39238143/pexels-photo-39238143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4774,
-      "height": 3183,
-      "color": "#D7D7D7",
-      "alt": "Three arched windows on a white chapel wall in Hvide Sande, Denmark, showcasing symmetry and minimalism.",
+      "prompt": "morning soft light",
+      "id": "29623050",
+      "url": "https://images.pexels.com/photos/29623050/pexels-photo-29623050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29623050/pexels-photo-29623050.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3342,
+      "height": 2303,
+      "color": "#5E5F59",
+      "alt": "A serene interior with sunlight streaming through sheer curtains, soft shadows cast.",
       "credit": {
-        "name": "Wolfgang Weiser",
-        "link": "https://www.pexels.com/@wolfgang-weiser-467045605",
-        "photoLink": "https://www.pexels.com/photo/symmetrical-windows-on-white-chapel-in-hvide-sande-39238143/"
+        "name": "zheng liang",
+        "link": "https://www.pexels.com/@zzzzlz",
+        "photoLink": "https://www.pexels.com/photo/sunlit-interior-with-curtain-filtered-window-29623050/"
       }
     },
     {
-      "prompt": "coastal storm",
-      "id": "9493189",
-      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4737,
-      "height": 3153,
-      "color": "#68757E",
-      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "prompt": "handmade ceramic bowl",
+      "id": "33703946",
+      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#4D3B2F",
+      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+        "name": "Miguel González",
+        "link": "https://www.pexels.com/@mikegles",
+        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
       }
     },
     {
-      "prompt": "botanical macro detail",
-      "id": "35908844",
-      "url": "https://images.pexels.com/photos/35908844/pexels-photo-35908844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35908844/pexels-photo-35908844.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#292735",
-      "alt": "Detailed macro shot of a leaf showcasing vivid red veins against dark foliage.",
+      "prompt": "linen wooden table",
+      "id": "6962818",
+      "url": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#847A6E",
+      "alt": "Fresh eggs and fruits displayed on wooden plates with a linen cloth for a rustic look.",
       "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-leaf-with-vibrant-veins-35908844/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/brown-eggs-in-a-bowl-beside-fruits-on-tray-6962818/"
       }
     }
   ]
