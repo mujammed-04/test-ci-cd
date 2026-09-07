@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-07T14:00:26.372Z",
+  "generatedAt": "2026-09-07T18:58:59.976Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic vase",
-      "id": "37301842",
-      "url": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4080,
-      "height": 3264,
-      "color": "#544E42",
-      "alt": "Artisan potter skillfully molding clay pots in a rustic workshop setting.",
-      "credit": {
-        "name": "Mehmet Turgut  Kirkgoz",
-        "link": "https://www.pexels.com/@tkirkgoz",
-        "photoLink": "https://www.pexels.com/photo/skilled-potter-shaping-clay-vases-in-workshop-37301842/"
-      }
-    },
-    {
       "prompt": "soft morning light",
-      "id": "1128796",
-      "url": "https://images.pexels.com/photos/1128796/pexels-photo-1128796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1128796/pexels-photo-1128796.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#CEA678",
-      "alt": "A tranquil meadow scene with sunlit wildflowers and soft focus, evoking a peaceful summer morning.",
+      "id": "9987493",
+      "url": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5464,
+      "height": 3643,
+      "color": "#907E56",
+      "alt": "Misty rural landscape in Wisconsin with trees in a foggy field at dawn, creating a serene nature scene.",
       "credit": {
-        "name": "Nathan Cowley",
-        "link": "https://www.pexels.com/@mastercowley",
-        "photoLink": "https://www.pexels.com/photo/shallow-focus-photo-of-green-plants-1128796/"
+        "name": "Tom Fisk",
+        "link": "https://www.pexels.com/@tomfisk",
+        "photoLink": "https://www.pexels.com/photo/trees-on-a-grassy-field-9987493/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "570991",
-      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3862,
-      "height": 2895,
-      "color": "#594943",
-      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
+      "prompt": "still life arrangement",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
+      "height": 4000,
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
       }
     },
     {
-      "prompt": "detailed botanical leaf",
-      "id": "36331945",
-      "url": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#798D08",
-      "alt": "Detailed macro shot of vibrant green leaf veins showcasing nature's intricate patterns.",
+      "prompt": "coastal stormy sky",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
       "credit": {
-        "name": "Amel Uzunovic",
-        "link": "https://www.pexels.com/@amel-uzunovic-440739273",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-veins-36331945/"
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
       }
     },
     {
-      "prompt": "vintage still life",
-      "id": "20530960",
-      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#9C9674",
-      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
+      "prompt": "nordic living room",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "Esra Erdem",
-        "link": "https://www.pexels.com/@esrakorkmaz",
-        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     },
     {
-      "prompt": "minimal desk setup",
-      "id": "36123565",
-      "url": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2664,
-      "color": "#AAA39D",
-      "alt": "A minimalistic workspace featuring a laptop, coffee cup, and books on a white desk with wooden legs.",
+      "prompt": "minimalist desk setup",
+      "id": "28228015",
+      "url": "https://images.pexels.com/photos/28228015/pexels-photo-28228015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28228015/pexels-photo-28228015.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4805,
+      "height": 3203,
+      "color": "#70786D",
+      "alt": "A sleek office desk with tech gadgets and decor, perfect for productivity.",
       "credit": {
-        "name": "Letícia Alvares",
-        "link": "https://www.pexels.com/@leticia-alvares-1805702",
-        "photoLink": "https://www.pexels.com/photo/modern-workspace-with-laptop-and-books-on-desk-36123565/"
+        "name": "Minh Phuc",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-computer-monitor-keyboard-and-mouse-28228015/"
+      }
+    },
+    {
+      "prompt": "botanical leaf closeup",
+      "id": "4593955",
+      "url": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6330,
+      "height": 4220,
+      "color": "#485944",
+      "alt": "Detailed close-up of a vibrant green leaf with rich textures and patterns.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/jungle-leaf-texture-4593955/"
       }
     }
   ]
