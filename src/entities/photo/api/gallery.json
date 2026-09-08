@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-08T21:33:45.538Z",
+  "generatedAt": "2026-09-08T23:49:28.858Z",
   "photos": [
     {
-      "prompt": "Minimalist desk",
-      "id": "1034650",
-      "url": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5051,
-      "height": 3310,
-      "color": "#7E6458",
-      "alt": "A sleek modern workspace featuring an iMac displaying a desert road and a stylish desk lamp.",
+      "prompt": "linen texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
       "credit": {
-        "name": "Tom Swinnen",
-        "link": "https://www.pexels.com/@shottrotter",
-        "photoLink": "https://www.pexels.com/photo/close-up-photography-of-imac-turned-on-1034650/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
       }
     },
     {
-      "prompt": "Urban concrete texture",
-      "id": "7245529",
-      "url": "https://images.pexels.com/photos/7245529/pexels-photo-7245529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7245529/pexels-photo-7245529.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "weathered wood",
+      "id": "14739617",
+      "url": "https://images.pexels.com/photos/14739617/pexels-photo-14739617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14739617/pexels-photo-14739617.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#B4B9BE",
-      "alt": "Textured white wall of old concrete building on street of town in daytime",
+      "color": "#706D66",
+      "alt": "Close-up view of a weathered wooden texture with rich, rough grain and natural weathering patterns.",
       "credit": {
-        "name": "Olga Lioncat",
-        "link": "https://www.pexels.com/@olgalioncat",
-        "photoLink": "https://www.pexels.com/photo/rough-white-wall-of-urban-building-7245529/"
+        "name": "Jessica Lewis 🦋 thepaintedsquare",
+        "link": "https://www.pexels.com/@thepaintedsquare",
+        "photoLink": "https://www.pexels.com/photo/ugly-wooden-wall-in-close-up-photography-14739617/"
       }
     },
     {
-      "prompt": "Nordic living room",
-      "id": "37816601",
-      "url": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4F3B32",
-      "alt": "Cozy indoor sauna featuring dark wood, LED lighting, and a stone heater for a relaxing experience.",
+      "prompt": "urban brick wall",
+      "id": "19528148",
+      "url": "https://images.pexels.com/photos/19528148/pexels-photo-19528148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19528148/pexels-photo-19528148.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#775339",
+      "alt": "Brick wall exterior with streetlight casting shadows and lush green hedge below.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-sauna-with-wooden-design-and-heater-37816601/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-streetlight-and-hedge-in-front-of-a-brick-wall-19528148/"
       }
     },
     {
-      "prompt": "Still life fruit",
-      "id": "7172169",
-      "url": "https://images.pexels.com/photos/7172169/pexels-photo-7172169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7172169/pexels-photo-7172169.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4574,
-      "height": 3052,
-      "color": "#B4ACA0",
-      "alt": "Minimalist still life featuring kiwano, melon, and stone fruit on marble pedestals.",
+      "prompt": "botanical leaf closeup",
+      "id": "7718272",
+      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#314D22",
+      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/fruit-and-candles-on-white-background-7172169/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "prompt": "analogue film grain",
+      "id": "32132450",
+      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#93705A",
+      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "Ánh Đặng",
+        "link": "https://www.pexels.com/@anhdanghihi",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
       }
     },
     {
-      "prompt": "Linen wood table",
-      "id": "7118742",
-      "url": "https://images.pexels.com/photos/7118742/pexels-photo-7118742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7118742/pexels-photo-7118742.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#BEBFC3",
-      "alt": "A minimalist wooden egg displayed on soft linen fabric, symbolizing simplicity.",
+      "prompt": "handmade ceramic bowl",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
       "credit": {
-        "name": "Ivan S",
-        "link": "https://www.pexels.com/@ivan-s",
-        "photoLink": "https://www.pexels.com/photo/white-wooden-footed-bowl-on-white-textile-7118742/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     }
   ]
