@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-08T00:05:01.010Z",
+  "generatedAt": "2026-09-08T05:35:33.491Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "18431230",
-      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3499,
-      "height": 2403,
-      "color": "#7B7165",
-      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
+      "prompt": "handcrafted ceramic vase",
+      "id": "37364842",
+      "url": "https://images.pexels.com/photos/37364842/pexels-photo-37364842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37364842/pexels-photo-37364842.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4080,
+      "height": 3264,
+      "color": "#656460",
+      "alt": "Skilled artisan shaping pottery vases in a rustic workshop setting, showcasing craftsmanship.",
       "credit": {
-        "name": "Javid Hashimov",
-        "link": "https://www.pexels.com/@javidhashimov",
-        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
+        "name": "Mehmet Turgut  Kirkgoz",
+        "link": "https://www.pexels.com/@tkirkgoz",
+        "photoLink": "https://www.pexels.com/photo/artisan-crafting-pottery-in-traditional-workshop-37364842/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "4884116",
-      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#B1B6B7",
-      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
+      "prompt": "urban concrete wall",
+      "id": "15060576",
+      "url": "https://images.pexels.com/photos/15060576/pexels-photo-15060576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15060576/pexels-photo-15060576.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#6B7473",
+      "alt": "Detailed view of textured concrete wall with rough, rugged surface features.",
       "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
+        "name": "Collab Media",
+        "link": "https://www.pexels.com/@collab-media-173741945",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-mud-15060576/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
+      "prompt": "nordic wooden interior",
+      "id": "36818206",
+      "url": "https://images.pexels.com/photos/36818206/pexels-photo-36818206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36818206/pexels-photo-36818206.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#906B58",
+      "alt": "Explore a serene wooden sauna featuring Nordic design and modern electric heater for ultimate relaxation.",
       "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/cozy-wooden-indoor-sauna-cabin-with-heater-36818206/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
-      "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "prompt": "quiet modern facade",
+      "id": "28403269",
+      "url": "https://images.pexels.com/photos/28403269/pexels-photo-28403269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28403269/pexels-photo-28403269.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4032,
+      "color": "#4A463D",
+      "alt": "Charming sunset reflection on modern Dutch townhouses in Almere, Netherlands.",
       "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+        "name": "Shane Aldendorff",
+        "link": "https://www.pexels.com/@pluyar",
+        "photoLink": "https://www.pexels.com/photo/almere-stad-28403269/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "1696261",
-      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4989,
-      "height": 3326,
-      "color": "#8C726B",
-      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
+      "prompt": "morning soft light",
+      "id": "35657809",
+      "url": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5129,
+      "height": 4037,
+      "color": "#413A32",
+      "alt": "A minimalist interior space with soft morning light casting shadows on a wall and a sweater hanging in a calm setting.",
       "credit": {
-        "name": "pasha kres",
-        "link": "https://www.pexels.com/@pashakres",
-        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
+        "name": "Yunuen Zempoaltecatl",
+        "link": "https://www.pexels.com/@yunuen-zempoaltecatl-2158880957",
+        "photoLink": "https://www.pexels.com/photo/moody-interior-with-soft-light-and-shadows-35657809/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "prompt": "botanical leaf closeup",
+      "id": "7718272",
+      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#314D22",
+      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
       "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
       }
     }
   ]
