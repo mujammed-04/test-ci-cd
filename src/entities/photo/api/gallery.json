@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-07T21:57:37.710Z",
+  "generatedAt": "2026-09-08T00:05:01.010Z",
   "photos": [
     {
-      "prompt": "handmade ceramics",
-      "id": "6611184",
-      "url": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#777369",
-      "alt": "A collection of elegant ceramic dishes and cups organized on storage shelves.",
-      "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/ceramic-products-on-a-shelf-6611184/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "31061268",
-      "url": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#BAB5B1",
-      "alt": "Close-up of a weathered wall with peeling posters and exposed textures, showcasing urban decay.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-peeling-posters-on-urban-wall-31061268/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "35228360",
-      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#5F4632",
-      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
-      "credit": {
-        "name": "Meltem  B.",
-        "link": "https://www.pexels.com/@meltem-b-300284420",
-        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
-      }
-    },
-    {
       "prompt": "quiet architecture",
-      "id": "28257494",
-      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5455,
-      "height": 3636,
-      "color": "#7B96B3",
-      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "1478521",
-      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8561,
-      "height": 5830,
-      "color": "#5F6C70",
-      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
+      "prompt": "minimal desks",
+      "id": "4884116",
+      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#B1B6B7",
+      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "id": "3538574",
+      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3581,
+      "height": 2383,
+      "color": "#7D685E",
+      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "Giovanni Calia",
+        "link": "https://www.pexels.com/@giovanni-calia-1140926",
+        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
+      "height": 4000,
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "credit": {
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+      }
+    },
+    {
+      "prompt": "urban textures",
+      "id": "1696261",
+      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4989,
+      "height": 3326,
+      "color": "#8C726B",
+      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
+      "credit": {
+        "name": "pasha kres",
+        "link": "https://www.pexels.com/@pashakres",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "30335395",
+      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#302E22",
+      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "credit": {
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
       }
     }
   ]
