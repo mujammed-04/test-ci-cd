@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-09-08T14:52:11.087Z",
+  "generatedAt": "2026-09-08T18:17:47.573Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "prompt": "coastal storm clouds",
+      "id": "15470680",
+      "url": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4759,
+      "height": 3152,
+      "color": "#868E99",
+      "alt": "Dark storm clouds form over a deserted beach, creating a dramatic seascape.",
       "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+        "name": "Dijanynni Kiratza",
+        "link": "https://www.pexels.com/@dijanynni-kiratza-235375981",
+        "photoLink": "https://www.pexels.com/photo/rain-cloud-over-sea-shore-15470680/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "8167283",
-      "url": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2800,
-      "color": "#C9B495",
-      "alt": "A minimalist still life featuring dried flowers in a pastel vase with scattered pebbles.",
+      "prompt": "morning light glow",
+      "id": "13371944",
+      "url": "https://images.pexels.com/photos/13371944/pexels-photo-13371944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13371944/pexels-photo-13371944.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#6B4A3B",
+      "alt": "Sunlight streams softly through a sheer curtain, creating a warm, tranquil atmosphere.",
       "credit": {
-        "name": "Daria Liudnaya",
-        "link": "https://www.pexels.com/@daria-liudnaya",
-        "photoLink": "https://www.pexels.com/photo/colorful-decorations-and-dried-flowers-in-a-vase-8167283/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/curtain-and-window-at-dusk-13371944/"
       }
     },
     {
-      "prompt": "morning light shadows",
-      "id": "10263567",
-      "url": "https://images.pexels.com/photos/10263567/pexels-photo-10263567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10263567/pexels-photo-10263567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5532,
-      "height": 3688,
-      "color": "#656259",
-      "alt": "Silhouette of a person walking along a sunlit icy path, creating long shadows.",
+      "prompt": "quiet architecture facade",
+      "id": "7608593",
+      "url": "https://images.pexels.com/photos/7608593/pexels-photo-7608593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7608593/pexels-photo-7608593.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#C4C6C7",
+      "alt": "Close-up of a textured white wall featuring several rectangular windows.",
       "credit": {
-        "name": "Dmitry Egorov",
-        "link": "https://www.pexels.com/@egorov",
-        "photoLink": "https://www.pexels.com/photo/shadow-of-person-walking-on-snow-covered-ground-10263567/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/white-wall-chickweed-7608593/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "1128207",
-      "url": "https://images.pexels.com/photos/1128207/pexels-photo-1128207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1128207/pexels-photo-1128207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5368,
-      "height": 3579,
-      "color": "#9EA4A9",
-      "alt": "Sleek office desk setup featuring a laptop, glass of water, and open window view.",
+      "prompt": "minimal desk setup",
+      "id": "346731",
+      "url": "https://images.pexels.com/photos/346731/pexels-photo-346731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/346731/pexels-photo-346731.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#D6D8C9",
+      "alt": "Top-down view of a clean workspace featuring a keyboard, mouse, stylish glasses, and an open notebook.",
       "credit": {
-        "name": "EVG Kowalievska",
-        "link": "https://www.pexels.com/@kowalievska",
-        "photoLink": "https://www.pexels.com/photo/turned-on-silver-laptop-on-tabletop-1128207/"
+        "name": "Porapak Apichodilok",
+        "link": "https://www.pexels.com/@nurseryart",
+        "photoLink": "https://www.pexels.com/photo/white-and-yellow-notebook-placed-near-keyboard-and-eyeglasses-346731/"
       }
     },
     {
@@ -78,17 +78,17 @@
     },
     {
       "prompt": "nordic interior design",
-      "id": "37834298",
-      "url": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C7C7C5",
-      "alt": "A sleek and minimalist Scandinavian living room with white decor and electronics.",
+      "id": "6805417",
+      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6378,
+      "height": 4252,
+      "color": "#BDB0A7",
+      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-style-living-room-interior-37834298/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
       }
     }
   ]
