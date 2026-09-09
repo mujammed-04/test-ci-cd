@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-09T13:24:02.103Z",
+  "generatedAt": "2026-09-09T17:33:12.401Z",
   "photos": [
     {
-      "prompt": "grainy film",
-      "id": "10145752",
-      "url": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4484,
-      "height": 2989,
-      "color": "#535353",
-      "alt": "Close-up of a vintage 35mm film roll for color prints, emphasizing analog photography.",
-      "credit": {
-        "name": "hikmet a",
-        "link": "https://www.pexels.com/@hikmet-a-4166235",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-35mm-film-10145752/"
-      }
-    },
-    {
-      "prompt": "coastal storm clouds",
-      "id": "35611566",
-      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4125,
-      "color": "#5C5D58",
-      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
-      "credit": {
-        "name": "Jose Luis  Vanasco",
-        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
-        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "38687469",
-      "url": "https://images.pexels.com/photos/38687469/pexels-photo-38687469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38687469/pexels-photo-38687469.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3888,
-      "color": "#7B942C",
-      "alt": "Detailed macro shot of green leaf showing intricate vein patterns and textures.",
-      "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-view-of-leaf-vein-patterns-38687469/"
-      }
-    },
-    {
-      "prompt": "still life fruits",
-      "id": "3252136",
-      "url": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 21600,
-      "height": 14400,
-      "color": "#3D4047",
-      "alt": "Dark moody still life of fresh grapes and figs in a glass setting, highlighting autumn flavors.",
-      "credit": {
-        "name": "Tijana Drndarski",
-        "link": "https://www.pexels.com/@tijana-drndarski-449691",
-        "photoLink": "https://www.pexels.com/photo/variety-of-fruits-3252136/"
-      }
-    },
-    {
-      "prompt": "linen wood texture",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
-      "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
-      }
-    },
-    {
-      "prompt": "urban concrete walls",
-      "id": "13724794",
-      "url": "https://images.pexels.com/photos/13724794/pexels-photo-13724794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13724794/pexels-photo-13724794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "rustic brick wall",
+      "id": "2259233",
+      "url": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#9F9C97",
-      "alt": "A minimalist architectural design showcasing a concrete column against textured walls.",
+      "color": "#9C634F",
+      "alt": "Detailed image of a red brick wall, ideal for use as a background texture.",
       "credit": {
-        "name": "Chien Sihi",
-        "link": "https://www.pexels.com/@chien-sihi-323518613",
-        "photoLink": "https://www.pexels.com/photo/column-in-stone-building-exterior-13724794/"
+        "name": "Johannes Plenio",
+        "link": "https://www.pexels.com/@jplenio",
+        "photoLink": "https://www.pexels.com/photo/brown-and-black-brick-wall-2259233/"
+      }
+    },
+    {
+      "prompt": "stormy sea horizon",
+      "id": "27935784",
+      "url": "https://images.pexels.com/photos/27935784/pexels-photo-27935784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27935784/pexels-photo-27935784.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3375,
+      "color": "#555555",
+      "alt": "Black and white photo capturing a dramatic ocean horizon in New Port Richey, FL.",
+      "credit": {
+        "name": "Jacob Evans",
+        "link": "https://www.pexels.com/@jacob-evans-615198245",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-photo-of-a-cloudy-sky-over-the-ocean-27935784/"
+      }
+    },
+    {
+      "prompt": "scandinavian wood interior",
+      "id": "7061407",
+      "url": "https://images.pexels.com/photos/7061407/pexels-photo-7061407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7061407/pexels-photo-7061407.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7139,
+      "height": 4765,
+      "color": "#75776C",
+      "alt": "Round mirror hanging above sink with faucet and potted plant on wall made of panels in modern bathroom",
+      "credit": {
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/mirror-hanging-above-sink-in-bathroom-7061407/"
+      }
+    },
+    {
+      "prompt": "vintage tea set",
+      "id": "34788195",
+      "url": "https://images.pexels.com/photos/34788195/pexels-photo-34788195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34788195/pexels-photo-34788195.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3754,
+      "height": 2989,
+      "color": "#C1B4AE",
+      "alt": "Charming porcelain tea set with floral patterns arranged elegantly on a table.",
+      "credit": {
+        "name": "Cameron Basson",
+        "link": "https://www.pexels.com/@camerosinb",
+        "photoLink": "https://www.pexels.com/photo/elegant-tea-set-on-a-floral-table-setting-34788195/"
+      }
+    },
+    {
+      "prompt": "linen draped table",
+      "id": "1682545",
+      "url": "https://images.pexels.com/photos/1682545/pexels-photo-1682545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1682545/pexels-photo-1682545.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#606264",
+      "alt": "A beautifully arranged dining room with tables set for an event and a buffet table with refreshments.",
+      "credit": {
+        "name": "Vidal Balielo Jr.",
+        "link": "https://www.pexels.com/@vidalbalielojrfotografia",
+        "photoLink": "https://www.pexels.com/photo/dining-tables-1682545/"
+      }
+    },
+    {
+      "prompt": "metal workshop tools",
+      "id": "957090",
+      "url": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#524740",
+      "alt": "A collection of vintage workshop tools including a wrench, nail, and hammer displayed on a wooden table.",
+      "credit": {
+        "name": "Felix Mittermeier",
+        "link": "https://www.pexels.com/@felix-mittermeier",
+        "photoLink": "https://www.pexels.com/photo/combination-wrench-screw-bolt-and-pointed-top-hammer-957090/"
       }
     }
   ]
