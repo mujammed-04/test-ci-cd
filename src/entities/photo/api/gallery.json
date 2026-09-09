@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-08T23:49:28.858Z",
+  "generatedAt": "2026-09-09T03:05:39.852Z",
   "photos": [
     {
-      "prompt": "linen texture",
-      "id": "7794365",
-      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#C1B4AB",
-      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "prompt": "morning light",
+      "id": "29623051",
+      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3342,
+      "height": 2303,
+      "color": "#494134",
+      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
       "credit": {
-        "name": "Monstera Production",
-        "link": "https://www.pexels.com/@gabby-k",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+        "name": "zheng liang",
+        "link": "https://www.pexels.com/@zzzzlz",
+        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
       }
     },
     {
-      "prompt": "weathered wood",
-      "id": "14739617",
-      "url": "https://images.pexels.com/photos/14739617/pexels-photo-14739617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14739617/pexels-photo-14739617.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet architecture",
+      "id": "5395673",
+      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#876E5A",
+      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
+      "credit": {
+        "name": "taha balta",
+        "link": "https://www.pexels.com/@taha-balta-3031128",
+        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+      }
+    },
+    {
+      "prompt": "minimal desks",
+      "id": "6044844",
+      "url": "https://images.pexels.com/photos/6044844/pexels-photo-6044844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044844/pexels-photo-6044844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#7D7C76",
+      "alt": "Black and white of workspace of office with computers placed on table with wireless mouse and keyboard near smartphone",
+      "credit": {
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/modern-workplace-with-contemporary-expensive-computers-6044844/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "14637831",
+      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#706D66",
-      "alt": "Close-up view of a weathered wooden texture with rich, rough grain and natural weathering patterns.",
+      "color": "#52453F",
+      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
       "credit": {
-        "name": "Jessica Lewis 🦋 thepaintedsquare",
-        "link": "https://www.pexels.com/@thepaintedsquare",
-        "photoLink": "https://www.pexels.com/photo/ugly-wooden-wall-in-close-up-photography-14739617/"
+        "name": "Ayub Abdul Rahman",
+        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
+        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
       }
     },
     {
-      "prompt": "urban brick wall",
-      "id": "19528148",
-      "url": "https://images.pexels.com/photos/19528148/pexels-photo-19528148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19528148/pexels-photo-19528148.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#775339",
-      "alt": "Brick wall exterior with streetlight casting shadows and lush green hedge below.",
+      "prompt": "nordic interiors",
+      "id": "7303855",
+      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6133,
+      "height": 4089,
+      "color": "#BEB8AB",
+      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-streetlight-and-hedge-in-front-of-a-brick-wall-19528148/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "7718272",
-      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#314D22",
-      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
+      "prompt": "botanical detail",
+      "id": "20121245",
+      "url": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6631,
+      "height": 4421,
+      "color": "#2A3525",
+      "alt": "Detailed view of Matthiola sinuata leaves with intricate contours and vibrant green hues.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "32132450",
-      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#93705A",
-      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
-      "credit": {
-        "name": "Ánh Đặng",
-        "link": "https://www.pexels.com/@anhdanghihi",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
-      "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "name": "Nadine Ginzel",
+        "link": "https://www.pexels.com/@nadine-ginzel-80607840",
+        "photoLink": "https://www.pexels.com/photo/leaves-of-matthiola-sinuata-20121245/"
       }
     }
   ]
