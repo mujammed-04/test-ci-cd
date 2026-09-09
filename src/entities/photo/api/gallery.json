@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-09T08:37:11.822Z",
+  "generatedAt": "2026-09-09T13:24:02.103Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "11284847",
-      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B553D",
-      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
+      "prompt": "grainy film",
+      "id": "10145752",
+      "url": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4484,
+      "height": 2989,
+      "color": "#535353",
+      "alt": "Close-up of a vintage 35mm film roll for color prints, emphasizing analog photography.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
+        "name": "hikmet a",
+        "link": "https://www.pexels.com/@hikmet-a-4166235",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-35mm-film-10145752/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "20121245",
-      "url": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6631,
-      "height": 4421,
-      "color": "#2A3525",
-      "alt": "Detailed view of Matthiola sinuata leaves with intricate contours and vibrant green hues.",
+      "prompt": "coastal storm clouds",
+      "id": "35611566",
+      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4125,
+      "color": "#5C5D58",
+      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
       "credit": {
-        "name": "Nadine Ginzel",
-        "link": "https://www.pexels.com/@nadine-ginzel-80607840",
-        "photoLink": "https://www.pexels.com/photo/leaves-of-matthiola-sinuata-20121245/"
+        "name": "Jose Luis  Vanasco",
+        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
+        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "9493189",
-      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4737,
-      "height": 3153,
-      "color": "#68757E",
-      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "prompt": "botanical leaf detail",
+      "id": "38687469",
+      "url": "https://images.pexels.com/photos/38687469/pexels-photo-38687469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38687469/pexels-photo-38687469.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#7B942C",
+      "alt": "Detailed macro shot of green leaf showing intricate vein patterns and textures.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+        "name": "Ali Goode",
+        "link": "https://www.pexels.com/@ali-goode-2151511157",
+        "photoLink": "https://www.pexels.com/photo/close-up-view-of-leaf-vein-patterns-38687469/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "30397830",
-      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#C2BEBB",
-      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "prompt": "still life fruits",
+      "id": "3252136",
+      "url": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 21600,
+      "height": 14400,
+      "color": "#3D4047",
+      "alt": "Dark moody still life of fresh grapes and figs in a glass setting, highlighting autumn flavors.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+        "name": "Tijana Drndarski",
+        "link": "https://www.pexels.com/@tijana-drndarski-449691",
+        "photoLink": "https://www.pexels.com/photo/variety-of-fruits-3252136/"
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
+      "prompt": "linen wood texture",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
+      "prompt": "urban concrete walls",
+      "id": "13724794",
+      "url": "https://images.pexels.com/photos/13724794/pexels-photo-13724794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13724794/pexels-photo-13724794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "color": "#9F9C97",
+      "alt": "A minimalist architectural design showcasing a concrete column against textured walls.",
       "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+        "name": "Chien Sihi",
+        "link": "https://www.pexels.com/@chien-sihi-323518613",
+        "photoLink": "https://www.pexels.com/photo/column-in-stone-building-exterior-13724794/"
       }
     }
   ]
