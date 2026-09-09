@@ -1,79 +1,19 @@
 {
-  "generatedAt": "2026-09-09T03:05:39.852Z",
+  "generatedAt": "2026-09-09T08:37:11.822Z",
   "photos": [
     {
       "prompt": "morning light",
-      "id": "29623051",
-      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3342,
-      "height": 2303,
-      "color": "#494134",
-      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
+      "id": "11284847",
+      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B553D",
+      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
       "credit": {
-        "name": "zheng liang",
-        "link": "https://www.pexels.com/@zzzzlz",
-        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "5395673",
-      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#876E5A",
-      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
-      "credit": {
-        "name": "taha balta",
-        "link": "https://www.pexels.com/@taha-balta-3031128",
-        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
-      }
-    },
-    {
-      "prompt": "minimal desks",
-      "id": "6044844",
-      "url": "https://images.pexels.com/photos/6044844/pexels-photo-6044844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044844/pexels-photo-6044844.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#7D7C76",
-      "alt": "Black and white of workspace of office with computers placed on table with wireless mouse and keyboard near smartphone",
-      "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/modern-workplace-with-contemporary-expensive-computers-6044844/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "14637831",
-      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#52453F",
-      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
-      "credit": {
-        "name": "Ayub Abdul Rahman",
-        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
-        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
-      }
-    },
-    {
-      "prompt": "nordic interiors",
-      "id": "7303855",
-      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6133,
-      "height": 4089,
-      "color": "#BEB8AB",
-      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
-      "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
       }
     },
     {
@@ -89,6 +29,66 @@
         "name": "Nadine Ginzel",
         "link": "https://www.pexels.com/@nadine-ginzel-80607840",
         "photoLink": "https://www.pexels.com/photo/leaves-of-matthiola-sinuata-20121245/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "credit": {
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+      }
+    },
+    {
+      "prompt": "urban textures",
+      "id": "30397830",
+      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#C2BEBB",
+      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "credit": {
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+      }
+    },
+    {
+      "prompt": "nordic interiors",
+      "id": "8092417",
+      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6715,
+      "height": 4477,
+      "color": "#CFCECC",
+      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
+      "height": 4000,
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "credit": {
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
       }
     }
   ]
