@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-09T20:25:45.547Z",
+  "generatedAt": "2026-09-09T22:55:32.810Z",
   "photos": [
     {
-      "prompt": "linen wood",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "prompt": "handmade ceramics",
+      "id": "8063880",
+      "url": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5616,
+      "height": 3744,
+      "color": "#614738",
+      "alt": "Close-up of hands crafting pottery on a wheel, showcasing skill and artistry.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "name": "ROMAN ODINTSOV",
+        "link": "https://www.pexels.com/@roman-odintsov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-person-doing-pottery-8063880/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "37511476",
-      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1775,
-      "color": "#382E24",
-      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
+      "prompt": "analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
       "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "5846253",
-      "url": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#3C3B30",
-      "alt": "A selection of various tools scattered on a workbench in an industrial setting.",
+      "prompt": "minimal desk",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
       "credit": {
-        "name": "Tima Miroshnichenko",
-        "link": "https://www.pexels.com/@tima-miroshnichenko",
-        "photoLink": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "39200567",
+      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B4F41",
+      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
+      "credit": {
+        "name": "NEOSiAM 18+",
+        "link": "https://www.pexels.com/@neosiam",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
       }
     },
     {
       "prompt": "coastal weather",
-      "id": "63564",
-      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 19900,
-      "height": 3638,
-      "color": "#6E8081",
-      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
+      "id": "19999552",
+      "url": "https://images.pexels.com/photos/19999552/pexels-photo-19999552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19999552/pexels-photo-19999552.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#5C8BB7",
+      "alt": "A peaceful coastal beach scene with a vast cloudy sky, perfect for tranquil themes.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
+        "name": "Kathrine Birch",
+        "link": "https://www.pexels.com/@kathrinepnw",
+        "photoLink": "https://www.pexels.com/photo/clouds-and-sea-19999552/"
       }
     },
     {
       "prompt": "morning light",
-      "id": "36501697",
-      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 6144,
-      "color": "#675845",
-      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
+      "id": "7815314",
+      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1999,
+      "color": "#B79F7B",
+      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
       "credit": {
-        "name": "Arnu",
-        "link": "https://www.pexels.com/@arnu-2158905519",
-        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "28354605",
-      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6354,
-      "height": 4236,
-      "color": "#92A4BC",
-      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
+        "name": "Ch  SAAD",
+        "link": "https://www.pexels.com/@ch-saad-3019259",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
       }
     }
   ]
