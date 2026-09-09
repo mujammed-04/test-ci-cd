@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-09T17:33:12.401Z",
+  "generatedAt": "2026-09-09T20:25:45.547Z",
   "photos": [
     {
-      "prompt": "rustic brick wall",
-      "id": "2259233",
-      "url": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "linen wood",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "37511476",
+      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2659,
+      "height": 1775,
+      "color": "#382E24",
+      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
+      "credit": {
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "5846253",
+      "url": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#9C634F",
-      "alt": "Detailed image of a red brick wall, ideal for use as a background texture.",
+      "color": "#3C3B30",
+      "alt": "A selection of various tools scattered on a workbench in an industrial setting.",
       "credit": {
-        "name": "Johannes Plenio",
-        "link": "https://www.pexels.com/@jplenio",
-        "photoLink": "https://www.pexels.com/photo/brown-and-black-brick-wall-2259233/"
+        "name": "Tima Miroshnichenko",
+        "link": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoLink": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/"
       }
     },
     {
-      "prompt": "stormy sea horizon",
-      "id": "27935784",
-      "url": "https://images.pexels.com/photos/27935784/pexels-photo-27935784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27935784/pexels-photo-27935784.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#555555",
-      "alt": "Black and white photo capturing a dramatic ocean horizon in New Port Richey, FL.",
+      "prompt": "coastal weather",
+      "id": "63564",
+      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 19900,
+      "height": 3638,
+      "color": "#6E8081",
+      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
       "credit": {
-        "name": "Jacob Evans",
-        "link": "https://www.pexels.com/@jacob-evans-615198245",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-photo-of-a-cloudy-sky-over-the-ocean-27935784/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
       }
     },
     {
-      "prompt": "scandinavian wood interior",
-      "id": "7061407",
-      "url": "https://images.pexels.com/photos/7061407/pexels-photo-7061407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7061407/pexels-photo-7061407.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7139,
-      "height": 4765,
-      "color": "#75776C",
-      "alt": "Round mirror hanging above sink with faucet and potted plant on wall made of panels in modern bathroom",
+      "prompt": "morning light",
+      "id": "36501697",
+      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 6144,
+      "color": "#675845",
+      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/mirror-hanging-above-sink-in-bathroom-7061407/"
+        "name": "Arnu",
+        "link": "https://www.pexels.com/@arnu-2158905519",
+        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
       }
     },
     {
-      "prompt": "vintage tea set",
-      "id": "34788195",
-      "url": "https://images.pexels.com/photos/34788195/pexels-photo-34788195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34788195/pexels-photo-34788195.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3754,
-      "height": 2989,
-      "color": "#C1B4AE",
-      "alt": "Charming porcelain tea set with floral patterns arranged elegantly on a table.",
+      "prompt": "quiet architecture",
+      "id": "28354605",
+      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6354,
+      "height": 4236,
+      "color": "#92A4BC",
+      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
       "credit": {
-        "name": "Cameron Basson",
-        "link": "https://www.pexels.com/@camerosinb",
-        "photoLink": "https://www.pexels.com/photo/elegant-tea-set-on-a-floral-table-setting-34788195/"
-      }
-    },
-    {
-      "prompt": "linen draped table",
-      "id": "1682545",
-      "url": "https://images.pexels.com/photos/1682545/pexels-photo-1682545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1682545/pexels-photo-1682545.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#606264",
-      "alt": "A beautifully arranged dining room with tables set for an event and a buffet table with refreshments.",
-      "credit": {
-        "name": "Vidal Balielo Jr.",
-        "link": "https://www.pexels.com/@vidalbalielojrfotografia",
-        "photoLink": "https://www.pexels.com/photo/dining-tables-1682545/"
-      }
-    },
-    {
-      "prompt": "metal workshop tools",
-      "id": "957090",
-      "url": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#524740",
-      "alt": "A collection of vintage workshop tools including a wrench, nail, and hammer displayed on a wooden table.",
-      "credit": {
-        "name": "Felix Mittermeier",
-        "link": "https://www.pexels.com/@felix-mittermeier",
-        "photoLink": "https://www.pexels.com/photo/combination-wrench-screw-bolt-and-pointed-top-hammer-957090/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
       }
     }
   ]
