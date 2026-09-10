@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-10T10:37:15.747Z",
+  "generatedAt": "2026-09-10T14:48:45.077Z",
   "photos": [
     {
-      "prompt": "handmade ceramics",
-      "id": "6611423",
-      "url": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#7C6E69",
-      "alt": "Captivating close-up view of vibrant ceramic tableware on wooden shelves, showcasing artistic craftsmanship.",
+      "prompt": "rusty workshop tools",
+      "id": "5194769",
+      "url": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#9E816D",
+      "alt": "A vibrant assortment of various hand tools arranged in a pile. Ideal for construction themes.",
       "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/porcelain-plates-and-cups-6611423/"
+        "name": "Şahin Sezer Dinçer",
+        "link": "https://www.pexels.com/@sahinsezerdincer",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-assorted-tools-5194769/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "17905715",
-      "url": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6221,
-      "height": 4666,
-      "color": "#6E7176",
-      "alt": "Close-up of layered torn posters peeling from a textured urban wall, showcasing street art decay.",
+      "prompt": "analog film grain",
+      "id": "11938009",
+      "url": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2421,
+      "color": "#37322E",
+      "alt": "Close-up of hands holding a film roll and cigarette box in moody lighting.",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/remnants-of-torn-posters-on-the-wall-17905715/"
+        "name": "stayhereforu",
+        "link": "https://www.pexels.com/@stayhereforu-216201233",
+        "photoLink": "https://www.pexels.com/photo/film-roll-and-a-box-of-cigarettes-on-person-s-hands-11938009/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "gritty urban textures",
+      "id": "2463329",
+      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#6A7681",
+      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "26100751",
-      "url": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#646675",
-      "alt": "Peaceful ocean at sunset with dramatic clouds and gentle waves reflecting on the shore.",
+      "prompt": "minimalist nordic interior",
+      "id": "19866401",
+      "url": "https://images.pexels.com/photos/19866401/pexels-photo-19866401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19866401/pexels-photo-19866401.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5999,
+      "height": 4000,
+      "color": "#9A938B",
+      "alt": "Bright and stylish living room featuring modern furniture and elegant decor with natural light.",
       "credit": {
-        "name": "Bráulio jardim",
-        "link": "https://www.pexels.com/@braujardim",
-        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-shore-at-sunset-26100751/"
+        "name": "Lisa Anna",
+        "link": "https://www.pexels.com/@lisa-anna-901356985",
+        "photoLink": "https://www.pexels.com/photo/sofa-in-a-living-room-19866401/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "prompt": "stormy coastal weather",
+      "id": "63564",
+      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 19900,
+      "height": 3638,
+      "color": "#6E8081",
+      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "28493535",
-      "url": "https://images.pexels.com/photos/28493535/pexels-photo-28493535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28493535/pexels-photo-28493535.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6471,
-      "height": 4314,
-      "color": "#656565",
-      "alt": "Black and white photo of a serene park scene featuring trees and a modern wall.",
+      "prompt": "handcrafted ceramic vase",
+      "id": "17209708",
+      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5864,
+      "height": 3933,
+      "color": "#A8948F",
+      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
       "credit": {
-        "name": "정규송 Nui MALAMA",
-        "link": "https://www.pexels.com/@nui-malama-169330637",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-minimalist-park-scene-with-trees-28493535/"
+        "name": "Anna Romanova",
+        "link": "https://www.pexels.com/@anna-romanova-1406375",
+        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
       }
     }
   ]
