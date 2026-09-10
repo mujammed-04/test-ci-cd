@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-10T14:48:45.077Z",
+  "generatedAt": "2026-09-10T18:05:34.286Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "5194769",
-      "url": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#9E816D",
-      "alt": "A vibrant assortment of various hand tools arranged in a pile. Ideal for construction themes.",
+      "prompt": "handmade ceramics",
+      "id": "33703946",
+      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#4D3B2F",
+      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
       "credit": {
-        "name": "Şahin Sezer Dinçer",
-        "link": "https://www.pexels.com/@sahinsezerdincer",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-assorted-tools-5194769/"
+        "name": "Miguel González",
+        "link": "https://www.pexels.com/@mikegles",
+        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "11938009",
-      "url": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2421,
-      "color": "#37322E",
-      "alt": "Close-up of hands holding a film roll and cigarette box in moody lighting.",
+      "prompt": "minimalist desk",
+      "id": "6337",
+      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5331,
+      "height": 3554,
+      "color": "#CBCDD2",
+      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
       "credit": {
-        "name": "stayhereforu",
-        "link": "https://www.pexels.com/@stayhereforu-216201233",
-        "photoLink": "https://www.pexels.com/photo/film-roll-and-a-box-of-cigarettes-on-person-s-hands-11938009/"
+        "name": "Karolina Grabowska www.kaboompics.com",
+        "link": "https://www.pexels.com/@karola-g2",
+        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
       }
     },
     {
-      "prompt": "gritty urban textures",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "urban texture wall",
+      "id": "9530314",
+      "url": "https://images.pexels.com/photos/9530314/pexels-photo-9530314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9530314/pexels-photo-9530314.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "color": "#A66B65",
+      "alt": "A 30 km/h speed limit sign against a textured pink brick wall in an urban setting.",
       "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/speed-limit-sign-next-to-pink-brick-wall-9530314/"
       }
     },
     {
-      "prompt": "minimalist nordic interior",
-      "id": "19866401",
-      "url": "https://images.pexels.com/photos/19866401/pexels-photo-19866401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19866401/pexels-photo-19866401.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5999,
+      "prompt": "botanical leaf closeup",
+      "id": "1154634",
+      "url": "https://images.pexels.com/photos/1154634/pexels-photo-1154634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1154634/pexels-photo-1154634.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5297,
+      "height": 3749,
+      "color": "#586305",
+      "alt": "Detailed macro image of a leaf highlighting its vibrant green texture and veins in natural light.",
+      "credit": {
+        "name": "ClickerHappy",
+        "link": "https://www.pexels.com/@clickerhappy",
+        "photoLink": "https://www.pexels.com/photo/bright-close-up-color-flora-1154634/"
+      }
+    },
+    {
+      "prompt": "workshop hand tools",
+      "id": "5846253",
+      "url": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#9A938B",
-      "alt": "Bright and stylish living room featuring modern furniture and elegant decor with natural light.",
+      "color": "#3C3B30",
+      "alt": "A selection of various tools scattered on a workbench in an industrial setting.",
       "credit": {
-        "name": "Lisa Anna",
-        "link": "https://www.pexels.com/@lisa-anna-901356985",
-        "photoLink": "https://www.pexels.com/photo/sofa-in-a-living-room-19866401/"
+        "name": "Tima Miroshnichenko",
+        "link": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoLink": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/"
       }
     },
     {
-      "prompt": "stormy coastal weather",
-      "id": "63564",
-      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 19900,
-      "height": 3638,
-      "color": "#6E8081",
-      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
+      "prompt": "nordic interior scene",
+      "id": "34951508",
+      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#59544A",
+      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
-      }
-    },
-    {
-      "prompt": "handcrafted ceramic vase",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
-      "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+        "name": "Christian Ventura",
+        "link": "https://www.pexels.com/@arutnevv",
+        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
       }
     }
   ]
