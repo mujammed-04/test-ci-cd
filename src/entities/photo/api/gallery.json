@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-10T18:05:34.286Z",
+  "generatedAt": "2026-09-10T21:23:51.111Z",
   "photos": [
     {
-      "prompt": "handmade ceramics",
-      "id": "33703946",
-      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4D3B2F",
-      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
+      "prompt": "rusty workshop tools",
+      "id": "15102481",
+      "url": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6064,
+      "height": 3430,
+      "color": "#A48662",
+      "alt": "Collection of vintage hand drills with wooden handles on a rustic workbench.",
       "credit": {
-        "name": "Miguel González",
-        "link": "https://www.pexels.com/@mikegles",
-        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/vintage-rusty-tools-on-a-wooden-table-15102481/"
       }
     },
     {
-      "prompt": "minimalist desk",
-      "id": "6337",
-      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5331,
-      "height": 3554,
-      "color": "#CBCDD2",
-      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
+      "prompt": "stormy coastal sky",
+      "id": "1478521",
+      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8561,
+      "height": 5830,
+      "color": "#5F6C70",
+      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
       "credit": {
-        "name": "Karolina Grabowska www.kaboompics.com",
-        "link": "https://www.pexels.com/@karola-g2",
-        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
       }
     },
     {
-      "prompt": "urban texture wall",
-      "id": "9530314",
-      "url": "https://images.pexels.com/photos/9530314/pexels-photo-9530314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9530314/pexels-photo-9530314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#A66B65",
-      "alt": "A 30 km/h speed limit sign against a textured pink brick wall in an urban setting.",
+      "prompt": "vintage film grain",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/speed-limit-sign-next-to-pink-brick-wall-9530314/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "1154634",
-      "url": "https://images.pexels.com/photos/1154634/pexels-photo-1154634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1154634/pexels-photo-1154634.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5297,
-      "height": 3749,
-      "color": "#586305",
-      "alt": "Detailed macro image of a leaf highlighting its vibrant green texture and veins in natural light.",
+      "prompt": "linen wood texture",
+      "id": "7533977",
+      "url": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2592,
+      "height": 1728,
+      "color": "#CCBDA7",
+      "alt": "Detailed close-up of soft beige fabric showing texture and stitching.",
       "credit": {
-        "name": "ClickerHappy",
-        "link": "https://www.pexels.com/@clickerhappy",
-        "photoLink": "https://www.pexels.com/photo/bright-close-up-color-flora-1154634/"
+        "name": "amanda cavalcante",
+        "link": "https://www.pexels.com/@amandaaaaaaaa",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-white-fabric-7533977/"
       }
     },
     {
-      "prompt": "workshop hand tools",
-      "id": "5846253",
-      "url": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#3C3B30",
-      "alt": "A selection of various tools scattered on a workbench in an industrial setting.",
+      "prompt": "detailed botanical macro",
+      "id": "15130434",
+      "url": "https://images.pexels.com/photos/15130434/pexels-photo-15130434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15130434/pexels-photo-15130434.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3776,
+      "height": 2832,
+      "color": "#979797",
+      "alt": "Artistic black and white close-up of a blooming flower highlighting intricate details.",
       "credit": {
-        "name": "Tima Miroshnichenko",
-        "link": "https://www.pexels.com/@tima-miroshnichenko",
-        "photoLink": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/"
+        "name": "Sonny Sixteen",
+        "link": "https://www.pexels.com/@sonny",
+        "photoLink": "https://www.pexels.com/photo/blooming-flower-in-black-and-white-15130434/"
       }
     },
     {
-      "prompt": "nordic interior scene",
-      "id": "34951508",
-      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#59544A",
-      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
+      "prompt": "soft morning light",
+      "id": "1128796",
+      "url": "https://images.pexels.com/photos/1128796/pexels-photo-1128796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1128796/pexels-photo-1128796.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#CEA678",
+      "alt": "A tranquil meadow scene with sunlit wildflowers and soft focus, evoking a peaceful summer morning.",
       "credit": {
-        "name": "Christian Ventura",
-        "link": "https://www.pexels.com/@arutnevv",
-        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
+        "name": "Nathan Cowley",
+        "link": "https://www.pexels.com/@mastercowley",
+        "photoLink": "https://www.pexels.com/photo/shallow-focus-photo-of-green-plants-1128796/"
       }
     }
   ]
