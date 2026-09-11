@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-11T03:01:01.343Z",
+  "generatedAt": "2026-09-11T08:33:26.124Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "8063801",
-      "url": "https://images.pexels.com/photos/8063801/pexels-photo-8063801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8063801/pexels-photo-8063801.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5616,
-      "height": 3744,
-      "color": "#585858",
-      "alt": "Artisan uses a heat tool to shape pottery on a spinning wheel in a studio.",
+      "prompt": "workshop tools",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
       "credit": {
-        "name": "ROMAN ODINTSOV",
-        "link": "https://www.pexels.com/@roman-odintsov",
-        "photoLink": "https://www.pexels.com/photo/potter-using-a-blow-torch-to-dry-a-bowl-on-a-pottery-wheel-8063801/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
       }
     },
     {
-      "prompt": "minimalist stone facade",
-      "id": "34868971",
-      "url": "https://images.pexels.com/photos/34868971/pexels-photo-34868971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34868971/pexels-photo-34868971.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4600,
-      "height": 3056,
-      "color": "#C0AEA4",
-      "alt": "A minimalist design featuring a white architectural column against a textured stone wall.",
+      "prompt": "botanical detail",
+      "id": "38511748",
+      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#C6BB8E",
+      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
       "credit": {
-        "name": "Simeon Galabov",
-        "link": "https://www.pexels.com/@simeon-galabov-2156827852",
-        "photoLink": "https://www.pexels.com/photo/minimalist-architectural-column-with-textured-wall-34868971/"
+        "name": "Umut Hasanoğlu",
+        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
+        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
       }
     },
     {
-      "prompt": "linen wood table",
-      "id": "7118748",
-      "url": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimal desk",
+      "id": "8092507",
+      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6720,
       "height": 4480,
-      "color": "#807E79",
-      "alt": "Elegant dining setup featuring a single egg in a minimalist table setting, perfect for spring themes.",
+      "color": "#CCCBC9",
+      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
       "credit": {
-        "name": "Ivan S",
-        "link": "https://www.pexels.com/@ivan-s",
-        "photoLink": "https://www.pexels.com/photo/white-ceramic-plate-on-white-table-cloth-7118748/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
       }
     },
     {
-      "prompt": "vintage film grain",
-      "id": "9817433",
-      "url": "https://images.pexels.com/photos/9817433/pexels-photo-9817433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9817433/pexels-photo-9817433.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3620,
-      "height": 2415,
-      "color": "#929292",
-      "alt": "Monochrome negatives of vintage film. Nostalgic photography medium captured in black and white scenes.",
+      "prompt": "linen wood texture",
+      "id": "34860684",
+      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#5F5D5E",
+      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "credit": {
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "10813682",
+      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#6C5432",
+      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
       "credit": {
         "name": "Alexey Demidov",
         "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-camera-films-9817433/"
-      }
-    },
-    {
-      "prompt": "artful still life",
-      "id": "29946017",
-      "url": "https://images.pexels.com/photos/29946017/pexels-photo-29946017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29946017/pexels-photo-29946017.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#897D67",
-      "alt": "Creative art workspace featuring paints, brushes, and floral arrangement for vibrant projects.",
-      "credit": {
-        "name": "Sedanur Kunuk",
-        "link": "https://www.pexels.com/@sedanur-kunuk-78972032",
-        "photoLink": "https://www.pexels.com/photo/artistic-workspace-with-paint-and-tools-29946017/"
-      }
-    },
-    {
-      "prompt": "macro botanical detail",
-      "id": "15130434",
-      "url": "https://images.pexels.com/photos/15130434/pexels-photo-15130434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15130434/pexels-photo-15130434.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3776,
-      "height": 2832,
-      "color": "#979797",
-      "alt": "Artistic black and white close-up of a blooming flower highlighting intricate details.",
-      "credit": {
-        "name": "Sonny Sixteen",
-        "link": "https://www.pexels.com/@sonny",
-        "photoLink": "https://www.pexels.com/photo/blooming-flower-in-black-and-white-15130434/"
+        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
       }
     }
   ]
