@@ -1,68 +1,53 @@
 {
-  "generatedAt": "2026-09-11T08:33:26.124Z",
+  "generatedAt": "2026-09-11T13:13:49.233Z",
   "photos": [
     {
-      "prompt": "workshop tools",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "prompt": "Minimal desk",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "38511748",
-      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#C6BB8E",
-      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "prompt": "Workshop tools",
+      "id": "5963142",
+      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#536160",
+      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
       "credit": {
-        "name": "Umut Hasanoğlu",
-        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
-        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
+        "name": "Anna Tarazevich",
+        "link": "https://www.pexels.com/@anntarazevich",
+        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8092507",
-      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CCCBC9",
-      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
+      "prompt": "Botanical macro detail",
+      "id": "6452143",
+      "url": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3232,
+      "height": 2424,
+      "color": "#484848",
+      "alt": "Monochrome macro shot of leaves showcasing natural patterns and textures.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
+        "name": "Jason Stewart",
+        "link": "https://www.pexels.com/@jason-stewart-2831705",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-leaves-6452143/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34860684",
-      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#5F5D5E",
-      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
-      "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
+      "prompt": "Analogue film grain",
       "id": "27054254",
       "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -77,18 +62,33 @@
       }
     },
     {
-      "prompt": "morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
+      "prompt": "Linen wood texture",
+      "id": "7533977",
+      "url": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2592,
+      "height": 1728,
+      "color": "#CCBDA7",
+      "alt": "Detailed close-up of soft beige fabric showing texture and stitching.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
+        "name": "amanda cavalcante",
+        "link": "https://www.pexels.com/@amandaaaaaaaa",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-white-fabric-7533977/"
+      }
+    },
+    {
+      "prompt": "Coastal storm clouds",
+      "id": "15470680",
+      "url": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4759,
+      "height": 3152,
+      "color": "#868E99",
+      "alt": "Dark storm clouds form over a deserted beach, creating a dramatic seascape.",
+      "credit": {
+        "name": "Dijanynni Kiratza",
+        "link": "https://www.pexels.com/@dijanynni-kiratza-235375981",
+        "photoLink": "https://www.pexels.com/photo/rain-cloud-over-sea-shore-15470680/"
       }
     }
   ]
