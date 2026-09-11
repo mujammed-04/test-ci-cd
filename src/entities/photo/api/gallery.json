@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-11T13:13:49.233Z",
+  "generatedAt": "2026-09-11T17:30:23.993Z",
   "photos": [
     {
-      "prompt": "Minimal desk",
-      "id": "8473794",
-      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#B7AB95",
-      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
+      "prompt": "urban textures",
+      "id": "36924685",
+      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#786B5A",
+      "alt": "A textured wall with cracks and budding branches against it.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
+        "name": "Müca 🇩🇪",
+        "link": "https://www.pexels.com/@muca-2159917767",
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "5963142",
-      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#536160",
-      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
+      "prompt": "analog film grain",
+      "id": "11418937",
+      "url": "https://images.pexels.com/photos/11418937/pexels-photo-11418937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11418937/pexels-photo-11418937.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2031,
+      "color": "#4B4B4B",
+      "alt": "Black and white photo of a vintage Hasselblad camera on a table.",
       "credit": {
-        "name": "Anna Tarazevich",
-        "link": "https://www.pexels.com/@anntarazevich",
-        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-a-camera-11418937/"
       }
     },
     {
-      "prompt": "Botanical macro detail",
-      "id": "6452143",
-      "url": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3232,
-      "height": 2424,
-      "color": "#484848",
-      "alt": "Monochrome macro shot of leaves showcasing natural patterns and textures.",
+      "prompt": "morning light",
+      "id": "146231",
+      "url": "https://images.pexels.com/photos/146231/pexels-photo-146231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/146231/pexels-photo-146231.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5456,
+      "height": 3064,
+      "color": "#A47E49",
+      "alt": "Silhouette of city buildings against a vivid orange sunrise sky.",
       "credit": {
-        "name": "Jason Stewart",
-        "link": "https://www.pexels.com/@jason-stewart-2831705",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-leaves-6452143/"
+        "name": "George Becker",
+        "link": "https://www.pexels.com/@eye4dtail",
+        "photoLink": "https://www.pexels.com/photo/silhouette-of-buildings-during-sunset-146231/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "prompt": "botanical detail",
+      "id": "36560086",
+      "url": "https://images.pexels.com/photos/36560086/pexels-photo-36560086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36560086/pexels-photo-36560086.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#5F764A",
+      "alt": "Vivid green leaves captured in detail, showcasing natural textures and vibrant tones.",
       "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+        "name": "Primitive Spaces",
+        "link": "https://www.pexels.com/@primitive-spaces-2147980412",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-lush-green-leaves-with-natural-texture-36560086/"
       }
     },
     {
-      "prompt": "Linen wood texture",
-      "id": "7533977",
-      "url": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#CCBDA7",
-      "alt": "Detailed close-up of soft beige fabric showing texture and stitching.",
+      "prompt": "coastal weather",
+      "id": "26100751",
+      "url": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#646675",
+      "alt": "Peaceful ocean at sunset with dramatic clouds and gentle waves reflecting on the shore.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-white-fabric-7533977/"
+        "name": "Bráulio jardim",
+        "link": "https://www.pexels.com/@braujardim",
+        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-shore-at-sunset-26100751/"
       }
     },
     {
-      "prompt": "Coastal storm clouds",
-      "id": "15470680",
-      "url": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4759,
-      "height": 3152,
-      "color": "#868E99",
-      "alt": "Dark storm clouds form over a deserted beach, creating a dramatic seascape.",
+      "prompt": "linen wood",
+      "id": "7445133",
+      "url": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#A7937A",
+      "alt": "Top view of neatly folded linen fabric tied with twine on a wooden pallet, evoking natural simplicity.",
       "credit": {
-        "name": "Dijanynni Kiratza",
-        "link": "https://www.pexels.com/@dijanynni-kiratza-235375981",
-        "photoLink": "https://www.pexels.com/photo/rain-cloud-over-sea-shore-15470680/"
+        "name": "KATRIN  BOLOVTSOVA",
+        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoLink": "https://www.pexels.com/photo/folded-clothes-on-brown-wooden-table-7445133/"
       }
     }
   ]
