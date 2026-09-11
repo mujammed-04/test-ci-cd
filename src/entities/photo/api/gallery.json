@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-11T17:30:23.993Z",
+  "generatedAt": "2026-09-11T20:26:26.391Z",
   "photos": [
     {
-      "prompt": "urban textures",
-      "id": "36924685",
-      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#786B5A",
-      "alt": "A textured wall with cracks and budding branches against it.",
+      "prompt": "stormy coastline",
+      "id": "2419009",
+      "url": "https://images.pexels.com/photos/2419009/pexels-photo-2419009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2419009/pexels-photo-2419009.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4770,
+      "height": 3175,
+      "color": "#6F7A89",
+      "alt": "Powerful waves crash against rocks under a stormy sky in Sandnes, Norway.",
       "credit": {
-        "name": "Müca 🇩🇪",
-        "link": "https://www.pexels.com/@muca-2159917767",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-2419009/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "11418937",
-      "url": "https://images.pexels.com/photos/11418937/pexels-photo-11418937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11418937/pexels-photo-11418937.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2031,
-      "color": "#4B4B4B",
-      "alt": "Black and white photo of a vintage Hasselblad camera on a table.",
+      "prompt": "urban brick texture",
+      "id": "1696261",
+      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4989,
+      "height": 3326,
+      "color": "#8C726B",
+      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-a-camera-11418937/"
+        "name": "pasha kres",
+        "link": "https://www.pexels.com/@pashakres",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "146231",
-      "url": "https://images.pexels.com/photos/146231/pexels-photo-146231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/146231/pexels-photo-146231.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5456,
-      "height": 3064,
-      "color": "#A47E49",
-      "alt": "Silhouette of city buildings against a vivid orange sunrise sky.",
+      "prompt": "workshop tool bench",
+      "id": "12394619",
+      "url": "https://images.pexels.com/photos/12394619/pexels-photo-12394619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12394619/pexels-photo-12394619.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#574E47",
+      "alt": "Close-up of a cluttered workbench with various carpentry tools and equipment.",
       "credit": {
-        "name": "George Becker",
-        "link": "https://www.pexels.com/@eye4dtail",
-        "photoLink": "https://www.pexels.com/photo/silhouette-of-buildings-during-sunset-146231/"
+        "name": "Federico Tomasoni",
+        "link": "https://www.pexels.com/@fedetoom",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-different-tools-12394619/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "36560086",
-      "url": "https://images.pexels.com/photos/36560086/pexels-photo-36560086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36560086/pexels-photo-36560086.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#5F764A",
-      "alt": "Vivid green leaves captured in detail, showcasing natural textures and vibrant tones.",
+      "prompt": "linen wooden surface",
+      "id": "27007162",
+      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5824,
+      "height": 3740,
+      "color": "#B18E6E",
+      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
       "credit": {
-        "name": "Primitive Spaces",
-        "link": "https://www.pexels.com/@primitive-spaces-2147980412",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-lush-green-leaves-with-natural-texture-36560086/"
+        "name": "Sohan Rahat",
+        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "26100751",
-      "url": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#646675",
-      "alt": "Peaceful ocean at sunset with dramatic clouds and gentle waves reflecting on the shore.",
+      "prompt": "quiet architectural hallway",
+      "id": "796727",
+      "url": "https://images.pexels.com/photos/796727/pexels-photo-796727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/796727/pexels-photo-796727.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#575149",
+      "alt": "A tranquil outdoor corridor with brick arches and natural sunlight filtering through.",
       "credit": {
-        "name": "Bráulio jardim",
-        "link": "https://www.pexels.com/@braujardim",
-        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-shore-at-sunset-26100751/"
+        "name": "Tina Nord",
+        "link": "https://www.pexels.com/@nord6",
+        "photoLink": "https://www.pexels.com/photo/brown-concrete-hallway-796727/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "7445133",
-      "url": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#A7937A",
-      "alt": "Top view of neatly folded linen fabric tied with twine on a wooden pallet, evoking natural simplicity.",
+      "prompt": "handmade ceramic vase",
+      "id": "8063852",
+      "url": "https://images.pexels.com/photos/8063852/pexels-photo-8063852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8063852/pexels-photo-8063852.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5616,
+      "height": 3744,
+      "color": "#A98577",
+      "alt": "A beautiful display of assorted ceramic vases with varying colors and textures.",
       "credit": {
-        "name": "KATRIN  BOLOVTSOVA",
-        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
-        "photoLink": "https://www.pexels.com/photo/folded-clothes-on-brown-wooden-table-7445133/"
+        "name": "ROMAN ODINTSOV",
+        "link": "https://www.pexels.com/@roman-odintsov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vases-8063852/"
       }
     }
   ]
