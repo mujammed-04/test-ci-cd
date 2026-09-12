@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-12T18:56:53.465Z",
+  "generatedAt": "2026-09-12T21:18:02.905Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "622072",
-      "url": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2555,
-      "height": 1697,
-      "color": "#888886",
-      "alt": "Powerful ocean waves crash against rocky seashore at dusk, creating a dramatic seascape.",
-      "credit": {
-        "name": "Bella  White",
-        "link": "https://www.pexels.com/@bella-white-201200",
-        "photoLink": "https://www.pexels.com/photo/water-splashing-on-seashore-622072/"
-      }
-    },
-    {
-      "prompt": "quiet courtyard",
-      "id": "5864281",
-      "url": "https://images.pexels.com/photos/5864281/pexels-photo-5864281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5864281/pexels-photo-5864281.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5342,
-      "height": 3561,
-      "color": "#8A8889",
-      "alt": "A contemporary patio space with tables and stools, surrounded by modern architecture.",
-      "credit": {
-        "name": "Rachel Claire",
-        "link": "https://www.pexels.com/@rachel-claire",
-        "photoLink": "https://www.pexels.com/photo/empty-grey-building-patio-with-tables-and-stools-on-a-pavement-5864281/"
-      }
-    },
-    {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "6694722",
-      "url": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#CFBD98",
-      "alt": "A flat lay of various artistic ceramic plates and bowls on a white background.",
-      "credit": {
-        "name": "Antoni Shkraba",
-        "link": "https://www.pexels.com/@shkrabaanthony",
-        "photoLink": "https://www.pexels.com/photo/brown-ceramic-plates-on-white-surface-6694722/"
-      }
-    },
-    {
-      "prompt": "delicate leaf veins",
-      "id": "26291748",
-      "url": "https://images.pexels.com/photos/26291748/pexels-photo-26291748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26291748/pexels-photo-26291748.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3376,
-      "color": "#4C7E27",
-      "alt": "Detailed view of a fresh green papaya leaf displaying its intricate vein patterns.",
-      "credit": {
-        "name": "Duy Le Duc",
-        "link": "https://www.pexels.com/@duy-le-duc-1257907900",
-        "photoLink": "https://www.pexels.com/photo/fern-leaves-in-forest-26291748/"
-      }
-    },
-    {
-      "prompt": "metal workshop tools",
-      "id": "10290627",
-      "url": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#5B5138",
-      "alt": "Overhead view of a workshop scene with an angle grinder and welding helmet on a textured floor.",
-      "credit": {
-        "name": "Jonathan Cooper",
-        "link": "https://www.pexels.com/@theshuttervision",
-        "photoLink": "https://www.pexels.com/photo/helmet-and-an-electric-angle-grinder-10290627/"
-      }
-    },
-    {
       "prompt": "soft morning light",
-      "id": "28118363",
-      "url": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5314,
-      "height": 3543,
-      "color": "#786D40",
-      "alt": "Golden sunlight filters through trees in a misty forest landscape, capturing autumn's beauty.",
+      "id": "26632174",
+      "url": "https://images.pexels.com/photos/26632174/pexels-photo-26632174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26632174/pexels-photo-26632174.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#666644",
+      "alt": "Close-up of sunlit evergreen branches in a lush summer park setting, with scattered sunlight creating a tranquil atmosphere.",
       "credit": {
-        "name": "Stephen Leonardi",
-        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
-        "photoLink": "https://www.pexels.com/photo/a-field-with-trees-and-grass-in-the-sun-28118363/"
+        "name": "George Todoran",
+        "link": "https://www.pexels.com/@george-todoran-1445526814",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-tree-branches-in-a-park-26632174/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "570991",
+      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3862,
+      "height": 2895,
+      "color": "#594943",
+      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
+      "credit": {
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
+      }
+    },
+    {
+      "prompt": "linen wooden table",
+      "id": "6073809",
+      "url": "https://images.pexels.com/photos/6073809/pexels-photo-6073809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6073809/pexels-photo-6073809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#8D7962",
+      "alt": "Rustic table setting featuring dessert, citrus fruits, and warm candlelight ambiance.",
+      "credit": {
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/white-ceramic-plate-with-stainless-steel-fork-and-knife-on-table-6073809/"
+      }
+    },
+    {
+      "prompt": "handcrafted ceramic vase",
+      "id": "31553230",
+      "url": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#7B6760",
+      "alt": "Warm rustic still life with ceramic vases and dried flowers on a red mat indoors.",
+      "credit": {
+        "name": "🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳",
+        "link": "https://www.pexels.com/@nguy-n-ti-n-th-nh-2150376175",
+        "photoLink": "https://www.pexels.com/photo/rustic-indoor-still-life-with-ceramic-vases-31553230/"
+      }
+    },
+    {
+      "prompt": "quiet architectural facade",
+      "id": "35202239",
+      "url": "https://images.pexels.com/photos/35202239/pexels-photo-35202239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35202239/pexels-photo-35202239.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 3512,
+      "color": "#7C7A6D",
+      "alt": "Close-up of a building facade with windows and beige curtains, reflecting trees outside.",
+      "credit": {
+        "name": "Ayyeee Ayyeee",
+        "link": "https://www.pexels.com/@ayyeee-ayyeee-434363205",
+        "photoLink": "https://www.pexels.com/photo/modern-building-facade-with-curtain-window-35202239/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "28228014",
+      "url": "https://images.pexels.com/photos/28228014/pexels-photo-28228014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28228014/pexels-photo-28228014.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5016,
+      "height": 3344,
+      "color": "#7D796E",
+      "alt": "Sleek office desk with wireless keyboard, mouse, and modern decor, perfect for tech enthusiasts.",
+      "credit": {
+        "name": "Minh Phuc",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-keyboard-and-mouse-on-it-28228014/"
       }
     }
   ]
