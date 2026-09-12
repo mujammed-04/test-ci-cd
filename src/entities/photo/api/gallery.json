@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-12T05:32:48.056Z",
+  "generatedAt": "2026-09-12T10:05:46.838Z",
   "photos": [
     {
-      "prompt": "urban concrete texture",
-      "id": "9990278",
-      "url": "https://images.pexels.com/photos/9990278/pexels-photo-9990278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9990278/pexels-photo-9990278.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#939290",
-      "alt": "High-resolution image of a weathered and cracked concrete wall, perfect for texture background uses.",
+      "prompt": "analogue film grain",
+      "id": "19826486",
+      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4687,
+      "height": 3106,
+      "color": "#8B8B8B",
+      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/blue-and-white-abstract-painting-9990278/"
+        "name": "Misak Aghababyan",
+        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
       }
     },
     {
-      "prompt": "weathered wood grain",
-      "id": "7717790",
-      "url": "https://images.pexels.com/photos/7717790/pexels-photo-7717790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7717790/pexels-photo-7717790.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#484440",
-      "alt": "Detailed close-up of a rugged wooden texture, perfect for backgrounds and design projects.",
+      "prompt": "quiet architecture",
+      "id": "5395673",
+      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#876E5A",
+      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-gray-wood-surface-7717790/"
+        "name": "taha balta",
+        "link": "https://www.pexels.com/@taha-balta-3031128",
+        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "7718431",
-      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#8C5235",
-      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
+      "prompt": "botanical detail",
+      "id": "3894786",
+      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#223427",
+      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
+        "name": "Alice Castro",
+        "link": "https://www.pexels.com/@alicedecasttro",
+        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
       }
     },
     {
-      "prompt": "workshop metal tools",
-      "id": "4480531",
-      "url": "https://images.pexels.com/photos/4480531/pexels-photo-4480531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4480531/pexels-photo-4480531.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#323435",
-      "alt": "Flat lay of a complete toolset neatly organized in a workshop setting, essential for auto repair tasks.",
+      "prompt": "minimal desks",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/silver-and-blue-metal-tools-4480531/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
       }
     },
     {
-      "prompt": "still life fruit",
-      "id": "33729670",
-      "url": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#24201F",
-      "alt": "Colorful grapes and apple in a blue bowl on a black backdrop, perfect for food photography.",
+      "prompt": "workshop tools",
+      "id": "4140923",
+      "url": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5372,
+      "height": 3581,
+      "color": "#785C58",
+      "alt": "Top view collection of assorted instruments for printing machine placed on table in light typography workshop",
       "credit": {
-        "name": "Rafael Minguet Delgado",
-        "link": "https://www.pexels.com/@thales13",
-        "photoLink": "https://www.pexels.com/photo/vibrant-bowl-of-grapes-and-apple-on-black-background-33729670/"
+        "name": "Erik Mclean",
+        "link": "https://www.pexels.com/@introspectivedsgn",
+        "photoLink": "https://www.pexels.com/photo/set-of-professional-tools-for-printing-press-4140923/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "570991",
-      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3862,
-      "height": 2895,
-      "color": "#594943",
-      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
+      "prompt": "morning light",
+      "id": "11284847",
+      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B553D",
+      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
       }
     }
   ]
