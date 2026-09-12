@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-12T13:52:10.566Z",
+  "generatedAt": "2026-09-12T16:44:46.371Z",
   "photos": [
     {
-      "prompt": "linen wood",
-      "id": "6123304",
-      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5040,
-      "height": 3360,
-      "color": "#8A8E91",
-      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
+      "prompt": "rusty workshop tools",
+      "id": "27348524",
+      "url": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#554F43",
+      "alt": "A rusty industrial lathe in a vintage workshop setting showcasing metalwork machinery.",
       "credit": {
-        "name": "Rachel Claire",
-        "link": "https://www.pexels.com/@rachel-claire",
-        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
+        "name": "Marian  Cosnete",
+        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
+        "photoLink": "https://www.pexels.com/photo/a-machine-shop-with-a-lamp-and-a-machine-27348524/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "11156146",
-      "url": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5784,
-      "height": 3856,
-      "color": "#956D49",
-      "alt": "Tranquil sunrise over a misty field with bare trees and a winding dirt road.",
+      "prompt": "handmade ceramic bowl",
+      "id": "6739219",
+      "url": "https://images.pexels.com/photos/6739219/pexels-photo-6739219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6739219/pexels-photo-6739219.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5949,
+      "height": 3966,
+      "color": "#99846C",
+      "alt": "Top view of a collection of marble-textured ceramic bowls on a wooden surface.",
       "credit": {
-        "name": "Amir H. Bakhtiari",
-        "link": "https://www.pexels.com/@amir-h-bakhtiari-254523",
-        "photoLink": "https://www.pexels.com/photo/leafless-trees-near-dirt-road-11156146/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/ceramic-bowls-on-brown-wooden-surface-6739219/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "vintage still life",
+      "id": "10874297",
+      "url": "https://images.pexels.com/photos/10874297/pexels-photo-10874297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10874297/pexels-photo-10874297.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "color": "#AC937F",
+      "alt": "Artistic vintage tea cup surrounded by roses and cookies, perfect for cozy moments.",
       "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+        "name": "Ylanite Koppens",
+        "link": "https://www.pexels.com/@nietjuhart",
+        "photoLink": "https://www.pexels.com/photo/high-angle-shot-of-a-cup-of-coffee-and-roses-10874297/"
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "5953786",
-      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5778,
-      "height": 4000,
-      "color": "#A29F9A",
-      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
+      "prompt": "urban brick texture",
+      "id": "9756559",
+      "url": "https://images.pexels.com/photos/9756559/pexels-photo-9756559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9756559/pexels-photo-9756559.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#83726B",
+      "alt": "Detailed close-up of a weathered brick wall showcasing texture and earthy tones.",
       "credit": {
-        "name": "Claudia Schmalz",
-        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
-        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-9756559/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8473795",
-      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#BAB7A8",
-      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
+      "prompt": "soft morning light",
+      "id": "1128796",
+      "url": "https://images.pexels.com/photos/1128796/pexels-photo-1128796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1128796/pexels-photo-1128796.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#CEA678",
+      "alt": "A tranquil meadow scene with sunlit wildflowers and soft focus, evoking a peaceful summer morning.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
+        "name": "Nathan Cowley",
+        "link": "https://www.pexels.com/@mastercowley",
+        "photoLink": "https://www.pexels.com/photo/shallow-focus-photo-of-green-plants-1128796/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "6542520",
-      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
-      "height": 2048,
-      "color": "#8C7D6D",
-      "alt": "Modern white brick facade with geometric design in soft evening light.",
+      "prompt": "stormy coastal sky",
+      "id": "14920356",
+      "url": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5960,
+      "height": 3979,
+      "color": "#898F83",
+      "alt": "A dramatic scene of a storm approaching a sandy beach with rocks under a cloudy sky.",
       "credit": {
-        "name": "Sinitta Leunen",
-        "link": "https://www.pexels.com/@sinileunen",
-        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/rocks-and-a-tree-log-on-the-beach-under-a-stormy-sky-14920356/"
       }
     }
   ]
