@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-12T00:58:13.351Z",
+  "generatedAt": "2026-09-12T05:32:48.056Z",
   "photos": [
     {
-      "prompt": "urban textures",
-      "id": "17905715",
-      "url": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6221,
-      "height": 4666,
-      "color": "#6E7176",
-      "alt": "Close-up of layered torn posters peeling from a textured urban wall, showcasing street art decay.",
+      "prompt": "urban concrete texture",
+      "id": "9990278",
+      "url": "https://images.pexels.com/photos/9990278/pexels-photo-9990278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9990278/pexels-photo-9990278.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#939290",
+      "alt": "High-resolution image of a weathered and cracked concrete wall, perfect for texture background uses.",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/remnants-of-torn-posters-on-the-wall-17905715/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/blue-and-white-abstract-painting-9990278/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "9564681",
-      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5799,
+      "prompt": "weathered wood grain",
+      "id": "7717790",
+      "url": "https://images.pexels.com/photos/7717790/pexels-photo-7717790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7717790/pexels-photo-7717790.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#484440",
+      "alt": "Detailed close-up of a rugged wooden texture, perfect for backgrounds and design projects.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-gray-wood-surface-7717790/"
+      }
+    },
+    {
+      "prompt": "botanical leaf closeup",
+      "id": "7718431",
+      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8C5235",
+      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
+      }
+    },
+    {
+      "prompt": "workshop metal tools",
+      "id": "4480531",
+      "url": "https://images.pexels.com/photos/4480531/pexels-photo-4480531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4480531/pexels-photo-4480531.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#716956",
-      "alt": "A serene forest scene with sun rays through trees and morning fog.",
+      "color": "#323435",
+      "alt": "Flat lay of a complete toolset neatly organized in a workshop setting, essential for auto repair tasks.",
       "credit": {
-        "name": "Ludvig Hedenborg",
-        "link": "https://www.pexels.com/@ludvighedenborg",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/silver-and-blue-metal-tools-4480531/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "7057",
-      "url": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5362,
-      "height": 3575,
-      "color": "#929190",
-      "alt": "Minimalist home office workspace featuring a desktop computer, keyboard, and mouse on a white desk.",
+      "prompt": "still life fruit",
+      "id": "33729670",
+      "url": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#24201F",
+      "alt": "Colorful grapes and apple in a blue bowl on a black backdrop, perfect for food photography.",
       "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-apple-magic-mouse-and-apple-keyboard-7057/"
+        "name": "Rafael Minguet Delgado",
+        "link": "https://www.pexels.com/@thales13",
+        "photoLink": "https://www.pexels.com/photo/vibrant-bowl-of-grapes-and-apple-on-black-background-33729670/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "33000620",
-      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8256,
-      "height": 6192,
-      "color": "#7C716F",
-      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
+      "prompt": "coastal storm clouds",
+      "id": "570991",
+      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3862,
+      "height": 2895,
+      "color": "#594943",
+      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
       "credit": {
-        "name": "Tahir Xəlfəquliyev",
-        "link": "https://www.pexels.com/@tahir",
-        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "19157371",
-      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4128,
-      "color": "#999896",
-      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
-      "credit": {
-        "name": "Parveen Singh",
-        "link": "https://www.pexels.com/@psingh",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "30369053",
-      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#626D73",
-      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
-      "credit": {
-        "name": "Maria Suslova",
-        "link": "https://www.pexels.com/@maria-suslova-541493887",
-        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
       }
     }
   ]
