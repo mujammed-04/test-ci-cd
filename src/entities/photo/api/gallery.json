@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-13T03:10:35.444Z",
+  "generatedAt": "2026-09-13T13:39:42.979Z",
   "photos": [
     {
-      "prompt": "Nordic living room",
-      "id": "37834298",
-      "url": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C7C7C5",
-      "alt": "A sleek and minimalist Scandinavian living room with white decor and electronics.",
+      "prompt": "Nordic interior",
+      "id": "6805417",
+      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6378,
+      "height": 4252,
+      "color": "#BDB0A7",
+      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-style-living-room-interior-37834298/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
       }
     },
     {
-      "prompt": "Handcrafted ceramic bowl",
-      "id": "9304555",
-      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5509,
-      "height": 3672,
-      "color": "#AF9073",
-      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
+      "prompt": "Botanical detail",
+      "id": "35992427",
+      "url": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3376,
+      "color": "#594739",
+      "alt": "Detailed macro image of a cactus showing its unique texture and patterns.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
+        "name": "Nathan J Hilton",
+        "link": "https://www.pexels.com/@nathanjhilton",
+        "photoLink": "https://www.pexels.com/photo/close-up-macro-of-cactus-texture-and-detail-35992427/"
       }
     },
     {
-      "prompt": "Botanical leaf closeup",
-      "id": "7718272",
-      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#314D22",
-      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
+      "prompt": "Quiet architecture",
+      "id": "28354605",
+      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6354,
+      "height": 4236,
+      "color": "#92A4BC",
+      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
       }
     },
     {
-      "prompt": "Coastal storm clouds",
-      "id": "35611566",
-      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4125,
-      "color": "#5C5D58",
-      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
+      "prompt": "Coastal weather",
+      "id": "132709",
+      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 2814,
+      "color": "#878F8A",
+      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
       "credit": {
-        "name": "Jose Luis  Vanasco",
-        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
-        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
+        "name": "Snapwire",
+        "link": "https://www.pexels.com/@snapwire",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
       }
     },
     {
-      "prompt": "Linen draped wood",
-      "id": "6843278",
-      "url": "https://images.pexels.com/photos/6843278/pexels-photo-6843278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6843278/pexels-photo-6843278.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5527,
-      "height": 3685,
-      "color": "#B0B1C0",
-      "alt": "Detailed shot of textured and crumpled white fabric, perfect for backgrounds.",
+      "prompt": "Minimal desk",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "Antoni Shkraba",
-        "link": "https://www.pexels.com/@shkrabaanthony",
-        "photoLink": "https://www.pexels.com/photo/photo-of-gray-textile-6843278/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "Vintage still life",
-      "id": "31815932",
-      "url": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5327,
-      "height": 3551,
-      "color": "#6B4F37",
-      "alt": "A classic vintage camera in a leather case displayed in an antique shop setting.",
+      "prompt": "Handmade ceramics",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
       "credit": {
-        "name": "Aleksandar Spasojevic",
-        "link": "https://www.pexels.com/@spal",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-leather-case-in-antique-shop-31815932/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     }
   ]
