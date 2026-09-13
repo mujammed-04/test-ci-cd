@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-12T23:43:50.002Z",
+  "generatedAt": "2026-09-13T03:10:35.444Z",
   "photos": [
     {
-      "prompt": "rustic workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
-      "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
-      }
-    },
-    {
-      "prompt": "minimalist desk setup",
-      "id": "17136619",
-      "url": "https://images.pexels.com/photos/17136619/pexels-photo-17136619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17136619/pexels-photo-17136619.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#4E473D",
-      "alt": "Stylish home office setup with tech gadgets, large monitor, and modern decor.",
-      "credit": {
-        "name": "Pew Nguyen",
-        "link": "https://www.pexels.com/@nguyendesigner",
-        "photoLink": "https://www.pexels.com/photo/computer-on-a-desk-in-a-bedroom-17136619/"
-      }
-    },
-    {
-      "prompt": "still life composition",
-      "id": "37511476",
-      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1775,
-      "color": "#382E24",
-      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
-      "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
-      }
-    },
-    {
-      "prompt": "coastal storm clouds",
-      "id": "18898633",
-      "url": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6007,
-      "height": 4010,
-      "color": "#6F665D",
-      "alt": "Dark storm clouds gather menacingly over a deserted beach by the ocean.",
-      "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/hurricane-over-sea-18898633/"
-      }
-    },
-    {
-      "prompt": "nordic interior design",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Nordic living room",
+      "id": "37834298",
+      "url": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5568,
       "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "color": "#C7C7C5",
+      "alt": "A sleek and minimalist Scandinavian living room with white decor and electronics.",
       "credit": {
         "name": "Margo Evardson",
         "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-style-living-room-interior-37834298/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34860687",
-      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#272727",
-      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
+      "prompt": "Handcrafted ceramic bowl",
+      "id": "9304555",
+      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5509,
+      "height": 3672,
+      "color": "#AF9073",
+      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
+      }
+    },
+    {
+      "prompt": "Botanical leaf closeup",
+      "id": "7718272",
+      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#314D22",
+      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
+      }
+    },
+    {
+      "prompt": "Coastal storm clouds",
+      "id": "35611566",
+      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4125,
+      "color": "#5C5D58",
+      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
+      "credit": {
+        "name": "Jose Luis  Vanasco",
+        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
+        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
+      }
+    },
+    {
+      "prompt": "Linen draped wood",
+      "id": "6843278",
+      "url": "https://images.pexels.com/photos/6843278/pexels-photo-6843278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6843278/pexels-photo-6843278.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5527,
+      "height": 3685,
+      "color": "#B0B1C0",
+      "alt": "Detailed shot of textured and crumpled white fabric, perfect for backgrounds.",
+      "credit": {
+        "name": "Antoni Shkraba",
+        "link": "https://www.pexels.com/@shkrabaanthony",
+        "photoLink": "https://www.pexels.com/photo/photo-of-gray-textile-6843278/"
+      }
+    },
+    {
+      "prompt": "Vintage still life",
+      "id": "31815932",
+      "url": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5327,
+      "height": 3551,
+      "color": "#6B4F37",
+      "alt": "A classic vintage camera in a leather case displayed in an antique shop setting.",
+      "credit": {
+        "name": "Aleksandar Spasojevic",
+        "link": "https://www.pexels.com/@spal",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-leather-case-in-antique-shop-31815932/"
       }
     }
   ]
