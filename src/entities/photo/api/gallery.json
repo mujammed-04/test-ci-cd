@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-13T13:39:42.979Z",
+  "generatedAt": "2026-09-13T17:15:19.484Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "6805417",
-      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6378,
-      "height": 4252,
-      "color": "#BDB0A7",
-      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
+      "prompt": "linen wood texture",
+      "id": "34860684",
+      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#5F5D5E",
+      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
+      }
+    },
+    {
+      "prompt": "minimal desk",
+      "id": "8092507",
+      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CCCBC9",
+      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
       "credit": {
         "name": "https://kaboompics.com/",
         "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
+        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
       }
     },
     {
-      "prompt": "Botanical detail",
-      "id": "35992427",
-      "url": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3376,
-      "color": "#594739",
-      "alt": "Detailed macro image of a cactus showing its unique texture and patterns.",
+      "prompt": "urban textures",
+      "id": "1101123",
+      "url": "https://images.pexels.com/photos/1101123/pexels-photo-1101123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1101123/pexels-photo-1101123.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3984,
+      "height": 2656,
+      "color": "#BDBCB7",
+      "alt": "Close-up of textured brick wall with abstract graffiti, showing weathered surface.",
       "credit": {
-        "name": "Nathan J Hilton",
-        "link": "https://www.pexels.com/@nathanjhilton",
-        "photoLink": "https://www.pexels.com/photo/close-up-macro-of-cactus-texture-and-detail-35992427/"
+        "name": "Madison Inouye",
+        "link": "https://www.pexels.com/@mdsnmdsnmdsn",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-abstract-painting-1101123/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "28354605",
-      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6354,
-      "height": 4236,
-      "color": "#92A4BC",
-      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
+      "prompt": "analogue film grain",
+      "id": "20937747",
+      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3954,
+      "height": 2666,
+      "color": "#98A2A4",
+      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
+        "name": "Nam Quân Nguyễn",
+        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
+        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
       }
     },
     {
-      "prompt": "Coastal weather",
-      "id": "132709",
-      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2814,
-      "color": "#878F8A",
-      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
+      "prompt": "morning light",
+      "id": "11284847",
+      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B553D",
+      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
       "credit": {
-        "name": "Snapwire",
-        "link": "https://www.pexels.com/@snapwire",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
       }
     },
     {
-      "prompt": "Minimal desk",
-      "id": "8473794",
-      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#B7AB95",
-      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
+      "prompt": "coastal weather",
+      "id": "26100751",
+      "url": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26100751/pexels-photo-26100751.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#646675",
+      "alt": "Peaceful ocean at sunset with dramatic clouds and gentle waves reflecting on the shore.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
-      }
-    },
-    {
-      "prompt": "Handmade ceramics",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
-      "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "name": "Bráulio jardim",
+        "link": "https://www.pexels.com/@braujardim",
+        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-shore-at-sunset-26100751/"
       }
     }
   ]
