@@ -1,68 +1,38 @@
 {
-  "generatedAt": "2026-09-14T05:47:04.939Z",
+  "generatedAt": "2026-09-14T11:48:14.751Z",
   "photos": [
     {
       "prompt": "analogue film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "35658708",
-      "url": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#635344",
-      "alt": "Close-up view of a weathered brick wall with peeling plaster and textured patterns.",
+      "prompt": "quiet architecture",
+      "id": "30227710",
+      "url": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#3B586A",
+      "alt": "Sharp angles of a minimalist building against a clear blue sky, showcasing modern design.",
       "credit": {
-        "name": "Francesco Paggiaro",
-        "link": "https://www.pexels.com/@paggiarofrancesco",
-        "photoLink": "https://www.pexels.com/photo/textured-brick-and-plaster-wall-close-up-35658708/"
+        "name": "Matthew Jesús",
+        "link": "https://www.pexels.com/@matthew-jesus-468170389",
+        "photoLink": "https://www.pexels.com/photo/minimalist-modern-architecture-against-blue-sky-30227710/"
       }
     },
     {
-      "prompt": "still life ceramics",
-      "id": "7119222",
-      "url": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6650,
-      "height": 4433,
-      "color": "#796761",
-      "alt": "Two handcrafted ceramic vases with textured patterns set against a subtle backdrop.",
-      "credit": {
-        "name": "Ivan S",
-        "link": "https://www.pexels.com/@ivan-s",
-        "photoLink": "https://www.pexels.com/photo/ceramic-vases-on-a-white-surface-7119222/"
-      }
-    },
-    {
-      "prompt": "handmade pottery",
-      "id": "18486386",
-      "url": "https://images.pexels.com/photos/18486386/pexels-photo-18486386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18486386/pexels-photo-18486386.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3190,
-      "height": 2683,
-      "color": "#786956",
-      "alt": "Close-up of hands shaping pottery on a wheel, showcasing artisan skills.",
-      "credit": {
-        "name": "igovar igovar",
-        "link": "https://www.pexels.com/@igovar-igovar-3000547",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-person-forming-the-clay-on-a-pottery-wheel-18486386/"
-      }
-    },
-    {
-      "prompt": "nordic interiors",
+      "prompt": "nordic interior",
       "id": "37173283",
       "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -77,18 +47,48 @@
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "5420527",
-      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4368,
-      "height": 2912,
-      "color": "#C1B8A8",
-      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
+      "prompt": "workshop tools",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+      }
+    },
+    {
+      "prompt": "urban texture",
+      "id": "2463329",
+      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#6A7681",
+      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "credit": {
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "5978657",
+      "url": "https://images.pexels.com/photos/5978657/pexels-photo-5978657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5978657/pexels-photo-5978657.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#8F7863",
+      "alt": "Close-up of a beige, textured flower showing intricate seeds and natural beauty.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-beige-flower-seeds-5978657/"
       }
     }
   ]
