@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-14T17:41:47.860Z",
+  "generatedAt": "2026-09-14T21:28:46.507Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "6542520",
-      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
-      "height": 2048,
-      "color": "#8C7D6D",
-      "alt": "Modern white brick facade with geometric design in soft evening light.",
-      "credit": {
-        "name": "Sinitta Leunen",
-        "link": "https://www.pexels.com/@sinileunen",
-        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
-      }
-    },
-    {
       "prompt": "linen wood",
-      "id": "17994857",
-      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#968677",
-      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
+      "id": "1122167",
+      "url": "https://images.pexels.com/photos/1122167/pexels-photo-1122167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1122167/pexels-photo-1122167.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5830,
+      "height": 3900,
+      "color": "#88A3AF",
+      "alt": "Close-up of white laundry drying on a clothesline under a clear blue sky.",
       "credit": {
-        "name": "Osmany Mederos",
-        "link": "https://www.pexels.com/@osmany-mederos-211956483",
-        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
+        "name": "ClickerHappy",
+        "link": "https://www.pexels.com/@clickerhappy",
+        "photoLink": "https://www.pexels.com/photo/white-textile-1122167/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "5953786",
-      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5778,
-      "height": 4000,
-      "color": "#A29F9A",
-      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
+      "prompt": "handmade ceramics",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
       "credit": {
-        "name": "Claudia Schmalz",
-        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
-        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     },
     {
       "prompt": "morning light",
-      "id": "38958556",
-      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#6C4E12",
-      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "id": "13009040",
+      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#352C23",
+      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
       "credit": {
-        "name": "meryem",
-        "link": "https://www.pexels.com/@meryem-2157128767",
-        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+        "name": "Erik Schereder",
+        "link": "https://www.pexels.com/@erik-schereder-3173655",
+        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "39200567",
-      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B4F41",
-      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
+      "prompt": "analogue film grain",
+      "id": "9941176",
+      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1698,
+      "color": "#41494C",
+      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
       "credit": {
-        "name": "NEOSiAM 18+",
-        "link": "https://www.pexels.com/@neosiam",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
+        "name": "Karina Guseva",
+        "link": "https://www.pexels.com/@karina-guseva-101151339",
+        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "6044914",
-      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#5B5B59",
-      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
+      "prompt": "minimal desks",
+      "id": "8473795",
+      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#BAB7A8",
+      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
+      }
+    },
+    {
+      "prompt": "urban textures",
+      "id": "9990207",
+      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#B4B5B7",
+      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
+      "credit": {
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
       }
     }
   ]
