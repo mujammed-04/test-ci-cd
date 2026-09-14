@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-13T22:51:56.315Z",
+  "generatedAt": "2026-09-14T00:42:55.981Z",
   "photos": [
     {
-      "prompt": "rusty wrench",
-      "id": "32777398",
-      "url": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "dew covered leaf",
+      "id": "33808753",
+      "url": "https://images.pexels.com/photos/33808753/pexels-photo-33808753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33808753/pexels-photo-33808753.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 5504,
+      "color": "#63783F",
+      "alt": "Fresh strawberry leaves with dew drops, captured in soft morning light in a natural outdoor setting.",
+      "credit": {
+        "name": "Sergej  *****",
+        "link": "https://www.pexels.com/@strannik-sk",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-dew-covered-strawberry-leaves-in-morning-light-33808753/"
+      }
+    },
+    {
+      "prompt": "ceramic fruit bowl",
+      "id": "6874181",
+      "url": "https://images.pexels.com/photos/6874181/pexels-photo-6874181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6874181/pexels-photo-6874181.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#363636",
-      "alt": "Black and white photo of a rustic workbench with wrenches and tools in a vintage setting.",
+      "color": "#8B867F",
+      "alt": "Crop faceless female in warm sweater sitting at glass table with bowl of fresh ripe mandarins and vase in daylight",
       "credit": {
-        "name": "MD. Raktim Raze",
-        "link": "https://www.pexels.com/@roktim619",
-        "photoLink": "https://www.pexels.com/photo/monochrome-industrial-workbench-with-tools-32777398/"
+        "name": "Teona Swift",
+        "link": "https://www.pexels.com/@teona-swift",
+        "photoLink": "https://www.pexels.com/photo/bowl-with-fresh-tangerines-served-on-table-near-crop-unrecognizable-woman-6874181/"
       }
     },
     {
-      "prompt": "vintage toolbox",
-      "id": "32777398",
-      "url": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#363636",
-      "alt": "Black and white photo of a rustic workbench with wrenches and tools in a vintage setting.",
+      "prompt": "white pine interior",
+      "id": "18531706",
+      "url": "https://images.pexels.com/photos/18531706/pexels-photo-18531706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18531706/pexels-photo-18531706.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3035,
+      "height": 2433,
+      "color": "#636C69",
+      "alt": "A serene view of snow-covered evergreen trees in a lush winter forest.",
       "credit": {
-        "name": "MD. Raktim Raze",
-        "link": "https://www.pexels.com/@roktim619",
-        "photoLink": "https://www.pexels.com/photo/monochrome-industrial-workbench-with-tools-32777398/"
+        "name": "Alfo Medeiros",
+        "link": "https://www.pexels.com/@alfomedeiros",
+        "photoLink": "https://www.pexels.com/photo/snow-on-evergreen-trees-18531706/"
       }
     },
     {
-      "prompt": "quiet courtyard",
-      "id": "39318312",
-      "url": "https://images.pexels.com/photos/39318312/pexels-photo-39318312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39318312/pexels-photo-39318312.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#6E675F",
-      "alt": "A quiet urban courtyard with a man sitting, surrounded by laundry and plants, capturing everyday life.",
+      "prompt": "stormy sea horizon",
+      "id": "18553966",
+      "url": "https://images.pexels.com/photos/18553966/pexels-photo-18553966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18553966/pexels-photo-18553966.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#A1A395",
+      "alt": "Tranquil seascape with waves crashing under an overcast sky, capturing nature's calm and power.",
       "credit": {
-        "name": "Amine Mayoufi",
-        "link": "https://www.pexels.com/@nomino",
-        "photoLink": "https://www.pexels.com/photo/urban-courtyard-with-man-sitting-outdoors-39318312/"
+        "name": "Serg Alesenko",
+        "link": "https://www.pexels.com/@sergk1",
+        "photoLink": "https://www.pexels.com/photo/seascape-with-cloudy-sky-18553966/"
       }
     },
     {
-      "prompt": "brick façade",
-      "id": "19626722",
-      "url": "https://images.pexels.com/photos/19626722/pexels-photo-19626722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19626722/pexels-photo-19626722.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4915,
-      "height": 3277,
-      "color": "#815940",
-      "alt": "Close-up view of elegant brick columns forming a repetitive architectural pattern.",
+      "prompt": "soft sunrise glow",
+      "id": "7515790",
+      "url": "https://images.pexels.com/photos/7515790/pexels-photo-7515790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7515790/pexels-photo-7515790.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4381,
+      "height": 2907,
+      "color": "#919497",
+      "alt": "A serene aerial view capturing clouds at dawn, illuminated by the warm glow of sunlight.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/wall-and-columns-in-clinker-bricks-19626722/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/clear-sky-above-clouds-7515790/"
       }
     },
     {
-      "prompt": "stormy coastline",
-      "id": "622072",
-      "url": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2555,
-      "height": 1697,
-      "color": "#888886",
-      "alt": "Powerful ocean waves crash against rocky seashore at dusk, creating a dramatic seascape.",
+      "prompt": "minimal wooden desk",
+      "id": "19554898",
+      "url": "https://images.pexels.com/photos/19554898/pexels-photo-19554898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19554898/pexels-photo-19554898.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#8C7E73",
+      "alt": "Sleek and stylish home office desk featuring a modern computer, notepad, and decor.",
       "credit": {
-        "name": "Bella  White",
-        "link": "https://www.pexels.com/@bella-white-201200",
-        "photoLink": "https://www.pexels.com/photo/water-splashing-on-seashore-622072/"
-      }
-    },
-    {
-      "prompt": "soft morning light",
-      "id": "28118363",
-      "url": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5314,
-      "height": 3543,
-      "color": "#786D40",
-      "alt": "Golden sunlight filters through trees in a misty forest landscape, capturing autumn's beauty.",
-      "credit": {
-        "name": "Stephen Leonardi",
-        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
-        "photoLink": "https://www.pexels.com/photo/a-field-with-trees-and-grass-in-the-sun-28118363/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/computer-on-desk-19554898/"
       }
     }
   ]
