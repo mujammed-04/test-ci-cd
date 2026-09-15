@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-15T11:04:31.363Z",
+  "generatedAt": "2026-09-15T16:15:15.668Z",
   "photos": [
     {
-      "prompt": "urban brick walls",
-      "id": "1101125",
-      "url": "https://images.pexels.com/photos/1101125/pexels-photo-1101125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1101125/pexels-photo-1101125.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4096,
-      "height": 2730,
-      "color": "#966050",
-      "alt": "Red brick wall with striking shadows creating a textured pattern.",
+      "prompt": "grainy analogue film",
+      "id": "12389809",
+      "url": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1748,
+      "color": "#2C2A1E",
+      "alt": "A close-up of a hand holding a film roll against a dark background, emphasizing vintage photography.",
       "credit": {
-        "name": "Madison Inouye",
-        "link": "https://www.pexels.com/@mdsnmdsnmdsn",
-        "photoLink": "https://www.pexels.com/photo/photo-of-brickwall-1101125/"
+        "name": "stayhereforu",
+        "link": "https://www.pexels.com/@stayhereforu-216201233",
+        "photoLink": "https://www.pexels.com/photo/person-holding-camera-film-12389809/"
       }
     },
     {
-      "prompt": "weathered concrete surface",
-      "id": "12738868",
-      "url": "https://images.pexels.com/photos/12738868/pexels-photo-12738868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12738868/pexels-photo-12738868.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "urban concrete textures",
+      "id": "9990207",
+      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4032,
-      "height": 3024,
-      "color": "#BBBBBB",
-      "alt": "High-resolution image of a rustic gray stone wall with textured pattern.",
+      "height": 2268,
+      "color": "#B4B5B7",
+      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
       "credit": {
         "name": "Krakograff Textures",
         "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/gray-rough-wall-12738868/"
+        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
       }
     },
     {
-      "prompt": "linen wood table",
-      "id": "39338444",
-      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2560,
-      "color": "#9A9591",
-      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "6694722",
+      "url": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#CFBD98",
+      "alt": "A flat lay of various artistic ceramic plates and bowls on a white background.",
       "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
+        "name": "Antoni Shkraba",
+        "link": "https://www.pexels.com/@shkrabaanthony",
+        "photoLink": "https://www.pexels.com/photo/brown-ceramic-plates-on-white-surface-6694722/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "997565",
-      "url": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3086,
-      "height": 3080,
-      "color": "#6A676A",
-      "alt": "Snow-covered branches create a serene winter ambiance against a neutral background.",
+      "prompt": "botanical fern detail",
+      "id": "37894940",
+      "url": "https://images.pexels.com/photos/37894940/pexels-photo-37894940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37894940/pexels-photo-37894940.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#153B2C",
+      "alt": "Detailed view of a green fern leaf showcasing its intricate, natural texture.",
       "credit": {
-        "name": "Alissa Nabiullina",
-        "link": "https://www.pexels.com/@alissa-nabiullina-367960",
-        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-white-clustered-flowers-997565/"
+        "name": "高 长华",
+        "link": "https://www.pexels.com/@2160634325",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-fern-leaf-with-natural-texture-37894940/"
       }
     },
     {
-      "prompt": "workshop tool bench",
-      "id": "30688207",
-      "url": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#513F3B",
-      "alt": "Explore a vintage blacksmith workshop filled with traditional tools and rustic charm.",
+      "prompt": "quiet minimalist building",
+      "id": "373488",
+      "url": "https://images.pexels.com/photos/373488/pexels-photo-373488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/373488/pexels-photo-373488.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5198,
+      "height": 3465,
+      "color": "#A9B0B9",
+      "alt": "A bright, empty hallway with open doors providing a clear perspective and ample daylight.",
       "credit": {
-        "name": "Denys Gromov",
-        "link": "https://www.pexels.com/@jdgromov",
-        "photoLink": "https://www.pexels.com/photo/rustic-blacksmith-workshop-with-tools-and-anvil-30688207/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/white-wall-paint-hallway-373488/"
       }
     },
     {
-      "prompt": "nordic living room",
-      "id": "37816601",
-      "url": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4F3B32",
-      "alt": "Cozy indoor sauna featuring dark wood, LED lighting, and a stone heater for a relaxing experience.",
+      "prompt": "coastal windy shoreline",
+      "id": "20017582",
+      "url": "https://images.pexels.com/photos/20017582/pexels-photo-20017582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20017582/pexels-photo-20017582.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#686F75",
+      "alt": "Captivating view of the ocean waves crashing against rocky shores under overcast skies.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-sauna-with-wooden-design-and-heater-37816601/"
+        "name": "Kevin Liberatori",
+        "link": "https://www.pexels.com/@kevin-liberatori-421914863",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-sea-20017582/"
       }
     }
   ]
