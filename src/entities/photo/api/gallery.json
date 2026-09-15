@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-14T21:28:46.507Z",
+  "generatedAt": "2026-09-15T00:16:29.839Z",
   "photos": [
     {
-      "prompt": "linen wood",
-      "id": "1122167",
-      "url": "https://images.pexels.com/photos/1122167/pexels-photo-1122167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1122167/pexels-photo-1122167.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5830,
-      "height": 3900,
-      "color": "#88A3AF",
-      "alt": "Close-up of white laundry drying on a clothesline under a clear blue sky.",
+      "prompt": "silent brick façade",
+      "id": "38365079",
+      "url": "https://images.pexels.com/photos/38365079/pexels-photo-38365079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38365079/pexels-photo-38365079.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6864,
+      "height": 5152,
+      "color": "#795F52",
+      "alt": "Geometric brick facade against a blue sky in Belo Horizonte, Brasil.",
       "credit": {
-        "name": "ClickerHappy",
-        "link": "https://www.pexels.com/@clickerhappy",
-        "photoLink": "https://www.pexels.com/photo/white-textile-1122167/"
+        "name": "Pedro Hypólito",
+        "link": "https://www.pexels.com/@pedrohypolito",
+        "photoLink": "https://www.pexels.com/photo/abstract-architectural-facade-in-belo-horizonte-38365079/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "9304481",
+      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5722,
+      "height": 3814,
+      "color": "#A88E37",
+      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
+      "prompt": "minimalist wooden table",
+      "id": "18859064",
+      "url": "https://images.pexels.com/photos/18859064/pexels-photo-18859064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18859064/pexels-photo-18859064.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#715B4D",
+      "alt": "A minimalist restaurant interior in Tokyo featuring wooden tables and classic chairs.",
       "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
+        "name": "Szymon Shields",
+        "link": "https://www.pexels.com/@szymon-shields-1503561",
+        "photoLink": "https://www.pexels.com/photo/view-of-empty-tables-and-chairs-in-a-restaurant-18859064/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "prompt": "scandinavian light interior",
+      "id": "6527041",
+      "url": "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#B4ABA4",
+      "alt": "Green flowers in vase placed on table with chairs in modern spacious room with shelves and glowing lamps in apartment",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/white-table-in-dining-room-6527041/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8473795",
-      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#BAB7A8",
-      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
-      "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "9990207",
-      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B5B7",
-      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
+      "prompt": "weathered concrete wall",
+      "id": "11897603",
+      "url": "https://images.pexels.com/photos/11897603/pexels-photo-11897603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11897603/pexels-photo-11897603.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#8E8985",
+      "alt": "Close-up of a weathered concrete wall with grunge texture and exposed patches.",
       "credit": {
         "name": "Krakograff Textures",
         "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-gray-concrete-wall-11897603/"
+      }
+    },
+    {
+      "prompt": "grainy film frame",
+      "id": "10354991",
+      "url": "https://images.pexels.com/photos/10354991/pexels-photo-10354991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10354991/pexels-photo-10354991.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3620,
+      "height": 2513,
+      "color": "#898989",
+      "alt": "Defocused black and white photo of dried plants and textured wall adds a moody ambiance.",
+      "credit": {
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/dried-plant-on-rock-10354991/"
       }
     }
   ]
