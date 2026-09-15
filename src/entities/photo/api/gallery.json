@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-15T00:16:29.839Z",
+  "generatedAt": "2026-09-15T05:48:24.803Z",
   "photos": [
     {
-      "prompt": "silent brick façade",
-      "id": "38365079",
-      "url": "https://images.pexels.com/photos/38365079/pexels-photo-38365079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38365079/pexels-photo-38365079.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6864,
-      "height": 5152,
-      "color": "#795F52",
-      "alt": "Geometric brick facade against a blue sky in Belo Horizonte, Brasil.",
+      "prompt": "urban textures",
+      "id": "36086077",
+      "url": "https://images.pexels.com/photos/36086077/pexels-photo-36086077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36086077/pexels-photo-36086077.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4829,
+      "height": 4000,
+      "color": "#577075",
+      "alt": "Detailed texture of rusty and weathered corrugated metal, showcasing patina and decay.",
       "credit": {
-        "name": "Pedro Hypólito",
-        "link": "https://www.pexels.com/@pedrohypolito",
-        "photoLink": "https://www.pexels.com/photo/abstract-architectural-facade-in-belo-horizonte-38365079/"
+        "name": "Martijn Stoof",
+        "link": "https://www.pexels.com/@martijn-stoof-2150654344",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-rusty-corrugated-metal-with-patina-36086077/"
       }
     },
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
-      "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
-      }
-    },
-    {
-      "prompt": "minimalist wooden table",
-      "id": "18859064",
-      "url": "https://images.pexels.com/photos/18859064/pexels-photo-18859064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18859064/pexels-photo-18859064.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "rusty workshop tools",
+      "id": "11966615",
+      "url": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#715B4D",
-      "alt": "A minimalist restaurant interior in Tokyo featuring wooden tables and classic chairs.",
+      "color": "#412814",
+      "alt": "A nostalgic view of an old workshop, showcasing vintage tools and machinery against a timeworn backdrop.",
       "credit": {
-        "name": "Szymon Shields",
-        "link": "https://www.pexels.com/@szymon-shields-1503561",
-        "photoLink": "https://www.pexels.com/photo/view-of-empty-tables-and-chairs-in-a-restaurant-18859064/"
+        "name": "Barbaros Gültekin",
+        "link": "https://www.pexels.com/@barbarosgultekin",
+        "photoLink": "https://www.pexels.com/photo/old-and-rusty-hand-tools-11966615/"
       }
     },
     {
-      "prompt": "scandinavian light interior",
-      "id": "6527041",
-      "url": "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handmade ceramics",
+      "id": "28867393",
+      "url": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3375,
+      "color": "#544C35",
+      "alt": "Row of unglazed ceramic pots in workshop with handwritten label.",
+      "credit": {
+        "name": "Lâm Thanh",
+        "link": "https://www.pexels.com/@lam-thanh-1100392445",
+        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-pots-with-label-in-workshop-28867393/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "6142130",
+      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#333E39",
+      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
+      "credit": {
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "12661315",
+      "url": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7360,
       "height": 4912,
-      "color": "#B4ABA4",
-      "alt": "Green flowers in vase placed on table with chairs in modern spacious room with shelves and glowing lamps in apartment",
+      "color": "#DCDCDC",
+      "alt": "Palm trees swaying in strong winds by a stormy ocean seascape.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/white-table-in-dining-room-6527041/"
-      }
-    },
-    {
-      "prompt": "weathered concrete wall",
-      "id": "11897603",
-      "url": "https://images.pexels.com/photos/11897603/pexels-photo-11897603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11897603/pexels-photo-11897603.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#8E8985",
-      "alt": "Close-up of a weathered concrete wall with grunge texture and exposed patches.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-gray-concrete-wall-11897603/"
-      }
-    },
-    {
-      "prompt": "grainy film frame",
-      "id": "10354991",
-      "url": "https://images.pexels.com/photos/10354991/pexels-photo-10354991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10354991/pexels-photo-10354991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3620,
-      "height": 2513,
-      "color": "#898989",
-      "alt": "Defocused black and white photo of dried plants and textured wall adds a moody ambiance.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/dried-plant-on-rock-10354991/"
+        "name": "Atlantic Ambience",
+        "link": "https://www.pexels.com/@freestockpro",
+        "photoLink": "https://www.pexels.com/photo/coconut-trees-near-the-sea-12661315/"
       }
     }
   ]
