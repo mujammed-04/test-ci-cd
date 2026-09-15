@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-15T16:15:15.668Z",
+  "generatedAt": "2026-09-15T19:59:17.411Z",
   "photos": [
     {
-      "prompt": "grainy analogue film",
-      "id": "12389809",
-      "url": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1748,
-      "color": "#2C2A1E",
-      "alt": "A close-up of a hand holding a film roll against a dark background, emphasizing vintage photography.",
-      "credit": {
-        "name": "stayhereforu",
-        "link": "https://www.pexels.com/@stayhereforu-216201233",
-        "photoLink": "https://www.pexels.com/photo/person-holding-camera-film-12389809/"
-      }
-    },
-    {
-      "prompt": "urban concrete textures",
-      "id": "9990207",
-      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B5B7",
-      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
-      }
-    },
-    {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "6694722",
-      "url": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "linen wood texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
       "height": 2667,
-      "color": "#CFBD98",
-      "alt": "A flat lay of various artistic ceramic plates and bowls on a white background.",
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
       "credit": {
-        "name": "Antoni Shkraba",
-        "link": "https://www.pexels.com/@shkrabaanthony",
-        "photoLink": "https://www.pexels.com/photo/brown-ceramic-plates-on-white-surface-6694722/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
       }
     },
     {
-      "prompt": "botanical fern detail",
-      "id": "37894940",
-      "url": "https://images.pexels.com/photos/37894940/pexels-photo-37894940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37894940/pexels-photo-37894940.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#153B2C",
-      "alt": "Detailed view of a green fern leaf showcasing its intricate, natural texture.",
+      "prompt": "coastal storm clouds",
+      "id": "9764167",
+      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4854,
+      "height": 2731,
+      "color": "#565D67",
+      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
       "credit": {
-        "name": "高 长华",
-        "link": "https://www.pexels.com/@2160634325",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-fern-leaf-with-natural-texture-37894940/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
       }
     },
     {
-      "prompt": "quiet minimalist building",
-      "id": "373488",
-      "url": "https://images.pexels.com/photos/373488/pexels-photo-373488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/373488/pexels-photo-373488.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5198,
-      "height": 3465,
-      "color": "#A9B0B9",
-      "alt": "A bright, empty hallway with open doors providing a clear perspective and ample daylight.",
+      "prompt": "urban brick walls",
+      "id": "7394220",
+      "url": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#8B7361",
+      "alt": "High-resolution textured brick wall, perfect for design and architectural projects.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/white-wall-paint-hallway-373488/"
+        "name": "Ila Bappa Ibrahim",
+        "link": "https://www.pexels.com/@ilabappa",
+        "photoLink": "https://www.pexels.com/photo/a-wall-made-of-bricks-7394220/"
       }
     },
     {
-      "prompt": "coastal windy shoreline",
-      "id": "20017582",
-      "url": "https://images.pexels.com/photos/20017582/pexels-photo-20017582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20017582/pexels-photo-20017582.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#686F75",
-      "alt": "Captivating view of the ocean waves crashing against rocky shores under overcast skies.",
+      "prompt": "quiet courtyard architecture",
+      "id": "31610477",
+      "url": "https://images.pexels.com/photos/31610477/pexels-photo-31610477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31610477/pexels-photo-31610477.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#564936",
+      "alt": "A serene view of traditional Japanese-style wooden houses in Taipei, Taiwan.",
       "credit": {
-        "name": "Kevin Liberatori",
-        "link": "https://www.pexels.com/@kevin-liberatori-421914863",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-sea-20017582/"
+        "name": "Jacky. T. R. Chou",
+        "link": "https://www.pexels.com/@jacky-t-r-chou-1298475188",
+        "photoLink": "https://www.pexels.com/photo/traditional-japanese-architecture-in-taipei-31610477/"
+      }
+    },
+    {
+      "prompt": "morning golden light",
+      "id": "30138519",
+      "url": "https://images.pexels.com/photos/30138519/pexels-photo-30138519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30138519/pexels-photo-30138519.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4342,
+      "height": 2895,
+      "color": "#9F8E63",
+      "alt": "Ethereal sunrise casting warm light over pine trees in a misty forest landscape.",
+      "credit": {
+        "name": "Stephen Leonardi",
+        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
+        "photoLink": "https://www.pexels.com/photo/misty-sunrise-over-pine-forest-landscape-30138519/"
+      }
+    },
+    {
+      "prompt": "handmade ceramic bowl",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "credit": {
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     }
   ]
