@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-15T05:48:24.803Z",
+  "generatedAt": "2026-09-15T11:04:31.363Z",
   "photos": [
     {
-      "prompt": "urban textures",
-      "id": "36086077",
-      "url": "https://images.pexels.com/photos/36086077/pexels-photo-36086077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36086077/pexels-photo-36086077.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4829,
-      "height": 4000,
-      "color": "#577075",
-      "alt": "Detailed texture of rusty and weathered corrugated metal, showcasing patina and decay.",
+      "prompt": "urban brick walls",
+      "id": "1101125",
+      "url": "https://images.pexels.com/photos/1101125/pexels-photo-1101125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1101125/pexels-photo-1101125.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4096,
+      "height": 2730,
+      "color": "#966050",
+      "alt": "Red brick wall with striking shadows creating a textured pattern.",
       "credit": {
-        "name": "Martijn Stoof",
-        "link": "https://www.pexels.com/@martijn-stoof-2150654344",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-rusty-corrugated-metal-with-patina-36086077/"
+        "name": "Madison Inouye",
+        "link": "https://www.pexels.com/@mdsnmdsnmdsn",
+        "photoLink": "https://www.pexels.com/photo/photo-of-brickwall-1101125/"
       }
     },
     {
-      "prompt": "rusty workshop tools",
-      "id": "11966615",
-      "url": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#412814",
-      "alt": "A nostalgic view of an old workshop, showcasing vintage tools and machinery against a timeworn backdrop.",
+      "prompt": "weathered concrete surface",
+      "id": "12738868",
+      "url": "https://images.pexels.com/photos/12738868/pexels-photo-12738868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12738868/pexels-photo-12738868.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#BBBBBB",
+      "alt": "High-resolution image of a rustic gray stone wall with textured pattern.",
       "credit": {
-        "name": "Barbaros Gültekin",
-        "link": "https://www.pexels.com/@barbarosgultekin",
-        "photoLink": "https://www.pexels.com/photo/old-and-rusty-hand-tools-11966615/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/gray-rough-wall-12738868/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "28867393",
-      "url": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#544C35",
-      "alt": "Row of unglazed ceramic pots in workshop with handwritten label.",
+      "prompt": "linen wood table",
+      "id": "39338444",
+      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2560,
+      "color": "#9A9591",
+      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
       "credit": {
-        "name": "Lâm Thanh",
-        "link": "https://www.pexels.com/@lam-thanh-1100392445",
-        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-pots-with-label-in-workshop-28867393/"
+        "name": "Mateusz Pielech",
+        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
+        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "6142130",
-      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#333E39",
-      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
+      "prompt": "soft morning light",
+      "id": "997565",
+      "url": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3086,
+      "height": 3080,
+      "color": "#6A676A",
+      "alt": "Snow-covered branches create a serene winter ambiance against a neutral background.",
       "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
+        "name": "Alissa Nabiullina",
+        "link": "https://www.pexels.com/@alissa-nabiullina-367960",
+        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-white-clustered-flowers-997565/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "prompt": "workshop tool bench",
+      "id": "30688207",
+      "url": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#513F3B",
+      "alt": "Explore a vintage blacksmith workshop filled with traditional tools and rustic charm.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "name": "Denys Gromov",
+        "link": "https://www.pexels.com/@jdgromov",
+        "photoLink": "https://www.pexels.com/photo/rustic-blacksmith-workshop-with-tools-and-anvil-30688207/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "12661315",
-      "url": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#DCDCDC",
-      "alt": "Palm trees swaying in strong winds by a stormy ocean seascape.",
+      "prompt": "nordic living room",
+      "id": "37816601",
+      "url": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#4F3B32",
+      "alt": "Cozy indoor sauna featuring dark wood, LED lighting, and a stone heater for a relaxing experience.",
       "credit": {
-        "name": "Atlantic Ambience",
-        "link": "https://www.pexels.com/@freestockpro",
-        "photoLink": "https://www.pexels.com/photo/coconut-trees-near-the-sea-12661315/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-sauna-with-wooden-design-and-heater-37816601/"
       }
     }
   ]
