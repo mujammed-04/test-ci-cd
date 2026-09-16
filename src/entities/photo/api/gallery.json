@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-16T07:13:35.004Z",
+  "generatedAt": "2026-09-16T13:07:38.973Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "1450092",
-      "url": "https://images.pexels.com/photos/1450092/pexels-photo-1450092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1450092/pexels-photo-1450092.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5004,
-      "height": 2815,
-      "color": "#809297",
-      "alt": "Dramatic seascape featuring crashing waves against rocky shores with a distant lighthouse under a moody sky.",
+      "prompt": "botanical macro",
+      "id": "15794218",
+      "url": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3776,
+      "height": 2832,
+      "color": "#49663A",
+      "alt": "A detailed close-up of a green leaf displaying intricate patterns and textures.",
       "credit": {
-        "name": "Sindre Fs",
-        "link": "https://www.pexels.com/@blitzboy",
-        "photoLink": "https://www.pexels.com/photo/ocean-wave-scenery-1450092/"
+        "name": "Sonny Sixteen",
+        "link": "https://www.pexels.com/@sonny",
+        "photoLink": "https://www.pexels.com/photo/structure-of-green-leaf-15794218/"
       }
     },
     {
-      "prompt": "rusty workshop tools",
-      "id": "21470305",
-      "url": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6048,
-      "height": 4024,
-      "color": "#453331",
-      "alt": "A close-up of an old, rusty toolbox filled with vintage tools under harsh sunlight.",
+      "prompt": "silent arches",
+      "id": "32386209",
+      "url": "https://images.pexels.com/photos/32386209/pexels-photo-32386209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32386209/pexels-photo-32386209.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#99908B",
+      "alt": "A row of ancient stone arches in a historic Delhi fort, showcasing rich architectural heritage.",
       "credit": {
-        "name": "Alfo Medeiros",
-        "link": "https://www.pexels.com/@alfomedeiros",
-        "photoLink": "https://www.pexels.com/photo/an-old-tool-box-21470305/"
+        "name": "AMOL NAKVE",
+        "link": "https://www.pexels.com/@amol-nakve-2148578663",
+        "photoLink": "https://www.pexels.com/photo/historic-arched-corridor-in-delhi-fort-32386209/"
       }
     },
     {
-      "prompt": "gritty urban walls",
-      "id": "30397830",
-      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "coastal fog",
+      "id": "16504314",
+      "url": "https://images.pexels.com/photos/16504314/pexels-photo-16504314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16504314/pexels-photo-16504314.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4032,
-      "height": 2268,
-      "color": "#C2BEBB",
-      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "height": 3024,
+      "color": "#5C6063",
+      "alt": "Dramatic view of foggy cliffs and ocean at Pouch Cove, Newfoundland, Canada.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+        "name": "Erik Mclean",
+        "link": "https://www.pexels.com/@introspectivedsgn",
+        "photoLink": "https://www.pexels.com/photo/conifer-trees-and-rocky-coast-in-mist-16504314/"
       }
     },
     {
-      "prompt": "vintage film grain",
-      "id": "11938009",
-      "url": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2421,
-      "color": "#37322E",
-      "alt": "Close-up of hands holding a film roll and cigarette box in moody lighting.",
-      "credit": {
-        "name": "stayhereforu",
-        "link": "https://www.pexels.com/@stayhereforu-216201233",
-        "photoLink": "https://www.pexels.com/photo/film-roll-and-a-box-of-cigarettes-on-person-s-hands-11938009/"
-      }
-    },
-    {
-      "prompt": "linen draped wood",
-      "id": "34860704",
-      "url": "https://images.pexels.com/photos/34860704/pexels-photo-34860704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860704/pexels-photo-34860704.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "linen wood texture",
+      "id": "34860693",
+      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7200,
       "height": 5400,
-      "color": "#605238",
-      "alt": "Close-up of textured brown linen fabric showing detailed weave and natural folds.",
+      "color": "#2D4255",
+      "alt": "Close-up of blue textile with textured surface and subtle folds.",
       "credit": {
         "name": "3D Render",
         "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/textured-brown-linen-fabric-background-34860704/"
+        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
       }
     },
     {
-      "prompt": "fruit bowl composition",
-      "id": "6962831",
-      "url": "https://images.pexels.com/photos/6962831/pexels-photo-6962831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962831/pexels-photo-6962831.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#B2AEA4",
-      "alt": "Close-up of green pears in wooden bowls on a light wooden surface.",
+      "prompt": "handmade pottery",
+      "id": "33878971",
+      "url": "https://images.pexels.com/photos/33878971/pexels-photo-33878971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33878971/pexels-photo-33878971.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#6D614B",
+      "alt": "A collection of rustic pottery displayed on a wooden shelf, capturing the artisanal charm of handmade ceramics.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/fruits-on-brown-wooden-bowl-6962831/"
+        "name": "Finalchoice",
+        "link": "https://www.pexels.com/@finalchoice-147015110",
+        "photoLink": "https://www.pexels.com/photo/rustic-pottery-collection-on-display-shelf-33878971/"
+      }
+    },
+    {
+      "prompt": "morning sunlight",
+      "id": "8656144",
+      "url": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#474842",
+      "alt": "Sunlight filtering through trees in a serene forest setting.",
+      "credit": {
+        "name": "Sudipta Mondal",
+        "link": "https://www.pexels.com/@sudipta-mondal-74513527",
+        "photoLink": "https://www.pexels.com/photo/trees-and-green-grass-during-morning-8656144/"
       }
     }
   ]
