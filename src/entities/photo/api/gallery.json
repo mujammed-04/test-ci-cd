@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-16T13:07:38.973Z",
+  "generatedAt": "2026-09-16T17:59:38.599Z",
   "photos": [
     {
-      "prompt": "botanical macro",
-      "id": "15794218",
-      "url": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3776,
-      "height": 2832,
-      "color": "#49663A",
-      "alt": "A detailed close-up of a green leaf displaying intricate patterns and textures.",
+      "prompt": "Nordic interior",
+      "id": "37173282",
+      "url": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4776,
+      "height": 3712,
+      "color": "#BABABA",
+      "alt": "Elegant white staircase with dried flowers and a glass lantern, showcasing a modern minimalist design.",
       "credit": {
-        "name": "Sonny Sixteen",
-        "link": "https://www.pexels.com/@sonny",
-        "photoLink": "https://www.pexels.com/photo/structure-of-green-leaf-15794218/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-interior-with-dried-flowers-37173282/"
       }
     },
     {
-      "prompt": "silent arches",
-      "id": "32386209",
-      "url": "https://images.pexels.com/photos/32386209/pexels-photo-32386209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32386209/pexels-photo-32386209.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#99908B",
-      "alt": "A row of ancient stone arches in a historic Delhi fort, showcasing rich architectural heritage.",
+      "prompt": "Still life",
+      "id": "22915959",
+      "url": "https://images.pexels.com/photos/22915959/pexels-photo-22915959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/22915959/pexels-photo-22915959.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5314,
+      "height": 3602,
+      "color": "#9C9A9B",
+      "alt": "Peaceful black and white image of a tranquil countryside lake with trees.",
       "credit": {
-        "name": "AMOL NAKVE",
-        "link": "https://www.pexels.com/@amol-nakve-2148578663",
-        "photoLink": "https://www.pexels.com/photo/historic-arched-corridor-in-delhi-fort-32386209/"
+        "name": "Furkan Sonmez",
+        "link": "https://www.pexels.com/@furkan-sonmez-568824680",
+        "photoLink": "https://www.pexels.com/photo/lake-in-countryside-in-black-and-white-22915959/"
       }
     },
     {
-      "prompt": "coastal fog",
-      "id": "16504314",
-      "url": "https://images.pexels.com/photos/16504314/pexels-photo-16504314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16504314/pexels-photo-16504314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Workshop tools",
+      "id": "5963142",
+      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#536160",
+      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
+      "credit": {
+        "name": "Anna Tarazevich",
+        "link": "https://www.pexels.com/@anntarazevich",
+        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
+      }
+    },
+    {
+      "prompt": "Urban textures",
+      "id": "31061268",
+      "url": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#BAB5B1",
+      "alt": "Close-up of a weathered wall with peeling posters and exposed textures, showcasing urban decay.",
+      "credit": {
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-peeling-posters-on-urban-wall-31061268/"
+      }
+    },
+    {
+      "prompt": "Quiet architecture",
+      "id": "12175481",
+      "url": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4032,
       "height": 3024,
-      "color": "#5C6063",
-      "alt": "Dramatic view of foggy cliffs and ocean at Pouch Cove, Newfoundland, Canada.",
+      "color": "#D0D1D3",
+      "alt": "Low angle view of modern white building with pillars in snowy weather, showcasing minimalist design.",
       "credit": {
-        "name": "Erik Mclean",
-        "link": "https://www.pexels.com/@introspectivedsgn",
-        "photoLink": "https://www.pexels.com/photo/conifer-trees-and-rocky-coast-in-mist-16504314/"
+        "name": "alexander ermakov",
+        "link": "https://www.pexels.com/@ermakov",
+        "photoLink": "https://www.pexels.com/photo/concrete-building-with-pillars-12175481/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34860693",
-      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#2D4255",
-      "alt": "Close-up of blue textile with textured surface and subtle folds.",
+      "prompt": "Coastal weather",
+      "id": "1478521",
+      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8561,
+      "height": 5830,
+      "color": "#5F6C70",
+      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
-      }
-    },
-    {
-      "prompt": "handmade pottery",
-      "id": "33878971",
-      "url": "https://images.pexels.com/photos/33878971/pexels-photo-33878971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33878971/pexels-photo-33878971.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#6D614B",
-      "alt": "A collection of rustic pottery displayed on a wooden shelf, capturing the artisanal charm of handmade ceramics.",
-      "credit": {
-        "name": "Finalchoice",
-        "link": "https://www.pexels.com/@finalchoice-147015110",
-        "photoLink": "https://www.pexels.com/photo/rustic-pottery-collection-on-display-shelf-33878971/"
-      }
-    },
-    {
-      "prompt": "morning sunlight",
-      "id": "8656144",
-      "url": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4272,
-      "height": 2848,
-      "color": "#474842",
-      "alt": "Sunlight filtering through trees in a serene forest setting.",
-      "credit": {
-        "name": "Sudipta Mondal",
-        "link": "https://www.pexels.com/@sudipta-mondal-74513527",
-        "photoLink": "https://www.pexels.com/photo/trees-and-green-grass-during-morning-8656144/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
       }
     }
   ]
