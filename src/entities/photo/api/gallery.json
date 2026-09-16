@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-16T01:05:25.432Z",
+  "generatedAt": "2026-09-16T07:13:35.004Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "265101",
-      "url": "https://images.pexels.com/photos/265101/pexels-photo-265101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/265101/pexels-photo-265101.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4381,
-      "height": 2915,
-      "color": "#998A81",
-      "alt": "A modern office desk setup featuring a cactus plant, laptop, and stylish decor in a contemporary office space.",
+      "prompt": "stormy coastline",
+      "id": "1450092",
+      "url": "https://images.pexels.com/photos/1450092/pexels-photo-1450092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1450092/pexels-photo-1450092.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5004,
+      "height": 2815,
+      "color": "#809297",
+      "alt": "Dramatic seascape featuring crashing waves against rocky shores with a distant lighthouse under a moody sky.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/rectangular-brown-wooden-table-265101/"
+        "name": "Sindre Fs",
+        "link": "https://www.pexels.com/@blitzboy",
+        "photoLink": "https://www.pexels.com/photo/ocean-wave-scenery-1450092/"
       }
     },
     {
-      "prompt": "handcrafted ceramics",
-      "id": "8063801",
-      "url": "https://images.pexels.com/photos/8063801/pexels-photo-8063801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8063801/pexels-photo-8063801.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5616,
-      "height": 3744,
-      "color": "#585858",
-      "alt": "Artisan uses a heat tool to shape pottery on a spinning wheel in a studio.",
+      "prompt": "rusty workshop tools",
+      "id": "21470305",
+      "url": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4024,
+      "color": "#453331",
+      "alt": "A close-up of an old, rusty toolbox filled with vintage tools under harsh sunlight.",
       "credit": {
-        "name": "ROMAN ODINTSOV",
-        "link": "https://www.pexels.com/@roman-odintsov",
-        "photoLink": "https://www.pexels.com/photo/potter-using-a-blow-torch-to-dry-a-bowl-on-a-pottery-wheel-8063801/"
+        "name": "Alfo Medeiros",
+        "link": "https://www.pexels.com/@alfomedeiros",
+        "photoLink": "https://www.pexels.com/photo/an-old-tool-box-21470305/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "7399857",
-      "url": "https://images.pexels.com/photos/7399857/pexels-photo-7399857.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7399857/pexels-photo-7399857.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3008,
-      "height": 1995,
-      "color": "#999282",
-      "alt": "A sunlit urban street showcasing classic European architecture with autumn trees lining the road.",
+      "prompt": "gritty urban walls",
+      "id": "30397830",
+      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#C2BEBB",
+      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
       "credit": {
-        "name": "Whicdhemein One",
-        "link": "https://www.pexels.com/@whicdhemein-one-3020162",
-        "photoLink": "https://www.pexels.com/photo/analog-photograph-of-a-city-street-in-autumn-7399857/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
       }
     },
     {
-      "prompt": "still life composition",
-      "id": "20530960",
-      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#9C9674",
-      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
+      "prompt": "vintage film grain",
+      "id": "11938009",
+      "url": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2421,
+      "color": "#37322E",
+      "alt": "Close-up of hands holding a film roll and cigarette box in moody lighting.",
       "credit": {
-        "name": "Esra Erdem",
-        "link": "https://www.pexels.com/@esrakorkmaz",
-        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
+        "name": "stayhereforu",
+        "link": "https://www.pexels.com/@stayhereforu-216201233",
+        "photoLink": "https://www.pexels.com/photo/film-roll-and-a-box-of-cigarettes-on-person-s-hands-11938009/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "38511748",
-      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#C6BB8E",
-      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "prompt": "linen draped wood",
+      "id": "34860704",
+      "url": "https://images.pexels.com/photos/34860704/pexels-photo-34860704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860704/pexels-photo-34860704.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#605238",
+      "alt": "Close-up of textured brown linen fabric showing detailed weave and natural folds.",
       "credit": {
-        "name": "Umut Hasanoğlu",
-        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
-        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/textured-brown-linen-fabric-background-34860704/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
+      "prompt": "fruit bowl composition",
+      "id": "6962831",
+      "url": "https://images.pexels.com/photos/6962831/pexels-photo-6962831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962831/pexels-photo-6962831.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#B2AEA4",
+      "alt": "Close-up of green pears in wooden bowls on a light wooden surface.",
       "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/fruits-on-brown-wooden-bowl-6962831/"
       }
     }
   ]
