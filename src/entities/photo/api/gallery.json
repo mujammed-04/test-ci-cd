@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-15T22:50:27.655Z",
+  "generatedAt": "2026-09-16T01:05:25.432Z",
   "photos": [
     {
-      "prompt": "Stormy coastal cliffs",
-      "id": "2751757",
-      "url": "https://images.pexels.com/photos/2751757/pexels-photo-2751757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2751757/pexels-photo-2751757.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4063,
-      "height": 3126,
-      "color": "#3E627A",
-      "alt": "A dramatic view of coastal cliffs with dark ocean waves under a moody sky.",
+      "prompt": "minimalist desk",
+      "id": "265101",
+      "url": "https://images.pexels.com/photos/265101/pexels-photo-265101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/265101/pexels-photo-265101.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4381,
+      "height": 2915,
+      "color": "#998A81",
+      "alt": "A modern office desk setup featuring a cactus plant, laptop, and stylish decor in a contemporary office space.",
       "credit": {
-        "name": "Phil S",
-        "link": "https://www.pexels.com/@phil-s-964389",
-        "photoLink": "https://www.pexels.com/photo/cliff-near-body-of-water-2751757/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/rectangular-brown-wooden-table-265101/"
       }
     },
     {
-      "prompt": "Glazed pottery bowl",
-      "id": "9304555",
-      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5509,
-      "height": 3672,
-      "color": "#AF9073",
-      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
+      "prompt": "handcrafted ceramics",
+      "id": "8063801",
+      "url": "https://images.pexels.com/photos/8063801/pexels-photo-8063801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8063801/pexels-photo-8063801.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5616,
+      "height": 3744,
+      "color": "#585858",
+      "alt": "Artisan uses a heat tool to shape pottery on a spinning wheel in a studio.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
+        "name": "ROMAN ODINTSOV",
+        "link": "https://www.pexels.com/@roman-odintsov",
+        "photoLink": "https://www.pexels.com/photo/potter-using-a-blow-torch-to-dry-a-bowl-on-a-pottery-wheel-8063801/"
       }
     },
     {
-      "prompt": "Vintage fruit arrangement",
-      "id": "5858542",
-      "url": "https://images.pexels.com/photos/5858542/pexels-photo-5858542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5858542/pexels-photo-5858542.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4672,
-      "height": 3104,
-      "color": "#22291F",
-      "alt": "A rustic still life featuring fresh pears on fabric with leaves, highlighting natural beauty.",
+      "prompt": "analog film grain",
+      "id": "7399857",
+      "url": "https://images.pexels.com/photos/7399857/pexels-photo-7399857.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7399857/pexels-photo-7399857.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 3008,
+      "height": 1995,
+      "color": "#999282",
+      "alt": "A sunlit urban street showcasing classic European architecture with autumn trees lining the road.",
       "credit": {
-        "name": "Mimmo Lusito",
-        "link": "https://www.pexels.com/@mimmo-lusito-3754976",
-        "photoLink": "https://www.pexels.com/photo/fruits-on-a-fabric-laid-on-wooden-table-5858542/"
+        "name": "Whicdhemein One",
+        "link": "https://www.pexels.com/@whicdhemein-one-3020162",
+        "photoLink": "https://www.pexels.com/photo/analog-photograph-of-a-city-street-in-autumn-7399857/"
       }
     },
     {
-      "prompt": "Silent brick courtyard",
-      "id": "4947117",
-      "url": "https://images.pexels.com/photos/4947117/pexels-photo-4947117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4947117/pexels-photo-4947117.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2784,
-      "height": 1856,
-      "color": "#A4A3A6",
-      "alt": "Backyard of big residential stone cottage decorated with blooming potted flowers and green plants placed on pavement in daytime",
+      "prompt": "still life composition",
+      "id": "20530960",
+      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#9C9674",
+      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
       "credit": {
-        "name": "Maria Orlova",
-        "link": "https://www.pexels.com/@orlovamaria",
-        "photoLink": "https://www.pexels.com/photo/house-decorated-with-potted-flowers-and-plants-4947117/"
+        "name": "Esra Erdem",
+        "link": "https://www.pexels.com/@esrakorkmaz",
+        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
       }
     },
     {
-      "prompt": "Grainy film negative",
-      "id": "18976707",
-      "url": "https://images.pexels.com/photos/18976707/pexels-photo-18976707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18976707/pexels-photo-18976707.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3637,
-      "height": 1855,
-      "color": "#A3A3A3",
-      "alt": "Vintage black and white photo of a serene seascape view captured through a filmstrip perspective, with mountains and trees lining the shore.",
+      "prompt": "botanical detail",
+      "id": "38511748",
+      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#C6BB8E",
+      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
       "credit": {
-        "name": "Dila E",
-        "link": "https://www.pexels.com/@dila-e-2831565",
-        "photoLink": "https://www.pexels.com/photo/an-old-filmstrip-with-a-tropical-landscape-18976707/"
+        "name": "Umut Hasanoğlu",
+        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
+        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
       }
     },
     {
-      "prompt": "Rusty workshop tools",
-      "id": "32777398",
-      "url": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32777398/pexels-photo-32777398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "workshop tools",
+      "id": "16243260",
+      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#363636",
-      "alt": "Black and white photo of a rustic workbench with wrenches and tools in a vintage setting.",
+      "color": "#817B61",
+      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
       "credit": {
-        "name": "MD. Raktim Raze",
-        "link": "https://www.pexels.com/@roktim619",
-        "photoLink": "https://www.pexels.com/photo/monochrome-industrial-workbench-with-tools-32777398/"
+        "name": "Luis Quintero",
+        "link": "https://www.pexels.com/@jibarofoto",
+        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
       }
     }
   ]
