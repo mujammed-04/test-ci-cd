@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-16T17:59:38.599Z",
+  "generatedAt": "2026-09-16T21:04:56.782Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "37173282",
-      "url": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4776,
-      "height": 3712,
-      "color": "#BABABA",
-      "alt": "Elegant white staircase with dried flowers and a glass lantern, showcasing a modern minimalist design.",
+      "prompt": "quiet stone corridor",
+      "id": "38880301",
+      "url": "https://images.pexels.com/photos/38880301/pexels-photo-38880301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38880301/pexels-photo-38880301.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4461,
+      "color": "#1C2E2E",
+      "alt": "Serene view of a traditional Chinese courtyard featuring intricate stone carvings.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/minimalist-white-interior-with-dried-flowers-37173282/"
+        "name": "sanynjez gao",
+        "link": "https://www.pexels.com/@sanynjez-gao-2161888371",
+        "photoLink": "https://www.pexels.com/photo/traditional-chinese-courtyard-with-stone-carvings-38880301/"
       }
     },
     {
-      "prompt": "Still life",
-      "id": "22915959",
-      "url": "https://images.pexels.com/photos/22915959/pexels-photo-22915959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/22915959/pexels-photo-22915959.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5314,
-      "height": 3602,
-      "color": "#9C9A9B",
-      "alt": "Peaceful black and white image of a tranquil countryside lake with trees.",
+      "prompt": "vintage carpentry tools",
+      "id": "35680047",
+      "url": "https://images.pexels.com/photos/35680047/pexels-photo-35680047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35680047/pexels-photo-35680047.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6064,
+      "height": 4040,
+      "color": "#777777",
+      "alt": "A rustic Swiss sawmill showcasing traditional woodworking tools and craftsmanship.",
       "credit": {
-        "name": "Furkan Sonmez",
-        "link": "https://www.pexels.com/@furkan-sonmez-568824680",
-        "photoLink": "https://www.pexels.com/photo/lake-in-countryside-in-black-and-white-22915959/"
+        "name": "Jean-Paul Wettstein",
+        "link": "https://www.pexels.com/@jean-paul-wettstein-677916508",
+        "photoLink": "https://www.pexels.com/photo/rustic-swiss-sawmill-with-vintage-tools-35680047/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "5963142",
-      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#536160",
-      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
+      "prompt": "scandinavian living room",
+      "id": "7836571",
+      "url": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#A7A9A8",
+      "alt": "Bright and modern living room featuring monstera plants and cozy decor.",
       "credit": {
-        "name": "Anna Tarazevich",
-        "link": "https://www.pexels.com/@anntarazevich",
-        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
+        "name": "Stanislav Kondratiev",
+        "link": "https://www.pexels.com/@technobulka",
+        "photoLink": "https://www.pexels.com/photo/interior-of-a-living-room-7836571/"
       }
     },
     {
-      "prompt": "Urban textures",
-      "id": "31061268",
-      "url": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#BAB5B1",
-      "alt": "Close-up of a weathered wall with peeling posters and exposed textures, showcasing urban decay.",
+      "prompt": "rustic fruit arrangement",
+      "id": "9759673",
+      "url": "https://images.pexels.com/photos/9759673/pexels-photo-9759673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9759673/pexels-photo-9759673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#574030",
+      "alt": "Vibrant assortment of fruits and leaves arranged in a wooden crate outdoors.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-peeling-posters-on-urban-wall-31061268/"
+        "name": "Alexas Fotos",
+        "link": "https://www.pexels.com/@alexasfotos",
+        "photoLink": "https://www.pexels.com/photo/assorted-fruits-in-brown-wooden-crate-9759673/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "12175481",
-      "url": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 3024,
-      "color": "#D0D1D3",
-      "alt": "Low angle view of modern white building with pillars in snowy weather, showcasing minimalist design.",
+      "prompt": "coastal storm clouds",
+      "id": "9764167",
+      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4854,
+      "height": 2731,
+      "color": "#565D67",
+      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
       "credit": {
-        "name": "alexander ermakov",
-        "link": "https://www.pexels.com/@ermakov",
-        "photoLink": "https://www.pexels.com/photo/concrete-building-with-pillars-12175481/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
       }
     },
     {
-      "prompt": "Coastal weather",
-      "id": "1478521",
-      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8561,
-      "height": 5830,
-      "color": "#5F6C70",
-      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
+      "prompt": "delicate fern leaf",
+      "id": "17331374",
+      "url": "https://images.pexels.com/photos/17331374/pexels-photo-17331374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17331374/pexels-photo-17331374.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4502,
+      "height": 3769,
+      "color": "#243511",
+      "alt": "Detailed photograph of a vibrant green fern leaf against a dark background.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
+        "name": "Physical  Pixel",
+        "link": "https://www.pexels.com/@physical-pixel-532642448",
+        "photoLink": "https://www.pexels.com/photo/green-fern-leaf-17331374/"
       }
     }
   ]
