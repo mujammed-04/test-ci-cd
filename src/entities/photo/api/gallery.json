@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-17T10:57:56.415Z",
+  "generatedAt": "2026-09-17T15:29:06.696Z",
   "photos": [
     {
-      "prompt": "grainy film texture",
-      "id": "12389809",
-      "url": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1748,
-      "color": "#2C2A1E",
-      "alt": "A close-up of a hand holding a film roll against a dark background, emphasizing vintage photography.",
+      "prompt": "Soft morning light",
+      "id": "35657809",
+      "url": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5129,
+      "height": 4037,
+      "color": "#413A32",
+      "alt": "A minimalist interior space with soft morning light casting shadows on a wall and a sweater hanging in a calm setting.",
       "credit": {
-        "name": "stayhereforu",
-        "link": "https://www.pexels.com/@stayhereforu-216201233",
-        "photoLink": "https://www.pexels.com/photo/person-holding-camera-film-12389809/"
+        "name": "Yunuen Zempoaltecatl",
+        "link": "https://www.pexels.com/@yunuen-zempoaltecatl-2158880957",
+        "photoLink": "https://www.pexels.com/photo/moody-interior-with-soft-light-and-shadows-35657809/"
       }
     },
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
+      "prompt": "Delicate fern leaf",
+      "id": "12971077",
+      "url": "https://images.pexels.com/photos/12971077/pexels-photo-12971077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12971077/pexels-photo-12971077.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#313332",
+      "alt": "Close-up of lush green ferns with intricate patterns and shadows in low light.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
+        "name": "Maurice Engelen",
+        "link": "https://www.pexels.com/@maurice32",
+        "photoLink": "https://www.pexels.com/photo/dark-green-fern-plant-12971077/"
       }
     },
     {
-      "prompt": "quiet modern facade",
-      "id": "19807878",
-      "url": "https://images.pexels.com/photos/19807878/pexels-photo-19807878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19807878/pexels-photo-19807878.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5878,
-      "height": 3919,
-      "color": "#A4ABA4",
-      "alt": "A minimalist view of a modern white building with geometric facade against a clear sky.",
+      "prompt": "Nordic living room",
+      "id": "19966766",
+      "url": "https://images.pexels.com/photos/19966766/pexels-photo-19966766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19966766/pexels-photo-19966766.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5999,
+      "height": 4000,
+      "color": "#AEB0AD",
+      "alt": "A cozy Scandinavian living room with modern gray couch and wooden elements.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/white-modern-construction-shaped-like-stairs-19807878/"
+        "name": "Alex Tyson",
+        "link": "https://www.pexels.com/@alex-tyson-919593032",
+        "photoLink": "https://www.pexels.com/photo/modern-living-room-19966766/"
       }
     },
     {
-      "prompt": "detailed botanical leaf",
-      "id": "13734041",
-      "url": "https://images.pexels.com/photos/13734041/pexels-photo-13734041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13734041/pexels-photo-13734041.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#112617",
-      "alt": "Detailed close-up of green leaf veins showcasing natural pattern and texture.",
+      "prompt": "Rustic workshop tools",
+      "id": "37162553",
+      "url": "https://images.pexels.com/photos/37162553/pexels-photo-37162553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37162553/pexels-photo-37162553.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3120,
+      "height": 2080,
+      "color": "#6B574C",
+      "alt": "Electric grinder resting on a wooden workbench in a rustic workshop setting.",
       "credit": {
-        "name": "Gabriella Ally",
-        "link": "https://www.pexels.com/@gabriella-ally-3664539",
-        "photoLink": "https://www.pexels.com/photo/green-leaf-in-close-up-photography-13734041/"
+        "name": "Pew Nguyen",
+        "link": "https://www.pexels.com/@nguyendesigner",
+        "photoLink": "https://www.pexels.com/photo/rustic-workshop-scene-with-an-electric-grinder-37162553/"
       }
     },
     {
-      "prompt": "minimalist Nordic livingroom",
-      "id": "34951508",
-      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#59544A",
-      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
+      "prompt": "Handcrafted ceramic bowl",
+      "id": "18464082",
+      "url": "https://images.pexels.com/photos/18464082/pexels-photo-18464082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18464082/pexels-photo-18464082.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3856,
+      "color": "#CEAC90",
+      "alt": "Charming hand-painted ceramic bowls with floral patterns, elegantly displayed on a wooden table.",
       "credit": {
-        "name": "Christian Ventura",
-        "link": "https://www.pexels.com/@arutnevv",
-        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
+        "name": "Sứ Bát Tràng",
+        "link": "https://www.pexels.com/@s-bat-trang-108848915",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-ceramic-bowls-with-floral-patterns-18464082/"
       }
     },
     {
-      "prompt": "vintage workshop tools",
-      "id": "5095894",
-      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#403527",
-      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
+      "prompt": "Quiet modern facade",
+      "id": "39491217",
+      "url": "https://images.pexels.com/photos/39491217/pexels-photo-39491217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39491217/pexels-photo-39491217.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#72664C",
+      "alt": "Contemporary building with unique design and lush garden setting.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
+        "name": "Lê Quang Thành",
+        "link": "https://www.pexels.com/@le-quang-thanh-2153079128",
+        "photoLink": "https://www.pexels.com/photo/modern-architectural-building-surrounded-by-greenery-39491217/"
       }
     }
   ]
