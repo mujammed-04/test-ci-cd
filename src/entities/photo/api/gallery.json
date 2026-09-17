@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-16T21:04:56.782Z",
+  "generatedAt": "2026-09-17T00:04:38.291Z",
   "photos": [
     {
-      "prompt": "quiet stone corridor",
-      "id": "38880301",
-      "url": "https://images.pexels.com/photos/38880301/pexels-photo-38880301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38880301/pexels-photo-38880301.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4461,
-      "color": "#1C2E2E",
-      "alt": "Serene view of a traditional Chinese courtyard featuring intricate stone carvings.",
+      "prompt": "coastal storm sky",
+      "id": "20422519",
+      "url": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#41494C",
+      "alt": "Dark storm clouds gather over a tranquil ocean, creating a moody seascape.",
       "credit": {
-        "name": "sanynjez gao",
-        "link": "https://www.pexels.com/@sanynjez-gao-2161888371",
-        "photoLink": "https://www.pexels.com/photo/traditional-chinese-courtyard-with-stone-carvings-38880301/"
+        "name": "Francesco Ungaro",
+        "link": "https://www.pexels.com/@francesco-ungaro",
+        "photoLink": "https://www.pexels.com/photo/storm-cloud-over-sea-coast-20422519/"
       }
     },
     {
-      "prompt": "vintage carpentry tools",
-      "id": "35680047",
-      "url": "https://images.pexels.com/photos/35680047/pexels-photo-35680047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35680047/pexels-photo-35680047.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6064,
-      "height": 4040,
-      "color": "#777777",
-      "alt": "A rustic Swiss sawmill showcasing traditional woodworking tools and craftsmanship.",
+      "prompt": "urban brick texture",
+      "id": "12715969",
+      "url": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#7D5D50",
+      "alt": "Close-up of a red brick wall displaying rustic texture and pattern, ideal for background use.",
       "credit": {
-        "name": "Jean-Paul Wettstein",
-        "link": "https://www.pexels.com/@jean-paul-wettstein-677916508",
-        "photoLink": "https://www.pexels.com/photo/rustic-swiss-sawmill-with-vintage-tools-35680047/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/photo-of-a-brick-wall-12715969/"
       }
     },
     {
-      "prompt": "scandinavian living room",
-      "id": "7836571",
-      "url": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#A7A9A8",
-      "alt": "Bright and modern living room featuring monstera plants and cozy decor.",
+      "prompt": "minimal desk surface",
+      "id": "129208",
+      "url": "https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
+      "height": 4016,
+      "color": "#262627",
+      "alt": "Overhead view of a MacBook laptop on a dark desk, showcasing modern technology and minimalism.",
       "credit": {
-        "name": "Stanislav Kondratiev",
-        "link": "https://www.pexels.com/@technobulka",
-        "photoLink": "https://www.pexels.com/photo/interior-of-a-living-room-7836571/"
+        "name": "Nao Triponez",
+        "link": "https://www.pexels.com/@natri",
+        "photoLink": "https://www.pexels.com/photo/macbook-pro-129208/"
       }
     },
     {
-      "prompt": "rustic fruit arrangement",
-      "id": "9759673",
-      "url": "https://images.pexels.com/photos/9759673/pexels-photo-9759673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9759673/pexels-photo-9759673.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#574030",
-      "alt": "Vibrant assortment of fruits and leaves arranged in a wooden crate outdoors.",
+      "prompt": "morning golden light",
+      "id": "8112748",
+      "url": "https://images.pexels.com/photos/8112748/pexels-photo-8112748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8112748/pexels-photo-8112748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#E2C8A5",
+      "alt": "Stunning sunrise view of ocean waves near coastal cliffs, capturing a beautiful serene morning scene.",
       "credit": {
-        "name": "Alexas Fotos",
-        "link": "https://www.pexels.com/@alexasfotos",
-        "photoLink": "https://www.pexels.com/photo/assorted-fruits-in-brown-wooden-crate-9759673/"
+        "name": "Rachel Claire",
+        "link": "https://www.pexels.com/@rachel-claire",
+        "photoLink": "https://www.pexels.com/photo/ocean-waves-crashing-on-the-shore-8112748/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "9764167",
-      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4854,
-      "height": 2731,
-      "color": "#565D67",
-      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
+      "prompt": "linen wood table",
+      "id": "16471855",
+      "url": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#C2AFA9",
+      "alt": "A cozy breakfast setup featuring rustic bread, butter, and milk on a wooden table.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
+        "name": "hello aesthe",
+        "link": "https://www.pexels.com/@helloaesthe",
+        "photoLink": "https://www.pexels.com/photo/bread-and-butter-on-the-table-16471855/"
       }
     },
     {
-      "prompt": "delicate fern leaf",
-      "id": "17331374",
-      "url": "https://images.pexels.com/photos/17331374/pexels-photo-17331374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17331374/pexels-photo-17331374.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4502,
-      "height": 3769,
-      "color": "#243511",
-      "alt": "Detailed photograph of a vibrant green fern leaf against a dark background.",
+      "prompt": "analogue film grain",
+      "id": "38853235",
+      "url": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5444,
+      "height": 3649,
+      "color": "#9A8E78",
+      "alt": "People enjoying a sunny day in a beautiful park in Taichung, Taiwan.",
       "credit": {
-        "name": "Physical  Pixel",
-        "link": "https://www.pexels.com/@physical-pixel-532642448",
-        "photoLink": "https://www.pexels.com/photo/green-fern-leaf-17331374/"
+        "name": "Lara Hart",
+        "link": "https://www.pexels.com/@lara-hart-2149371048",
+        "photoLink": "https://www.pexels.com/photo/relaxing-day-in-taichung-park-taiwan-38853235/"
       }
     }
   ]
