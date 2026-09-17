@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-17T19:32:22.925Z",
+  "generatedAt": "2026-09-17T22:39:36.242Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "37173282",
-      "url": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4776,
-      "height": 3712,
-      "color": "#BABABA",
-      "alt": "Elegant white staircase with dried flowers and a glass lantern, showcasing a modern minimalist design.",
+      "prompt": "quiet architecture",
+      "id": "5395673",
+      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#876E5A",
+      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/minimalist-white-interior-with-dried-flowers-37173282/"
+        "name": "taha balta",
+        "link": "https://www.pexels.com/@taha-balta-3031128",
+        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
       }
     },
     {
-      "prompt": "Handmade ceramic vase",
-      "id": "26774901",
-      "url": "https://images.pexels.com/photos/26774901/pexels-photo-26774901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26774901/pexels-photo-26774901.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5695,
-      "height": 3797,
-      "color": "#7B6B5C",
-      "alt": "Aesthetic display of minimalist ceramic vases on a wooden tray, perfect for home decor.",
+      "prompt": "urban textures",
+      "id": "9990207",
+      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#B4B5B7",
+      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
       "credit": {
-        "name": "Ionela Mat",
-        "link": "https://www.pexels.com/@ionela-mat-268382825",
-        "photoLink": "https://www.pexels.com/photo/ceramic-art-26774901/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "38853235",
-      "url": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5444,
-      "height": 3649,
-      "color": "#9A8E78",
-      "alt": "People enjoying a sunny day in a beautiful park in Taichung, Taiwan.",
+      "prompt": "linen wood",
+      "id": "6123304",
+      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5040,
+      "height": 3360,
+      "color": "#8A8E91",
+      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
       "credit": {
-        "name": "Lara Hart",
-        "link": "https://www.pexels.com/@lara-hart-2149371048",
-        "photoLink": "https://www.pexels.com/photo/relaxing-day-in-taichung-park-taiwan-38853235/"
+        "name": "Rachel Claire",
+        "link": "https://www.pexels.com/@rachel-claire",
+        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
       }
     },
     {
-      "prompt": "Workshop tool set",
-      "id": "9606740",
-      "url": "https://images.pexels.com/photos/9606740/pexels-photo-9606740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9606740/pexels-photo-9606740.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4899,
-      "height": 3266,
-      "color": "#57585A",
-      "alt": "Flat lay of an organized toolbox with a variety of essential hand tools.",
+      "prompt": "handmade ceramics",
+      "id": "9304500",
+      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5539,
+      "height": 3694,
+      "color": "#A17E2D",
+      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
       "credit": {
-        "name": "Anastasia  Shuraeva",
-        "link": "https://www.pexels.com/@anastasia-shuraeva",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-toolbox-9606740/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
       }
     },
     {
-      "prompt": "Botanical leaf detail",
-      "id": "36331945",
-      "url": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#798D08",
-      "alt": "Detailed macro shot of vibrant green leaf veins showcasing nature's intricate patterns.",
+      "prompt": "minimal desks",
+      "id": "8092507",
+      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CCCBC9",
+      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
       "credit": {
-        "name": "Amel Uzunovic",
-        "link": "https://www.pexels.com/@amel-uzunovic-440739273",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-veins-36331945/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
       }
     },
     {
-      "prompt": "Linen wood texture",
-      "id": "7533979",
-      "url": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#CCBCA6",
-      "alt": "Detailed texture of beige canvas fabric with soft lighting, perfect for background or textile themes.",
+      "prompt": "coastal weather",
+      "id": "63564",
+      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 19900,
+      "height": 3638,
+      "color": "#6E8081",
+      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/white-canvas-fabric-7533979/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
       }
     }
   ]
