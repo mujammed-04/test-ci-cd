@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-17T00:04:38.291Z",
+  "generatedAt": "2026-09-17T05:43:43.620Z",
   "photos": [
     {
-      "prompt": "coastal storm sky",
-      "id": "20422519",
-      "url": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "coastal clouds",
+      "id": "12951983",
+      "url": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6240,
       "height": 4160,
-      "color": "#41494C",
-      "alt": "Dark storm clouds gather over a tranquil ocean, creating a moody seascape.",
+      "color": "#585161",
+      "alt": "A tranquil ocean scene at twilight with colorful clouds and a serene horizon.",
       "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/storm-cloud-over-sea-coast-20422519/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/a-beautiful-shore-during-a-twilight-12951983/"
       }
     },
     {
-      "prompt": "urban brick texture",
-      "id": "12715969",
-      "url": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#7D5D50",
-      "alt": "Close-up of a red brick wall displaying rustic texture and pattern, ideal for background use.",
+      "prompt": "linen wood texture",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/photo-of-a-brick-wall-12715969/"
-      }
-    },
-    {
-      "prompt": "minimal desk surface",
-      "id": "129208",
-      "url": "https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/129208/pexels-photo-129208.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4016,
-      "color": "#262627",
-      "alt": "Overhead view of a MacBook laptop on a dark desk, showcasing modern technology and minimalism.",
-      "credit": {
-        "name": "Nao Triponez",
-        "link": "https://www.pexels.com/@natri",
-        "photoLink": "https://www.pexels.com/photo/macbook-pro-129208/"
-      }
-    },
-    {
-      "prompt": "morning golden light",
-      "id": "8112748",
-      "url": "https://images.pexels.com/photos/8112748/pexels-photo-8112748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8112748/pexels-photo-8112748.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#E2C8A5",
-      "alt": "Stunning sunrise view of ocean waves near coastal cliffs, capturing a beautiful serene morning scene.",
-      "credit": {
-        "name": "Rachel Claire",
-        "link": "https://www.pexels.com/@rachel-claire",
-        "photoLink": "https://www.pexels.com/photo/ocean-waves-crashing-on-the-shore-8112748/"
-      }
-    },
-    {
-      "prompt": "linen wood table",
-      "id": "16471855",
-      "url": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#C2AFA9",
-      "alt": "A cozy breakfast setup featuring rustic bread, butter, and milk on a wooden table.",
-      "credit": {
-        "name": "hello aesthe",
-        "link": "https://www.pexels.com/@helloaesthe",
-        "photoLink": "https://www.pexels.com/photo/bread-and-butter-on-the-table-16471855/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "38853235",
-      "url": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5444,
-      "height": 3649,
-      "color": "#9A8E78",
-      "alt": "People enjoying a sunny day in a beautiful park in Taichung, Taiwan.",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
       "credit": {
-        "name": "Lara Hart",
-        "link": "https://www.pexels.com/@lara-hart-2149371048",
-        "photoLink": "https://www.pexels.com/photo/relaxing-day-in-taichung-park-taiwan-38853235/"
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+      }
+    },
+    {
+      "prompt": "still life composition",
+      "id": "37511454",
+      "url": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2659,
+      "height": 1733,
+      "color": "#25201C",
+      "alt": "A still life composition featuring tangerines on a blue cloth beside a glass jug of water.",
+      "credit": {
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-tangerines-and-water-jug-37511454/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "20432040",
+      "url": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4208,
+      "height": 3120,
+      "color": "#4B473C",
+      "alt": "A serene indoor setting with a blue chair by a sunlit window overlooking greenery.",
+      "credit": {
+        "name": "Adil Ahnaf🇧🇩🇵🇸",
+        "link": "https://www.pexels.com/@mdadilahnaf",
+        "photoLink": "https://www.pexels.com/photo/a-chair-sits-in-front-of-a-window-in-a-room-20432040/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "6142130",
+      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#333E39",
+      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
+      "credit": {
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
       }
     }
   ]
