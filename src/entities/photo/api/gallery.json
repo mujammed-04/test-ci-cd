@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-17T05:43:43.620Z",
+  "generatedAt": "2026-09-17T10:57:56.415Z",
   "photos": [
     {
-      "prompt": "coastal clouds",
-      "id": "12951983",
-      "url": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#585161",
-      "alt": "A tranquil ocean scene at twilight with colorful clouds and a serene horizon.",
+      "prompt": "grainy film texture",
+      "id": "12389809",
+      "url": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12389809/pexels-photo-12389809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1748,
+      "color": "#2C2A1E",
+      "alt": "A close-up of a hand holding a film roll against a dark background, emphasizing vintage photography.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/a-beautiful-shore-during-a-twilight-12951983/"
+        "name": "stayhereforu",
+        "link": "https://www.pexels.com/@stayhereforu-216201233",
+        "photoLink": "https://www.pexels.com/photo/person-holding-camera-film-12389809/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34851017",
-      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#1B3448",
-      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "9304481",
+      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5722,
+      "height": 3814,
+      "color": "#A88E37",
+      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "prompt": "quiet modern facade",
+      "id": "19807878",
+      "url": "https://images.pexels.com/photos/19807878/pexels-photo-19807878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19807878/pexels-photo-19807878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5878,
+      "height": 3919,
+      "color": "#A4ABA4",
+      "alt": "A minimalist view of a modern white building with geometric facade against a clear sky.",
       "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/white-modern-construction-shaped-like-stairs-19807878/"
       }
     },
     {
-      "prompt": "still life composition",
-      "id": "37511454",
-      "url": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1733,
-      "color": "#25201C",
-      "alt": "A still life composition featuring tangerines on a blue cloth beside a glass jug of water.",
+      "prompt": "detailed botanical leaf",
+      "id": "13734041",
+      "url": "https://images.pexels.com/photos/13734041/pexels-photo-13734041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13734041/pexels-photo-13734041.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#112617",
+      "alt": "Detailed close-up of green leaf veins showcasing natural pattern and texture.",
       "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-tangerines-and-water-jug-37511454/"
+        "name": "Gabriella Ally",
+        "link": "https://www.pexels.com/@gabriella-ally-3664539",
+        "photoLink": "https://www.pexels.com/photo/green-leaf-in-close-up-photography-13734041/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "20432040",
-      "url": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4208,
-      "height": 3120,
-      "color": "#4B473C",
-      "alt": "A serene indoor setting with a blue chair by a sunlit window overlooking greenery.",
+      "prompt": "minimalist Nordic livingroom",
+      "id": "34951508",
+      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#59544A",
+      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
       "credit": {
-        "name": "Adil Ahnaf🇧🇩🇵🇸",
-        "link": "https://www.pexels.com/@mdadilahnaf",
-        "photoLink": "https://www.pexels.com/photo/a-chair-sits-in-front-of-a-window-in-a-room-20432040/"
+        "name": "Christian Ventura",
+        "link": "https://www.pexels.com/@arutnevv",
+        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "6142130",
-      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#333E39",
-      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
+      "prompt": "vintage workshop tools",
+      "id": "5095894",
+      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#403527",
+      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
       "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
       }
     }
   ]
