@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-18T16:56:01.078Z",
+  "generatedAt": "2026-09-18T19:26:54.740Z",
   "photos": [
     {
-      "prompt": "botanical macro",
-      "id": "4083763",
-      "url": "https://images.pexels.com/photos/4083763/pexels-photo-4083763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4083763/pexels-photo-4083763.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#71705C",
-      "alt": "Closeup of wild bulb of perennial herb of onion family on blurred background",
+      "prompt": "analog film grain",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
       "credit": {
-        "name": "Jacob Moseholt",
-        "link": "https://www.pexels.com/@jacob-moseholt-514418",
-        "photoLink": "https://www.pexels.com/photo/round-inflorescence-of-wild-perennial-plant-4083763/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     },
     {
-      "prompt": "linen texture",
-      "id": "7533979",
-      "url": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#CCBCA6",
-      "alt": "Detailed texture of beige canvas fabric with soft lighting, perfect for background or textile themes.",
+      "prompt": "minimalist wooden desk",
+      "id": "6368906",
+      "url": "https://images.pexels.com/photos/6368906/pexels-photo-6368906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6368906/pexels-photo-6368906.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#9E9C9C",
+      "alt": "Modern computer with keyboard and portable radio on wooden table near white wall in light comfortable workspace",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/white-canvas-fabric-7533979/"
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/modern-workplace-with-computer-and-portable-radio-on-wooden-table-6368906/"
       }
     },
     {
-      "prompt": "weathered coastline",
-      "id": "35549926",
-      "url": "https://images.pexels.com/photos/35549926/pexels-photo-35549926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35549926/pexels-photo-35549926.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3990,
-      "height": 2992,
-      "color": "#859595",
-      "alt": "Captivating rocky shore with waves crashing and overcast sky, perfect for ocean lovers.",
+      "prompt": "linen wood texture",
+      "id": "34860684",
+      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#5F5D5E",
+      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
       "credit": {
-        "name": "Mico Medel",
-        "link": "https://www.pexels.com/@micomedel",
-        "photoLink": "https://www.pexels.com/photo/rugged-coastal-seascape-with-dramatic-waves-35549926/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
       }
     },
     {
-      "prompt": "nordic livingroom",
-      "id": "35566560",
-      "url": "https://images.pexels.com/photos/35566560/pexels-photo-35566560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35566560/pexels-photo-35566560.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handmade ceramic bowl",
+      "id": "33703946",
+      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#4D3B2F",
+      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
+      "credit": {
+        "name": "Miguel González",
+        "link": "https://www.pexels.com/@mikegles",
+        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+      }
+    },
+    {
+      "prompt": "workshop tool set",
+      "id": "29181493",
+      "url": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5873,
+      "height": 3915,
+      "color": "#293237",
+      "alt": "A mechanic in gloves organizing engine parts and tools in a workshop setting.",
+      "credit": {
+        "name": "Sergei Starostin",
+        "link": "https://www.pexels.com/@sejio402",
+        "photoLink": "https://www.pexels.com/photo/mechanic-organizing-engine-components-in-workshop-29181493/"
+      }
+    },
+    {
+      "prompt": "nordic interior design",
+      "id": "34951508",
+      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
       "width": 3840,
       "height": 2160,
-      "color": "#7C6F67",
-      "alt": "Sleek and modern minimalist living room interior with neutral palette and stylish furnishings in Cluj-Napoca.",
+      "color": "#59544A",
+      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
       "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-living-room-interior-design-35566560/"
-      }
-    },
-    {
-      "prompt": "urban brick wall",
-      "id": "10517936",
-      "url": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#C1C0BB",
-      "alt": "Close-up of a white brick wall featuring a red numbered sign with a white gutter pipe.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/gutter-on-wall-10517936/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "10525839",
-      "url": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5658,
-      "height": 3772,
-      "color": "#766C6B",
-      "alt": "Artistic still life photo of pears, stones, and branches with a minimalist design.",
-      "credit": {
-        "name": "Ron Lach",
-        "link": "https://www.pexels.com/@ron-lach",
-        "photoLink": "https://www.pexels.com/photo/pears-near-stones-and-paper-10525839/"
+        "name": "Christian Ventura",
+        "link": "https://www.pexels.com/@arutnevv",
+        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
       }
     }
   ]
