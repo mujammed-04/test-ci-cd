@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-18T01:01:11.962Z",
+  "generatedAt": "2026-09-18T07:02:52.963Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "39304776",
-      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#BDAA8C",
-      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "prompt": "minimal desk",
+      "id": "6044914",
+      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#5B5B59",
+      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
       "credit": {
-        "name": "Suvrodip Saha",
-        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
-        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+      }
+    },
+    {
+      "prompt": "analog film grain",
+      "id": "16514952",
+      "url": "https://images.pexels.com/photos/16514952/pexels-photo-16514952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16514952/pexels-photo-16514952.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 10100,
+      "height": 6822,
+      "color": "#979694",
+      "alt": "Close-up of Kodak T-Max 100 black and white film held by a hand, showcasing vintage photography equipment.",
+      "credit": {
+        "name": "wan fat",
+        "link": "https://www.pexels.com/@wan-fat-515327486",
+        "photoLink": "https://www.pexels.com/photo/photo-of-a-hand-holding-a-package-of-negative-films-16514952/"
       }
     },
     {
       "prompt": "handmade ceramic bowl",
-      "id": "12624841",
-      "url": "https://images.pexels.com/photos/12624841/pexels-photo-12624841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12624841/pexels-photo-12624841.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#59453A",
-      "alt": "A colorful display of traditional hand-painted ceramic bowls, showcasing intricate designs and vibrant hues.",
+      "id": "31000471",
+      "url": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3999,
+      "height": 2666,
+      "color": "#A4A9AD",
+      "alt": "Intricately designed blue and white ceramic plate with floral patterns, perfect for traditional tableware.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/colorful-plates-at-a-market-stall-12624841/"
+        "name": "Markus Winkler",
+        "link": "https://www.pexels.com/@markus-winkler-1430818",
+        "photoLink": "https://www.pexels.com/photo/handcrafted-blue-and-white-ornate-ceramic-plate-31000471/"
       }
     },
     {
-      "prompt": "nordic interior lounge",
-      "id": "37834298",
-      "url": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C7C7C5",
-      "alt": "A sleek and minimalist Scandinavian living room with white decor and electronics.",
+      "prompt": "linen wood texture",
+      "id": "34860678",
+      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#0D2D54",
+      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-style-living-room-interior-37834298/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
       }
     },
     {
-      "prompt": "urban concrete texture",
-      "id": "7245529",
-      "url": "https://images.pexels.com/photos/7245529/pexels-photo-7245529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7245529/pexels-photo-7245529.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#B4B9BE",
-      "alt": "Textured white wall of old concrete building on street of town in daytime",
+      "prompt": "botanical leaf detail",
+      "id": "35197904",
+      "url": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7952,
+      "height": 4472,
+      "color": "#23541C",
+      "alt": "Captivating macro shot showcasing the intricate veining of a green leaf.",
       "credit": {
-        "name": "Olga Lioncat",
-        "link": "https://www.pexels.com/@olgalioncat",
-        "photoLink": "https://www.pexels.com/photo/rough-white-wall-of-urban-building-7245529/"
+        "name": "Damir K",
+        "link": "https://www.pexels.com/@damir",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-a-vibrant-green-leaf-vein-35197904/"
       }
     },
     {
-      "prompt": "linen wood table",
-      "id": "39338444",
-      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2560,
-      "color": "#9A9591",
-      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
+      "prompt": "nordic interior scene",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
       "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
-      "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
       }
     }
   ]
