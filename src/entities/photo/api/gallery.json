@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-18T19:26:54.740Z",
+  "generatedAt": "2026-09-18T22:16:50.206Z",
   "photos": [
     {
-      "prompt": "analog film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "prompt": "quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
-      "prompt": "minimalist wooden desk",
-      "id": "6368906",
-      "url": "https://images.pexels.com/photos/6368906/pexels-photo-6368906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6368906/pexels-photo-6368906.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
+      "prompt": "botanical detail",
+      "id": "38511748",
+      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#C6BB8E",
+      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "credit": {
+        "name": "Umut Hasanoğlu",
+        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
+        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "220639",
+      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
       "height": 2448,
-      "color": "#9E9C9C",
-      "alt": "Modern computer with keyboard and portable radio on wooden table near white wall in light comfortable workspace",
+      "color": "#D7D7D7",
+      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/modern-workplace-with-computer-and-portable-radio-on-wooden-table-6368906/"
+        "name": "icon0 com",
+        "link": "https://www.pexels.com/@icon0",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34860684",
-      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#5F5D5E",
-      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
+      "prompt": "nordic interior",
+      "id": "37173283",
+      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3852,
+      "height": 3712,
+      "color": "#D1D1D1",
+      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "33703946",
-      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4D3B2F",
-      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
+      "prompt": "coastal weather",
+      "id": "35162977",
+      "url": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#5D7985",
+      "alt": "A serene ocean scene with gentle waves and a cloudy sky on a calm day.",
       "credit": {
-        "name": "Miguel González",
-        "link": "https://www.pexels.com/@mikegles",
-        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+        "name": "Bilal Yahya",
+        "link": "https://www.pexels.com/@bilal-yahya-2158113463",
+        "photoLink": "https://www.pexels.com/photo/peaceful-ocean-waves-under-cloudy-sky-35162977/"
       }
     },
     {
-      "prompt": "workshop tool set",
-      "id": "29181493",
-      "url": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5873,
-      "height": 3915,
-      "color": "#293237",
-      "alt": "A mechanic in gloves organizing engine parts and tools in a workshop setting.",
+      "prompt": "morning light",
+      "id": "29623051",
+      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3342,
+      "height": 2303,
+      "color": "#494134",
+      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
       "credit": {
-        "name": "Sergei Starostin",
-        "link": "https://www.pexels.com/@sejio402",
-        "photoLink": "https://www.pexels.com/photo/mechanic-organizing-engine-components-in-workshop-29181493/"
-      }
-    },
-    {
-      "prompt": "nordic interior design",
-      "id": "34951508",
-      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#59544A",
-      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
-      "credit": {
-        "name": "Christian Ventura",
-        "link": "https://www.pexels.com/@arutnevv",
-        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
+        "name": "zheng liang",
+        "link": "https://www.pexels.com/@zzzzlz",
+        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
       }
     }
   ]
