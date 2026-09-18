@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-17T22:39:36.242Z",
+  "generatedAt": "2026-09-18T01:01:11.962Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "5395673",
-      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
+      "prompt": "soft morning light",
+      "id": "39304776",
+      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
       "height": 3456,
-      "color": "#876E5A",
-      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
+      "color": "#BDAA8C",
+      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
       "credit": {
-        "name": "taha balta",
-        "link": "https://www.pexels.com/@taha-balta-3031128",
-        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+        "name": "Suvrodip Saha",
+        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
+        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "9990207",
-      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B5B7",
-      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
+      "prompt": "handmade ceramic bowl",
+      "id": "12624841",
+      "url": "https://images.pexels.com/photos/12624841/pexels-photo-12624841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12624841/pexels-photo-12624841.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#59453A",
+      "alt": "A colorful display of traditional hand-painted ceramic bowls, showcasing intricate designs and vibrant hues.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/colorful-plates-at-a-market-stall-12624841/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "6123304",
-      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5040,
-      "height": 3360,
-      "color": "#8A8E91",
-      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
+      "prompt": "nordic interior lounge",
+      "id": "37834298",
+      "url": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#C7C7C5",
+      "alt": "A sleek and minimalist Scandinavian living room with white decor and electronics.",
       "credit": {
-        "name": "Rachel Claire",
-        "link": "https://www.pexels.com/@rachel-claire",
-        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-style-living-room-interior-37834298/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "9304500",
-      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5539,
-      "height": 3694,
-      "color": "#A17E2D",
-      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
+      "prompt": "urban concrete texture",
+      "id": "7245529",
+      "url": "https://images.pexels.com/photos/7245529/pexels-photo-7245529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7245529/pexels-photo-7245529.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#B4B9BE",
+      "alt": "Textured white wall of old concrete building on street of town in daytime",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
+        "name": "Olga Lioncat",
+        "link": "https://www.pexels.com/@olgalioncat",
+        "photoLink": "https://www.pexels.com/photo/rough-white-wall-of-urban-building-7245529/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8092507",
-      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CCCBC9",
-      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
+      "prompt": "linen wood table",
+      "id": "39338444",
+      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2560,
+      "color": "#9A9591",
+      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
+        "name": "Mateusz Pielech",
+        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
+        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "63564",
-      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 19900,
-      "height": 3638,
-      "color": "#6E8081",
-      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
+      "prompt": "analogue film grain",
+      "id": "3538574",
+      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3581,
+      "height": 2383,
+      "color": "#7D685E",
+      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
+        "name": "Giovanni Calia",
+        "link": "https://www.pexels.com/@giovanni-calia-1140926",
+        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
       }
     }
   ]
