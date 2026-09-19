@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-19T17:45:42.456Z",
+  "generatedAt": "2026-09-19T20:03:12.899Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "linen wood tabletop",
+      "id": "16348844",
+      "url": "https://images.pexels.com/photos/16348844/pexels-photo-16348844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16348844/pexels-photo-16348844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#C9C1BE",
+      "alt": "A serene still life featuring a cerulean porcelain vase with delicate branches on a wooden table.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "hello aesthe",
+        "link": "https://www.pexels.com/@helloaesthe",
+        "photoLink": "https://www.pexels.com/photo/still-life-with-decorative-branches-16348844/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
+      "prompt": "minimalist desk setup",
+      "id": "31213677",
+      "url": "https://images.pexels.com/photos/31213677/pexels-photo-31213677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31213677/pexels-photo-31213677.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6966,
+      "height": 4644,
+      "color": "#7F796D",
+      "alt": "A stylish home office setup featuring tech gadgets, a monitor, a tablet, and decorative plants in a minimalist design.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+        "name": "Alpha En",
+        "link": "https://www.pexels.com/@alphaen",
+        "photoLink": "https://www.pexels.com/photo/modern-home-office-with-tech-gadgets-and-plants-31213677/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "8063880",
-      "url": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5616,
-      "height": 3744,
-      "color": "#614738",
-      "alt": "Close-up of hands crafting pottery on a wheel, showcasing skill and artistry.",
-      "credit": {
-        "name": "ROMAN ODINTSOV",
-        "link": "https://www.pexels.com/@roman-odintsov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-person-doing-pottery-8063880/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "28137318",
-      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2738,
-      "height": 1825,
-      "color": "#1B1B0F",
-      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
-      "credit": {
-        "name": "Felix",
-        "link": "https://www.pexels.com/@felix-57767809",
-        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
+      "prompt": "botanical leaf closeup",
+      "id": "28410614",
+      "url": "https://images.pexels.com/photos/28410614/pexels-photo-28410614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28410614/pexels-photo-28410614.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "color": "#072C00",
+      "alt": "Vibrant close-up of tropical leaf texture with rich green hues showcasing natural patterns and details.",
       "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+        "name": "gabriel bodhi",
+        "link": "https://www.pexels.com/@gabrielbodhi",
+        "photoLink": "https://www.pexels.com/photo/close-up-texture-of-green-leaf-in-the-garden-28410614/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "1122167",
-      "url": "https://images.pexels.com/photos/1122167/pexels-photo-1122167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1122167/pexels-photo-1122167.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5830,
-      "height": 3900,
-      "color": "#88A3AF",
-      "alt": "Close-up of white laundry drying on a clothesline under a clear blue sky.",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "18464082",
+      "url": "https://images.pexels.com/photos/18464082/pexels-photo-18464082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18464082/pexels-photo-18464082.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3856,
+      "color": "#CEAC90",
+      "alt": "Charming hand-painted ceramic bowls with floral patterns, elegantly displayed on a wooden table.",
       "credit": {
-        "name": "ClickerHappy",
-        "link": "https://www.pexels.com/@clickerhappy",
-        "photoLink": "https://www.pexels.com/photo/white-textile-1122167/"
+        "name": "Sứ Bát Tràng",
+        "link": "https://www.pexels.com/@s-bat-trang-108848915",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-ceramic-bowls-with-floral-patterns-18464082/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "credit": {
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+      }
+    },
+    {
+      "prompt": "still life arrangement",
+      "id": "38094623",
+      "url": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5562,
+      "height": 3708,
+      "color": "#412927",
+      "alt": "A sophisticated still life showcasing white porcelain vessels on a red surface with a black background.",
+      "credit": {
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-white-porcelain-vessels-38094623/"
       }
     }
   ]
