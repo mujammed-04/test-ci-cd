@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-19T20:03:12.899Z",
+  "generatedAt": "2026-09-19T22:39:34.770Z",
   "photos": [
     {
-      "prompt": "linen wood tabletop",
-      "id": "16348844",
-      "url": "https://images.pexels.com/photos/16348844/pexels-photo-16348844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16348844/pexels-photo-16348844.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#C9C1BE",
-      "alt": "A serene still life featuring a cerulean porcelain vase with delicate branches on a wooden table.",
+      "prompt": "quiet architecture",
+      "id": "28354605",
+      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6354,
+      "height": 4236,
+      "color": "#92A4BC",
+      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
       "credit": {
-        "name": "hello aesthe",
-        "link": "https://www.pexels.com/@helloaesthe",
-        "photoLink": "https://www.pexels.com/photo/still-life-with-decorative-branches-16348844/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "31213677",
-      "url": "https://images.pexels.com/photos/31213677/pexels-photo-31213677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31213677/pexels-photo-31213677.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6966,
-      "height": 4644,
-      "color": "#7F796D",
-      "alt": "A stylish home office setup featuring tech gadgets, a monitor, a tablet, and decorative plants in a minimalist design.",
+      "prompt": "handmade ceramics",
+      "id": "6611423",
+      "url": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#7C6E69",
+      "alt": "Captivating close-up view of vibrant ceramic tableware on wooden shelves, showcasing artistic craftsmanship.",
       "credit": {
-        "name": "Alpha En",
-        "link": "https://www.pexels.com/@alphaen",
-        "photoLink": "https://www.pexels.com/photo/modern-home-office-with-tech-gadgets-and-plants-31213677/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/porcelain-plates-and-cups-6611423/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "28410614",
-      "url": "https://images.pexels.com/photos/28410614/pexels-photo-28410614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28410614/pexels-photo-28410614.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#072C00",
-      "alt": "Vibrant close-up of tropical leaf texture with rich green hues showcasing natural patterns and details.",
+      "prompt": "workshop tools",
+      "id": "220639",
+      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#D7D7D7",
+      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
       "credit": {
-        "name": "gabriel bodhi",
-        "link": "https://www.pexels.com/@gabrielbodhi",
-        "photoLink": "https://www.pexels.com/photo/close-up-texture-of-green-leaf-in-the-garden-28410614/"
+        "name": "icon0 com",
+        "link": "https://www.pexels.com/@icon0",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
       }
     },
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "18464082",
-      "url": "https://images.pexels.com/photos/18464082/pexels-photo-18464082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18464082/pexels-photo-18464082.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3856,
-      "color": "#CEAC90",
-      "alt": "Charming hand-painted ceramic bowls with floral patterns, elegantly displayed on a wooden table.",
+      "prompt": "morning light",
+      "id": "8656144",
+      "url": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#474842",
+      "alt": "Sunlight filtering through trees in a serene forest setting.",
       "credit": {
-        "name": "Sứ Bát Tràng",
-        "link": "https://www.pexels.com/@s-bat-trang-108848915",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-ceramic-bowls-with-floral-patterns-18464082/"
+        "name": "Sudipta Mondal",
+        "link": "https://www.pexels.com/@sudipta-mondal-74513527",
+        "photoLink": "https://www.pexels.com/photo/trees-and-green-grass-during-morning-8656144/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "prompt": "minimal desks",
+      "id": "14788763",
+      "url": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#39372B",
+      "alt": "A cozy workspace with a laptop, keyboard, books, and a refreshing beverage.",
       "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+        "name": "Elifnur Gökmenoğlu",
+        "link": "https://www.pexels.com/@elifnur-gokmenoglu-54877017",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-gadgets-on-home-office-table-14788763/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "38094623",
-      "url": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5562,
-      "height": 3708,
-      "color": "#412927",
-      "alt": "A sophisticated still life showcasing white porcelain vessels on a red surface with a black background.",
+      "prompt": "nordic interiors",
+      "id": "39237325",
+      "url": "https://images.pexels.com/photos/39237325/pexels-photo-39237325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39237325/pexels-photo-39237325.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#86786D",
+      "alt": "Explore the elegant design of a modern Nordic sauna featuring a stone heater and wooden benches.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-white-porcelain-vessels-38094623/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-nordic-sauna-design-with-stone-heater-39237325/"
       }
     }
   ]
