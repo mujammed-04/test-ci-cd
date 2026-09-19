@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-19T00:57:24.221Z",
+  "generatedAt": "2026-09-19T05:34:36.856Z",
   "photos": [
     {
-      "prompt": "linen wood",
-      "id": "5420527",
-      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4368,
-      "height": 2912,
-      "color": "#C1B8A8",
-      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
-      "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "3734875",
-      "url": "https://images.pexels.com/photos/3734875/pexels-photo-3734875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3734875/pexels-photo-3734875.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4656,
-      "height": 3496,
-      "color": "#585B66",
-      "alt": "Sunrise through misty forest trees with sunlight streaming beautifully.",
-      "credit": {
-        "name": "David Gierth",
-        "link": "https://www.pexels.com/@davidgierth",
-        "photoLink": "https://www.pexels.com/photo/sun-glare-in-the-forest-3734875/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
+      "prompt": "quiet stone facade",
+      "id": "8454881",
+      "url": "https://images.pexels.com/photos/8454881/pexels-photo-8454881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8454881/pexels-photo-8454881.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "color": "#363531",
+      "alt": "Rustic stone house in Portugal with dark clouds overhead, creating a moody atmosphere.",
       "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+        "name": "César Fonseca",
+        "link": "https://www.pexels.com/@cesar-fonseca-17375691",
+        "photoLink": "https://www.pexels.com/photo/brown-stone-house-under-dark-clouds-8454881/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "6044914",
-      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#5B5B59",
-      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
+      "prompt": "urban brick wall",
+      "id": "2259233",
+      "url": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#9C634F",
+      "alt": "Detailed image of a red brick wall, ideal for use as a background texture.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+        "name": "Johannes Plenio",
+        "link": "https://www.pexels.com/@jplenio",
+        "photoLink": "https://www.pexels.com/photo/brown-and-black-brick-wall-2259233/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "prompt": "handmade ceramic vase",
+      "id": "36280037",
+      "url": "https://images.pexels.com/photos/36280037/pexels-photo-36280037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36280037/pexels-photo-36280037.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#9B7850",
+      "alt": "A collection of vibrant ceramic vases displayed on shelves in Hội An, Vietnam, showcasing artistic craft.",
       "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
+        "name": "Nhi Huynh",
+        "link": "https://www.pexels.com/@nhi-huynh-2126546965",
+        "photoLink": "https://www.pexels.com/photo/colorful-artistic-ceramic-vases-in-h-i-an-36280037/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "6452143",
-      "url": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3232,
-      "height": 2424,
-      "color": "#484848",
-      "alt": "Monochrome macro shot of leaves showcasing natural patterns and textures.",
+      "prompt": "nordic wood interior",
+      "id": "3457281",
+      "url": "https://images.pexels.com/photos/3457281/pexels-photo-3457281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3457281/pexels-photo-3457281.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#32241E",
+      "alt": "A beautifully decorated wooden mantel featuring antlers and candles creating a cozy interior decor ambiance.",
       "credit": {
-        "name": "Jason Stewart",
-        "link": "https://www.pexels.com/@jason-stewart-2831705",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-leaves-6452143/"
+        "name": "Maël  BALLAND",
+        "link": "https://www.pexels.com/@toulouse",
+        "photoLink": "https://www.pexels.com/photo/brown-wooden-furniture-with-string-of-lights-and-animal-horn-3457281/"
+      }
+    },
+    {
+      "prompt": "linen wooden table",
+      "id": "6962818",
+      "url": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#847A6E",
+      "alt": "Fresh eggs and fruits displayed on wooden plates with a linen cloth for a rustic look.",
+      "credit": {
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/brown-eggs-in-a-bowl-beside-fruits-on-tray-6962818/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "27559515",
+      "url": "https://images.pexels.com/photos/27559515/pexels-photo-27559515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27559515/pexels-photo-27559515.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#7D7C77",
+      "alt": "Top view of a stylish modern office desk setup featuring a curved monitor and keyboard.",
+      "credit": {
+        "name": "Minh Phuc",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-computer-monitor-and-keyboard-27559515/"
       }
     }
   ]
