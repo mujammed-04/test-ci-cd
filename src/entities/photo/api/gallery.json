@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-19T05:34:36.856Z",
+  "generatedAt": "2026-09-19T10:18:42.228Z",
   "photos": [
     {
-      "prompt": "quiet stone facade",
-      "id": "8454881",
-      "url": "https://images.pexels.com/photos/8454881/pexels-photo-8454881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8454881/pexels-photo-8454881.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#363531",
-      "alt": "Rustic stone house in Portugal with dark clouds overhead, creating a moody atmosphere.",
+      "prompt": "dew covered fern",
+      "id": "38945881",
+      "url": "https://images.pexels.com/photos/38945881/pexels-photo-38945881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38945881/pexels-photo-38945881.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#373F27",
+      "alt": "Detailed close-up of fresh green fern leaves with dew drops.",
       "credit": {
-        "name": "César Fonseca",
-        "link": "https://www.pexels.com/@cesar-fonseca-17375691",
-        "photoLink": "https://www.pexels.com/photo/brown-stone-house-under-dark-clouds-8454881/"
+        "name": "NEOSiAM 18+",
+        "link": "https://www.pexels.com/@neosiam",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-green-fern-leaves-with-dew-38945881/"
       }
     },
     {
-      "prompt": "urban brick wall",
-      "id": "2259233",
-      "url": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2259233/pexels-photo-2259233.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#9C634F",
-      "alt": "Detailed image of a red brick wall, ideal for use as a background texture.",
+      "prompt": "rusty workshop tools",
+      "id": "15102482",
+      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5522,
+      "height": 3106,
+      "color": "#AC8A65",
+      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
       "credit": {
-        "name": "Johannes Plenio",
-        "link": "https://www.pexels.com/@jplenio",
-        "photoLink": "https://www.pexels.com/photo/brown-and-black-brick-wall-2259233/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
       }
     },
     {
-      "prompt": "handmade ceramic vase",
-      "id": "36280037",
-      "url": "https://images.pexels.com/photos/36280037/pexels-photo-36280037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36280037/pexels-photo-36280037.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#9B7850",
-      "alt": "A collection of vibrant ceramic vases displayed on shelves in Hội An, Vietnam, showcasing artistic craft.",
+      "prompt": "linen draped wood",
+      "id": "7114134",
+      "url": "https://images.pexels.com/photos/7114134/pexels-photo-7114134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7114134/pexels-photo-7114134.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6082,
+      "height": 4055,
+      "color": "#A08D7B",
+      "alt": "Warm sunlight streams through textured curtains, creating a calm indoor ambiance.",
       "credit": {
-        "name": "Nhi Huynh",
-        "link": "https://www.pexels.com/@nhi-huynh-2126546965",
-        "photoLink": "https://www.pexels.com/photo/colorful-artistic-ceramic-vases-in-h-i-an-36280037/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/white-and-brown-window-curtain-7114134/"
       }
     },
     {
-      "prompt": "nordic wood interior",
-      "id": "3457281",
-      "url": "https://images.pexels.com/photos/3457281/pexels-photo-3457281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3457281/pexels-photo-3457281.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#32241E",
-      "alt": "A beautifully decorated wooden mantel featuring antlers and candles creating a cozy interior decor ambiance.",
+      "prompt": "ceramic bowl glaze",
+      "id": "33359689",
+      "url": "https://images.pexels.com/photos/33359689/pexels-photo-33359689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33359689/pexels-photo-33359689.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5892,
+      "height": 3926,
+      "color": "#687667",
+      "alt": "Vibrant and unique handcrafted bowls and pots on a rustic green shelf, highlighting artistic pottery design.",
       "credit": {
-        "name": "Maël  BALLAND",
-        "link": "https://www.pexels.com/@toulouse",
-        "photoLink": "https://www.pexels.com/photo/brown-wooden-furniture-with-string-of-lights-and-animal-horn-3457281/"
+        "name": "Christina & Peter",
+        "link": "https://www.pexels.com/@christina99999",
+        "photoLink": "https://www.pexels.com/photo/colorful-handmade-pottery-on-display-shelves-33359689/"
       }
     },
     {
-      "prompt": "linen wooden table",
-      "id": "6962818",
-      "url": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "stormy coastal sky",
+      "id": "1526251",
+      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1852,
+      "color": "#454147",
+      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
+      "credit": {
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
+      }
+    },
+    {
+      "prompt": "vibrant still life",
+      "id": "6069748",
+      "url": "https://images.pexels.com/photos/6069748/pexels-photo-6069748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6069748/pexels-photo-6069748.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6720,
       "height": 4480,
-      "color": "#847A6E",
-      "alt": "Fresh eggs and fruits displayed on wooden plates with a linen cloth for a rustic look.",
+      "color": "#AB9796",
+      "alt": "Top view of unusual orange bowl with glass bottles filled with blue liquid arranged on white textile",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/brown-eggs-in-a-bowl-beside-fruits-on-tray-6962818/"
-      }
-    },
-    {
-      "prompt": "minimalist desk setup",
-      "id": "27559515",
-      "url": "https://images.pexels.com/photos/27559515/pexels-photo-27559515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27559515/pexels-photo-27559515.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#7D7C77",
-      "alt": "Top view of a stylish modern office desk setup featuring a curved monitor and keyboard.",
-      "credit": {
-        "name": "Minh Phuc",
-        "link": "https://www.pexels.com/@mintworkspace",
-        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-computer-monitor-and-keyboard-27559515/"
+        "name": "Jill Burrow",
+        "link": "https://www.pexels.com/@jill-burrow",
+        "photoLink": "https://www.pexels.com/photo/colorful-glassware-on-white-drapery-6069748/"
       }
     }
   ]
