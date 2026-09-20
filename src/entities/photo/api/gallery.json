@@ -1,34 +1,49 @@
 {
-  "generatedAt": "2026-09-20T00:38:28.949Z",
+  "generatedAt": "2026-09-20T05:42:41.846Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
+      "prompt": "minimalist desk",
+      "id": "6337",
+      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5331,
+      "height": 3554,
+      "color": "#CBCDD2",
+      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
       "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
+        "name": "Karolina Grabowska www.kaboompics.com",
+        "link": "https://www.pexels.com/@karola-g2",
+        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "prompt": "handmade ceramic bowl",
+      "id": "32212371",
+      "url": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6021,
+      "height": 3902,
+      "color": "#81572D",
+      "alt": "A collection of handcrafted ceramic bowls displayed in an artisan pottery studio with soft lighting.",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "leo asher",
+        "link": "https://www.pexels.com/@leo-asher-2152467602",
+        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-bowls-in-artisan-studio-32212371/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "8358607",
+      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5329,
+      "height": 4000,
+      "color": "#807863",
+      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
+      "credit": {
+        "name": "Kübra Arslaner",
+        "link": "https://www.pexels.com/@nediyodukenson",
+        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
       }
     },
     {
@@ -47,48 +62,33 @@
       }
     },
     {
+      "prompt": "nordic interior",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
+      "credit": {
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
+      }
+    },
+    {
       "prompt": "still life composition",
-      "id": "19135397",
-      "url": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3260,
-      "height": 2518,
-      "color": "#A4A488",
-      "alt": "Yellow apples with bark casting a playful cat shadow in warm sunlight.",
+      "id": "37511476",
+      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2659,
+      "height": 1775,
+      "color": "#382E24",
+      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
       "credit": {
-        "name": "Dagmara Dombrovska",
-        "link": "https://www.pexels.com/@dagmara-dombrovska-22732579",
-        "photoLink": "https://www.pexels.com/photo/two-yellow-apples-and-a-piece-of-bark-on-the-table-19135397/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "12624841",
-      "url": "https://images.pexels.com/photos/12624841/pexels-photo-12624841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12624841/pexels-photo-12624841.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#59453A",
-      "alt": "A colorful display of traditional hand-painted ceramic bowls, showcasing intricate designs and vibrant hues.",
-      "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/colorful-plates-at-a-market-stall-12624841/"
-      }
-    },
-    {
-      "prompt": "workshop tools layout",
-      "id": "3930092",
-      "url": "https://images.pexels.com/photos/3930092/pexels-photo-3930092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3930092/pexels-photo-3930092.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4000,
-      "color": "#29251F",
-      "alt": "Gold-colored tools arranged on a black background with ample copy space, ideal for industrial themes.",
-      "credit": {
-        "name": "Miguel Á. Padriñán",
-        "link": "https://www.pexels.com/@padrinan",
-        "photoLink": "https://www.pexels.com/photo/golden-hand-tools-on-the-table-3930092/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
       }
     }
   ]
