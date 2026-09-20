@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-20T17:57:34.510Z",
+  "generatedAt": "2026-09-20T20:30:19.968Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "9304555",
-      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5509,
-      "height": 3672,
-      "color": "#AF9073",
-      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
+      "prompt": "soft morning light",
+      "id": "11731019",
+      "url": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3902,
+      "height": 2191,
+      "color": "#AA884B",
+      "alt": "A serene misty field at dawn with soft sunlight and tall grasses.",
+      "credit": {
+        "name": "Bryan Smith",
+        "link": "https://www.pexels.com/@bryan-smith-480077",
+        "photoLink": "https://www.pexels.com/photo/meadow-on-foggy-dusk-11731019/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "5395673",
+      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#876E5A",
+      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
+      "credit": {
+        "name": "taha balta",
+        "link": "https://www.pexels.com/@taha-balta-3031128",
+        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+      }
+    },
+    {
+      "prompt": "handmade ceramics",
+      "id": "9304500",
+      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5539,
+      "height": 3694,
+      "color": "#A17E2D",
+      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
       "credit": {
         "name": "Mikhail Nilov",
         "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
+        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
       }
     },
     {
-      "prompt": "rusty metal wrench",
-      "id": "6789020",
-      "url": "https://images.pexels.com/photos/6789020/pexels-photo-6789020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6789020/pexels-photo-6789020.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#282829",
-      "alt": "High-quality image showcasing various wrenches on a dark background, perfect for industrial themes.",
+      "prompt": "linen wood",
+      "id": "545046",
+      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4460,
+      "height": 2974,
+      "color": "#CEBBA8",
+      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
       "credit": {
-        "name": "Dmitry Demidov",
-        "link": "https://www.pexels.com/@dmitry-demidov-515774",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-assorted-wrenches-6789020/"
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
       }
     },
     {
-      "prompt": "brick wall texture",
-      "id": "3816350",
-      "url": "https://images.pexels.com/photos/3816350/pexels-photo-3816350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3816350/pexels-photo-3816350.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5465,
-      "height": 3469,
-      "color": "#7D5E51",
-      "alt": "Detailed texture of red brick wall, perfect for architectural designs and backgrounds.",
+      "prompt": "nordic interiors",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-3816350/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
       }
     },
     {
-      "prompt": "sunlit fruit arrangement",
-      "id": "6672400",
-      "url": "https://images.pexels.com/photos/6672400/pexels-photo-6672400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6672400/pexels-photo-6672400.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#7D4A25",
-      "alt": "A variety of fresh fruits including quinces and oranges in a glass bowl under warm lighting.",
+      "prompt": "urban textures",
+      "id": "16647842",
+      "url": "https://images.pexels.com/photos/16647842/pexels-photo-16647842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16647842/pexels-photo-16647842.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6123,
+      "height": 4082,
+      "color": "#B07237",
+      "alt": "Abstract close-up of a wall with cracked red and yellow paint creating a rugged texture.",
       "credit": {
-        "name": "Virda Şahin",
-        "link": "https://www.pexels.com/@virdasahin",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-bowl-of-mixed-fruits-6672400/"
-      }
-    },
-    {
-      "prompt": "misty coastal sunrise",
-      "id": "12010110",
-      "url": "https://images.pexels.com/photos/12010110/pexels-photo-12010110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12010110/pexels-photo-12010110.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3672,
-      "height": 2066,
-      "color": "#86949D",
-      "alt": "Spectacular view of a rocky coastline under a clear blue sky at dawn.",
-      "credit": {
-        "name": "Pedro  Slinger",
-        "link": "https://www.pexels.com/@pedrosk",
-        "photoLink": "https://www.pexels.com/photo/ocean-waves-crashing-on-rocky-shore-under-blue-sky-12010110/"
-      }
-    },
-    {
-      "prompt": "weathered wooden pier",
-      "id": "12562655",
-      "url": "https://images.pexels.com/photos/12562655/pexels-photo-12562655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12562655/pexels-photo-12562655.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5188,
-      "height": 3459,
-      "color": "#96A3AB",
-      "alt": "Serene view of moss-covered wooden pilings in calm seaside setting with cloudy sky.",
-      "credit": {
-        "name": "Philipp Deus",
-        "link": "https://www.pexels.com/@deuspix",
-        "photoLink": "https://www.pexels.com/photo/mossy-rocks-on-the-water-12562655/"
+        "name": "Mark Henry Rood",
+        "link": "https://www.pexels.com/@mark-henry-rood-531347415",
+        "photoLink": "https://www.pexels.com/photo/cracks-on-wall-16647842/"
       }
     }
   ]
