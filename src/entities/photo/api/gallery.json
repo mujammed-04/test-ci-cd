@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-20T10:37:54.051Z",
+  "generatedAt": "2026-09-20T14:29:14.946Z",
   "photos": [
     {
-      "prompt": "vintage workshop tools",
-      "id": "34611566",
-      "url": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#554025",
-      "alt": "Close-up of vintage woodworking tools on a wooden workbench, showcasing craftsmanship.",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "6611471",
+      "url": "https://images.pexels.com/photos/6611471/pexels-photo-6611471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611471/pexels-photo-6611471.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3333,
+      "color": "#A8A29A",
+      "alt": "A close-up view of raw clay on a wooden board, ready for pottery making.",
       "credit": {
-        "name": "Carel Voorhorst",
-        "link": "https://www.pexels.com/@carel-voorhorst-854238",
-        "photoLink": "https://www.pexels.com/photo/vintage-workshop-tools-on-wooden-bench-34611566/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/a-crumpled-raw-clay-on-a-wooden-board-6611471/"
+      }
+    },
+    {
+      "prompt": "detailed botanical leaf",
+      "id": "18462849",
+      "url": "https://images.pexels.com/photos/18462849/pexels-photo-18462849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18462849/pexels-photo-18462849.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4900,
+      "height": 4277,
+      "color": "#859E04",
+      "alt": "Detailed macro shot of a green leaf showing intricate vein patterns.",
+      "credit": {
+        "name": "Petr Ganaj",
+        "link": "https://www.pexels.com/@ganajp",
+        "photoLink": "https://www.pexels.com/photo/texture-of-leaf-18462849/"
       }
     },
     {
       "prompt": "linen wood texture",
-      "id": "34860678",
-      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "34860684",
+      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7200,
       "height": 5400,
-      "color": "#0D2D54",
-      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
+      "color": "#5F5D5E",
+      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
       "credit": {
         "name": "3D Render",
         "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
+        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "32132450",
-      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#93705A",
-      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
+      "prompt": "minimalist desk surface",
+      "id": "5712073",
+      "url": "https://images.pexels.com/photos/5712073/pexels-photo-5712073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5712073/pexels-photo-5712073.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2336,
+      "color": "#9B9A92",
+      "alt": "Elegant minimalist workspace featuring a laptop, smartphone, and dried flowers on a glass desk.",
       "credit": {
-        "name": "Ánh Đặng",
-        "link": "https://www.pexels.com/@anhdanghihi",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+        "name": "Arina Krasnikova",
+        "link": "https://www.pexels.com/@arina-krasnikova",
+        "photoLink": "https://www.pexels.com/photo/electronic-gadgets-on-a-glass-desk-with-notebook-and-pen-5712073/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "6782271",
-      "url": "https://images.pexels.com/photos/6782271/pexels-photo-6782271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6782271/pexels-photo-6782271.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#B2A99F",
-      "alt": "Modern apartment interior with open plan kitchen and living room with TV on wall and white cabinets",
+      "prompt": "workshop hand tools",
+      "id": "220639",
+      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#D7D7D7",
+      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/dining-table-next-to-tv-and-kitchen-near-chairs-6782271/"
+        "name": "icon0 com",
+        "link": "https://www.pexels.com/@icon0",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
       }
     },
     {
-      "prompt": "botanical leaf detail",
-      "id": "39198016",
-      "url": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3237,
-      "height": 2158,
-      "color": "#494949",
-      "alt": "Detailed macro shot of leaf veins in black and white, showcasing intricate patterns and textures.",
+      "prompt": "morning soft light",
+      "id": "979323",
+      "url": "https://images.pexels.com/photos/979323/pexels-photo-979323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/979323/pexels-photo-979323.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#889573",
+      "alt": "Close-up macro shot of dewy grass blades with a soft bokeh background, capturing nature's beauty.",
       "credit": {
-        "name": "Klaus Nenning",
-        "link": "https://www.pexels.com/@nekibek",
-        "photoLink": "https://www.pexels.com/photo/macro-black-and-white-leaf-veins-close-up-39198016/"
-      }
-    },
-    {
-      "prompt": "still life composition",
-      "id": "30236967",
-      "url": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5328,
-      "height": 4000,
-      "color": "#E8E3E0",
-      "alt": "Artistic still life featuring ceramics, books, and a bust for a classic look.",
-      "credit": {
-        "name": "İrem Dur",
-        "link": "https://www.pexels.com/@i-rem-dur-1175044181",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-ceramic-and-books-30236967/"
+        "name": "Dapur Melodi",
+        "link": "https://www.pexels.com/@dapur-melodi-192125",
+        "photoLink": "https://www.pexels.com/photo/macro-photography-of-blades-of-grass-979323/"
       }
     }
   ]
