@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-20T05:42:41.846Z",
+  "generatedAt": "2026-09-20T10:37:54.051Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "6337",
-      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5331,
-      "height": 3554,
-      "color": "#CBCDD2",
-      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
-      "credit": {
-        "name": "Karolina Grabowska www.kaboompics.com",
-        "link": "https://www.pexels.com/@karola-g2",
-        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "32212371",
-      "url": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6021,
-      "height": 3902,
-      "color": "#81572D",
-      "alt": "A collection of handcrafted ceramic bowls displayed in an artisan pottery studio with soft lighting.",
-      "credit": {
-        "name": "leo asher",
-        "link": "https://www.pexels.com/@leo-asher-2152467602",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-bowls-in-artisan-studio-32212371/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "8358607",
-      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5329,
+      "prompt": "vintage workshop tools",
+      "id": "34611566",
+      "url": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#807863",
-      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
+      "color": "#554025",
+      "alt": "Close-up of vintage woodworking tools on a wooden workbench, showcasing craftsmanship.",
       "credit": {
-        "name": "Kübra Arslaner",
-        "link": "https://www.pexels.com/@nediyodukenson",
-        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
+        "name": "Carel Voorhorst",
+        "link": "https://www.pexels.com/@carel-voorhorst-854238",
+        "photoLink": "https://www.pexels.com/photo/vintage-workshop-tools-on-wooden-bench-34611566/"
       }
     },
     {
       "prompt": "linen wood texture",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "34860678",
+      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7200,
       "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "color": "#0D2D54",
+      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
       "credit": {
         "name": "3D Render",
         "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "7055629",
-      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5834,
-      "height": 3895,
-      "color": "#7D756D",
-      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
+      "prompt": "analogue film grain",
+      "id": "32132450",
+      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#93705A",
+      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
       "credit": {
-        "name": "Pavel Danilyuk",
-        "link": "https://www.pexels.com/@pavel-danilyuk",
-        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
+        "name": "Ánh Đặng",
+        "link": "https://www.pexels.com/@anhdanghihi",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+      }
+    },
+    {
+      "prompt": "nordic interior design",
+      "id": "6782271",
+      "url": "https://images.pexels.com/photos/6782271/pexels-photo-6782271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6782271/pexels-photo-6782271.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#B2A99F",
+      "alt": "Modern apartment interior with open plan kitchen and living room with TV on wall and white cabinets",
+      "credit": {
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/dining-table-next-to-tv-and-kitchen-near-chairs-6782271/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "39198016",
+      "url": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3237,
+      "height": 2158,
+      "color": "#494949",
+      "alt": "Detailed macro shot of leaf veins in black and white, showcasing intricate patterns and textures.",
+      "credit": {
+        "name": "Klaus Nenning",
+        "link": "https://www.pexels.com/@nekibek",
+        "photoLink": "https://www.pexels.com/photo/macro-black-and-white-leaf-veins-close-up-39198016/"
       }
     },
     {
       "prompt": "still life composition",
-      "id": "37511476",
-      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1775,
-      "color": "#382E24",
-      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
+      "id": "30236967",
+      "url": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5328,
+      "height": 4000,
+      "color": "#E8E3E0",
+      "alt": "Artistic still life featuring ceramics, books, and a bust for a classic look.",
       "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
+        "name": "İrem Dur",
+        "link": "https://www.pexels.com/@i-rem-dur-1175044181",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-ceramic-and-books-30236967/"
       }
     }
   ]
