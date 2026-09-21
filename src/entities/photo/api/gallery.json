@@ -1,23 +1,53 @@
 {
-  "generatedAt": "2026-09-20T22:58:06.104Z",
+  "generatedAt": "2026-09-21T00:57:29.313Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "6952331",
-      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6610,
-      "height": 4407,
-      "color": "#BDB2A8",
-      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
+      "prompt": "coastal weather",
+      "id": "20146063",
+      "url": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4912,
+      "height": 2958,
+      "color": "#908E8F",
+      "alt": "A dramatic aerial view of a coastal landscape with expansive clouds and a sunset horizon over the ocean.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
+        "name": "Robert So",
+        "link": "https://www.pexels.com/@robertkso",
+        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-coast-at-sunset-20146063/"
       }
     },
     {
-      "prompt": "Minimal desk",
+      "prompt": "botanical detail",
+      "id": "7435691",
+      "url": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#5D563A",
+      "alt": "A vivid close-up shot of green pointed leaves creating a natural texture and pattern.",
+      "credit": {
+        "name": "Ventill8  Productions",
+        "link": "https://www.pexels.com/@ventill8-productions-3270833",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-grass-7435691/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "6954767",
+      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4592,
+      "height": 3064,
+      "color": "#B5B3AB",
+      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
+      "credit": {
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
+      }
+    },
+    {
+      "prompt": "minimal desks",
       "id": "7055",
       "url": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&h=350",
@@ -32,63 +62,33 @@
       }
     },
     {
-      "prompt": "Urban texture wall",
-      "id": "12008050",
-      "url": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6224,
-      "height": 4150,
-      "color": "#9B928B",
-      "alt": "A close-up of a textured wall featuring worn wood and partially painted surfaces.",
+      "prompt": "morning light",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
+      "height": 4000,
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/photo-of-daubed-wall-and-glass-door-12008050/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     },
     {
-      "prompt": "Morning light",
-      "id": "11284847",
-      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B553D",
-      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
+      "prompt": "nordic interiors",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
-      }
-    },
-    {
-      "prompt": "Botanical leaf detail",
-      "id": "30472426",
-      "url": "https://images.pexels.com/photos/30472426/pexels-photo-30472426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30472426/pexels-photo-30472426.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6822,
-      "height": 4548,
-      "color": "#6C2D0A",
-      "alt": "Detailed close-up of a dried leaf highlighting its intricate vein patterns.",
-      "credit": {
-        "name": "Suki Lee",
-        "link": "https://www.pexels.com/@suki-lee-110686949",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-dried-autumn-leaf-30472426/"
-      }
-    },
-    {
-      "prompt": "Linen wood texture",
-      "id": "34860687",
-      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#272727",
-      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
-      "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
       }
     }
   ]
