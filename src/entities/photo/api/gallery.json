@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-21T06:00:23.105Z",
+  "generatedAt": "2026-09-21T13:36:25.175Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "28257494",
-      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5455,
-      "height": 3636,
-      "color": "#7B96B3",
-      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
+      "prompt": "Nordic interior",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "prompt": "Coastal weather",
+      "id": "26598056",
+      "url": "https://images.pexels.com/photos/26598056/pexels-photo-26598056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26598056/pexels-photo-26598056.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2264,
+      "color": "#807B78",
+      "alt": "Peaceful coastal scene with waves around concrete blocks under a cloudy sky.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/concrete-blocks-in-sand-at-beach-26598056/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "9564681",
-      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5799,
-      "height": 4000,
-      "color": "#716956",
-      "alt": "A serene forest scene with sun rays through trees and morning fog.",
-      "credit": {
-        "name": "Ludvig Hedenborg",
-        "link": "https://www.pexels.com/@ludvighedenborg",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "11000789",
-      "url": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#5F7537",
-      "alt": "Macro shot of green pine flower buds with vivid textures and details.",
-      "credit": {
-        "name": "Piotr Wojnowski",
-        "link": "https://www.pexels.com/@piotr-wojnowski-2767306",
-        "photoLink": "https://www.pexels.com/photo/macro-shot-photography-of-buds-of-a-flower-11000789/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "1478521",
-      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8561,
-      "height": 5830,
-      "color": "#5F6C70",
-      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
-      "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "30397830",
-      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Urban texture",
+      "id": "30397833",
+      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4032,
       "height": 2268,
-      "color": "#C2BEBB",
-      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "color": "#B4B1AC",
+      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
       "credit": {
         "name": "Krakograff Textures",
         "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
+      }
+    },
+    {
+      "prompt": "Morning light",
+      "id": "28137318",
+      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2738,
+      "height": 1825,
+      "color": "#1B1B0F",
+      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
+      "credit": {
+        "name": "Felix",
+        "link": "https://www.pexels.com/@felix-57767809",
+        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
+      }
+    },
+    {
+      "prompt": "Linen wood",
+      "id": "27223675",
+      "url": "https://images.pexels.com/photos/27223675/pexels-photo-27223675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27223675/pexels-photo-27223675.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5821,
+      "height": 3881,
+      "color": "#AA8C70",
+      "alt": "A warm wooden sign with 'handmade with love' on cozy linen bedding in orange and white.",
+      "credit": {
+        "name": "Rita  K",
+        "link": "https://www.pexels.com/@rita-k-56679557",
+        "photoLink": "https://www.pexels.com/photo/handmade-with-love-27223675/"
+      }
+    },
+    {
+      "prompt": "Quiet architecture",
+      "id": "12175481",
+      "url": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#D0D1D3",
+      "alt": "Low angle view of modern white building with pillars in snowy weather, showcasing minimalist design.",
+      "credit": {
+        "name": "alexander ermakov",
+        "link": "https://www.pexels.com/@ermakov",
+        "photoLink": "https://www.pexels.com/photo/concrete-building-with-pillars-12175481/"
       }
     }
   ]
