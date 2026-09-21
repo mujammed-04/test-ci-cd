@@ -1,64 +1,34 @@
 {
-  "generatedAt": "2026-09-21T00:57:29.313Z",
+  "generatedAt": "2026-09-21T06:00:23.105Z",
   "photos": [
     {
-      "prompt": "coastal weather",
-      "id": "20146063",
-      "url": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20146063/pexels-photo-20146063.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4912,
-      "height": 2958,
-      "color": "#908E8F",
-      "alt": "A dramatic aerial view of a coastal landscape with expansive clouds and a sunset horizon over the ocean.",
+      "prompt": "quiet architecture",
+      "id": "28257494",
+      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5455,
+      "height": 3636,
+      "color": "#7B96B3",
+      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
       "credit": {
-        "name": "Robert So",
-        "link": "https://www.pexels.com/@robertkso",
-        "photoLink": "https://www.pexels.com/photo/cloud-over-sea-coast-at-sunset-20146063/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "7435691",
-      "url": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#5D563A",
-      "alt": "A vivid close-up shot of green pointed leaves creating a natural texture and pattern.",
+      "prompt": "handmade ceramics",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
       "credit": {
-        "name": "Ventill8  Productions",
-        "link": "https://www.pexels.com/@ventill8-productions-3270833",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-grass-7435691/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "6954767",
-      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4592,
-      "height": 3064,
-      "color": "#B5B3AB",
-      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
-      "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
-      }
-    },
-    {
-      "prompt": "minimal desks",
-      "id": "7055",
-      "url": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#9F9C99",
-      "alt": "A clean and modern home office workspace featuring an iMac, keyboard, and magic mouse on a minimalist desk.",
-      "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-set-on-table-7055/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     },
     {
@@ -77,18 +47,48 @@
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
+      "prompt": "botanical detail",
+      "id": "11000789",
+      "url": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#5F7537",
+      "alt": "Macro shot of green pine flower buds with vivid textures and details.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
+        "name": "Piotr Wojnowski",
+        "link": "https://www.pexels.com/@piotr-wojnowski-2767306",
+        "photoLink": "https://www.pexels.com/photo/macro-shot-photography-of-buds-of-a-flower-11000789/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "1478521",
+      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8561,
+      "height": 5830,
+      "color": "#5F6C70",
+      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
+      "credit": {
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
+      }
+    },
+    {
+      "prompt": "urban textures",
+      "id": "30397830",
+      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#C2BEBB",
+      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "credit": {
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
       }
     }
   ]
