@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-09-21T22:59:28.502Z",
+  "generatedAt": "2026-09-22T01:33:29.759Z",
   "photos": [
+    {
+      "prompt": "linen wood texture",
+      "id": "34860678",
+      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#0D2D54",
+      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "8920170",
+      "url": "https://images.pexels.com/photos/8920170/pexels-photo-8920170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8920170/pexels-photo-8920170.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2728,
+      "height": 1830,
+      "color": "#6D7367",
+      "alt": "A woman with raised arms exuding happiness in a soft, vintage film style.",
+      "credit": {
+        "name": "Nastya Korenkova",
+        "link": "https://www.pexels.com/@nastya-korenkova-72937441",
+        "photoLink": "https://www.pexels.com/photo/film-photo-of-a-young-woman-with-arms-raised-enjoying-herself-8920170/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "37173283",
+      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3852,
+      "height": 3712,
+      "color": "#D1D1D1",
+      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "19999552",
+      "url": "https://images.pexels.com/photos/19999552/pexels-photo-19999552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19999552/pexels-photo-19999552.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#5C8BB7",
+      "alt": "A peaceful coastal beach scene with a vast cloudy sky, perfect for tranquil themes.",
+      "credit": {
+        "name": "Kathrine Birch",
+        "link": "https://www.pexels.com/@kathrinepnw",
+        "photoLink": "https://www.pexels.com/photo/clouds-and-sea-19999552/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "20432040",
+      "url": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4208,
+      "height": 3120,
+      "color": "#4B473C",
+      "alt": "A serene indoor setting with a blue chair by a sunlit window overlooking greenery.",
+      "credit": {
+        "name": "Adil Ahnaf🇧🇩🇵🇸",
+        "link": "https://www.pexels.com/@mdadilahnaf",
+        "photoLink": "https://www.pexels.com/photo/a-chair-sits-in-front-of-a-window-in-a-room-20432040/"
+      }
+    },
     {
       "prompt": "minimal desk",
       "id": "7057",
@@ -14,81 +89,6 @@
         "name": "Startup Stock Photos",
         "link": "https://www.pexels.com/@startup-stock-photos",
         "photoLink": "https://www.pexels.com/photo/silver-imac-apple-magic-mouse-and-apple-keyboard-7057/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
-      "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "36560086",
-      "url": "https://images.pexels.com/photos/36560086/pexels-photo-36560086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36560086/pexels-photo-36560086.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#5F764A",
-      "alt": "Vivid green leaves captured in detail, showcasing natural textures and vibrant tones.",
-      "credit": {
-        "name": "Primitive Spaces",
-        "link": "https://www.pexels.com/@primitive-spaces-2147980412",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-lush-green-leaves-with-natural-texture-36560086/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "28529023",
-      "url": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2880,
-      "color": "#A79881",
-      "alt": "Minimalist cube house in natural setting at sunset with vibrant colors.",
-      "credit": {
-        "name": "Gaurav Yadav",
-        "link": "https://www.pexels.com/@gaurav-yadav-434373730",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-cube-house-in-nature-28529023/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
-      "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
       }
     }
   ]
