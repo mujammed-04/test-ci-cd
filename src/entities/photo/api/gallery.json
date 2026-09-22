@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-22T13:05:29.408Z",
+  "generatedAt": "2026-09-22T17:56:03.249Z",
   "photos": [
     {
-      "prompt": "Linen wood texture",
-      "id": "36346049",
-      "url": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5088,
-      "height": 3392,
-      "color": "#AE8E75",
-      "alt": "Detailed close-up of beige fabric texture, highlighting its woven pattern.",
+      "prompt": "botanical macro",
+      "id": "6142130",
+      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#333E39",
+      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
       "credit": {
-        "name": "Jonathan Borba",
-        "link": "https://www.pexels.com/@jonathanborba",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-natural-fabric-texture-36346049/"
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "8920170",
-      "url": "https://images.pexels.com/photos/8920170/pexels-photo-8920170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8920170/pexels-photo-8920170.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2728,
-      "height": 1830,
-      "color": "#6D7367",
-      "alt": "A woman with raised arms exuding happiness in a soft, vintage film style.",
+      "prompt": "coastal storm clouds",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
       "credit": {
-        "name": "Nastya Korenkova",
-        "link": "https://www.pexels.com/@nastya-korenkova-72937441",
-        "photoLink": "https://www.pexels.com/photo/film-photo-of-a-young-woman-with-arms-raised-enjoying-herself-8920170/"
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
       }
     },
     {
-      "prompt": "Workshop tools arrangement",
-      "id": "5432282",
-      "url": "https://images.pexels.com/photos/5432282/pexels-photo-5432282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5432282/pexels-photo-5432282.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet historic facade",
+      "id": "7071207",
+      "url": "https://images.pexels.com/photos/7071207/pexels-photo-7071207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7071207/pexels-photo-7071207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4651,
+      "height": 3101,
+      "color": "#7A756E",
+      "alt": "A peaceful narrow alleyway lined with historic buildings in Heidelberg, Germany.",
+      "credit": {
+        "name": "Julian Kirschner",
+        "link": "https://www.pexels.com/@julkir",
+        "photoLink": "https://www.pexels.com/photo/empty-street-between-concrete-buildings-7071207/"
+      }
+    },
+    {
+      "prompt": "minimalist wooden desk",
+      "id": "3847582",
+      "url": "https://images.pexels.com/photos/3847582/pexels-photo-3847582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3847582/pexels-photo-3847582.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#896F61",
-      "alt": "A well-organized workshop featuring an array of tools neatly displayed on wooden boards.",
+      "color": "#31271D",
+      "alt": "A warm, dark-toned home office with a wooden table and contemporary chairs. Includes a laptop, magazine, and decor.",
       "credit": {
-        "name": "Chengxin Zhao",
-        "link": "https://www.pexels.com/@chengxin-zhao-1218017",
-        "photoLink": "https://www.pexels.com/photo/tools-on-wooden-boards-5432282/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/brown-wooden-table-with-white-chairs-3847582/"
       }
     },
     {
-      "prompt": "Coastal weather clouds",
-      "id": "570991",
-      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3862,
-      "height": 2895,
-      "color": "#594943",
-      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
-      "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
-      }
-    },
-    {
-      "prompt": "Minimalist desk surface",
-      "id": "4790260",
-      "url": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5865,
-      "height": 3915,
-      "color": "#A9A9A8",
-      "alt": "Elegant minimalist white desk setup with a digital clock in a serene setting.",
-      "credit": {
-        "name": "Anete Lusina",
-        "link": "https://www.pexels.com/@anete-lusina",
-        "photoLink": "https://www.pexels.com/photo/white-electronic-device-on-the-table-4790260/"
-      }
-    },
-    {
-      "prompt": "Urban texture walls",
-      "id": "19884844",
-      "url": "https://images.pexels.com/photos/19884844/pexels-photo-19884844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19884844/pexels-photo-19884844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "industrial workshop tools",
+      "id": "14637831",
+      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#888493",
-      "alt": "Detailed texture of a rustic brick wall in Jessheim, Norway, showcasing distinct brick patterns.",
+      "color": "#52453F",
+      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
       "credit": {
-        "name": "Surdu Horia",
-        "link": "https://www.pexels.com/@surdu-horia-743788511",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-19884844/"
+        "name": "Ayub Abdul Rahman",
+        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
+        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
+      "id": "11274988",
+      "url": "https://images.pexels.com/photos/11274988/pexels-photo-11274988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11274988/pexels-photo-11274988.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 10000,
+      "height": 7500,
+      "color": "#998079",
+      "alt": "Close-up of rustic red brick wall showcasing weathered texture and detail.",
+      "credit": {
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-an-old-brick-wall-11274988/"
       }
     }
   ]
