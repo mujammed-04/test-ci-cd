@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-22T17:56:03.249Z",
+  "generatedAt": "2026-09-22T20:57:03.412Z",
   "photos": [
     {
-      "prompt": "botanical macro",
-      "id": "6142130",
-      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#333E39",
-      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
+      "prompt": "analogue film grain",
+      "id": "32132450",
+      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#93705A",
+      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
       "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
+        "name": "Ánh Đặng",
+        "link": "https://www.pexels.com/@anhdanghihi",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "10666891",
+      "url": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#2A5923",
+      "alt": "Detailed close-up of a green leaf displaying natural patterns under bright sunlight.",
+      "credit": {
+        "name": "Sonny Sixteen",
+        "link": "https://www.pexels.com/@sonny",
+        "photoLink": "https://www.pexels.com/photo/natural-pattern-on-leaf-10666891/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "credit": {
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+      }
+    },
+    {
+      "prompt": "quiet architectural interior",
+      "id": "11182201",
+      "url": "https://images.pexels.com/photos/11182201/pexels-photo-11182201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11182201/pexels-photo-11182201.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4812,
+      "height": 2704,
+      "color": "#202425",
+      "alt": "Mysterious dark interior with geometric lines and shadows in Istanbul.",
+      "credit": {
+        "name": "Ikbal Alahmad",
+        "link": "https://www.pexels.com/@ikbalphoto",
+        "photoLink": "https://www.pexels.com/photo/ceiling-and-wall-in-shadow-11182201/"
       }
     },
     {
       "prompt": "coastal storm clouds",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "id": "11294412",
+      "url": "https://images.pexels.com/photos/11294412/pexels-photo-11294412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11294412/pexels-photo-11294412.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#797971",
+      "alt": "A vast ocean beneath a dramatic cloudy sky, perfect for conveying moody weather.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/a-body-of-water-under-a-dark-cloudy-sky-11294412/"
       }
     },
     {
-      "prompt": "quiet historic facade",
-      "id": "7071207",
-      "url": "https://images.pexels.com/photos/7071207/pexels-photo-7071207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7071207/pexels-photo-7071207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4651,
-      "height": 3101,
-      "color": "#7A756E",
-      "alt": "A peaceful narrow alleyway lined with historic buildings in Heidelberg, Germany.",
+      "prompt": "workshop tool bench",
+      "id": "34471533",
+      "url": "https://images.pexels.com/photos/34471533/pexels-photo-34471533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34471533/pexels-photo-34471533.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5531,
+      "height": 3827,
+      "color": "#6D7E6B",
+      "alt": "A tidy workshop bench with various woodworking tools and clamps neatly arranged.",
       "credit": {
-        "name": "Julian Kirschner",
-        "link": "https://www.pexels.com/@julkir",
-        "photoLink": "https://www.pexels.com/photo/empty-street-between-concrete-buildings-7071207/"
-      }
-    },
-    {
-      "prompt": "minimalist wooden desk",
-      "id": "3847582",
-      "url": "https://images.pexels.com/photos/3847582/pexels-photo-3847582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3847582/pexels-photo-3847582.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#31271D",
-      "alt": "A warm, dark-toned home office with a wooden table and contemporary chairs. Includes a laptop, magazine, and decor.",
-      "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/brown-wooden-table-with-white-chairs-3847582/"
-      }
-    },
-    {
-      "prompt": "industrial workshop tools",
-      "id": "14637831",
-      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#52453F",
-      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
-      "credit": {
-        "name": "Ayub Abdul Rahman",
-        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
-        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
-      }
-    },
-    {
-      "prompt": "urban brick texture",
-      "id": "11274988",
-      "url": "https://images.pexels.com/photos/11274988/pexels-photo-11274988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11274988/pexels-photo-11274988.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 10000,
-      "height": 7500,
-      "color": "#998079",
-      "alt": "Close-up of rustic red brick wall showcasing weathered texture and detail.",
-      "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-an-old-brick-wall-11274988/"
+        "name": "Ahimsa -  OM",
+        "link": "https://www.pexels.com/@ahimsa",
+        "photoLink": "https://www.pexels.com/photo/organized-workshop-with-hand-tools-and-clamps-34471533/"
       }
     }
   ]
