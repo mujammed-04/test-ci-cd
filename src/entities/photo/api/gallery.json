@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-22T20:57:03.412Z",
+  "generatedAt": "2026-09-22T23:31:52.530Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "32132450",
-      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#93705A",
-      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
+      "prompt": "Soft morning light",
+      "id": "11731019",
+      "url": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3902,
+      "height": 2191,
+      "color": "#AA884B",
+      "alt": "A serene misty field at dawn with soft sunlight and tall grasses.",
       "credit": {
-        "name": "Ánh Đặng",
-        "link": "https://www.pexels.com/@anhdanghihi",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+        "name": "Bryan Smith",
+        "link": "https://www.pexels.com/@bryan-smith-480077",
+        "photoLink": "https://www.pexels.com/photo/meadow-on-foggy-dusk-11731019/"
       }
     },
     {
-      "prompt": "botanical leaf detail",
-      "id": "10666891",
-      "url": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
+      "prompt": "Gritty urban walls",
+      "id": "936800",
+      "url": "https://images.pexels.com/photos/936800/pexels-photo-936800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/936800/pexels-photo-936800.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9000,
+      "height": 6000,
+      "color": "#B0ABAF",
+      "alt": "Detailed grunge texture of an old brick wall with peeling paint and rustic feel.",
+      "credit": {
+        "name": "Tim Mossholder",
+        "link": "https://www.pexels.com/@timmossholder",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-brick-wall-936800/"
+      }
+    },
+    {
+      "prompt": "Vintage fruit stilllife",
+      "id": "11690677",
+      "url": "https://images.pexels.com/photos/11690677/pexels-photo-11690677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11690677/pexels-photo-11690677.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#2A2016",
+      "alt": "A rustic still life with apples, bananas, and citrus fruits on a wooden board with vintage glass bottles.",
+      "credit": {
+        "name": "Israel Piña",
+        "link": "https://www.pexels.com/@israelpinapol",
+        "photoLink": "https://www.pexels.com/photo/fruits-on-a-wooden-board-and-glass-bottles-11690677/"
+      }
+    },
+    {
+      "prompt": "Handcrafted ceramic vase",
+      "id": "37301842",
+      "url": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4080,
       "height": 3264,
-      "color": "#2A5923",
-      "alt": "Detailed close-up of a green leaf displaying natural patterns under bright sunlight.",
+      "color": "#544E42",
+      "alt": "Artisan potter skillfully molding clay pots in a rustic workshop setting.",
       "credit": {
-        "name": "Sonny Sixteen",
-        "link": "https://www.pexels.com/@sonny",
-        "photoLink": "https://www.pexels.com/photo/natural-pattern-on-leaf-10666891/"
+        "name": "Mehmet Turgut  Kirkgoz",
+        "link": "https://www.pexels.com/@tkirkgoz",
+        "photoLink": "https://www.pexels.com/photo/skilled-potter-shaping-clay-vases-in-workshop-37301842/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "7794365",
-      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#C1B4AB",
-      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "prompt": "Linen wood texture",
+      "id": "5964663",
+      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#90704C",
+      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
       "credit": {
-        "name": "Monstera Production",
-        "link": "https://www.pexels.com/@gabby-k",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+        "name": "Eva Bronzini",
+        "link": "https://www.pexels.com/@eva-bronzini",
+        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
       }
     },
     {
-      "prompt": "quiet architectural interior",
-      "id": "11182201",
-      "url": "https://images.pexels.com/photos/11182201/pexels-photo-11182201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11182201/pexels-photo-11182201.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4812,
-      "height": 2704,
-      "color": "#202425",
-      "alt": "Mysterious dark interior with geometric lines and shadows in Istanbul.",
+      "prompt": "Minimalist desk setup",
+      "id": "14016665",
+      "url": "https://images.pexels.com/photos/14016665/pexels-photo-14016665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14016665/pexels-photo-14016665.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5177,
+      "height": 3566,
+      "color": "#415868",
+      "alt": "A minimalist workspace with a computer setup, gadgets, and neon lighting for a sleek modern look.",
       "credit": {
-        "name": "Ikbal Alahmad",
-        "link": "https://www.pexels.com/@ikbalphoto",
-        "photoLink": "https://www.pexels.com/photo/ceiling-and-wall-in-shadow-11182201/"
-      }
-    },
-    {
-      "prompt": "coastal storm clouds",
-      "id": "11294412",
-      "url": "https://images.pexels.com/photos/11294412/pexels-photo-11294412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11294412/pexels-photo-11294412.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#797971",
-      "alt": "A vast ocean beneath a dramatic cloudy sky, perfect for conveying moody weather.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/a-body-of-water-under-a-dark-cloudy-sky-11294412/"
-      }
-    },
-    {
-      "prompt": "workshop tool bench",
-      "id": "34471533",
-      "url": "https://images.pexels.com/photos/34471533/pexels-photo-34471533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34471533/pexels-photo-34471533.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5531,
-      "height": 3827,
-      "color": "#6D7E6B",
-      "alt": "A tidy workshop bench with various woodworking tools and clamps neatly arranged.",
-      "credit": {
-        "name": "Ahimsa -  OM",
-        "link": "https://www.pexels.com/@ahimsa",
-        "photoLink": "https://www.pexels.com/photo/organized-workshop-with-hand-tools-and-clamps-34471533/"
+        "name": "Pramod  Tiwari",
+        "link": "https://www.pexels.com/@pramodtiwari",
+        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-14016665/"
       }
     }
   ]
