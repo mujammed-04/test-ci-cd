@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-23T03:20:31.459Z",
+  "generatedAt": "2026-09-23T09:04:20.786Z",
   "photos": [
     {
-      "prompt": "urban brick wall",
-      "id": "6728756",
-      "url": "https://images.pexels.com/photos/6728756/pexels-photo-6728756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6728756/pexels-photo-6728756.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5950,
-      "height": 3972,
-      "color": "#FC5724",
-      "alt": "Vivid red brick wall perfect for architectural backgrounds and textural design projects.",
-      "credit": {
-        "name": "Magic K",
-        "link": "https://www.pexels.com/@magic-k-24827758",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-brick-wall-6728756/"
-      }
-    },
-    {
-      "prompt": "morning sunrise glow",
-      "id": "5431335",
-      "url": "https://images.pexels.com/photos/5431335/pexels-photo-5431335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5431335/pexels-photo-5431335.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4169,
-      "height": 2779,
-      "color": "#8E7A66",
-      "alt": "Serene foggy field at sunrise with mist enveloping the trees, creating a calm nature scene.",
-      "credit": {
-        "name": "Sam  Divita",
-        "link": "https://www.pexels.com/@sam-divita-3629517",
-        "photoLink": "https://www.pexels.com/photo/trees-on-a-grassy-field-during-sunset-5431335/"
-      }
-    },
-    {
-      "prompt": "botanical leaf macro",
-      "id": "20762010",
-      "url": "https://images.pexels.com/photos/20762010/pexels-photo-20762010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20762010/pexels-photo-20762010.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6968,
-      "height": 4136,
-      "color": "#587D20",
-      "alt": "Detailed macro shot of a green leaf with serrated edges and visible texture.",
-      "credit": {
-        "name": "Petr Ganaj",
-        "link": "https://www.pexels.com/@ganajp",
-        "photoLink": "https://www.pexels.com/photo/grren-leaf-surface-20762010/"
-      }
-    },
-    {
       "prompt": "analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
+      "id": "32132450",
+      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#93705A",
+      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
       "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+        "name": "Ánh Đặng",
+        "link": "https://www.pexels.com/@anhdanghihi",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
       }
     },
     {
-      "prompt": "linen wooden table",
-      "id": "7651664",
-      "url": "https://images.pexels.com/photos/7651664/pexels-photo-7651664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7651664/pexels-photo-7651664.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#827971",
-      "alt": "A rustic table setup featuring a linen napkin and simple decor, perfect for intimate dinners.",
+      "prompt": "workshop tools",
+      "id": "30335395",
+      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#302E22",
+      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
       "credit": {
-        "name": "Maria Tyutina",
-        "link": "https://www.pexels.com/@mtyutina",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-dinner-table-setting-7651664/"
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "14920354",
-      "url": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6005,
-      "height": 4009,
-      "color": "#69767C",
-      "alt": "A dramatic storm cloud hovering over a rocky beach pier with waves crashing on the shore.",
+      "prompt": "handmade ceramics",
+      "id": "34004100",
+      "url": "https://images.pexels.com/photos/34004100/pexels-photo-34004100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34004100/pexels-photo-34004100.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4128,
+      "color": "#6A5E48",
+      "alt": "Multiple handcrafted clay pots aligned in a traditional pottery workshop.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/storm-clouds-over-a-sandy-beach-14920354/"
+        "name": "Soumyojit Sinha",
+        "link": "https://www.pexels.com/@theblackhood",
+        "photoLink": "https://www.pexels.com/photo/rows-of-handcrafted-clay-pots-in-pottery-workshop-34004100/"
+      }
+    },
+    {
+      "prompt": "nordic interiors",
+      "id": "4252510",
+      "url": "https://images.pexels.com/photos/4252510/pexels-photo-4252510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4252510/pexels-photo-4252510.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4067,
+      "height": 2957,
+      "color": "#A6A098",
+      "alt": "Minimalist white furniture and modern stainless steel appliances in stylish kitchen at home on sunny day",
+      "credit": {
+        "name": "Alexander Zvir",
+        "link": "https://www.pexels.com/@algrey",
+        "photoLink": "https://www.pexels.com/photo/interior-of-modern-white-kitchen-on-sunny-day-4252510/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "7815314",
+      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1999,
+      "color": "#B79F7B",
+      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
+      "credit": {
+        "name": "Ch  SAAD",
+        "link": "https://www.pexels.com/@ch-saad-3019259",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "20530960",
+      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#9C9674",
+      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
+      "credit": {
+        "name": "Esra Erdem",
+        "link": "https://www.pexels.com/@esrakorkmaz",
+        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
       }
     }
   ]
