@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-22T23:31:52.530Z",
+  "generatedAt": "2026-09-23T03:20:31.459Z",
   "photos": [
     {
-      "prompt": "Soft morning light",
-      "id": "11731019",
-      "url": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3902,
-      "height": 2191,
-      "color": "#AA884B",
-      "alt": "A serene misty field at dawn with soft sunlight and tall grasses.",
+      "prompt": "urban brick wall",
+      "id": "6728756",
+      "url": "https://images.pexels.com/photos/6728756/pexels-photo-6728756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6728756/pexels-photo-6728756.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5950,
+      "height": 3972,
+      "color": "#FC5724",
+      "alt": "Vivid red brick wall perfect for architectural backgrounds and textural design projects.",
       "credit": {
-        "name": "Bryan Smith",
-        "link": "https://www.pexels.com/@bryan-smith-480077",
-        "photoLink": "https://www.pexels.com/photo/meadow-on-foggy-dusk-11731019/"
+        "name": "Magic K",
+        "link": "https://www.pexels.com/@magic-k-24827758",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-brick-wall-6728756/"
       }
     },
     {
-      "prompt": "Gritty urban walls",
-      "id": "936800",
-      "url": "https://images.pexels.com/photos/936800/pexels-photo-936800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/936800/pexels-photo-936800.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 9000,
-      "height": 6000,
-      "color": "#B0ABAF",
-      "alt": "Detailed grunge texture of an old brick wall with peeling paint and rustic feel.",
+      "prompt": "morning sunrise glow",
+      "id": "5431335",
+      "url": "https://images.pexels.com/photos/5431335/pexels-photo-5431335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5431335/pexels-photo-5431335.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4169,
+      "height": 2779,
+      "color": "#8E7A66",
+      "alt": "Serene foggy field at sunrise with mist enveloping the trees, creating a calm nature scene.",
       "credit": {
-        "name": "Tim Mossholder",
-        "link": "https://www.pexels.com/@timmossholder",
-        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-brick-wall-936800/"
+        "name": "Sam  Divita",
+        "link": "https://www.pexels.com/@sam-divita-3629517",
+        "photoLink": "https://www.pexels.com/photo/trees-on-a-grassy-field-during-sunset-5431335/"
       }
     },
     {
-      "prompt": "Vintage fruit stilllife",
-      "id": "11690677",
-      "url": "https://images.pexels.com/photos/11690677/pexels-photo-11690677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11690677/pexels-photo-11690677.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#2A2016",
-      "alt": "A rustic still life with apples, bananas, and citrus fruits on a wooden board with vintage glass bottles.",
+      "prompt": "botanical leaf macro",
+      "id": "20762010",
+      "url": "https://images.pexels.com/photos/20762010/pexels-photo-20762010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20762010/pexels-photo-20762010.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6968,
+      "height": 4136,
+      "color": "#587D20",
+      "alt": "Detailed macro shot of a green leaf with serrated edges and visible texture.",
       "credit": {
-        "name": "Israel Piña",
-        "link": "https://www.pexels.com/@israelpinapol",
-        "photoLink": "https://www.pexels.com/photo/fruits-on-a-wooden-board-and-glass-bottles-11690677/"
+        "name": "Petr Ganaj",
+        "link": "https://www.pexels.com/@ganajp",
+        "photoLink": "https://www.pexels.com/photo/grren-leaf-surface-20762010/"
       }
     },
     {
-      "prompt": "Handcrafted ceramic vase",
-      "id": "37301842",
-      "url": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4080,
-      "height": 3264,
-      "color": "#544E42",
-      "alt": "Artisan potter skillfully molding clay pots in a rustic workshop setting.",
+      "prompt": "analogue film grain",
+      "id": "3538574",
+      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3581,
+      "height": 2383,
+      "color": "#7D685E",
+      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
       "credit": {
-        "name": "Mehmet Turgut  Kirkgoz",
-        "link": "https://www.pexels.com/@tkirkgoz",
-        "photoLink": "https://www.pexels.com/photo/skilled-potter-shaping-clay-vases-in-workshop-37301842/"
+        "name": "Giovanni Calia",
+        "link": "https://www.pexels.com/@giovanni-calia-1140926",
+        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
       }
     },
     {
-      "prompt": "Linen wood texture",
-      "id": "5964663",
-      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#90704C",
-      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
+      "prompt": "linen wooden table",
+      "id": "7651664",
+      "url": "https://images.pexels.com/photos/7651664/pexels-photo-7651664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7651664/pexels-photo-7651664.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#827971",
+      "alt": "A rustic table setup featuring a linen napkin and simple decor, perfect for intimate dinners.",
       "credit": {
-        "name": "Eva Bronzini",
-        "link": "https://www.pexels.com/@eva-bronzini",
-        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
+        "name": "Maria Tyutina",
+        "link": "https://www.pexels.com/@mtyutina",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-dinner-table-setting-7651664/"
       }
     },
     {
-      "prompt": "Minimalist desk setup",
-      "id": "14016665",
-      "url": "https://images.pexels.com/photos/14016665/pexels-photo-14016665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14016665/pexels-photo-14016665.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5177,
-      "height": 3566,
-      "color": "#415868",
-      "alt": "A minimalist workspace with a computer setup, gadgets, and neon lighting for a sleek modern look.",
+      "prompt": "coastal storm clouds",
+      "id": "14920354",
+      "url": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6005,
+      "height": 4009,
+      "color": "#69767C",
+      "alt": "A dramatic storm cloud hovering over a rocky beach pier with waves crashing on the shore.",
       "credit": {
-        "name": "Pramod  Tiwari",
-        "link": "https://www.pexels.com/@pramodtiwari",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-14016665/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/storm-clouds-over-a-sandy-beach-14920354/"
       }
     }
   ]
