@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-23T14:40:35.327Z",
+  "generatedAt": "2026-09-23T18:50:05.298Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "prompt": "handcrafted ceramic vase",
+      "id": "31553230",
+      "url": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#7B6760",
+      "alt": "Warm rustic still life with ceramic vases and dried flowers on a red mat indoors.",
       "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+        "name": "🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳",
+        "link": "https://www.pexels.com/@nguy-n-ti-n-th-nh-2150376175",
+        "photoLink": "https://www.pexels.com/photo/rustic-indoor-still-life-with-ceramic-vases-31553230/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "7484795",
-      "url": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5968,
-      "height": 3979,
-      "color": "#BBB5A9",
-      "alt": "Neatly organized tools hanging on a workshop wall, including hammers and scissors.",
+      "prompt": "linen wood table",
+      "id": "7005164",
+      "url": "https://images.pexels.com/photos/7005164/pexels-photo-7005164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7005164/pexels-photo-7005164.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2336,
+      "color": "#867A6B",
+      "alt": "A rustic breakfast scene featuring bread, apples, and pancakes, ideal for cozy mornings.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/hammer-and-mallets-hanging-on-the-wall-7484795/"
+        "name": "Arina Krasnikova",
+        "link": "https://www.pexels.com/@arina-krasnikova",
+        "photoLink": "https://www.pexels.com/photo/apples-in-bowl-on-table-for-breakfast-7005164/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "10610785",
-      "url": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#919594",
-      "alt": "Minimalist beige building facade against a blue sky, showcasing modern architectural design.",
+      "prompt": "minimal desk setup",
+      "id": "326511",
+      "url": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#A6A099",
+      "alt": "A well-organized modern office desk with dual computer screens and various devices.",
       "credit": {
-        "name": "alleksana",
-        "link": "https://www.pexels.com/@alleksana",
-        "photoLink": "https://www.pexels.com/photo/diagonal-shot-of-a-beige-modern-building-and-blue-sky-10610785/"
+        "name": "Tranmautritam",
+        "link": "https://www.pexels.com/@tranmautritam",
+        "photoLink": "https://www.pexels.com/photo/turned-on-flat-screen-monitor-326511/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
-      }
-    },
-    {
-      "prompt": "nordic interiors",
-      "id": "5953786",
-      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5778,
-      "height": 4000,
-      "color": "#A29F9A",
-      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
-      "credit": {
-        "name": "Claudia Schmalz",
-        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
-        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "35658708",
-      "url": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "workshop tool bench",
+      "id": "12394619",
+      "url": "https://images.pexels.com/photos/12394619/pexels-photo-12394619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12394619/pexels-photo-12394619.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7008,
       "height": 4672,
-      "color": "#635344",
-      "alt": "Close-up view of a weathered brick wall with peeling plaster and textured patterns.",
+      "color": "#574E47",
+      "alt": "Close-up of a cluttered workbench with various carpentry tools and equipment.",
       "credit": {
-        "name": "Francesco Paggiaro",
-        "link": "https://www.pexels.com/@paggiarofrancesco",
-        "photoLink": "https://www.pexels.com/photo/textured-brick-and-plaster-wall-close-up-35658708/"
+        "name": "Federico Tomasoni",
+        "link": "https://www.pexels.com/@fedetoom",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-different-tools-12394619/"
+      }
+    },
+    {
+      "prompt": "nordic living room",
+      "id": "37173314",
+      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#C6C8C7",
+      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+      }
+    },
+    {
+      "prompt": "botanical leaf closeup",
+      "id": "36622451",
+      "url": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#2C5327",
+      "alt": "Detailed macro shot of green plant leaves with vibrant stripes, creating a natural texture.",
+      "credit": {
+        "name": "Rafael Rodrigues",
+        "link": "https://www.pexels.com/@rrodriguesim",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-plant-leaves-36622451/"
       }
     }
   ]
