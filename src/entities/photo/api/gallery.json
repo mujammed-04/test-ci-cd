@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-23T18:50:05.298Z",
+  "generatedAt": "2026-09-23T22:03:00.713Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic vase",
-      "id": "31553230",
-      "url": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#7B6760",
-      "alt": "Warm rustic still life with ceramic vases and dried flowers on a red mat indoors.",
+      "prompt": "weathered concrete facade",
+      "id": "27866006",
+      "url": "https://images.pexels.com/photos/27866006/pexels-photo-27866006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27866006/pexels-photo-27866006.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7376,
+      "height": 5157,
+      "color": "#A1A29D",
+      "alt": "Weathered facade featuring square windows and yellow divider on concrete wall.",
       "credit": {
-        "name": "🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳",
-        "link": "https://www.pexels.com/@nguy-n-ti-n-th-nh-2150376175",
-        "photoLink": "https://www.pexels.com/photo/rustic-indoor-still-life-with-ceramic-vases-31553230/"
+        "name": "David Underland",
+        "link": "https://www.pexels.com/@david-underland",
+        "photoLink": "https://www.pexels.com/photo/a-white-train-with-windows-and-yellow-lines-27866006/"
+      }
+    },
+    {
+      "prompt": "vintage film grain",
+      "id": "11938009",
+      "url": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2421,
+      "color": "#37322E",
+      "alt": "Close-up of hands holding a film roll and cigarette box in moody lighting.",
+      "credit": {
+        "name": "stayhereforu",
+        "link": "https://www.pexels.com/@stayhereforu-216201233",
+        "photoLink": "https://www.pexels.com/photo/film-roll-and-a-box-of-cigarettes-on-person-s-hands-11938009/"
+      }
+    },
+    {
+      "prompt": "dewy fern leaf",
+      "id": "6364644",
+      "url": "https://images.pexels.com/photos/6364644/pexels-photo-6364644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6364644/pexels-photo-6364644.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#111D11",
+      "alt": "A detailed close-up of a vibrant green fern leaf showcasing its intricate pattern.",
+      "credit": {
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/fern-plant-in-close-up-photography-6364644/"
+      }
+    },
+    {
+      "prompt": "rusty workshop tools",
+      "id": "31095181",
+      "url": "https://images.pexels.com/photos/31095181/pexels-photo-31095181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31095181/pexels-photo-31095181.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#6F6D60",
+      "alt": "A worn metal drum and vintage compressor in an industrial workshop setting, exuding a classic and rustic feel.",
+      "credit": {
+        "name": "Eky Rima Nurya Ganda",
+        "link": "https://www.pexels.com/@eky-rima-nurya-ganda-1032273132",
+        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-tools-and-equipment-31095181/"
+      }
+    },
+    {
+      "prompt": "stormy coastal cliffs",
+      "id": "18730611",
+      "url": "https://images.pexels.com/photos/18730611/pexels-photo-18730611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18730611/pexels-photo-18730611.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6205,
+      "height": 4136,
+      "color": "#707E7E",
+      "alt": "Stunning view of rocky cliffs meeting the crashing waves of the ocean, under a cloudy sky.",
+      "credit": {
+        "name": "Carsten Ruthemann",
+        "link": "https://www.pexels.com/@cannontaler",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-into-cliff-faces-18730611/"
       }
     },
     {
       "prompt": "linen wood table",
-      "id": "7005164",
-      "url": "https://images.pexels.com/photos/7005164/pexels-photo-7005164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7005164/pexels-photo-7005164.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2336,
-      "color": "#867A6B",
-      "alt": "A rustic breakfast scene featuring bread, apples, and pancakes, ideal for cozy mornings.",
+      "id": "545046",
+      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4460,
+      "height": 2974,
+      "color": "#CEBBA8",
+      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
       "credit": {
-        "name": "Arina Krasnikova",
-        "link": "https://www.pexels.com/@arina-krasnikova",
-        "photoLink": "https://www.pexels.com/photo/apples-in-bowl-on-table-for-breakfast-7005164/"
-      }
-    },
-    {
-      "prompt": "minimal desk setup",
-      "id": "326511",
-      "url": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#A6A099",
-      "alt": "A well-organized modern office desk with dual computer screens and various devices.",
-      "credit": {
-        "name": "Tranmautritam",
-        "link": "https://www.pexels.com/@tranmautritam",
-        "photoLink": "https://www.pexels.com/photo/turned-on-flat-screen-monitor-326511/"
-      }
-    },
-    {
-      "prompt": "workshop tool bench",
-      "id": "12394619",
-      "url": "https://images.pexels.com/photos/12394619/pexels-photo-12394619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12394619/pexels-photo-12394619.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#574E47",
-      "alt": "Close-up of a cluttered workbench with various carpentry tools and equipment.",
-      "credit": {
-        "name": "Federico Tomasoni",
-        "link": "https://www.pexels.com/@fedetoom",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-different-tools-12394619/"
-      }
-    },
-    {
-      "prompt": "nordic living room",
-      "id": "37173314",
-      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C6C8C7",
-      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
-      "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
-      }
-    },
-    {
-      "prompt": "botanical leaf closeup",
-      "id": "36622451",
-      "url": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#2C5327",
-      "alt": "Detailed macro shot of green plant leaves with vibrant stripes, creating a natural texture.",
-      "credit": {
-        "name": "Rafael Rodrigues",
-        "link": "https://www.pexels.com/@rrodriguesim",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-plant-leaves-36622451/"
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
       }
     }
   ]
