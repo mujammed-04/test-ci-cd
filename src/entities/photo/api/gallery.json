@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-23T09:04:20.786Z",
+  "generatedAt": "2026-09-23T14:40:35.327Z",
   "photos": [
     {
       "prompt": "analogue film grain",
-      "id": "32132450",
-      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#93705A",
-      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
+      "id": "20937747",
+      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3954,
+      "height": 2666,
+      "color": "#98A2A4",
+      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
       "credit": {
-        "name": "Ánh Đặng",
-        "link": "https://www.pexels.com/@anhdanghihi",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+        "name": "Nam Quân Nguyễn",
+        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
+        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
       }
     },
     {
       "prompt": "workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "id": "7484795",
+      "url": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5968,
+      "height": 3979,
+      "color": "#BBB5A9",
+      "alt": "Neatly organized tools hanging on a workshop wall, including hammers and scissors.",
       "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/hammer-and-mallets-hanging-on-the-wall-7484795/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "34004100",
-      "url": "https://images.pexels.com/photos/34004100/pexels-photo-34004100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34004100/pexels-photo-34004100.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4128,
-      "color": "#6A5E48",
-      "alt": "Multiple handcrafted clay pots aligned in a traditional pottery workshop.",
+      "prompt": "quiet architecture",
+      "id": "10610785",
+      "url": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#919594",
+      "alt": "Minimalist beige building facade against a blue sky, showcasing modern architectural design.",
       "credit": {
-        "name": "Soumyojit Sinha",
-        "link": "https://www.pexels.com/@theblackhood",
-        "photoLink": "https://www.pexels.com/photo/rows-of-handcrafted-clay-pots-in-pottery-workshop-34004100/"
+        "name": "alleksana",
+        "link": "https://www.pexels.com/@alleksana",
+        "photoLink": "https://www.pexels.com/photo/diagonal-shot-of-a-beige-modern-building-and-blue-sky-10610785/"
+      }
+    },
+    {
+      "prompt": "minimal desks",
+      "id": "8092461",
+      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CEC8C8",
+      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
       }
     },
     {
       "prompt": "nordic interiors",
-      "id": "4252510",
-      "url": "https://images.pexels.com/photos/4252510/pexels-photo-4252510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4252510/pexels-photo-4252510.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4067,
-      "height": 2957,
-      "color": "#A6A098",
-      "alt": "Minimalist white furniture and modern stainless steel appliances in stylish kitchen at home on sunny day",
+      "id": "5953786",
+      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5778,
+      "height": 4000,
+      "color": "#A29F9A",
+      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
       "credit": {
-        "name": "Alexander Zvir",
-        "link": "https://www.pexels.com/@algrey",
-        "photoLink": "https://www.pexels.com/photo/interior-of-modern-white-kitchen-on-sunny-day-4252510/"
+        "name": "Claudia Schmalz",
+        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
+        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "7815314",
-      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 1999,
-      "color": "#B79F7B",
-      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
+      "prompt": "urban textures",
+      "id": "35658708",
+      "url": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#635344",
+      "alt": "Close-up view of a weathered brick wall with peeling plaster and textured patterns.",
       "credit": {
-        "name": "Ch  SAAD",
-        "link": "https://www.pexels.com/@ch-saad-3019259",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "20530960",
-      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#9C9674",
-      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
-      "credit": {
-        "name": "Esra Erdem",
-        "link": "https://www.pexels.com/@esrakorkmaz",
-        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
+        "name": "Francesco Paggiaro",
+        "link": "https://www.pexels.com/@paggiarofrancesco",
+        "photoLink": "https://www.pexels.com/photo/textured-brick-and-plaster-wall-close-up-35658708/"
       }
     }
   ]
