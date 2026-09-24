@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-24T13:11:55.244Z",
+  "generatedAt": "2026-09-24T18:11:01.573Z",
   "photos": [
     {
-      "prompt": "botanical detail",
-      "id": "3894786",
-      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#223427",
-      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
-      "credit": {
-        "name": "Alice Castro",
-        "link": "https://www.pexels.com/@alicedecasttro",
-        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
-      }
-    },
-    {
-      "prompt": "minimal desk",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "30405792",
-      "url": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3456,
-      "height": 2304,
-      "color": "#757575",
-      "alt": "Clothes drying on a line with clothespins on a cloudy day in Wrocław.",
-      "credit": {
-        "name": "Darcy Lis | Photography & travels",
-        "link": "https://www.pexels.com/@darcy-lis-photography-travels-1478124445",
-        "photoLink": "https://www.pexels.com/photo/laundry-hanging-outdoors-on-a-cloudy-day-30405792/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "5953786",
-      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5778,
+      "prompt": "minimalist desk layout",
+      "id": "27559560",
+      "url": "https://images.pexels.com/photos/27559560/pexels-photo-27559560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27559560/pexels-photo-27559560.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#A29F9A",
-      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
+      "color": "#4A4F52",
+      "alt": "A sleek, modern office setup with a gaming PC, curved monitor, and accessories, ideal for tech enthusiasts.",
       "credit": {
-        "name": "Claudia Schmalz",
-        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
-        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
+        "name": "minhphuc .workspace",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/a-computer-desk-with-a-monitor-and-speakers-27559560/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "36143704",
+      "url": "https://images.pexels.com/photos/36143704/pexels-photo-36143704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36143704/pexels-photo-36143704.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4742,
+      "height": 3161,
+      "color": "#9CA5AA",
+      "alt": "A dramatic storm cloud looms over a calm ocean, highlighting nature's power and serenity.",
+      "credit": {
+        "name": "Fernando B M",
+        "link": "https://www.pexels.com/@fernando-b-m-3624021",
+        "photoLink": "https://www.pexels.com/photo/dramatic-cloud-formation-over-the-ocean-36143704/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "id": "20937747",
+      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3954,
+      "height": 2666,
+      "color": "#98A2A4",
+      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+        "name": "Nam Quân Nguyễn",
+        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
+        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+      }
+    },
+    {
+      "prompt": "workshop tool bench",
+      "id": "28231717",
+      "url": "https://images.pexels.com/photos/28231717/pexels-photo-28231717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28231717/pexels-photo-28231717.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 3512,
+      "color": "#A07E62",
+      "alt": "Collection of vintage tools on a wooden table indoors with a retro vibe.",
+      "credit": {
+        "name": "Ahmet Çiftçi",
+        "link": "https://www.pexels.com/@ahmet-ciftci-1413580052",
+        "photoLink": "https://www.pexels.com/photo/a-shelf-with-various-tools-and-other-items-28231717/"
+      }
+    },
+    {
+      "prompt": "linen wood textures",
+      "id": "6962755",
+      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6201,
+      "height": 4134,
+      "color": "#B0A79F",
+      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
+      "credit": {
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
+      }
+    },
+    {
+      "prompt": "still life fruit",
+      "id": "7629760",
+      "url": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8E7A70",
+      "alt": "Elegant minimalist photo of yellow quinces casting shadows on a pastel surface.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/yellow-fruits-over-white-and-purple-surface-7629760/"
       }
     }
   ]
