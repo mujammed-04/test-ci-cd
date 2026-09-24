@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-24T07:11:12.008Z",
+  "generatedAt": "2026-09-24T13:11:55.244Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "6244795",
-      "url": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#C1BAB6",
-      "alt": "Capture of strong ocean waves during twilight showcasing nature's power and beauty.",
+      "prompt": "botanical detail",
+      "id": "3894786",
+      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#223427",
+      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
       "credit": {
-        "name": "photoGraph",
-        "link": "https://www.pexels.com/@photograph",
-        "photoLink": "https://www.pexels.com/photo/photograph-of-strong-sea-waves-6244795/"
+        "name": "Alice Castro",
+        "link": "https://www.pexels.com/@alicedecasttro",
+        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
       }
     },
     {
-      "prompt": "misty cliffs",
-      "id": "8824634",
-      "url": "https://images.pexels.com/photos/8824634/pexels-photo-8824634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8824634/pexels-photo-8824634.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3888,
-      "color": "#888E8E",
-      "alt": "Misty coastal landscape featuring rugged cliffs and calm ocean waters.",
-      "credit": {
-        "name": "Kindel Media",
-        "link": "https://www.pexels.com/@kindelmedia",
-        "photoLink": "https://www.pexels.com/photo/coastal-coast-on-body-of-water-8824634/"
-      }
-    },
-    {
-      "prompt": "emerald fern leaf",
-      "id": "14539509",
-      "url": "https://images.pexels.com/photos/14539509/pexels-photo-14539509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14539509/pexels-photo-14539509.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#275032",
-      "alt": "Detailed view of a lush green fern in a forest setting, showcasing intricate leaf patterns.",
-      "credit": {
-        "name": "Arian Fernandez",
-        "link": "https://www.pexels.com/@troopper84",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-fern-leaves-14539509/"
-      }
-    },
-    {
-      "prompt": "rustic ceramic bowl",
-      "id": "29282196",
-      "url": "https://images.pexels.com/photos/29282196/pexels-photo-29282196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29282196/pexels-photo-29282196.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "morning light",
+      "id": "10813682",
+      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5472,
       "height": 3648,
-      "color": "#4F4432",
-      "alt": "An assortment of rustic tea cups and bowls on a wooden table outdoors, capturing a serene setting.",
-      "credit": {
-        "name": "Elina Volkova",
-        "link": "https://www.pexels.com/@miami302",
-        "photoLink": "https://www.pexels.com/photo/rustic-tea-set-on-wooden-outdoor-table-29282196/"
-      }
-    },
-    {
-      "prompt": "vintage film grain",
-      "id": "9817433",
-      "url": "https://images.pexels.com/photos/9817433/pexels-photo-9817433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9817433/pexels-photo-9817433.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3620,
-      "height": 2415,
-      "color": "#929292",
-      "alt": "Monochrome negatives of vintage film. Nostalgic photography medium captured in black and white scenes.",
+      "color": "#6C5432",
+      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
       "credit": {
         "name": "Alexey Demidov",
         "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-camera-films-9817433/"
+        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
       }
     },
     {
-      "prompt": "quiet stone courtyard",
-      "id": "35285993",
-      "url": "https://images.pexels.com/photos/35285993/pexels-photo-35285993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35285993/pexels-photo-35285993.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7952,
-      "height": 5304,
-      "color": "#76786A",
-      "alt": "Sunlit traditional alleyway with stone pathway and lush greenery.",
+      "prompt": "minimal desk",
+      "id": "8092461",
+      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CEC8C8",
+      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
       "credit": {
-        "name": "MengMeng Chen",
-        "link": "https://www.pexels.com/@mengmeng-chen-768574123",
-        "photoLink": "https://www.pexels.com/photo/charming-traditional-alleyway-with-stone-pathway-35285993/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "30405792",
+      "url": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3456,
+      "height": 2304,
+      "color": "#757575",
+      "alt": "Clothes drying on a line with clothespins on a cloudy day in Wrocław.",
+      "credit": {
+        "name": "Darcy Lis | Photography & travels",
+        "link": "https://www.pexels.com/@darcy-lis-photography-travels-1478124445",
+        "photoLink": "https://www.pexels.com/photo/laundry-hanging-outdoors-on-a-cloudy-day-30405792/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "5953786",
+      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5778,
+      "height": 4000,
+      "color": "#A29F9A",
+      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
+      "credit": {
+        "name": "Claudia Schmalz",
+        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
+        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "credit": {
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     }
   ]
