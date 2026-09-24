@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-23T22:03:00.713Z",
+  "generatedAt": "2026-09-24T01:04:07.060Z",
   "photos": [
     {
-      "prompt": "weathered concrete facade",
-      "id": "27866006",
-      "url": "https://images.pexels.com/photos/27866006/pexels-photo-27866006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27866006/pexels-photo-27866006.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7376,
-      "height": 5157,
-      "color": "#A1A29D",
-      "alt": "Weathered facade featuring square windows and yellow divider on concrete wall.",
-      "credit": {
-        "name": "David Underland",
-        "link": "https://www.pexels.com/@david-underland",
-        "photoLink": "https://www.pexels.com/photo/a-white-train-with-windows-and-yellow-lines-27866006/"
-      }
-    },
-    {
-      "prompt": "vintage film grain",
-      "id": "11938009",
-      "url": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11938009/pexels-photo-11938009.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2421,
-      "color": "#37322E",
-      "alt": "Close-up of hands holding a film roll and cigarette box in moody lighting.",
-      "credit": {
-        "name": "stayhereforu",
-        "link": "https://www.pexels.com/@stayhereforu-216201233",
-        "photoLink": "https://www.pexels.com/photo/film-roll-and-a-box-of-cigarettes-on-person-s-hands-11938009/"
-      }
-    },
-    {
-      "prompt": "dewy fern leaf",
-      "id": "6364644",
-      "url": "https://images.pexels.com/photos/6364644/pexels-photo-6364644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6364644/pexels-photo-6364644.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#111D11",
-      "alt": "A detailed close-up of a vibrant green fern leaf showcasing its intricate pattern.",
-      "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/fern-plant-in-close-up-photography-6364644/"
-      }
-    },
-    {
       "prompt": "rusty workshop tools",
-      "id": "31095181",
-      "url": "https://images.pexels.com/photos/31095181/pexels-photo-31095181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31095181/pexels-photo-31095181.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#6F6D60",
-      "alt": "A worn metal drum and vintage compressor in an industrial workshop setting, exuding a classic and rustic feel.",
+      "id": "957090",
+      "url": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#524740",
+      "alt": "A collection of vintage workshop tools including a wrench, nail, and hammer displayed on a wooden table.",
       "credit": {
-        "name": "Eky Rima Nurya Ganda",
-        "link": "https://www.pexels.com/@eky-rima-nurya-ganda-1032273132",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-tools-and-equipment-31095181/"
+        "name": "Felix Mittermeier",
+        "link": "https://www.pexels.com/@felix-mittermeier",
+        "photoLink": "https://www.pexels.com/photo/combination-wrench-screw-bolt-and-pointed-top-hammer-957090/"
       }
     },
     {
-      "prompt": "stormy coastal cliffs",
-      "id": "18730611",
-      "url": "https://images.pexels.com/photos/18730611/pexels-photo-18730611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18730611/pexels-photo-18730611.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6205,
-      "height": 4136,
-      "color": "#707E7E",
-      "alt": "Stunning view of rocky cliffs meeting the crashing waves of the ocean, under a cloudy sky.",
+      "prompt": "bright morning light",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
+      "height": 4000,
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/waves-crashing-into-cliff-faces-18730611/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     },
     {
-      "prompt": "linen wood table",
-      "id": "545046",
-      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4460,
-      "height": 2974,
-      "color": "#CEBBA8",
-      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
+      "prompt": "delicate botanical detail",
+      "id": "37195168",
+      "url": "https://images.pexels.com/photos/37195168/pexels-photo-37195168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37195168/pexels-photo-37195168.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4037,
+      "height": 3230,
+      "color": "#4A4235",
+      "alt": "Elegant close-up of a single wildflower against a blurred background.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
+        "name": "Dmytro Koplyk",
+        "link": "https://www.pexels.com/@dmytkopl",
+        "photoLink": "https://www.pexels.com/photo/minimalist-close-up-of-a-single-wildflower-37195168/"
+      }
+    },
+    {
+      "prompt": "stormy coastal weather",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "credit": {
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+      }
+    },
+    {
+      "prompt": "minimalist nordic interior",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
+      "credit": {
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
+      }
+    },
+    {
+      "prompt": "vintage still life",
+      "id": "31815932",
+      "url": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5327,
+      "height": 3551,
+      "color": "#6B4F37",
+      "alt": "A classic vintage camera in a leather case displayed in an antique shop setting.",
+      "credit": {
+        "name": "Aleksandar Spasojevic",
+        "link": "https://www.pexels.com/@spal",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-leather-case-in-antique-shop-31815932/"
       }
     }
   ]
