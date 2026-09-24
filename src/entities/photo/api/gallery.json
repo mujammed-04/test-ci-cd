@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-24T01:04:07.060Z",
+  "generatedAt": "2026-09-24T07:11:12.008Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "957090",
-      "url": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "stormy coastline",
+      "id": "6244795",
+      "url": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#C1BAB6",
+      "alt": "Capture of strong ocean waves during twilight showcasing nature's power and beauty.",
+      "credit": {
+        "name": "photoGraph",
+        "link": "https://www.pexels.com/@photograph",
+        "photoLink": "https://www.pexels.com/photo/photograph-of-strong-sea-waves-6244795/"
+      }
+    },
+    {
+      "prompt": "misty cliffs",
+      "id": "8824634",
+      "url": "https://images.pexels.com/photos/8824634/pexels-photo-8824634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8824634/pexels-photo-8824634.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#888E8E",
+      "alt": "Misty coastal landscape featuring rugged cliffs and calm ocean waters.",
+      "credit": {
+        "name": "Kindel Media",
+        "link": "https://www.pexels.com/@kindelmedia",
+        "photoLink": "https://www.pexels.com/photo/coastal-coast-on-body-of-water-8824634/"
+      }
+    },
+    {
+      "prompt": "emerald fern leaf",
+      "id": "14539509",
+      "url": "https://images.pexels.com/photos/14539509/pexels-photo-14539509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14539509/pexels-photo-14539509.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#524740",
-      "alt": "A collection of vintage workshop tools including a wrench, nail, and hammer displayed on a wooden table.",
+      "color": "#275032",
+      "alt": "Detailed view of a lush green fern in a forest setting, showcasing intricate leaf patterns.",
       "credit": {
-        "name": "Felix Mittermeier",
-        "link": "https://www.pexels.com/@felix-mittermeier",
-        "photoLink": "https://www.pexels.com/photo/combination-wrench-screw-bolt-and-pointed-top-hammer-957090/"
+        "name": "Arian Fernandez",
+        "link": "https://www.pexels.com/@troopper84",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-fern-leaves-14539509/"
       }
     },
     {
-      "prompt": "bright morning light",
-      "id": "9564681",
-      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5799,
-      "height": 4000,
-      "color": "#716956",
-      "alt": "A serene forest scene with sun rays through trees and morning fog.",
+      "prompt": "rustic ceramic bowl",
+      "id": "29282196",
+      "url": "https://images.pexels.com/photos/29282196/pexels-photo-29282196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29282196/pexels-photo-29282196.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#4F4432",
+      "alt": "An assortment of rustic tea cups and bowls on a wooden table outdoors, capturing a serene setting.",
       "credit": {
-        "name": "Ludvig Hedenborg",
-        "link": "https://www.pexels.com/@ludvighedenborg",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
+        "name": "Elina Volkova",
+        "link": "https://www.pexels.com/@miami302",
+        "photoLink": "https://www.pexels.com/photo/rustic-tea-set-on-wooden-outdoor-table-29282196/"
       }
     },
     {
-      "prompt": "delicate botanical detail",
-      "id": "37195168",
-      "url": "https://images.pexels.com/photos/37195168/pexels-photo-37195168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37195168/pexels-photo-37195168.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4037,
-      "height": 3230,
-      "color": "#4A4235",
-      "alt": "Elegant close-up of a single wildflower against a blurred background.",
+      "prompt": "vintage film grain",
+      "id": "9817433",
+      "url": "https://images.pexels.com/photos/9817433/pexels-photo-9817433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9817433/pexels-photo-9817433.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3620,
+      "height": 2415,
+      "color": "#929292",
+      "alt": "Monochrome negatives of vintage film. Nostalgic photography medium captured in black and white scenes.",
       "credit": {
-        "name": "Dmytro Koplyk",
-        "link": "https://www.pexels.com/@dmytkopl",
-        "photoLink": "https://www.pexels.com/photo/minimalist-close-up-of-a-single-wildflower-37195168/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-camera-films-9817433/"
       }
     },
     {
-      "prompt": "stormy coastal weather",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "prompt": "quiet stone courtyard",
+      "id": "35285993",
+      "url": "https://images.pexels.com/photos/35285993/pexels-photo-35285993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35285993/pexels-photo-35285993.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7952,
+      "height": 5304,
+      "color": "#76786A",
+      "alt": "Sunlit traditional alleyway with stone pathway and lush greenery.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
-      }
-    },
-    {
-      "prompt": "minimalist nordic interior",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
-      "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
-      }
-    },
-    {
-      "prompt": "vintage still life",
-      "id": "31815932",
-      "url": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31815932/pexels-photo-31815932.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5327,
-      "height": 3551,
-      "color": "#6B4F37",
-      "alt": "A classic vintage camera in a leather case displayed in an antique shop setting.",
-      "credit": {
-        "name": "Aleksandar Spasojevic",
-        "link": "https://www.pexels.com/@spal",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-leather-case-in-antique-shop-31815932/"
+        "name": "MengMeng Chen",
+        "link": "https://www.pexels.com/@mengmeng-chen-768574123",
+        "photoLink": "https://www.pexels.com/photo/charming-traditional-alleyway-with-stone-pathway-35285993/"
       }
     }
   ]
