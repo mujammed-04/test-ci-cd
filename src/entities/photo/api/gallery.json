@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-24T21:57:31.597Z",
+  "generatedAt": "2026-09-25T00:21:23.843Z",
   "photos": [
     {
-      "prompt": "vintage workshop tools",
-      "id": "15102482",
-      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5522,
-      "height": 3106,
-      "color": "#AC8A65",
-      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
+      "prompt": "analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
       "credit": {
-        "name": "FFD Restorations",
-        "link": "https://www.pexels.com/@ffd-restorations-400571257",
-        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
       }
     },
     {
-      "prompt": "soft linen wood",
-      "id": "7445015",
-      "url": "https://images.pexels.com/photos/7445015/pexels-photo-7445015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7445015/pexels-photo-7445015.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#8F9499",
-      "alt": "A soothing scene with a lighted candle on a wooden tray amidst soft blue linen bedding.",
+      "prompt": "still life composition",
+      "id": "30236967",
+      "url": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5328,
+      "height": 4000,
+      "color": "#E8E3E0",
+      "alt": "Artistic still life featuring ceramics, books, and a bust for a classic look.",
       "credit": {
-        "name": "KATRIN  BOLOVTSOVA",
-        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
-        "photoLink": "https://www.pexels.com/photo/lighted-candle-on-the-wooden-tray-7445015/"
+        "name": "İrem Dur",
+        "link": "https://www.pexels.com/@i-rem-dur-1175044181",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-ceramic-and-books-30236967/"
       }
     },
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "8063833",
-      "url": "https://images.pexels.com/photos/8063833/pexels-photo-8063833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8063833/pexels-photo-8063833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5616,
-      "height": 3744,
-      "color": "#555555",
-      "alt": "Black and white image of ceramic bowls and pots in artistic arrangement.",
+      "prompt": "quiet architecture detail",
+      "id": "27745806",
+      "url": "https://images.pexels.com/photos/27745806/pexels-photo-27745806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27745806/pexels-photo-27745806.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#E1E1E3",
+      "alt": "Close-up of a textured white stucco wall with a minimalist abstract design.",
       "credit": {
-        "name": "ROMAN ODINTSOV",
-        "link": "https://www.pexels.com/@roman-odintsov",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-ceramic-clay-bowl-8063833/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-close-up-of-a-white-wall-with-a-square-pattern-27745806/"
+      }
+    },
+    {
+      "prompt": "botanical closeup",
+      "id": "12214879",
+      "url": "https://images.pexels.com/photos/12214879/pexels-photo-12214879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12214879/pexels-photo-12214879.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5845,
+      "height": 3288,
+      "color": "#688533",
+      "alt": "Detailed macro photo of a vibrant spiked plant with green tones.",
+      "credit": {
+        "name": "Marek Piwnicki",
+        "link": "https://www.pexels.com/@marek-piwnicki-3907296",
+        "photoLink": "https://www.pexels.com/photo/spikey-plant-in-macro-photography-12214879/"
       }
     },
     {
       "prompt": "morning light interior",
-      "id": "36197104",
-      "url": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 4347,
-      "color": "#937E6B",
-      "alt": "Warm sunlight casting shadows through window blinds, creating a tranquil indoor setting.",
+      "id": "2889618",
+      "url": "https://images.pexels.com/photos/2889618/pexels-photo-2889618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2889618/pexels-photo-2889618.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5628,
+      "height": 3752,
+      "color": "#5B4227",
+      "alt": "A contemporary hotel room draped in warm morning light casting shadows on the wall.",
       "credit": {
-        "name": "Alec Adriano",
-        "link": "https://www.pexels.com/@alec",
-        "photoLink": "https://www.pexels.com/photo/sunlight-filtering-through-window-blinds-indoors-36197104/"
+        "name": "Lukas Rychvalsky",
+        "link": "https://www.pexels.com/@lukas-rychvalsky",
+        "photoLink": "https://www.pexels.com/photo/white-and-black-curtains-2889618/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "6952331",
-      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6610,
-      "height": 4407,
-      "color": "#BDB2A8",
-      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
+      "prompt": "urban texture walls",
+      "id": "154132",
+      "url": "https://images.pexels.com/photos/154132/pexels-photo-154132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/154132/pexels-photo-154132.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1707,
+      "color": "#747875",
+      "alt": "Artistic close-up of old, peeling paint on a textured surface, creating an abstract pattern.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
-      }
-    },
-    {
-      "prompt": "minimalist desk setup",
-      "id": "17136619",
-      "url": "https://images.pexels.com/photos/17136619/pexels-photo-17136619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17136619/pexels-photo-17136619.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#4E473D",
-      "alt": "Stylish home office setup with tech gadgets, large monitor, and modern decor.",
-      "credit": {
-        "name": "Pew Nguyen",
-        "link": "https://www.pexels.com/@nguyendesigner",
-        "photoLink": "https://www.pexels.com/photo/computer-on-a-desk-in-a-bedroom-17136619/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-wall-154132/"
       }
     }
   ]
