@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-25T11:09:01.729Z",
+  "generatedAt": "2026-09-25T16:33:08.301Z",
   "photos": [
     {
-      "prompt": "linen wood",
-      "id": "7445133",
-      "url": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#A7937A",
-      "alt": "Top view of neatly folded linen fabric tied with twine on a wooden pallet, evoking natural simplicity.",
-      "credit": {
-        "name": "KATRIN  BOLOVTSOVA",
-        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
-        "photoLink": "https://www.pexels.com/photo/folded-clothes-on-brown-wooden-table-7445133/"
-      }
-    },
-    {
       "prompt": "morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
+      "id": "13009040",
+      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#352C23",
+      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
+        "name": "Erik Schereder",
+        "link": "https://www.pexels.com/@erik-schereder-3173655",
+        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "6952331",
-      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6610,
-      "height": 4407,
-      "color": "#BDB2A8",
-      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
+      "prompt": "urban textures",
+      "id": "9756577",
+      "url": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#838A9C",
+      "alt": "Detailed photograph of a weathered wall with peeling blue and yellow paint, showcasing abstract textures.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
-      "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "32132450",
-      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#93705A",
-      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
-      "credit": {
-        "name": "Ánh Đặng",
-        "link": "https://www.pexels.com/@anhdanghihi",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-textured-surface-9756577/"
       }
     },
     {
       "prompt": "coastal weather",
-      "id": "132709",
-      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2814,
-      "color": "#878F8A",
-      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
       "credit": {
-        "name": "Snapwire",
-        "link": "https://www.pexels.com/@snapwire",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "18585100",
+      "url": "https://images.pexels.com/photos/18585100/pexels-photo-18585100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18585100/pexels-photo-18585100.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#8A8B85",
+      "alt": "Sliced lemons on a mirror casting shadows, showcasing minimalistic food photography.",
+      "credit": {
+        "name": "Hanna Brovko",
+        "link": "https://www.pexels.com/@hanna-brovko-356973158",
+        "photoLink": "https://www.pexels.com/photo/lemons-slices-on-white-background-18585100/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "credit": {
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
       }
     }
   ]
