@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-25T16:33:08.301Z",
+  "generatedAt": "2026-09-25T20:14:56.127Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
+      "prompt": "quiet architecture",
+      "id": "28354605",
+      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6354,
+      "height": 4236,
+      "color": "#92A4BC",
+      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
       "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "9756577",
-      "url": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#838A9C",
-      "alt": "Detailed photograph of a weathered wall with peeling blue and yellow paint, showcasing abstract textures.",
-      "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-textured-surface-9756577/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
       }
     },
     {
       "prompt": "coastal weather",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "id": "19157371",
+      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4128,
+      "color": "#999896",
+      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+        "name": "Parveen Singh",
+        "link": "https://www.pexels.com/@psingh",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "prompt": "botanical detail",
+      "id": "39200567",
+      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B4F41",
+      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "name": "NEOSiAM 18+",
+        "link": "https://www.pexels.com/@neosiam",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "18585100",
-      "url": "https://images.pexels.com/photos/18585100/pexels-photo-18585100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18585100/pexels-photo-18585100.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#8A8B85",
-      "alt": "Sliced lemons on a mirror casting shadows, showcasing minimalistic food photography.",
+      "prompt": "handmade ceramics",
+      "id": "6611187",
+      "url": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#807C72",
+      "alt": "Close-up of artisan-crafted ceramic mugs on a shelf, showcasing pottery craftsmanship.",
       "credit": {
-        "name": "Hanna Brovko",
-        "link": "https://www.pexels.com/@hanna-brovko-356973158",
-        "photoLink": "https://www.pexels.com/photo/lemons-slices-on-white-background-18585100/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-handmade-ceramic-pottery-on-shelf-6611187/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "prompt": "nordic interiors",
+      "id": "4252510",
+      "url": "https://images.pexels.com/photos/4252510/pexels-photo-4252510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4252510/pexels-photo-4252510.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4067,
+      "height": 2957,
+      "color": "#A6A098",
+      "alt": "Minimalist white furniture and modern stainless steel appliances in stylish kitchen at home on sunny day",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+        "name": "Alexander Zvir",
+        "link": "https://www.pexels.com/@algrey",
+        "photoLink": "https://www.pexels.com/photo/interior-of-modern-white-kitchen-on-sunny-day-4252510/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "28137318",
+      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2738,
+      "height": 1825,
+      "color": "#1B1B0F",
+      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
+      "credit": {
+        "name": "Felix",
+        "link": "https://www.pexels.com/@felix-57767809",
+        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
       }
     }
   ]
