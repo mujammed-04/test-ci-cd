@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-25T23:48:42.133Z",
+  "generatedAt": "2026-09-26T03:32:34.692Z",
   "photos": [
     {
-      "prompt": "botanical closeup",
-      "id": "1320987",
-      "url": "https://images.pexels.com/photos/1320987/pexels-photo-1320987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1320987/pexels-photo-1320987.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#666666",
-      "alt": "Artistic black and white photo capturing detailed texture of banana leaves.",
+      "prompt": "vintage workshop tools",
+      "id": "5095894",
+      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#403527",
+      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
       "credit": {
-        "name": "Julia Zolotova",
-        "link": "https://www.pexels.com/@juliazolotova",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-banana-leaf-1320987/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
       }
     },
     {
-      "prompt": "workshop hand tools",
-      "id": "29226694",
-      "url": "https://images.pexels.com/photos/29226694/pexels-photo-29226694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29226694/pexels-photo-29226694.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#505141",
-      "alt": "Detailed view of a hand operating a drill press in a workshop setting.",
+      "prompt": "nordic interior design",
+      "id": "6633454",
+      "url": "https://images.pexels.com/photos/6633454/pexels-photo-6633454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6633454/pexels-photo-6633454.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#837265",
+      "alt": "A minimalist setup with a wooden chair, vase, and stack of books indoors.",
       "credit": {
-        "name": "Sergei Starostin",
-        "link": "https://www.pexels.com/@sejio402",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-drill-press-in-action-29226694/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/white-and-green-flowers-on-the-chair-6633454/"
       }
     },
     {
-      "prompt": "quiet interior",
-      "id": "36363110",
-      "url": "https://images.pexels.com/photos/36363110/pexels-photo-36363110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36363110/pexels-photo-36363110.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#604625",
-      "alt": "A corduroy sofa in a dimly lit room with a warm and inviting atmosphere.",
+      "prompt": "quiet urban architecture",
+      "id": "13303753",
+      "url": "https://images.pexels.com/photos/13303753/pexels-photo-13303753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13303753/pexels-photo-13303753.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5571,
+      "height": 3714,
+      "color": "#686A69",
+      "alt": "Detailed view of gray concrete apartment buildings in an urban setting during the day.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/cozy-living-room-sofa-with-warm-lighting-36363110/"
+        "name": "Stanislav Kondratiev",
+        "link": "https://www.pexels.com/@technobulka",
+        "photoLink": "https://www.pexels.com/photo/concrete-buildings-in-the-city-13303753/"
       }
     },
     {
-      "prompt": "morning sunlit",
-      "id": "18717795",
-      "url": "https://images.pexels.com/photos/18717795/pexels-photo-18717795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18717795/pexels-photo-18717795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5972,
-      "height": 3981,
-      "color": "#4B4932",
-      "alt": "A tranquil forest scene with sunlight streaming through trees, creating a peaceful atmosphere.",
+      "prompt": "coastal stormy sky",
+      "id": "3968130",
+      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4387,
+      "height": 2925,
+      "color": "#42576E",
+      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
       "credit": {
-        "name": "Michael Schlierf",
-        "link": "https://www.pexels.com/@michael-schlierf-757699958",
-        "photoLink": "https://www.pexels.com/photo/sunset-sunlight-over-trees-in-forest-18717795/"
+        "name": "Tatiana Syrikova",
+        "link": "https://www.pexels.com/@tatianasyrikova",
+        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
       }
     },
     {
-      "prompt": "handmade pottery",
-      "id": "4706109",
-      "url": "https://images.pexels.com/photos/4706109/pexels-photo-4706109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4706109/pexels-photo-4706109.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#9D8566",
-      "alt": "Artisan shaping a clay pot, highlighting the intricate craftsmanship and artistry involved.",
+      "prompt": "linen wood textures",
+      "id": "6962755",
+      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6201,
+      "height": 4134,
+      "color": "#B0A79F",
+      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
       "credit": {
-        "name": "Antoni Shkraba",
-        "link": "https://www.pexels.com/@shkrabaanthony",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-person-molding-a-clay-pot-4706109/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
       }
     },
     {
-      "prompt": "minimalist desk",
-      "id": "1128207",
-      "url": "https://images.pexels.com/photos/1128207/pexels-photo-1128207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1128207/pexels-photo-1128207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5368,
-      "height": 3579,
-      "color": "#9EA4A9",
-      "alt": "Sleek office desk setup featuring a laptop, glass of water, and open window view.",
+      "prompt": "analogue film grain",
+      "id": "30369053",
+      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3088,
+      "height": 2048,
+      "color": "#626D73",
+      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
       "credit": {
-        "name": "EVG Kowalievska",
-        "link": "https://www.pexels.com/@kowalievska",
-        "photoLink": "https://www.pexels.com/photo/turned-on-silver-laptop-on-tabletop-1128207/"
+        "name": "Maria Suslova",
+        "link": "https://www.pexels.com/@maria-suslova-541493887",
+        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
       }
     }
   ]
