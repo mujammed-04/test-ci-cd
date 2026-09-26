@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-26T09:06:28.946Z",
+  "generatedAt": "2026-09-26T14:05:56.451Z",
   "photos": [
     {
-      "prompt": "green fern leaf",
-      "id": "1302883",
-      "url": "https://images.pexels.com/photos/1302883/pexels-photo-1302883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1302883/pexels-photo-1302883.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#1F4024",
-      "alt": "Detailed macro shot of vibrant green fern leaves in a lush garden setting.",
+      "prompt": "soft morning light",
+      "id": "36770657",
+      "url": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6024,
+      "height": 4016,
+      "color": "#838B58",
+      "alt": "Close-up of dewy grass with a blurred, sunlit background, featuring artistic bokeh.",
       "credit": {
-        "name": "Min An",
-        "link": "https://www.pexels.com/@minan1398",
-        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-green-leafed-plant-1302883/"
-      }
-    },
-    {
-      "prompt": "minimalist desk",
-      "id": "13075330",
-      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3956,
-      "height": 2225,
-      "color": "#5C5451",
-      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
-      "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
-      }
-    },
-    {
-      "prompt": "rustic workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
-      "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "37173314",
-      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C6C8C7",
-      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
-      "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+        "name": "Aneesh Thazhathethil",
+        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
+        "photoLink": "https://www.pexels.com/photo/dewy-grass-with-sunlit-background-36770657/"
       }
     },
     {
       "prompt": "linen wood texture",
-      "id": "7533977",
-      "url": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#CCBDA7",
-      "alt": "Detailed close-up of soft beige fabric showing texture and stitching.",
+      "id": "27007162",
+      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5824,
+      "height": 3740,
+      "color": "#B18E6E",
+      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-white-fabric-7533977/"
+        "name": "Sohan Rahat",
+        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
+      }
+    },
+    {
+      "prompt": "analog film grain",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "credit": {
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+      }
+    },
+    {
+      "prompt": "urban concrete texture",
+      "id": "2463329",
+      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#6A7681",
+      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "credit": {
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
       }
     },
     {
       "prompt": "coastal storm clouds",
-      "id": "14920356",
-      "url": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5960,
-      "height": 3979,
-      "color": "#898F83",
-      "alt": "A dramatic scene of a storm approaching a sandy beach with rocks under a cloudy sky.",
+      "id": "35611566",
+      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4125,
+      "color": "#5C5D58",
+      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/rocks-and-a-tree-log-on-the-beach-under-a-stormy-sky-14920356/"
+        "name": "Jose Luis  Vanasco",
+        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
+        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
+      }
+    },
+    {
+      "prompt": "still life composition",
+      "id": "27544689",
+      "url": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6421,
+      "height": 3598,
+      "color": "#BEB9A6",
+      "alt": "Elegant minimalist interior design featuring contemporary plant arrangements and geometric forms.",
+      "credit": {
+        "name": "Deepa Nishad",
+        "link": "https://www.pexels.com/@deepa-nishad-1620501673",
+        "photoLink": "https://www.pexels.com/photo/three-vases-and-a-plant-on-a-shelf-27544689/"
       }
     }
   ]
