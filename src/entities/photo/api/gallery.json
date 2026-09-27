@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-27T20:53:17.768Z",
+  "generatedAt": "2026-09-27T23:38:41.573Z",
   "photos": [
     {
-      "prompt": "analog film grain",
-      "id": "9940546",
-      "url": "https://images.pexels.com/photos/9940546/pexels-photo-9940546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9940546/pexels-photo-9940546.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#323232",
-      "alt": "Artistic close-up of black and white film texture with light patterns.",
+      "prompt": "rustic still life",
+      "id": "31975353",
+      "url": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#B0B0B0",
+      "alt": "Elegant black and white still life featuring apples, lemon, wheat, and raisins on wood.",
       "credit": {
-        "name": "Евгений Качин",
-        "link": "https://www.pexels.com/@123396308",
-        "photoLink": "https://www.pexels.com/photo/an-old-photo-film-9940546/"
+        "name": "Alexey Novikov",
+        "link": "https://www.pexels.com/@alexey-novikov-2148550769",
+        "photoLink": "https://www.pexels.com/photo/artistic-black-and-white-still-life-with-fruits-31975353/"
       }
     },
     {
-      "prompt": "still life setup",
-      "id": "39630839",
-      "url": "https://images.pexels.com/photos/39630839/pexels-photo-39630839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39630839/pexels-photo-39630839.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5608,
-      "height": 3739,
-      "color": "#3F3C2B",
-      "alt": "Artistic still life featuring can sculptures and fish in a mechanical setup, highlighting creativity and whimsy.",
+      "prompt": "stormy coastal sky",
+      "id": "1526251",
+      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1852,
+      "color": "#454147",
+      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/creative-still-life-with-cans-and-fish-sculpture-39630839/"
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
+      "prompt": "dewy botanical macro",
+      "id": "39437476",
+      "url": "https://images.pexels.com/photos/39437476/pexels-photo-39437476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39437476/pexels-photo-39437476.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4754,
+      "height": 3565,
+      "color": "#76757B",
+      "alt": "Close-up of a purple wildflower with raindrops, captured in natural light showing delicate petals against a soft background.",
       "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+        "name": "Dmytro Koplyk",
+        "link": "https://www.pexels.com/@dmytkopl",
+        "photoLink": "https://www.pexels.com/photo/raindrop-kissed-purple-flower-in-nature-39437476/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "35162977",
-      "url": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#5D7985",
-      "alt": "A serene ocean scene with gentle waves and a cloudy sky on a calm day.",
+      "prompt": "grainy analog film",
+      "id": "10042305",
+      "url": "https://images.pexels.com/photos/10042305/pexels-photo-10042305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10042305/pexels-photo-10042305.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#3A3941",
+      "alt": "A nostalgic portrait of a woman captured on film, evoking a vintage feel.",
       "credit": {
-        "name": "Bilal Yahya",
-        "link": "https://www.pexels.com/@bilal-yahya-2158113463",
-        "photoLink": "https://www.pexels.com/photo/peaceful-ocean-waves-under-cloudy-sky-35162977/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/a-polaroid-picture-of-a-woman-standing-near-green-grass-10042305/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "prompt": "quiet urban facade",
+      "id": "13303753",
+      "url": "https://images.pexels.com/photos/13303753/pexels-photo-13303753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13303753/pexels-photo-13303753.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5571,
+      "height": 3714,
+      "color": "#686A69",
+      "alt": "Detailed view of gray concrete apartment buildings in an urban setting during the day.",
       "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+        "name": "Stanislav Kondratiev",
+        "link": "https://www.pexels.com/@technobulka",
+        "photoLink": "https://www.pexels.com/photo/concrete-buildings-in-the-city-13303753/"
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "37173314",
-      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C6C8C7",
-      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
+      "prompt": "textured city wall",
+      "id": "1983924",
+      "url": "https://images.pexels.com/photos/1983924/pexels-photo-1983924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1983924/pexels-photo-1983924.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#81694F",
+      "alt": "Abstract urban background featuring grey and orange textured concrete wall with pipelines.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+        "name": "𝗛&𝗖𝗢 　",
+        "link": "https://www.pexels.com/@hngstrm",
+        "photoLink": "https://www.pexels.com/photo/gray-metal-pipe-beside-wall-1983924/"
       }
     }
   ]
