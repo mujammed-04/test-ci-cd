@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-27T06:12:40.662Z",
+  "generatedAt": "2026-09-27T12:44:33.910Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "prompt": "Minimalist wooden desk",
+      "id": "373904",
+      "url": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5593,
+      "height": 3729,
+      "color": "#7D756D",
+      "alt": "A well-organized workspace featuring a laptop, books, and a lamp on a wooden desk.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/chair-computer-desk-furniture-373904/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
+      "prompt": "Vintage workshop tools",
+      "id": "15102482",
+      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5522,
+      "height": 3106,
+      "color": "#AC8A65",
+      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
       }
     },
     {
-      "prompt": "morning light glow",
-      "id": "20642219",
-      "url": "https://images.pexels.com/photos/20642219/pexels-photo-20642219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20642219/pexels-photo-20642219.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8640,
-      "height": 5760,
-      "color": "#926F47",
-      "alt": "Sunrise over a frosty field in rural West Newton, MN, creating a warm glow.",
+      "prompt": "Analogue film grain",
+      "id": "20937747",
+      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3954,
+      "height": 2666,
+      "color": "#98A2A4",
+      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
       "credit": {
-        "name": "Tom Fisk",
-        "link": "https://www.pexels.com/@tomfisk",
-        "photoLink": "https://www.pexels.com/photo/rural-field-at-sunset-20642219/"
+        "name": "Nam Quân Nguyễn",
+        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
+        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
       }
     },
     {
-      "prompt": "workshop tool set",
-      "id": "5846253",
-      "url": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#3C3B30",
-      "alt": "A selection of various tools scattered on a workbench in an industrial setting.",
+      "prompt": "Stormy coastal sky",
+      "id": "36179833",
+      "url": "https://images.pexels.com/photos/36179833/pexels-photo-36179833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36179833/pexels-photo-36179833.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 11586,
+      "height": 8689,
+      "color": "#525963",
+      "alt": "A tranquil seascape with dark clouds over a pebbled beach and distant mountains.",
       "credit": {
-        "name": "Tima Miroshnichenko",
-        "link": "https://www.pexels.com/@tima-miroshnichenko",
-        "photoLink": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/"
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/moody-coastal-landscape-with-overcast-clouds-36179833/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "38706946",
-      "url": "https://images.pexels.com/photos/38706946/pexels-photo-38706946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38706946/pexels-photo-38706946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5150,
-      "height": 3433,
-      "color": "#363732",
-      "alt": "Vibrant glass bottles in various colors on a white tablecloth against a dark background.",
+      "prompt": "Quiet urban architecture",
+      "id": "6252322",
+      "url": "https://images.pexels.com/photos/6252322/pexels-photo-6252322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6252322/pexels-photo-6252322.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5523,
+      "height": 3682,
+      "color": "#616161",
+      "alt": "Black and white of residential multistory building with windows made of concrete lightened by sunlight",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/colorful-glass-bottles-on-white-tablecloth-38706946/"
+        "name": "Lucas Pezeta",
+        "link": "https://www.pexels.com/@lucaspezeta",
+        "photoLink": "https://www.pexels.com/photo/corner-of-residential-building-with-cement-walls-6252322/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "34951508",
-      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#59544A",
-      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
+      "prompt": "Still life fruit",
+      "id": "31975353",
+      "url": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#B0B0B0",
+      "alt": "Elegant black and white still life featuring apples, lemon, wheat, and raisins on wood.",
       "credit": {
-        "name": "Christian Ventura",
-        "link": "https://www.pexels.com/@arutnevv",
-        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
+        "name": "Alexey Novikov",
+        "link": "https://www.pexels.com/@alexey-novikov-2148550769",
+        "photoLink": "https://www.pexels.com/photo/artistic-black-and-white-still-life-with-fruits-31975353/"
       }
     }
   ]
