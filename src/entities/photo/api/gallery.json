@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-27T00:13:42.584Z",
+  "generatedAt": "2026-09-27T06:12:40.662Z",
   "photos": [
     {
       "prompt": "linen wood texture",
-      "id": "7533973",
-      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#C9B79F",
-      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
       }
     },
     {
-      "prompt": "nordic interior lighting",
-      "id": "39239149",
-      "url": "https://images.pexels.com/photos/39239149/pexels-photo-39239149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39239149/pexels-photo-39239149.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#353535",
-      "alt": "A moody urban corridor in Lahti, Finland with a modern architectural vibe.",
+      "prompt": "handmade ceramic bowl",
+      "id": "9304481",
+      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5722,
+      "height": 3814,
+      "color": "#A88E37",
+      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
       "credit": {
-        "name": "Hert Niks",
-        "link": "https://www.pexels.com/@hert",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-urban-corridor-in-lahti-39239149/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
       }
     },
     {
-      "prompt": "urban concrete facade",
-      "id": "7482712",
-      "url": "https://images.pexels.com/photos/7482712/pexels-photo-7482712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7482712/pexels-photo-7482712.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "morning light glow",
+      "id": "20642219",
+      "url": "https://images.pexels.com/photos/20642219/pexels-photo-20642219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20642219/pexels-photo-20642219.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8640,
+      "height": 5760,
+      "color": "#926F47",
+      "alt": "Sunrise over a frosty field in rural West Newton, MN, creating a warm glow.",
+      "credit": {
+        "name": "Tom Fisk",
+        "link": "https://www.pexels.com/@tomfisk",
+        "photoLink": "https://www.pexels.com/photo/rural-field-at-sunset-20642219/"
+      }
+    },
+    {
+      "prompt": "workshop tool set",
+      "id": "5846253",
+      "url": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5846253/pexels-photo-5846253.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#686460",
-      "alt": "Close-up of modern concrete facade with multiple windows creating a repetitive pattern.",
+      "color": "#3C3B30",
+      "alt": "A selection of various tools scattered on a workbench in an industrial setting.",
       "credit": {
-        "name": "Francis Desjardins",
-        "link": "https://www.pexels.com/@francis-desjardins-1613813",
-        "photoLink": "https://www.pexels.com/photo/brown-concrete-building-7482712/"
+        "name": "Tima Miroshnichenko",
+        "link": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoLink": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "7718431",
-      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#8C5235",
-      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
+      "prompt": "still life arrangement",
+      "id": "38706946",
+      "url": "https://images.pexels.com/photos/38706946/pexels-photo-38706946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38706946/pexels-photo-38706946.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5150,
+      "height": 3433,
+      "color": "#363732",
+      "alt": "Vibrant glass bottles in various colors on a white tablecloth against a dark background.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/colorful-glass-bottles-on-white-tablecloth-38706946/"
       }
     },
     {
-      "prompt": "quiet architecture corridor",
-      "id": "31716253",
-      "url": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7255,
-      "height": 4842,
-      "color": "#0E1118",
-      "alt": "View of a historic gothic church corridor in Basel, showcasing architectural beauty.",
+      "prompt": "nordic interior design",
+      "id": "34951508",
+      "url": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34951508/pexels-photo-34951508.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#59544A",
+      "alt": "Stylish and cozy living room featuring modern decor, plush sofa, and elegant plants.",
       "credit": {
-        "name": "Ramon Karolan",
-        "link": "https://www.pexels.com/@ramonkaphotography",
-        "photoLink": "https://www.pexels.com/photo/gothic-church-corridor-in-basel-switzerland-31716253/"
-      }
-    },
-    {
-      "prompt": "still life fruit",
-      "id": "26159450",
-      "url": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4113,
-      "height": 2742,
-      "color": "#3D190D",
-      "alt": "A striking arrangement of fresh fruits including apples, orange, and pear against a dark background.",
-      "credit": {
-        "name": "J E",
-        "link": "https://www.pexels.com/@j-e-22471780",
-        "photoLink": "https://www.pexels.com/photo/ripe-fresh-fruits-26159450/"
+        "name": "Christian Ventura",
+        "link": "https://www.pexels.com/@arutnevv",
+        "photoLink": "https://www.pexels.com/photo/modern-aesthetic-living-room-with-elegant-decor-34951508/"
       }
     }
   ]
