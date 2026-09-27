@@ -1,68 +1,8 @@
 {
-  "generatedAt": "2026-09-27T17:29:00.608Z",
+  "generatedAt": "2026-09-27T20:53:17.768Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "34722943",
-      "url": "https://images.pexels.com/photos/34722943/pexels-photo-34722943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34722943/pexels-photo-34722943.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#75879B",
-      "alt": "Scenic view of a windy Tasmanian beach with dramatic clouds and rugged cliffs.",
-      "credit": {
-        "name": "Mark Direen",
-        "link": "https://www.pexels.com/@mark-direen-622749",
-        "photoLink": "https://www.pexels.com/photo/dramatic-tasmanian-coastline-at-dusk-34722943/"
-      }
-    },
-    {
-      "prompt": "weathered pier",
-      "id": "29393584",
-      "url": "https://images.pexels.com/photos/29393584/pexels-photo-29393584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29393584/pexels-photo-29393584.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#7A7B6B",
-      "alt": "A serene view of old wooden piers in the water at Jersey City, NJ.",
-      "credit": {
-        "name": "Garrison Gao",
-        "link": "https://www.pexels.com/@garrison-gao-56316964",
-        "photoLink": "https://www.pexels.com/photo/old-wooden-piers-in-water-jersey-city-nj-29393584/"
-      }
-    },
-    {
-      "prompt": "brick alley texture",
-      "id": "5994195",
-      "url": "https://images.pexels.com/photos/5994195/pexels-photo-5994195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5994195/pexels-photo-5994195.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5209,
-      "height": 3371,
-      "color": "#4A4944",
-      "alt": "Explore a quiet, narrow alleyway framed by historic brick buildings in London, UK.",
-      "credit": {
-        "name": "Matteus Silva",
-        "link": "https://www.pexels.com/@eusouomatteus",
-        "photoLink": "https://www.pexels.com/photo/photo-of-an-empty-alleyway-5994195/"
-      }
-    },
-    {
-      "prompt": "scandinavian living room",
-      "id": "19966766",
-      "url": "https://images.pexels.com/photos/19966766/pexels-photo-19966766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19966766/pexels-photo-19966766.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5999,
-      "height": 4000,
-      "color": "#AEB0AD",
-      "alt": "A cozy Scandinavian living room with modern gray couch and wooden elements.",
-      "credit": {
-        "name": "Alex Tyson",
-        "link": "https://www.pexels.com/@alex-tyson-919593032",
-        "photoLink": "https://www.pexels.com/photo/modern-living-room-19966766/"
-      }
-    },
-    {
-      "prompt": "vintage film grain",
+      "prompt": "analog film grain",
       "id": "9940546",
       "url": "https://images.pexels.com/photos/9940546/pexels-photo-9940546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/9940546/pexels-photo-9940546.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -77,18 +17,78 @@
       }
     },
     {
-      "prompt": "handcrafted pottery",
-      "id": "33703946",
-      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4D3B2F",
-      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
+      "prompt": "still life setup",
+      "id": "39630839",
+      "url": "https://images.pexels.com/photos/39630839/pexels-photo-39630839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39630839/pexels-photo-39630839.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5608,
+      "height": 3739,
+      "color": "#3F3C2B",
+      "alt": "Artistic still life featuring can sculptures and fish in a mechanical setup, highlighting creativity and whimsy.",
       "credit": {
-        "name": "Miguel González",
-        "link": "https://www.pexels.com/@mikegles",
-        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/creative-still-life-with-cans-and-fish-sculpture-39630839/"
+      }
+    },
+    {
+      "prompt": "handmade ceramics",
+      "id": "17209708",
+      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5864,
+      "height": 3933,
+      "color": "#A8948F",
+      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
+      "credit": {
+        "name": "Anna Romanova",
+        "link": "https://www.pexels.com/@anna-romanova-1406375",
+        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "35162977",
+      "url": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#5D7985",
+      "alt": "A serene ocean scene with gentle waves and a cloudy sky on a calm day.",
+      "credit": {
+        "name": "Bilal Yahya",
+        "link": "https://www.pexels.com/@bilal-yahya-2158113463",
+        "photoLink": "https://www.pexels.com/photo/peaceful-ocean-waves-under-cloudy-sky-35162977/"
+      }
+    },
+    {
+      "prompt": "urban textures",
+      "id": "2463329",
+      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#6A7681",
+      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "credit": {
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+      }
+    },
+    {
+      "prompt": "nordic interiors",
+      "id": "37173314",
+      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#C6C8C7",
+      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
       }
     }
   ]
