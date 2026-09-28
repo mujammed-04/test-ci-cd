@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-28T03:40:18.803Z",
+  "generatedAt": "2026-09-28T10:33:45.274Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "6805417",
-      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6378,
-      "height": 4252,
-      "color": "#BDB0A7",
-      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
+      "prompt": "coastal storm clouds",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "15102482",
-      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5522,
-      "height": 3106,
-      "color": "#AC8A65",
-      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
+      "prompt": "analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
       "credit": {
-        "name": "FFD Restorations",
-        "link": "https://www.pexels.com/@ffd-restorations-400571257",
-        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "28529023",
-      "url": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2880,
-      "color": "#A79881",
-      "alt": "Minimalist cube house in natural setting at sunset with vibrant colors.",
+      "prompt": "linen wood texture",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
       "credit": {
-        "name": "Gaurav Yadav",
-        "link": "https://www.pexels.com/@gaurav-yadav-434373730",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-cube-house-in-nature-28529023/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     },
     {
-      "prompt": "Botanical detail",
-      "id": "35992427",
-      "url": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3376,
-      "color": "#594739",
-      "alt": "Detailed macro image of a cactus showing its unique texture and patterns.",
-      "credit": {
-        "name": "Nathan J Hilton",
-        "link": "https://www.pexels.com/@nathanjhilton",
-        "photoLink": "https://www.pexels.com/photo/close-up-macro-of-cactus-texture-and-detail-35992427/"
-      }
-    },
-    {
-      "prompt": "Coastal sky",
-      "id": "13722008",
-      "url": "https://images.pexels.com/photos/13722008/pexels-photo-13722008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13722008/pexels-photo-13722008.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5963,
-      "height": 3354,
-      "color": "#433A35",
-      "alt": "A breathtaking view of sun rays piercing through clouds over a vast ocean at dusk.",
-      "credit": {
-        "name": "Andreas Ebner",
-        "link": "https://www.pexels.com/@andreasebnerfotografie",
-        "photoLink": "https://www.pexels.com/photo/sun-shining-between-clouds-above-the-sea-13722008/"
-      }
-    },
-    {
-      "prompt": "Minimalist stilllife",
-      "id": "29543718",
-      "url": "https://images.pexels.com/photos/29543718/pexels-photo-29543718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29543718/pexels-photo-29543718.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
+      "prompt": "handmade ceramic vase",
+      "id": "37301842",
+      "url": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4080,
       "height": 3264,
-      "color": "#786B63",
-      "alt": "A pinecone and twig in a glass placed next to a stack of books by a window.",
+      "color": "#544E42",
+      "alt": "Artisan potter skillfully molding clay pots in a rustic workshop setting.",
       "credit": {
-        "name": "olga Volkovitskaia",
-        "link": "https://www.pexels.com/@olga-volkovitskaia-131638009",
-        "photoLink": "https://www.pexels.com/photo/cozy-pinecone-and-books-by-a-window-29543718/"
+        "name": "Mehmet Turgut  Kirkgoz",
+        "link": "https://www.pexels.com/@tkirkgoz",
+        "photoLink": "https://www.pexels.com/photo/skilled-potter-shaping-clay-vases-in-workshop-37301842/"
+      }
+    },
+    {
+      "prompt": "botanical leaf macro",
+      "id": "28524400",
+      "url": "https://images.pexels.com/photos/28524400/pexels-photo-28524400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28524400/pexels-photo-28524400.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5088,
+      "height": 3392,
+      "color": "#706B33",
+      "alt": "Detailed macro photograph highlighting the intricate veins and textures of a leaf.",
+      "credit": {
+        "name": "Ellie Burgin",
+        "link": "https://www.pexels.com/@ellie-burgin-1661546",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-leaf-showing-detailed-veins-and-texture-28524400/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "20648395",
+      "url": "https://images.pexels.com/photos/20648395/pexels-photo-20648395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20648395/pexels-photo-20648395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5020,
+      "height": 3347,
+      "color": "#4F4539",
+      "alt": "Stylish home office setup featuring a curved monitor, ergonomic chair, and indoor plants for a modern workspace vibe.",
+      "credit": {
+        "name": "minhphuc .workspace",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/gaming-monitor-on-desk-20648395/"
       }
     }
   ]
