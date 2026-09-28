@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-27T23:38:41.573Z",
+  "generatedAt": "2026-09-28T03:40:18.803Z",
   "photos": [
     {
-      "prompt": "rustic still life",
-      "id": "31975353",
-      "url": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#B0B0B0",
-      "alt": "Elegant black and white still life featuring apples, lemon, wheat, and raisins on wood.",
+      "prompt": "Nordic interior",
+      "id": "6805417",
+      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6378,
+      "height": 4252,
+      "color": "#BDB0A7",
+      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
       "credit": {
-        "name": "Alexey Novikov",
-        "link": "https://www.pexels.com/@alexey-novikov-2148550769",
-        "photoLink": "https://www.pexels.com/photo/artistic-black-and-white-still-life-with-fruits-31975353/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
       }
     },
     {
-      "prompt": "stormy coastal sky",
-      "id": "1526251",
-      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 1852,
-      "color": "#454147",
-      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
+      "prompt": "Workshop tools",
+      "id": "15102482",
+      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5522,
+      "height": 3106,
+      "color": "#AC8A65",
+      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
       "credit": {
-        "name": "Ray Bilcliff",
-        "link": "https://www.pexels.com/@raybilcliff",
-        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
       }
     },
     {
-      "prompt": "dewy botanical macro",
-      "id": "39437476",
-      "url": "https://images.pexels.com/photos/39437476/pexels-photo-39437476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39437476/pexels-photo-39437476.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4754,
-      "height": 3565,
-      "color": "#76757B",
-      "alt": "Close-up of a purple wildflower with raindrops, captured in natural light showing delicate petals against a soft background.",
+      "prompt": "Quiet architecture",
+      "id": "28529023",
+      "url": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28529023/pexels-photo-28529023.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2880,
+      "color": "#A79881",
+      "alt": "Minimalist cube house in natural setting at sunset with vibrant colors.",
       "credit": {
-        "name": "Dmytro Koplyk",
-        "link": "https://www.pexels.com/@dmytkopl",
-        "photoLink": "https://www.pexels.com/photo/raindrop-kissed-purple-flower-in-nature-39437476/"
+        "name": "Gaurav Yadav",
+        "link": "https://www.pexels.com/@gaurav-yadav-434373730",
+        "photoLink": "https://www.pexels.com/photo/modern-minimalist-cube-house-in-nature-28529023/"
       }
     },
     {
-      "prompt": "grainy analog film",
-      "id": "10042305",
-      "url": "https://images.pexels.com/photos/10042305/pexels-photo-10042305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10042305/pexels-photo-10042305.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#3A3941",
-      "alt": "A nostalgic portrait of a woman captured on film, evoking a vintage feel.",
+      "prompt": "Botanical detail",
+      "id": "35992427",
+      "url": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3376,
+      "color": "#594739",
+      "alt": "Detailed macro image of a cactus showing its unique texture and patterns.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/a-polaroid-picture-of-a-woman-standing-near-green-grass-10042305/"
+        "name": "Nathan J Hilton",
+        "link": "https://www.pexels.com/@nathanjhilton",
+        "photoLink": "https://www.pexels.com/photo/close-up-macro-of-cactus-texture-and-detail-35992427/"
       }
     },
     {
-      "prompt": "quiet urban facade",
-      "id": "13303753",
-      "url": "https://images.pexels.com/photos/13303753/pexels-photo-13303753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13303753/pexels-photo-13303753.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5571,
-      "height": 3714,
-      "color": "#686A69",
-      "alt": "Detailed view of gray concrete apartment buildings in an urban setting during the day.",
+      "prompt": "Coastal sky",
+      "id": "13722008",
+      "url": "https://images.pexels.com/photos/13722008/pexels-photo-13722008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13722008/pexels-photo-13722008.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5963,
+      "height": 3354,
+      "color": "#433A35",
+      "alt": "A breathtaking view of sun rays piercing through clouds over a vast ocean at dusk.",
       "credit": {
-        "name": "Stanislav Kondratiev",
-        "link": "https://www.pexels.com/@technobulka",
-        "photoLink": "https://www.pexels.com/photo/concrete-buildings-in-the-city-13303753/"
+        "name": "Andreas Ebner",
+        "link": "https://www.pexels.com/@andreasebnerfotografie",
+        "photoLink": "https://www.pexels.com/photo/sun-shining-between-clouds-above-the-sea-13722008/"
       }
     },
     {
-      "prompt": "textured city wall",
-      "id": "1983924",
-      "url": "https://images.pexels.com/photos/1983924/pexels-photo-1983924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1983924/pexels-photo-1983924.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Minimalist stilllife",
+      "id": "29543718",
+      "url": "https://images.pexels.com/photos/29543718/pexels-photo-29543718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29543718/pexels-photo-29543718.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4896,
       "height": 3264,
-      "color": "#81694F",
-      "alt": "Abstract urban background featuring grey and orange textured concrete wall with pipelines.",
+      "color": "#786B63",
+      "alt": "A pinecone and twig in a glass placed next to a stack of books by a window.",
       "credit": {
-        "name": "𝗛&𝗖𝗢 　",
-        "link": "https://www.pexels.com/@hngstrm",
-        "photoLink": "https://www.pexels.com/photo/gray-metal-pipe-beside-wall-1983924/"
+        "name": "olga Volkovitskaia",
+        "link": "https://www.pexels.com/@olga-volkovitskaia-131638009",
+        "photoLink": "https://www.pexels.com/photo/cozy-pinecone-and-books-by-a-window-29543718/"
       }
     }
   ]
