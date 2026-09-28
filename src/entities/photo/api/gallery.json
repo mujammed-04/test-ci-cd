@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-28T18:26:25.061Z",
+  "generatedAt": "2026-09-28T23:41:51.152Z",
   "photos": [
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "32212371",
-      "url": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6021,
-      "height": 3902,
-      "color": "#81572D",
-      "alt": "A collection of handcrafted ceramic bowls displayed in an artisan pottery studio with soft lighting.",
+      "prompt": "minimalist desk",
+      "id": "4790260",
+      "url": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5865,
+      "height": 3915,
+      "color": "#A9A9A8",
+      "alt": "Elegant minimalist white desk setup with a digital clock in a serene setting.",
       "credit": {
-        "name": "leo asher",
-        "link": "https://www.pexels.com/@leo-asher-2152467602",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-bowls-in-artisan-studio-32212371/"
+        "name": "Anete Lusina",
+        "link": "https://www.pexels.com/@anete-lusina",
+        "photoLink": "https://www.pexels.com/photo/white-electronic-device-on-the-table-4790260/"
       }
     },
     {
-      "prompt": "morning sunlight window",
-      "id": "5495501",
-      "url": "https://images.pexels.com/photos/5495501/pexels-photo-5495501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5495501/pexels-photo-5495501.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7087,
-      "height": 4724,
-      "color": "#0C0C0C",
-      "alt": "Monochrome shot of a window silhouette overlooking mountains, exuding a dramatic and moody atmosphere.",
+      "prompt": "coastal sky",
+      "id": "96397",
+      "url": "https://images.pexels.com/photos/96397/pexels-photo-96397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/96397/pexels-photo-96397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#4185BB",
+      "alt": "Vibrant coastal view showcasing sea, sky, and landscape under bright conditions.",
       "credit": {
-        "name": "Javad Esmaeili",
-        "link": "https://www.pexels.com/@javad-esmaeili-3571634",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-window-frame-casting-shadow-5495501/"
+        "name": "Francesco Ungaro",
+        "link": "https://www.pexels.com/@francesco-ungaro",
+        "photoLink": "https://www.pexels.com/photo/blue-calm-body-of-water-under-blue-and-white-sky-96397/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "14016665",
-      "url": "https://images.pexels.com/photos/14016665/pexels-photo-14016665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14016665/pexels-photo-14016665.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5177,
-      "height": 3566,
-      "color": "#415868",
-      "alt": "A minimalist workspace with a computer setup, gadgets, and neon lighting for a sleek modern look.",
+      "prompt": "handcrafted ceramics",
+      "id": "11410246",
+      "url": "https://images.pexels.com/photos/11410246/pexels-photo-11410246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11410246/pexels-photo-11410246.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
+      "height": 4016,
+      "color": "#645447",
+      "alt": "Charming collection of animal-faced ceramic cups on a shelf, capturing creative and artistic vibes.",
       "credit": {
-        "name": "Pramod  Tiwari",
-        "link": "https://www.pexels.com/@pramodtiwari",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-14016665/"
+        "name": "Olga Solo",
+        "link": "https://www.pexels.com/@olga-solo-84330351",
+        "photoLink": "https://www.pexels.com/photo/ceramics-decorated-with-faces-11410246/"
       }
     },
     {
-      "prompt": "urban wall texture",
-      "id": "12008050",
-      "url": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6224,
-      "height": 4150,
-      "color": "#9B928B",
-      "alt": "A close-up of a textured wall featuring worn wood and partially painted surfaces.",
+      "prompt": "nordic interior",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/photo-of-daubed-wall-and-glass-door-12008050/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
       }
     },
     {
-      "prompt": "nordic living room",
-      "id": "19966797",
-      "url": "https://images.pexels.com/photos/19966797/pexels-photo-19966797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19966797/pexels-photo-19966797.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5999,
-      "height": 4000,
-      "color": "#B1ACA9",
-      "alt": "A cozy dining room featuring modern furniture with pastel tones, highlighting a minimalist design aesthetic.",
+      "prompt": "urban texture",
+      "id": "39014622",
+      "url": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5943,
+      "height": 3344,
+      "color": "#657579",
+      "alt": "Close-up of a textured wall showing wear, with exposed red brick and dimensional plaster.",
       "credit": {
-        "name": "Alex Tyson",
-        "link": "https://www.pexels.com/@alex-tyson-919593032",
-        "photoLink": "https://www.pexels.com/photo/modern-pastel-coloured-interior-19966797/"
+        "name": "Phát Trương",
+        "link": "https://www.pexels.com/@phat-tr-ng-1662052981",
+        "photoLink": "https://www.pexels.com/photo/textured-wall-with-weathered-and-exposed-brick-39014622/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "18877271",
-      "url": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#0C3304",
-      "alt": "Close-up image of a fresh green leaf against a black background.",
+      "prompt": "linen wood",
+      "id": "17994857",
+      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#968677",
+      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
       "credit": {
-        "name": "Siarhei Nester",
-        "link": "https://www.pexels.com/@siarhei-nester-318033361",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-green-leaf-18877271/"
+        "name": "Osmany Mederos",
+        "link": "https://www.pexels.com/@osmany-mederos-211956483",
+        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
       }
     }
   ]
