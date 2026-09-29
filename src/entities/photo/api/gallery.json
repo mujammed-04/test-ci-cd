@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-29T17:38:13.300Z",
+  "generatedAt": "2026-09-29T21:51:59.970Z",
   "photos": [
     {
-      "prompt": "Morning light",
-      "id": "11284847",
-      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B553D",
-      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
+      "prompt": "green fern leaf",
+      "id": "9977570",
+      "url": "https://images.pexels.com/photos/9977570/pexels-photo-9977570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9977570/pexels-photo-9977570.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3578,
+      "height": 2397,
+      "color": "#67856D",
+      "alt": "Detailed close-up of lush green fern leaves with a soft focus background.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
+        "name": "Natalia Kolotvina",
+        "link": "https://www.pexels.com/@natalia-kolotvina-123396569",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-fern-leaves-9977570/"
       }
     },
     {
-      "prompt": "Minimal desk",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "stormy sea horizon",
+      "id": "30412424",
+      "url": "https://images.pexels.com/photos/30412424/pexels-photo-30412424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30412424/pexels-photo-30412424.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6056,
+      "height": 4037,
+      "color": "#6E7884",
+      "alt": "Dramatic sea view during stormy weather from a ship's deck, showcasing turbulent waters.",
+      "credit": {
+        "name": "Francesco Ungaro",
+        "link": "https://www.pexels.com/@francesco-ungaro",
+        "photoLink": "https://www.pexels.com/photo/stormy-ocean-view-from-ship-deck-30412424/"
+      }
+    },
+    {
+      "prompt": "white wooden sofa",
+      "id": "6312016",
+      "url": "https://images.pexels.com/photos/6312016/pexels-photo-6312016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6312016/pexels-photo-6312016.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5297,
+      "height": 3531,
+      "color": "#624D4E",
+      "alt": "Luxurious purple tufted sofa with white cushions in a stylish, cozy indoor setting.",
+      "credit": {
+        "name": "KATRIN  BOLOVTSOVA",
+        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoLink": "https://www.pexels.com/photo/purple-sofa-with-throw-pillows-6312016/"
+      }
+    },
+    {
+      "prompt": "rusty metal hammer",
+      "id": "6920074",
+      "url": "https://images.pexels.com/photos/6920074/pexels-photo-6920074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6920074/pexels-photo-6920074.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6720,
       "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
+      "color": "#AA9991",
+      "alt": "Woman uses a hammer and nail for DIY home improvement project.",
       "credit": {
         "name": "https://kaboompics.com/",
         "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
+        "photoLink": "https://www.pexels.com/photo/a-person-hammering-a-nail-6920074/"
       }
     },
     {
-      "prompt": "Urban texture",
-      "id": "30397833",
-      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B1AC",
-      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
+      "prompt": "soft sunrise glow",
+      "id": "14549473",
+      "url": "https://images.pexels.com/photos/14549473/pexels-photo-14549473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14549473/pexels-photo-14549473.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3200,
+      "height": 2000,
+      "color": "#7B594F",
+      "alt": "Gentle sunrise over a foggy lake with reflected trees and rocks creates a serene and tranquil scene.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
+        "name": "Johannes Plenio",
+        "link": "https://www.pexels.com/@jplenio",
+        "photoLink": "https://www.pexels.com/photo/a-rocky-lake-on-a-foggy-day-14549473/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "10772797",
-      "url": "https://images.pexels.com/photos/10772797/pexels-photo-10772797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10772797/pexels-photo-10772797.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#8A817A",
-      "alt": "Top view of rustic beads and necklace on textured linen fabric.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/brown-beaded-necklace-on-white-textile-10772797/"
-      }
-    },
-    {
-      "prompt": "Botanical detail",
-      "id": "3894786",
-      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
+      "prompt": "stone facade",
+      "id": "35369425",
+      "url": "https://images.pexels.com/photos/35369425/pexels-photo-35369425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35369425/pexels-photo-35369425.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4096,
       "height": 3072,
-      "color": "#223427",
-      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
+      "color": "#9F907D",
+      "alt": "Close-up of intricate architectural details on a historic building's exterior.",
       "credit": {
-        "name": "Alice Castro",
-        "link": "https://www.pexels.com/@alicedecasttro",
-        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
-      }
-    },
-    {
-      "prompt": "Analogue film grain",
-      "id": "30369053",
-      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#626D73",
-      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
-      "credit": {
-        "name": "Maria Suslova",
-        "link": "https://www.pexels.com/@maria-suslova-541493887",
-        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
+        "name": "Mahmoud Zakariya",
+        "link": "https://www.pexels.com/@mahmoud-zakariya-2154822140",
+        "photoLink": "https://www.pexels.com/photo/ornate-architectural-detail-of-historic-building-35369425/"
       }
     }
   ]
