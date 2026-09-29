@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-29T11:05:40.513Z",
+  "generatedAt": "2026-09-29T17:38:13.300Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "957090",
-      "url": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/957090/workshop-rustic-hammer-wrench-957090.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#524740",
-      "alt": "A collection of vintage workshop tools including a wrench, nail, and hammer displayed on a wooden table.",
+      "prompt": "Morning light",
+      "id": "11284847",
+      "url": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11284847/pexels-photo-11284847.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B553D",
+      "alt": "Sunlight filters through palm trees in a serene forest setting, casting warm morning rays.",
       "credit": {
-        "name": "Felix Mittermeier",
-        "link": "https://www.pexels.com/@felix-mittermeier",
-        "photoLink": "https://www.pexels.com/photo/combination-wrench-screw-bolt-and-pointed-top-hammer-957090/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-the-forest-11284847/"
       }
     },
     {
-      "prompt": "vintage analog film",
-      "id": "13780814",
-      "url": "https://images.pexels.com/photos/13780814/pexels-photo-13780814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13780814/pexels-photo-13780814.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#BDB6A6",
-      "alt": "Close-up of Kodak 400 35mm color print film rolls against a white background.",
+      "prompt": "Minimal desk",
+      "id": "8092461",
+      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CEC8C8",
+      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
       "credit": {
-        "name": "Arturo A",
-        "link": "https://www.pexels.com/@arturoaez225",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-film-rolls-13780814/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "18898633",
-      "url": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6007,
-      "height": 4010,
-      "color": "#6F665D",
-      "alt": "Dark storm clouds gather menacingly over a deserted beach by the ocean.",
+      "prompt": "Urban texture",
+      "id": "30397833",
+      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#B4B1AC",
+      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/hurricane-over-sea-18898633/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "33703946",
-      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4D3B2F",
-      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
+      "prompt": "Linen wood",
+      "id": "10772797",
+      "url": "https://images.pexels.com/photos/10772797/pexels-photo-10772797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10772797/pexels-photo-10772797.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#8A817A",
+      "alt": "Top view of rustic beads and necklace on textured linen fabric.",
       "credit": {
-        "name": "Miguel González",
-        "link": "https://www.pexels.com/@mikegles",
-        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/brown-beaded-necklace-on-white-textile-10772797/"
       }
     },
     {
-      "prompt": "nordic wood interior",
-      "id": "31092898",
-      "url": "https://images.pexels.com/photos/31092898/pexels-photo-31092898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31092898/pexels-photo-31092898.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#675048",
-      "alt": "Elegant Nordic sauna interior featuring wooden benches and modern sauna heater.",
+      "prompt": "Botanical detail",
+      "id": "3894786",
+      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#223427",
+      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/nordic-style-sauna-interior-with-wooden-benches-31092898/"
+        "name": "Alice Castro",
+        "link": "https://www.pexels.com/@alicedecasttro",
+        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
       }
     },
     {
-      "prompt": "still life fruit",
-      "id": "31975353",
-      "url": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31975353/pexels-photo-31975353.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#B0B0B0",
-      "alt": "Elegant black and white still life featuring apples, lemon, wheat, and raisins on wood.",
+      "prompt": "Analogue film grain",
+      "id": "30369053",
+      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3088,
+      "height": 2048,
+      "color": "#626D73",
+      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
       "credit": {
-        "name": "Alexey Novikov",
-        "link": "https://www.pexels.com/@alexey-novikov-2148550769",
-        "photoLink": "https://www.pexels.com/photo/artistic-black-and-white-still-life-with-fruits-31975353/"
+        "name": "Maria Suslova",
+        "link": "https://www.pexels.com/@maria-suslova-541493887",
+        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
       }
     }
   ]
