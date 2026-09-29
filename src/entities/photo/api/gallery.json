@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-28T23:41:51.152Z",
+  "generatedAt": "2026-09-29T04:15:18.905Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "4790260",
-      "url": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5865,
-      "height": 3915,
-      "color": "#A9A9A8",
-      "alt": "Elegant minimalist white desk setup with a digital clock in a serene setting.",
+      "prompt": "rusty metal grating",
+      "id": "19017158",
+      "url": "https://images.pexels.com/photos/19017158/pexels-photo-19017158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19017158/pexels-photo-19017158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3393,
+      "height": 2555,
+      "color": "#9C9E9B",
+      "alt": "A rusty barred window on a textured urban building facade, showcasing architectural details.",
       "credit": {
-        "name": "Anete Lusina",
-        "link": "https://www.pexels.com/@anete-lusina",
-        "photoLink": "https://www.pexels.com/photo/white-electronic-device-on-the-table-4790260/"
+        "name": "TU HAN-WEI",
+        "link": "https://www.pexels.com/@emma-tu",
+        "photoLink": "https://www.pexels.com/photo/rusty-barred-window-in-a-building-19017158/"
       }
     },
     {
-      "prompt": "coastal sky",
-      "id": "96397",
-      "url": "https://images.pexels.com/photos/96397/pexels-photo-96397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/96397/pexels-photo-96397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#4185BB",
-      "alt": "Vibrant coastal view showcasing sea, sky, and landscape under bright conditions.",
-      "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/blue-calm-body-of-water-under-blue-and-white-sky-96397/"
-      }
-    },
-    {
-      "prompt": "handcrafted ceramics",
-      "id": "11410246",
-      "url": "https://images.pexels.com/photos/11410246/pexels-photo-11410246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11410246/pexels-photo-11410246.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "vintage hand tools",
+      "id": "32599546",
+      "url": "https://images.pexels.com/photos/32599546/pexels-photo-32599546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32599546/pexels-photo-32599546.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6016,
       "height": 4016,
-      "color": "#645447",
-      "alt": "Charming collection of animal-faced ceramic cups on a shelf, capturing creative and artistic vibes.",
+      "color": "#392E28",
+      "alt": "Set of vintage woodworking chisels neatly arranged on a rustic leather mat, showcasing craftsmanship.",
       "credit": {
-        "name": "Olga Solo",
-        "link": "https://www.pexels.com/@olga-solo-84330351",
-        "photoLink": "https://www.pexels.com/photo/ceramics-decorated-with-faces-11410246/"
+        "name": "Cihan Yüce",
+        "link": "https://www.pexels.com/@cihanyuce",
+        "photoLink": "https://www.pexels.com/photo/vintage-woodworking-chisels-on-leather-background-32599546/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
+      "prompt": "scandinavian wood sofa",
+      "id": "5982764",
+      "url": "https://images.pexels.com/photos/5982764/pexels-photo-5982764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5982764/pexels-photo-5982764.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3958,
+      "height": 2251,
+      "color": "#A89B8C",
+      "alt": "Spacious and cozy living room with large glass windows, wooden floors, and stylish decor.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
+        "name": "Carlos Montelara",
+        "link": "https://www.pexels.com/@carlos-montelara-3450804",
+        "photoLink": "https://www.pexels.com/photo/living-room-with-big-glass-windows-5982764/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "39014622",
-      "url": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5943,
-      "height": 3344,
-      "color": "#657579",
-      "alt": "Close-up of a textured wall showing wear, with exposed red brick and dimensional plaster.",
+      "prompt": "glazed earthenware bowl",
+      "id": "7674568",
+      "url": "https://images.pexels.com/photos/7674568/pexels-photo-7674568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7674568/pexels-photo-7674568.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5236,
+      "height": 3495,
+      "color": "#A8A29A",
+      "alt": "A close-up of colorful ceramic bowls and cups on a white table.",
       "credit": {
-        "name": "Phát Trương",
-        "link": "https://www.pexels.com/@phat-tr-ng-1662052981",
-        "photoLink": "https://www.pexels.com/photo/textured-wall-with-weathered-and-exposed-brick-39014622/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-ceramics-tableware-7674568/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "17994857",
-      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#968677",
-      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
+      "prompt": "stormy sea cliffs",
+      "id": "16145817",
+      "url": "https://images.pexels.com/photos/16145817/pexels-photo-16145817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16145817/pexels-photo-16145817.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#B0B1B6",
+      "alt": "Ocean cliffs with waves crashing against rocks near a rugged coastline.",
       "credit": {
-        "name": "Osmany Mederos",
-        "link": "https://www.pexels.com/@osmany-mederos-211956483",
-        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
+        "name": "Javier Balseiro",
+        "link": "https://www.pexels.com/@javierbalseiro",
+        "photoLink": "https://www.pexels.com/photo/rocks-on-a-cloudy-beach-16145817/"
+      }
+    },
+    {
+      "prompt": "dewy fern leaf",
+      "id": "38945881",
+      "url": "https://images.pexels.com/photos/38945881/pexels-photo-38945881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38945881/pexels-photo-38945881.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#373F27",
+      "alt": "Detailed close-up of fresh green fern leaves with dew drops.",
+      "credit": {
+        "name": "NEOSiAM 18+",
+        "link": "https://www.pexels.com/@neosiam",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-green-fern-leaves-with-dew-38945881/"
       }
     }
   ]
