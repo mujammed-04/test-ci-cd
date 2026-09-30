@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-29T21:51:59.970Z",
+  "generatedAt": "2026-09-30T01:03:48.388Z",
   "photos": [
     {
-      "prompt": "green fern leaf",
-      "id": "9977570",
-      "url": "https://images.pexels.com/photos/9977570/pexels-photo-9977570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9977570/pexels-photo-9977570.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3578,
-      "height": 2397,
-      "color": "#67856D",
-      "alt": "Detailed close-up of lush green fern leaves with a soft focus background.",
+      "prompt": "rusty workshop tools",
+      "id": "5095894",
+      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#403527",
+      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
       "credit": {
-        "name": "Natalia Kolotvina",
-        "link": "https://www.pexels.com/@natalia-kolotvina-123396569",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-fern-leaves-9977570/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
       }
     },
     {
-      "prompt": "stormy sea horizon",
-      "id": "30412424",
-      "url": "https://images.pexels.com/photos/30412424/pexels-photo-30412424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30412424/pexels-photo-30412424.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6056,
-      "height": 4037,
-      "color": "#6E7884",
-      "alt": "Dramatic sea view during stormy weather from a ship's deck, showcasing turbulent waters.",
+      "prompt": "soft morning light",
+      "id": "10813682",
+      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#6C5432",
+      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
       "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/stormy-ocean-view-from-ship-deck-30412424/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
       }
     },
     {
-      "prompt": "white wooden sofa",
-      "id": "6312016",
-      "url": "https://images.pexels.com/photos/6312016/pexels-photo-6312016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6312016/pexels-photo-6312016.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5297,
-      "height": 3531,
-      "color": "#624D4E",
-      "alt": "Luxurious purple tufted sofa with white cushions in a stylish, cozy indoor setting.",
+      "prompt": "silent stone architecture",
+      "id": "5504173",
+      "url": "https://images.pexels.com/photos/5504173/pexels-photo-5504173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5504173/pexels-photo-5504173.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4500,
+      "height": 3000,
+      "color": "#6C6A66",
+      "alt": "Explore a textured stone archway corridor with a diminishing perspective, capturing architectural elegance.",
       "credit": {
-        "name": "KATRIN  BOLOVTSOVA",
-        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
-        "photoLink": "https://www.pexels.com/photo/purple-sofa-with-throw-pillows-6312016/"
+        "name": "Mike van Schoonderwalt",
+        "link": "https://www.pexels.com/@mike-van-schoonderwalt-1884800",
+        "photoLink": "https://www.pexels.com/photo/visual-effect-of-perspective-in-ancient-architecture-5504173/"
       }
     },
     {
-      "prompt": "rusty metal hammer",
-      "id": "6920074",
-      "url": "https://images.pexels.com/photos/6920074/pexels-photo-6920074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6920074/pexels-photo-6920074.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#AA9991",
-      "alt": "Woman uses a hammer and nail for DIY home improvement project.",
+      "prompt": "stormy coastal sky",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/a-person-hammering-a-nail-6920074/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
       }
     },
     {
-      "prompt": "soft sunrise glow",
-      "id": "14549473",
-      "url": "https://images.pexels.com/photos/14549473/pexels-photo-14549473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14549473/pexels-photo-14549473.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3200,
-      "height": 2000,
-      "color": "#7B594F",
-      "alt": "Gentle sunrise over a foggy lake with reflected trees and rocks creates a serene and tranquil scene.",
+      "prompt": "grainy analogue film",
+      "id": "9780172",
+      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#B99C96",
+      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
       "credit": {
-        "name": "Johannes Plenio",
-        "link": "https://www.pexels.com/@jplenio",
-        "photoLink": "https://www.pexels.com/photo/a-rocky-lake-on-a-foggy-day-14549473/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
       }
     },
     {
-      "prompt": "stone facade",
-      "id": "35369425",
-      "url": "https://images.pexels.com/photos/35369425/pexels-photo-35369425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35369425/pexels-photo-35369425.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4096,
-      "height": 3072,
-      "color": "#9F907D",
-      "alt": "Close-up of intricate architectural details on a historic building's exterior.",
+      "prompt": "minimalist nordic interior",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "Mahmoud Zakariya",
-        "link": "https://www.pexels.com/@mahmoud-zakariya-2154822140",
-        "photoLink": "https://www.pexels.com/photo/ornate-architectural-detail-of-historic-building-35369425/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     }
   ]
