@@ -1,83 +1,8 @@
 {
-  "generatedAt": "2026-09-30T01:03:48.388Z",
+  "generatedAt": "2026-09-30T07:58:59.008Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "5095894",
-      "url": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5095894/pexels-photo-5095894.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#403527",
-      "alt": "Flat lay of antique tools on a rusty table, ideal for vintage workshops or industrial themes.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/black-and-silver-combination-wrench-5095894/"
-      }
-    },
-    {
-      "prompt": "soft morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
-      }
-    },
-    {
-      "prompt": "silent stone architecture",
-      "id": "5504173",
-      "url": "https://images.pexels.com/photos/5504173/pexels-photo-5504173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5504173/pexels-photo-5504173.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4500,
-      "height": 3000,
-      "color": "#6C6A66",
-      "alt": "Explore a textured stone archway corridor with a diminishing perspective, capturing architectural elegance.",
-      "credit": {
-        "name": "Mike van Schoonderwalt",
-        "link": "https://www.pexels.com/@mike-van-schoonderwalt-1884800",
-        "photoLink": "https://www.pexels.com/photo/visual-effect-of-perspective-in-ancient-architecture-5504173/"
-      }
-    },
-    {
-      "prompt": "stormy coastal sky",
-      "id": "9493189",
-      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4737,
-      "height": 3153,
-      "color": "#68757E",
-      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
-      "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
-      }
-    },
-    {
-      "prompt": "grainy analogue film",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
-      }
-    },
-    {
-      "prompt": "minimalist nordic interior",
+      "prompt": "Nordic living room",
       "id": "37173313",
       "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -89,6 +14,81 @@
         "name": "Margo Evardson",
         "link": "https://www.pexels.com/@margo-evardson-2158292018",
         "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+      }
+    },
+    {
+      "prompt": "Handmade ceramic vase",
+      "id": "39876151",
+      "url": "https://images.pexels.com/photos/39876151/pexels-photo-39876151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39876151/pexels-photo-39876151.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3217,
+      "height": 2979,
+      "color": "#8B7671",
+      "alt": "A craftsman skillfully paints a ceramic vase in a pottery studio filled with terracotta art pieces.",
+      "credit": {
+        "name": "Recep  Kolcu",
+        "link": "https://www.pexels.com/@recep-kolcu-2161306727",
+        "photoLink": "https://www.pexels.com/photo/artisan-painting-ceramic-vase-in-pottery-studio-39876151/"
+      }
+    },
+    {
+      "prompt": "Coastal storm clouds",
+      "id": "3968130",
+      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4387,
+      "height": 2925,
+      "color": "#42576E",
+      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
+      "credit": {
+        "name": "Tatiana Syrikova",
+        "link": "https://www.pexels.com/@tatianasyrikova",
+        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
+      }
+    },
+    {
+      "prompt": "Workshop tool bench",
+      "id": "28231717",
+      "url": "https://images.pexels.com/photos/28231717/pexels-photo-28231717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28231717/pexels-photo-28231717.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 3512,
+      "color": "#A07E62",
+      "alt": "Collection of vintage tools on a wooden table indoors with a retro vibe.",
+      "credit": {
+        "name": "Ahmet Çiftçi",
+        "link": "https://www.pexels.com/@ahmet-ciftci-1413580052",
+        "photoLink": "https://www.pexels.com/photo/a-shelf-with-various-tools-and-other-items-28231717/"
+      }
+    },
+    {
+      "prompt": "Still life arrangement",
+      "id": "6070340",
+      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#667185",
+      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
+      "credit": {
+        "name": "Jill Burrow",
+        "link": "https://www.pexels.com/@jill-burrow",
+        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
+      }
+    },
+    {
+      "prompt": "Linen wood texture",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     }
   ]
