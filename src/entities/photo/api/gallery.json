@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-30T19:49:26.347Z",
+  "generatedAt": "2026-09-30T23:28:06.778Z",
   "photos": [
     {
+      "prompt": "minimalist desk",
+      "id": "4386356",
+      "url": "https://images.pexels.com/photos/4386356/pexels-photo-4386356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4386356/pexels-photo-4386356.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5941,
+      "height": 3961,
+      "color": "#D9DADC",
+      "alt": "A clean, minimalistic workspace featuring a white desk, laptop, and decorative items, perfect for modern design inspiration.",
+      "credit": {
+        "name": "alleksana",
+        "link": "https://www.pexels.com/@alleksana",
+        "photoLink": "https://www.pexels.com/photo/laptop-on-deck-4386356/"
+      }
+    },
+    {
       "prompt": "handmade ceramic bowl",
-      "id": "31000471",
-      "url": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3999,
-      "height": 2666,
-      "color": "#A4A9AD",
-      "alt": "Intricately designed blue and white ceramic plate with floral patterns, perfect for traditional tableware.",
+      "id": "32212371",
+      "url": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6021,
+      "height": 3902,
+      "color": "#81572D",
+      "alt": "A collection of handcrafted ceramic bowls displayed in an artisan pottery studio with soft lighting.",
       "credit": {
-        "name": "Markus Winkler",
-        "link": "https://www.pexels.com/@markus-winkler-1430818",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-blue-and-white-ornate-ceramic-plate-31000471/"
+        "name": "leo asher",
+        "link": "https://www.pexels.com/@leo-asher-2152467602",
+        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-bowls-in-artisan-studio-32212371/"
       }
     },
     {
-      "prompt": "urban concrete wall",
-      "id": "11897603",
-      "url": "https://images.pexels.com/photos/11897603/pexels-photo-11897603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11897603/pexels-photo-11897603.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#8E8985",
-      "alt": "Close-up of a weathered concrete wall with grunge texture and exposed patches.",
+      "prompt": "linen wood texture",
+      "id": "34860687",
+      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#272727",
+      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-gray-concrete-wall-11897603/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "39304776",
-      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#BDAA8C",
-      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "prompt": "still life composition",
+      "id": "27544689",
+      "url": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6421,
+      "height": 3598,
+      "color": "#BEB9A6",
+      "alt": "Elegant minimalist interior design featuring contemporary plant arrangements and geometric forms.",
       "credit": {
-        "name": "Suvrodip Saha",
-        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
-        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
+        "name": "Deepa Nishad",
+        "link": "https://www.pexels.com/@deepa-nishad-1620501673",
+        "photoLink": "https://www.pexels.com/photo/three-vases-and-a-plant-on-a-shelf-27544689/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "prompt": "botanical leaf closeup",
+      "id": "18877271",
+      "url": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#0C3304",
+      "alt": "Close-up image of a fresh green leaf against a black background.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "name": "Siarhei Nester",
+        "link": "https://www.pexels.com/@siarhei-nester-318033361",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-green-leaf-18877271/"
       }
     },
     {
-      "prompt": "linen wood table",
-      "id": "6073809",
-      "url": "https://images.pexels.com/photos/6073809/pexels-photo-6073809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6073809/pexels-photo-6073809.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#8D7962",
-      "alt": "Rustic table setting featuring dessert, citrus fruits, and warm candlelight ambiance.",
+      "prompt": "workshop tool set",
+      "id": "19144413",
+      "url": "https://images.pexels.com/photos/19144413/pexels-photo-19144413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19144413/pexels-photo-19144413.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5778,
+      "height": 3250,
+      "color": "#2F3835",
+      "alt": "A portable electric screwdriver kit with various precision bits, ideal for tech repairs.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/white-ceramic-plate-with-stainless-steel-fork-and-knife-on-table-6073809/"
-      }
-    },
-    {
-      "prompt": "quiet architectural facade",
-      "id": "26547201",
-      "url": "https://images.pexels.com/photos/26547201/pexels-photo-26547201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26547201/pexels-photo-26547201.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#30302E",
-      "alt": "Abstract view of an urban office building's repetitive window patterns, capturing modern architecture.",
-      "credit": {
-        "name": "Sydney Sang",
-        "link": "https://www.pexels.com/@urfriendlyphotog",
-        "photoLink": "https://www.pexels.com/photo/office-building-wall-in-black-and-white-26547201/"
+        "name": "FOX ^.ᆽ.^= ∫",
+        "link": "https://www.pexels.com/@fox-58267",
+        "photoLink": "https://www.pexels.com/photo/box-with-screwdriver-and-accessories-19144413/"
       }
     }
   ]
