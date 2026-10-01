@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-01T18:01:22.277Z",
+  "generatedAt": "2026-10-01T22:59:24.854Z",
   "photos": [
     {
-      "prompt": "stormy shoreline",
-      "id": "31182341",
-      "url": "https://images.pexels.com/photos/31182341/pexels-photo-31182341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31182341/pexels-photo-31182341.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7000,
-      "height": 4667,
-      "color": "#8B8C87",
-      "alt": "A moody, dramatic view of stormy waves crashing on an Estonian beach under overcast skies.",
+      "prompt": "Linen Wood Texture",
+      "id": "7232397",
+      "url": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6144,
+      "height": 3456,
+      "color": "#AC9D8C",
+      "alt": "Close-up of beige cotton fabric showcasing natural texture and crumples.",
       "credit": {
-        "name": "Raul Ling",
-        "link": "https://www.pexels.com/@raulling",
-        "photoLink": "https://www.pexels.com/photo/dramatic-stormy-beach-scene-in-estonia-31182341/"
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/close-up-white-fabric-with-crumple-7232397/"
       }
     },
     {
-      "prompt": "grainy film",
-      "id": "10738376",
-      "url": "https://images.pexels.com/photos/10738376/pexels-photo-10738376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10738376/pexels-photo-10738376.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4789,
-      "height": 3620,
-      "color": "#3E3E3E",
-      "alt": "Artistic black and white silhouette of a woman in an outdoor setting.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/grainy-photo-of-a-woman-10738376/"
-      }
-    },
-    {
-      "prompt": "vintage kitchenware",
-      "id": "39744129",
-      "url": "https://images.pexels.com/photos/39744129/pexels-photo-39744129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39744129/pexels-photo-39744129.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2676,
-      "height": 1784,
-      "color": "#7A5946",
-      "alt": "A collection of vintage tins, kitchenware, and memorabilia on wooden shelves.",
-      "credit": {
-        "name": "Jackie A",
-        "link": "https://www.pexels.com/@jacqann99",
-        "photoLink": "https://www.pexels.com/photo/vintage-collection-of-tins-and-kitchen-items-39744129/"
-      }
-    },
-    {
-      "prompt": "scandinavian interior",
-      "id": "7836571",
-      "url": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Quiet Architectural Interior",
+      "id": "13025145",
+      "url": "https://images.pexels.com/photos/13025145/pexels-photo-13025145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13025145/pexels-photo-13025145.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#A7A9A8",
-      "alt": "Bright and modern living room featuring monstera plants and cozy decor.",
+      "color": "#68665A",
+      "alt": "A beautifully lit curved hallway with a brick floor and arched windows, showcasing minimalist interior design.",
       "credit": {
-        "name": "Stanislav Kondratiev",
-        "link": "https://www.pexels.com/@technobulka",
-        "photoLink": "https://www.pexels.com/photo/interior-of-a-living-room-7836571/"
+        "name": "Adrien Olichon",
+        "link": "https://www.pexels.com/@adrien-olichon-1257089",
+        "photoLink": "https://www.pexels.com/photo/hallway-of-a-concrete-building-13025145/"
       }
     },
     {
-      "prompt": "minimalist desk",
-      "id": "373904",
-      "url": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5593,
-      "height": 3729,
-      "color": "#7D756D",
-      "alt": "A well-organized workspace featuring a laptop, books, and a lamp on a wooden desk.",
+      "prompt": "Handmade Ceramic Bowl",
+      "id": "9304481",
+      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5722,
+      "height": 3814,
+      "color": "#A88E37",
+      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/chair-computer-desk-furniture-373904/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
       }
     },
     {
-      "prompt": "urban concrete",
-      "id": "6424247",
-      "url": "https://images.pexels.com/photos/6424247/pexels-photo-6424247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6424247/pexels-photo-6424247.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6048,
-      "height": 4024,
-      "color": "#2E3B40",
-      "alt": "Big concrete blocks of aged shabby concrete beam bridge located in city outskirts on overcast day",
+      "prompt": "Still Life Arrangement",
+      "id": "7629878",
+      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C7D0DF",
+      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
       "credit": {
-        "name": "Brett Sayles",
-        "link": "https://www.pexels.com/@brett-sayles",
-        "photoLink": "https://www.pexels.com/photo/columns-of-concrete-bridge-on-city-street-6424247/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
+      }
+    },
+    {
+      "prompt": "Workshop Tool Set",
+      "id": "4140923",
+      "url": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5372,
+      "height": 3581,
+      "color": "#785C58",
+      "alt": "Top view collection of assorted instruments for printing machine placed on table in light typography workshop",
+      "credit": {
+        "name": "Erik Mclean",
+        "link": "https://www.pexels.com/@introspectivedsgn",
+        "photoLink": "https://www.pexels.com/photo/set-of-professional-tools-for-printing-press-4140923/"
+      }
+    },
+    {
+      "prompt": "Coastal Weather Sky",
+      "id": "3968130",
+      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4387,
+      "height": 2925,
+      "color": "#42576E",
+      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
+      "credit": {
+        "name": "Tatiana Syrikova",
+        "link": "https://www.pexels.com/@tatianasyrikova",
+        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
       }
     }
   ]
