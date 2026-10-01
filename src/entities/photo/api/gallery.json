@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-01T04:11:16.292Z",
+  "generatedAt": "2026-10-01T11:22:01.539Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
+      "prompt": "morning light",
+      "id": "38958556",
+      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#6C4E12",
+      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "credit": {
+        "name": "meryem",
+        "link": "https://www.pexels.com/@meryem-2157128767",
+        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "credit": {
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "39714897",
+      "url": "https://images.pexels.com/photos/39714897/pexels-photo-39714897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39714897/pexels-photo-39714897.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#C82D4F",
+      "alt": "Close-up macro of a vibrant pink rose showcasing intricate stamen details in natural light.",
+      "credit": {
+        "name": "Ali   Soheil",
+        "link": "https://www.pexels.com/@ali-soheil-2154370577",
+        "photoLink": "https://www.pexels.com/photo/vivid-pink-rose-macro-with-detailed-stamen-39714897/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "37173283",
+      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3852,
       "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "color": "#D1D1D1",
+      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
       "credit": {
         "name": "Margo Evardson",
         "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "6542520",
-      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
-      "height": 2048,
-      "color": "#8C7D6D",
-      "alt": "Modern white brick facade with geometric design in soft evening light.",
+      "prompt": "coastal weather",
+      "id": "38350380",
+      "url": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4819,
+      "height": 3213,
+      "color": "#879192",
+      "alt": "A captivating view of the stormy sea with rough waves and thick clouds overhead, showcasing nature's power.",
       "credit": {
-        "name": "Sinitta Leunen",
-        "link": "https://www.pexels.com/@sinileunen",
-        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
+        "name": "Margarita K",
+        "link": "https://www.pexels.com/@margarita-k-105195494",
+        "photoLink": "https://www.pexels.com/photo/dramatic-stormy-sea-with-choppy-waves-and-clouds-38350380/"
       }
     },
     {
-      "prompt": "Minimal desk",
-      "id": "14788763",
-      "url": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#39372B",
-      "alt": "A cozy workspace with a laptop, keyboard, books, and a refreshing beverage.",
-      "credit": {
-        "name": "Elifnur Gökmenoğlu",
-        "link": "https://www.pexels.com/@elifnur-gokmenoglu-54877017",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-gadgets-on-home-office-table-14788763/"
-      }
-    },
-    {
-      "prompt": "Morning light",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
-      "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
-      }
-    },
-    {
-      "prompt": "Botanical detail",
-      "id": "3894786",
-      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#223427",
-      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
-      "credit": {
-        "name": "Alice Castro",
-        "link": "https://www.pexels.com/@alicedecasttro",
-        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
-      }
-    },
-    {
-      "prompt": "Still life composition",
-      "id": "12687108",
-      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "workshop tools",
+      "id": "16243257",
+      "url": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#853F33",
-      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
+      "color": "#606257",
+      "alt": "A cluttered workshop with tools, welding equipment, and storage solutions.",
       "credit": {
-        "name": "Yusra  Mizgin Günay",
-        "link": "https://www.pexels.com/@yusramizgingunay",
-        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
+        "name": "Luis Quintero",
+        "link": "https://www.pexels.com/@jibarofoto",
+        "photoLink": "https://www.pexels.com/photo/tools-and-accessories-on-wall-in-workshop-16243257/"
       }
     }
   ]
