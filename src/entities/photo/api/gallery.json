@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-30T23:28:06.778Z",
+  "generatedAt": "2026-10-01T04:11:16.292Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "4386356",
-      "url": "https://images.pexels.com/photos/4386356/pexels-photo-4386356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4386356/pexels-photo-4386356.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5941,
-      "height": 3961,
-      "color": "#D9DADC",
-      "alt": "A clean, minimalistic workspace featuring a white desk, laptop, and decorative items, perfect for modern design inspiration.",
+      "prompt": "Nordic interior",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "alleksana",
-        "link": "https://www.pexels.com/@alleksana",
-        "photoLink": "https://www.pexels.com/photo/laptop-on-deck-4386356/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "32212371",
-      "url": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32212371/pexels-photo-32212371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6021,
-      "height": 3902,
-      "color": "#81572D",
-      "alt": "A collection of handcrafted ceramic bowls displayed in an artisan pottery studio with soft lighting.",
+      "prompt": "Quiet architecture",
+      "id": "6542520",
+      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3089,
+      "height": 2048,
+      "color": "#8C7D6D",
+      "alt": "Modern white brick facade with geometric design in soft evening light.",
       "credit": {
-        "name": "leo asher",
-        "link": "https://www.pexels.com/@leo-asher-2152467602",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-bowls-in-artisan-studio-32212371/"
+        "name": "Sinitta Leunen",
+        "link": "https://www.pexels.com/@sinileunen",
+        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34860687",
-      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#272727",
-      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
+      "prompt": "Minimal desk",
+      "id": "14788763",
+      "url": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#39372B",
+      "alt": "A cozy workspace with a laptop, keyboard, books, and a refreshing beverage.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+        "name": "Elifnur Gökmenoğlu",
+        "link": "https://www.pexels.com/@elifnur-gokmenoglu-54877017",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-gadgets-on-home-office-table-14788763/"
       }
     },
     {
-      "prompt": "still life composition",
-      "id": "27544689",
-      "url": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27544689/pexels-photo-27544689.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6421,
-      "height": 3598,
-      "color": "#BEB9A6",
-      "alt": "Elegant minimalist interior design featuring contemporary plant arrangements and geometric forms.",
+      "prompt": "Morning light",
+      "id": "13009040",
+      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#352C23",
+      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
       "credit": {
-        "name": "Deepa Nishad",
-        "link": "https://www.pexels.com/@deepa-nishad-1620501673",
-        "photoLink": "https://www.pexels.com/photo/three-vases-and-a-plant-on-a-shelf-27544689/"
+        "name": "Erik Schereder",
+        "link": "https://www.pexels.com/@erik-schereder-3173655",
+        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "18877271",
-      "url": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Botanical detail",
+      "id": "3894786",
+      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#223427",
+      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
+      "credit": {
+        "name": "Alice Castro",
+        "link": "https://www.pexels.com/@alicedecasttro",
+        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
+      }
+    },
+    {
+      "prompt": "Still life composition",
+      "id": "12687108",
+      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#0C3304",
-      "alt": "Close-up image of a fresh green leaf against a black background.",
+      "color": "#853F33",
+      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
       "credit": {
-        "name": "Siarhei Nester",
-        "link": "https://www.pexels.com/@siarhei-nester-318033361",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-green-leaf-18877271/"
-      }
-    },
-    {
-      "prompt": "workshop tool set",
-      "id": "19144413",
-      "url": "https://images.pexels.com/photos/19144413/pexels-photo-19144413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19144413/pexels-photo-19144413.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5778,
-      "height": 3250,
-      "color": "#2F3835",
-      "alt": "A portable electric screwdriver kit with various precision bits, ideal for tech repairs.",
-      "credit": {
-        "name": "FOX ^.ᆽ.^= ∫",
-        "link": "https://www.pexels.com/@fox-58267",
-        "photoLink": "https://www.pexels.com/photo/box-with-screwdriver-and-accessories-19144413/"
+        "name": "Yusra  Mizgin Günay",
+        "link": "https://www.pexels.com/@yusramizgingunay",
+        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
       }
     }
   ]
