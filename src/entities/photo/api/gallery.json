@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-01T22:59:24.854Z",
+  "generatedAt": "2026-10-02T02:07:06.162Z",
   "photos": [
     {
-      "prompt": "Linen Wood Texture",
-      "id": "7232397",
-      "url": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6144,
-      "height": 3456,
-      "color": "#AC9D8C",
-      "alt": "Close-up of beige cotton fabric showcasing natural texture and crumples.",
+      "prompt": "stormy coastal sky",
+      "id": "1526251",
+      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1852,
+      "color": "#454147",
+      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
       "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/close-up-white-fabric-with-crumple-7232397/"
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
       }
     },
     {
-      "prompt": "Quiet Architectural Interior",
-      "id": "13025145",
-      "url": "https://images.pexels.com/photos/13025145/pexels-photo-13025145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13025145/pexels-photo-13025145.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#68665A",
-      "alt": "A beautifully lit curved hallway with a brick floor and arched windows, showcasing minimalist interior design.",
+      "prompt": "handcrafted ceramic vase",
+      "id": "8063882",
+      "url": "https://images.pexels.com/photos/8063882/pexels-photo-8063882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8063882/pexels-photo-8063882.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5299,
+      "height": 3533,
+      "color": "#B5ABA1",
+      "alt": "Aesthetic ceramic vases in various colors displayed on a wooden shelf indoors.",
       "credit": {
-        "name": "Adrien Olichon",
-        "link": "https://www.pexels.com/@adrien-olichon-1257089",
-        "photoLink": "https://www.pexels.com/photo/hallway-of-a-concrete-building-13025145/"
+        "name": "ROMAN ODINTSOV",
+        "link": "https://www.pexels.com/@roman-odintsov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-ceramic-containers-8063882/"
       }
     },
     {
-      "prompt": "Handmade Ceramic Bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
+      "prompt": "vintage fruit composition",
+      "id": "33576377",
+      "url": "https://images.pexels.com/photos/33576377/pexels-photo-33576377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33576377/pexels-photo-33576377.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6341,
+      "height": 4227,
+      "color": "#594A4F",
+      "alt": "A classic still life of apples, grapes, and flowers on a wooden tray.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
+        "name": "Travel with  Lenses",
+        "link": "https://www.pexels.com/@travel-with-lenses-734723610",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-apples-and-grapes-33576377/"
       }
     },
     {
-      "prompt": "Still Life Arrangement",
-      "id": "7629878",
-      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Nordic minimal interior",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
-      "height": 2667,
-      "color": "#C7D0DF",
-      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
       }
     },
     {
-      "prompt": "Workshop Tool Set",
-      "id": "4140923",
-      "url": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5372,
-      "height": 3581,
-      "color": "#785C58",
-      "alt": "Top view collection of assorted instruments for printing machine placed on table in light typography workshop",
+      "prompt": "quiet brick courtyard",
+      "id": "34558551",
+      "url": "https://images.pexels.com/photos/34558551/pexels-photo-34558551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34558551/pexels-photo-34558551.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#6C6C64",
+      "alt": "A serene courtyard with red-roofed brick buildings under a clear blue sky.",
       "credit": {
-        "name": "Erik Mclean",
-        "link": "https://www.pexels.com/@introspectivedsgn",
-        "photoLink": "https://www.pexels.com/photo/set-of-professional-tools-for-printing-press-4140923/"
+        "name": "Thomas  balabaud",
+        "link": "https://www.pexels.com/@thomas-balabaud-735585",
+        "photoLink": "https://www.pexels.com/photo/charming-brick-buildings-with-red-roofs-and-ivy-34558551/"
       }
     },
     {
-      "prompt": "Coastal Weather Sky",
-      "id": "3968130",
-      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4387,
-      "height": 2925,
-      "color": "#42576E",
-      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
+      "prompt": "urban concrete texture",
+      "id": "4691571",
+      "url": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4024,
+      "color": "#ABA7AF",
+      "alt": "Close-up of a gray stucco wall showing rough, textured surface ideal for backgrounds.",
       "credit": {
-        "name": "Tatiana Syrikova",
-        "link": "https://www.pexels.com/@tatianasyrikova",
-        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
+        "name": "Aukid phumsirichat",
+        "link": "https://www.pexels.com/@aukid-phumsirichat-3095759",
+        "photoLink": "https://www.pexels.com/photo/gray-concrete-wall-with-rough-surface-4691571/"
       }
     }
   ]
