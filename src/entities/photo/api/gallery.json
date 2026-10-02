@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-02T02:07:06.162Z",
+  "generatedAt": "2026-10-02T09:21:13.801Z",
   "photos": [
     {
-      "prompt": "stormy coastal sky",
-      "id": "1526251",
-      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 1852,
-      "color": "#454147",
-      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
+      "prompt": "brick wall texture",
+      "id": "19025329",
+      "url": "https://images.pexels.com/photos/19025329/pexels-photo-19025329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19025329/pexels-photo-19025329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
+      "height": 4016,
+      "color": "#9A8884",
+      "alt": "Close-up of a vintage brick wall with a pattern found in Cambridge, England.",
       "credit": {
-        "name": "Ray Bilcliff",
-        "link": "https://www.pexels.com/@raybilcliff",
-        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
+        "name": "Jean-Luc Benazet",
+        "link": "https://www.pexels.com/@jean-luc-benazet-753072919",
+        "photoLink": "https://www.pexels.com/photo/vintage-bricks-pattern-19025329/"
       }
     },
     {
-      "prompt": "handcrafted ceramic vase",
-      "id": "8063882",
-      "url": "https://images.pexels.com/photos/8063882/pexels-photo-8063882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8063882/pexels-photo-8063882.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5299,
-      "height": 3533,
-      "color": "#B5ABA1",
-      "alt": "Aesthetic ceramic vases in various colors displayed on a wooden shelf indoors.",
+      "prompt": "glazed ceramic bowl",
+      "id": "33359689",
+      "url": "https://images.pexels.com/photos/33359689/pexels-photo-33359689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33359689/pexels-photo-33359689.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5892,
+      "height": 3926,
+      "color": "#687667",
+      "alt": "Vibrant and unique handcrafted bowls and pots on a rustic green shelf, highlighting artistic pottery design.",
       "credit": {
-        "name": "ROMAN ODINTSOV",
-        "link": "https://www.pexels.com/@roman-odintsov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-ceramic-containers-8063882/"
+        "name": "Christina & Peter",
+        "link": "https://www.pexels.com/@christina99999",
+        "photoLink": "https://www.pexels.com/photo/colorful-handmade-pottery-on-display-shelves-33359689/"
       }
     },
     {
-      "prompt": "vintage fruit composition",
-      "id": "33576377",
-      "url": "https://images.pexels.com/photos/33576377/pexels-photo-33576377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33576377/pexels-photo-33576377.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6341,
-      "height": 4227,
-      "color": "#594A4F",
-      "alt": "A classic still life of apples, grapes, and flowers on a wooden tray.",
+      "prompt": "metal workshop tools",
+      "id": "34149254",
+      "url": "https://images.pexels.com/photos/34149254/pexels-photo-34149254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34149254/pexels-photo-34149254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#503927",
+      "alt": "Old iron weights on a wooden table in a rustic workshop. Perfect for vintage themes.",
       "credit": {
-        "name": "Travel with  Lenses",
-        "link": "https://www.pexels.com/@travel-with-lenses-734723610",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-apples-and-grapes-33576377/"
+        "name": "Çağrı Selçuk",
+        "link": "https://www.pexels.com/@cagri-selcuk-526331916",
+        "photoLink": "https://www.pexels.com/photo/rustic-weights-in-vintage-workshop-setting-34149254/"
       }
     },
     {
-      "prompt": "Nordic minimal interior",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
+      "prompt": "vintage film grain",
+      "id": "16851158",
+      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3360,
+      "height": 2240,
+      "color": "#4E4F49",
+      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
+        "name": "Scenehaus Production",
+        "link": "https://www.pexels.com/@scenehaus",
+        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
       }
     },
     {
-      "prompt": "quiet brick courtyard",
-      "id": "34558551",
-      "url": "https://images.pexels.com/photos/34558551/pexels-photo-34558551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34558551/pexels-photo-34558551.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#6C6C64",
-      "alt": "A serene courtyard with red-roofed brick buildings under a clear blue sky.",
+      "prompt": "linen wooden surface",
+      "id": "34860678",
+      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#0D2D54",
+      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
       "credit": {
-        "name": "Thomas  balabaud",
-        "link": "https://www.pexels.com/@thomas-balabaud-735585",
-        "photoLink": "https://www.pexels.com/photo/charming-brick-buildings-with-red-roofs-and-ivy-34558551/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
       }
     },
     {
-      "prompt": "urban concrete texture",
-      "id": "4691571",
-      "url": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6048,
-      "height": 4024,
-      "color": "#ABA7AF",
-      "alt": "Close-up of a gray stucco wall showing rough, textured surface ideal for backgrounds.",
+      "prompt": "green botanical detail",
+      "id": "3894786",
+      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#223427",
+      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
       "credit": {
-        "name": "Aukid phumsirichat",
-        "link": "https://www.pexels.com/@aukid-phumsirichat-3095759",
-        "photoLink": "https://www.pexels.com/photo/gray-concrete-wall-with-rough-surface-4691571/"
+        "name": "Alice Castro",
+        "link": "https://www.pexels.com/@alicedecasttro",
+        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
       }
     }
   ]
