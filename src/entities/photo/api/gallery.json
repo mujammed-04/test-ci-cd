@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-02T16:05:30.052Z",
+  "generatedAt": "2026-10-02T21:09:07.185Z",
   "photos": [
     {
-      "prompt": "linen texture wood",
-      "id": "5964663",
-      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#90704C",
-      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
+      "prompt": "morning light",
+      "id": "38958556",
+      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#6C4E12",
+      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
       "credit": {
-        "name": "Eva Bronzini",
-        "link": "https://www.pexels.com/@eva-bronzini",
-        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
+        "name": "meryem",
+        "link": "https://www.pexels.com/@meryem-2157128767",
+        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+      }
+    },
+    {
+      "prompt": "handmade ceramics",
+      "id": "28867393",
+      "url": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3375,
+      "color": "#544C35",
+      "alt": "Row of unglazed ceramic pots in workshop with handwritten label.",
+      "credit": {
+        "name": "Lâm Thanh",
+        "link": "https://www.pexels.com/@lam-thanh-1100392445",
+        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-pots-with-label-in-workshop-28867393/"
+      }
+    },
+    {
+      "prompt": "minimal desks",
+      "id": "7534169",
+      "url": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4069,
+      "height": 3137,
+      "color": "#AEAEAC",
+      "alt": "Wooden tables and blue office chairs placed in modern workplace with shelves on wall",
+      "credit": {
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/interior-of-office-with-tables-and-chairs-7534169/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "27223675",
+      "url": "https://images.pexels.com/photos/27223675/pexels-photo-27223675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27223675/pexels-photo-27223675.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5821,
+      "height": 3881,
+      "color": "#AA8C70",
+      "alt": "A warm wooden sign with 'handmade with love' on cozy linen bedding in orange and white.",
+      "credit": {
+        "name": "Rita  K",
+        "link": "https://www.pexels.com/@rita-k-56679557",
+        "photoLink": "https://www.pexels.com/photo/handmade-with-love-27223675/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "8920170",
-      "url": "https://images.pexels.com/photos/8920170/pexels-photo-8920170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8920170/pexels-photo-8920170.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2728,
-      "height": 1830,
-      "color": "#6D7367",
-      "alt": "A woman with raised arms exuding happiness in a soft, vintage film style.",
+      "id": "9780172",
+      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#B99C96",
+      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
       "credit": {
-        "name": "Nastya Korenkova",
-        "link": "https://www.pexels.com/@nastya-korenkova-72937441",
-        "photoLink": "https://www.pexels.com/photo/film-photo-of-a-young-woman-with-arms-raised-enjoying-herself-8920170/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "33401256",
-      "url": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5726,
-      "height": 3817,
-      "color": "#141510",
-      "alt": "Vibrant physalis branch with orange and green husks against a dark backdrop.",
+      "prompt": "urban textures",
+      "id": "9756577",
+      "url": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#838A9C",
+      "alt": "Detailed photograph of a weathered wall with peeling blue and yellow paint, showcasing abstract textures.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/colorful-physalis-branch-on-dark-background-33401256/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
-      "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "29282184",
-      "url": "https://images.pexels.com/photos/29282184/pexels-photo-29282184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29282184/pexels-photo-29282184.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5281,
-      "height": 3521,
-      "color": "#382E22",
-      "alt": "A collection of handcrafted ceramic bowls displaying various textures and colors.",
-      "credit": {
-        "name": "Elina Volkova",
-        "link": "https://www.pexels.com/@miami302",
-        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-bowls-in-earthy-tones-29282184/"
-      }
-    },
-    {
-      "prompt": "urban concrete walls",
-      "id": "3964666",
-      "url": "https://images.pexels.com/photos/3964666/pexels-photo-3964666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3964666/pexels-photo-3964666.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#ADA8A5",
-      "alt": "A detailed close-up of a rough and textured concrete wall surface.",
-      "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/concrete-surface-3964666/"
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-textured-surface-9756577/"
       }
     }
   ]
