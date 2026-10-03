@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-03T00:55:22.435Z",
+  "generatedAt": "2026-10-03T06:02:19.742Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "8534373",
-      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5654,
-      "height": 3769,
-      "color": "#B5B5B5",
-      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
+      "prompt": "stormy coastline",
+      "id": "14821797",
+      "url": "https://images.pexels.com/photos/14821797/pexels-photo-14821797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14821797/pexels-photo-14821797.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#808B91",
+      "alt": "Rocky seascape featuring powerful waves crashing against the shore under a cloudy sky.",
       "credit": {
-        "name": "Hanna Pad",
-        "link": "https://www.pexels.com/@anna-nekrashevich",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
+        "name": "Egor Kunovsky",
+        "link": "https://www.pexels.com/@egor-kunovsky-167146440",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-a-rocky-shore-under-the-cloudy-sky-14821797/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34851017",
-      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handcrafted ceramics",
+      "id": "11410246",
+      "url": "https://images.pexels.com/photos/11410246/pexels-photo-11410246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11410246/pexels-photo-11410246.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
+      "height": 4016,
+      "color": "#645447",
+      "alt": "Charming collection of animal-faced ceramic cups on a shelf, capturing creative and artistic vibes.",
+      "credit": {
+        "name": "Olga Solo",
+        "link": "https://www.pexels.com/@olga-solo-84330351",
+        "photoLink": "https://www.pexels.com/photo/ceramics-decorated-with-faces-11410246/"
+      }
+    },
+    {
+      "prompt": "vintage workshop tools",
+      "id": "34149254",
+      "url": "https://images.pexels.com/photos/34149254/pexels-photo-34149254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34149254/pexels-photo-34149254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#503927",
+      "alt": "Old iron weights on a wooden table in a rustic workshop. Perfect for vintage themes.",
+      "credit": {
+        "name": "Çağrı Selçuk",
+        "link": "https://www.pexels.com/@cagri-selcuk-526331916",
+        "photoLink": "https://www.pexels.com/photo/rustic-weights-in-vintage-workshop-setting-34149254/"
+      }
+    },
+    {
+      "prompt": "linen wood textures",
+      "id": "34860696",
+      "url": "https://images.pexels.com/photos/34860696/pexels-photo-34860696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860696/pexels-photo-34860696.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7200,
       "height": 5400,
-      "color": "#1B3448",
-      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
+      "color": "#491F07",
+      "alt": "Close-up of a warm brown textured fabric with subtle folds and waves.",
       "credit": {
         "name": "3D Render",
         "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
+        "photoLink": "https://www.pexels.com/photo/warm-brown-textured-fabric-background-34860696/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "33401256",
-      "url": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5726,
-      "height": 3817,
-      "color": "#141510",
-      "alt": "Vibrant physalis branch with orange and green husks against a dark backdrop.",
+      "prompt": "nordic interior",
+      "id": "39912936",
+      "url": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#755846",
+      "alt": "Discover the elegance of a modern indoor sauna featuring sleek wood panels and a glass door.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/colorful-physalis-branch-on-dark-background-33401256/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/stylish-modern-indoor-sauna-with-wooden-design-39912936/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "prompt": "analogue film grain",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
-      }
-    },
-    {
-      "prompt": "botanical leaf closeup",
-      "id": "4593955",
-      "url": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6330,
-      "height": 4220,
-      "color": "#485944",
-      "alt": "Detailed close-up of a vibrant green leaf with rich textures and patterns.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/jungle-leaf-texture-4593955/"
-      }
-    },
-    {
-      "prompt": "morning light shadows",
-      "id": "984886",
-      "url": "https://images.pexels.com/photos/984886/pexels-photo-984886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/984886/pexels-photo-984886.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4383,
-      "height": 2922,
-      "color": "#6D675B",
-      "alt": "Artistic shadow of ornate metal gate and leaves cast on a sunlit stone wall.",
-      "credit": {
-        "name": "Cátia Matos",
-        "link": "https://www.pexels.com/@catiamatos",
-        "photoLink": "https://www.pexels.com/photo/brown-and-black-wooden-window-pane-984886/"
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
       }
     }
   ]
