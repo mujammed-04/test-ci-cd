@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-02T21:09:07.185Z",
+  "generatedAt": "2026-10-03T00:55:22.435Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "38958556",
-      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#6C4E12",
-      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "prompt": "minimal desk",
+      "id": "8534373",
+      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5654,
+      "height": 3769,
+      "color": "#B5B5B5",
+      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
       "credit": {
-        "name": "meryem",
-        "link": "https://www.pexels.com/@meryem-2157128767",
-        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+        "name": "Hanna Pad",
+        "link": "https://www.pexels.com/@anna-nekrashevich",
+        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "28867393",
-      "url": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28867393/pexels-photo-28867393.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#544C35",
-      "alt": "Row of unglazed ceramic pots in workshop with handwritten label.",
+      "prompt": "linen wood texture",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
       "credit": {
-        "name": "Lâm Thanh",
-        "link": "https://www.pexels.com/@lam-thanh-1100392445",
-        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-pots-with-label-in-workshop-28867393/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "7534169",
-      "url": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4069,
-      "height": 3137,
-      "color": "#AEAEAC",
-      "alt": "Wooden tables and blue office chairs placed in modern workplace with shelves on wall",
+      "prompt": "still life arrangement",
+      "id": "33401256",
+      "url": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5726,
+      "height": 3817,
+      "color": "#141510",
+      "alt": "Vibrant physalis branch with orange and green husks against a dark backdrop.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/interior-of-office-with-tables-and-chairs-7534169/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/colorful-physalis-branch-on-dark-background-33401256/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "27223675",
-      "url": "https://images.pexels.com/photos/27223675/pexels-photo-27223675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27223675/pexels-photo-27223675.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5821,
-      "height": 3881,
-      "color": "#AA8C70",
-      "alt": "A warm wooden sign with 'handmade with love' on cozy linen bedding in orange and white.",
+      "prompt": "handmade ceramic bowl",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
       "credit": {
-        "name": "Rita  K",
-        "link": "https://www.pexels.com/@rita-k-56679557",
-        "photoLink": "https://www.pexels.com/photo/handmade-with-love-27223675/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "prompt": "botanical leaf closeup",
+      "id": "4593955",
+      "url": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6330,
+      "height": 4220,
+      "color": "#485944",
+      "alt": "Detailed close-up of a vibrant green leaf with rich textures and patterns.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/jungle-leaf-texture-4593955/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "9756577",
-      "url": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#838A9C",
-      "alt": "Detailed photograph of a weathered wall with peeling blue and yellow paint, showcasing abstract textures.",
+      "prompt": "morning light shadows",
+      "id": "984886",
+      "url": "https://images.pexels.com/photos/984886/pexels-photo-984886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/984886/pexels-photo-984886.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4383,
+      "height": 2922,
+      "color": "#6D675B",
+      "alt": "Artistic shadow of ornate metal gate and leaves cast on a sunlit stone wall.",
       "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-textured-surface-9756577/"
+        "name": "Cátia Matos",
+        "link": "https://www.pexels.com/@catiamatos",
+        "photoLink": "https://www.pexels.com/photo/brown-and-black-wooden-window-pane-984886/"
       }
     }
   ]
