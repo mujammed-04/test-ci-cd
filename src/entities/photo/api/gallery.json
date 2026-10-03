@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-03T12:13:25.585Z",
+  "generatedAt": "2026-10-03T16:58:27.635Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "13075330",
-      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3956,
-      "height": 2225,
-      "color": "#5C5451",
-      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
+      "prompt": "coastal storm clouds",
+      "id": "14920354",
+      "url": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6005,
+      "height": 4009,
+      "color": "#69767C",
+      "alt": "A dramatic storm cloud hovering over a rocky beach pier with waves crashing on the shore.",
       "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/storm-clouds-over-a-sandy-beach-14920354/"
+      }
+    },
+    {
+      "prompt": "weathered workshop tools",
+      "id": "7423700",
+      "url": "https://images.pexels.com/photos/7423700/pexels-photo-7423700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7423700/pexels-photo-7423700.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#392C1E",
+      "alt": "Set of weathered rusty metal clamps hanging on rack in grungy carpentry workshop",
+      "credit": {
+        "name": "Karen Laårk Boshoff",
+        "link": "https://www.pexels.com/@laarkstudio",
+        "photoLink": "https://www.pexels.com/photo/shabby-set-of-clamps-on-rack-7423700/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "id": "16851158",
+      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3360,
+      "height": 2240,
+      "color": "#4E4F49",
+      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+        "name": "Scenehaus Production",
+        "link": "https://www.pexels.com/@scenehaus",
+        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "6070340",
-      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#667185",
-      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
+      "prompt": "urban concrete texture",
+      "id": "4691571",
+      "url": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4024,
+      "color": "#ABA7AF",
+      "alt": "Close-up of a gray stucco wall showing rough, textured surface ideal for backgrounds.",
       "credit": {
-        "name": "Jill Burrow",
-        "link": "https://www.pexels.com/@jill-burrow",
-        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
+        "name": "Aukid phumsirichat",
+        "link": "https://www.pexels.com/@aukid-phumsirichat-3095759",
+        "photoLink": "https://www.pexels.com/photo/gray-concrete-wall-with-rough-surface-4691571/"
       }
     },
     {
-      "prompt": "coastal weather sky",
-      "id": "26492759",
-      "url": "https://images.pexels.com/photos/26492759/pexels-photo-26492759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26492759/pexels-photo-26492759.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4000,
-      "color": "#647B89",
-      "alt": "Tranquil view of the ocean under a cloudy blue sky with soft lighting.",
-      "credit": {
-        "name": "Vika Glitter",
-        "link": "https://www.pexels.com/@vika-glitter-392079",
-        "photoLink": "https://www.pexels.com/photo/clouds-over-sea-26492759/"
-      }
-    },
-    {
-      "prompt": "workshop tool bench",
-      "id": "30688207",
-      "url": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "nordic interior lighting",
+      "id": "39912945",
+      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 7008,
       "height": 4672,
-      "color": "#513F3B",
-      "alt": "Explore a vintage blacksmith workshop filled with traditional tools and rustic charm.",
+      "color": "#825A41",
+      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
       "credit": {
-        "name": "Denys Gromov",
-        "link": "https://www.pexels.com/@jdgromov",
-        "photoLink": "https://www.pexels.com/photo/rustic-blacksmith-workshop-with-tools-and-anvil-30688207/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
       }
     },
     {
-      "prompt": "nordic interior lounge",
-      "id": "19966791",
-      "url": "https://images.pexels.com/photos/19966791/pexels-photo-19966791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19966791/pexels-photo-19966791.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5999,
-      "height": 4000,
-      "color": "#B3B0AB",
-      "alt": "Bright and spacious modern living room with minimalist design, featuring natural light and indoor plants.",
+      "prompt": "morning light beams",
+      "id": "5725217",
+      "url": "https://images.pexels.com/photos/5725217/pexels-photo-5725217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5725217/pexels-photo-5725217.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#4D4B41",
+      "alt": "Captivating sunbeams pierce through dense forest trees in Tapalpa, Mexico at sunrise.",
       "credit": {
-        "name": "Alex Tyson",
-        "link": "https://www.pexels.com/@alex-tyson-919593032",
-        "photoLink": "https://www.pexels.com/photo/magazine-on-a-coffee-table-in-a-modern-apartment-19966791/"
+        "name": "Luis Becerra  Fotógrafo",
+        "link": "https://www.pexels.com/@luisbecerrafotografo",
+        "photoLink": "https://www.pexels.com/photo/sun-rays-in-the-forest-5725217/"
       }
     }
   ]
