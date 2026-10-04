@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-03T22:40:23.866Z",
+  "generatedAt": "2026-10-04T02:23:40.531Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "39912943",
-      "url": "https://images.pexels.com/photos/39912943/pexels-photo-39912943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912943/pexels-photo-39912943.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#675950",
-      "alt": "Contemporary sauna featuring a stylish Huum electric heater with stones, exuding Nordic design elegance.",
+      "prompt": "minimalist desk",
+      "id": "6337",
+      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5331,
+      "height": 3554,
+      "color": "#CBCDD2",
+      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-with-huum-heater-39912943/"
+        "name": "Karolina Grabowska www.kaboompics.com",
+        "link": "https://www.pexels.com/@karola-g2",
+        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "7484795",
-      "url": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5968,
-      "height": 3979,
-      "color": "#BBB5A9",
-      "alt": "Neatly organized tools hanging on a workshop wall, including hammers and scissors.",
+      "prompt": "workshop tools",
+      "id": "7423708",
+      "url": "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#4B4A45",
+      "alt": "Soft focus of weathered part of industrial machinery installed on workbench in professional workshop",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/hammer-and-mallets-hanging-on-the-wall-7484795/"
+        "name": "Karen Laårk Boshoff",
+        "link": "https://www.pexels.com/@laarkstudio",
+        "photoLink": "https://www.pexels.com/photo/part-of-machine-in-workshop-7423708/"
       }
     },
     {
-      "prompt": "Morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
+      "prompt": "urban texture",
+      "id": "3735605",
+      "url": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4998,
+      "height": 3112,
+      "color": "#735D4B",
+      "alt": "A textured brick wall showcasing varied patterns and tones, perfect for backgrounds and design elements.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-3735605/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "6962747",
-      "url": "https://images.pexels.com/photos/6962747/pexels-photo-6962747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962747/pexels-photo-6962747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#A9A49C",
-      "alt": "A simple wooden bowl placed on a striped linen napkin on a wooden surface, top view.",
+      "prompt": "handmade ceramics",
+      "id": "8063880",
+      "url": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5616,
+      "height": 3744,
+      "color": "#614738",
+      "alt": "Close-up of hands crafting pottery on a wheel, showcasing skill and artistry.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/an-empty-wooden-bowl-on-gray-kitchen-towel-6962747/"
+        "name": "ROMAN ODINTSOV",
+        "link": "https://www.pexels.com/@roman-odintsov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-person-doing-pottery-8063880/"
       }
     },
     {
-      "prompt": "Film grain",
-      "id": "33276114",
-      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2500,
-      "height": 1678,
-      "color": "#7F645D",
-      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
+      "prompt": "linen wood",
+      "id": "39338444",
+      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2560,
+      "color": "#9A9591",
+      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
       "credit": {
-        "name": "Şeyma Emine  TAMER GÜL",
-        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
-        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
+        "name": "Mateusz Pielech",
+        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
+        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "39400251",
-      "url": "https://images.pexels.com/photos/39400251/pexels-photo-39400251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39400251/pexels-photo-39400251.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5029,
-      "height": 2829,
-      "color": "#C7D6DB",
-      "alt": "Minimalist structure with geometric design in Lisbon's Parque das Nações, Portugal",
+      "prompt": "coastal weather",
+      "id": "35162977",
+      "url": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#5D7985",
+      "alt": "A serene ocean scene with gentle waves and a cloudy sky on a calm day.",
       "credit": {
-        "name": "Igor Passchier",
-        "link": "https://www.pexels.com/@igor-passchier-111147847",
-        "photoLink": "https://www.pexels.com/photo/modern-architecture-at-parque-das-nacoes-lisbon-39400251/"
+        "name": "Bilal Yahya",
+        "link": "https://www.pexels.com/@bilal-yahya-2158113463",
+        "photoLink": "https://www.pexels.com/photo/peaceful-ocean-waves-under-cloudy-sky-35162977/"
       }
     }
   ]
