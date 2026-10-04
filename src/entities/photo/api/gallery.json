@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-04T02:23:40.531Z",
+  "generatedAt": "2026-10-04T09:20:28.793Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "6337",
-      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5331,
-      "height": 3554,
-      "color": "#CBCDD2",
-      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
+      "prompt": "Nordic linen sofa",
+      "id": "7561304",
+      "url": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5647,
+      "height": 3757,
+      "color": "#C3C2C2",
+      "alt": "Elderly woman relaxing on a modern white sofa with a minimalist design theme.",
       "credit": {
-        "name": "Karolina Grabowska www.kaboompics.com",
-        "link": "https://www.pexels.com/@karola-g2",
-        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
+        "name": "SHVETS production",
+        "link": "https://www.pexels.com/@shvets-production",
+        "photoLink": "https://www.pexels.com/photo/a-woman-in-white-reclining-on-white-couch-using-a-laptop-7561304/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "7423708",
-      "url": "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4272,
-      "height": 2848,
-      "color": "#4B4A45",
-      "alt": "Soft focus of weathered part of industrial machinery installed on workbench in professional workshop",
+      "prompt": "Coastal weathered wood",
+      "id": "8352368",
+      "url": "https://images.pexels.com/photos/8352368/pexels-photo-8352368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8352368/pexels-photo-8352368.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#677373",
+      "alt": "Close-up of a weathered rope knot on a rustic wooden mooring post, showcasing a nautical theme.",
       "credit": {
-        "name": "Karen Laårk Boshoff",
-        "link": "https://www.pexels.com/@laarkstudio",
-        "photoLink": "https://www.pexels.com/photo/part-of-machine-in-workshop-7423708/"
+        "name": "Kindel Media",
+        "link": "https://www.pexels.com/@kindelmedia",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-an-anchor-rope-on-a-wooden-block-8352368/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "3735605",
-      "url": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4998,
-      "height": 3112,
-      "color": "#735D4B",
-      "alt": "A textured brick wall showcasing varied patterns and tones, perfect for backgrounds and design elements.",
+      "prompt": "Urban brick texture",
+      "id": "7394220",
+      "url": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#8B7361",
+      "alt": "High-resolution textured brick wall, perfect for design and architectural projects.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/brick-wall-3735605/"
+        "name": "Ila Bappa Ibrahim",
+        "link": "https://www.pexels.com/@ilabappa",
+        "photoLink": "https://www.pexels.com/photo/a-wall-made-of-bricks-7394220/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "8063880",
-      "url": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8063880/pexels-photo-8063880.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5616,
-      "height": 3744,
-      "color": "#614738",
-      "alt": "Close-up of hands crafting pottery on a wheel, showcasing skill and artistry.",
+      "prompt": "Analogue film grain",
+      "id": "32132450",
+      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#93705A",
+      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
       "credit": {
-        "name": "ROMAN ODINTSOV",
-        "link": "https://www.pexels.com/@roman-odintsov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-person-doing-pottery-8063880/"
+        "name": "Ánh Đặng",
+        "link": "https://www.pexels.com/@anhdanghihi",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "39338444",
-      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2560,
-      "color": "#9A9591",
-      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
+      "prompt": "Still life fruit",
+      "id": "39539385",
+      "url": "https://images.pexels.com/photos/39539385/pexels-photo-39539385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39539385/pexels-photo-39539385.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5582,
+      "height": 3721,
+      "color": "#443522",
+      "alt": "A creative arrangement of pomegranates and broken pottery, emphasizing balance and color.",
       "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/artistic-still-life-of-pomegranates-and-broken-pot-39539385/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "35162977",
-      "url": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35162977/pexels-photo-35162977.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Minimalist wood table",
+      "id": "36854079",
+      "url": "https://images.pexels.com/photos/36854079/pexels-photo-36854079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36854079/pexels-photo-36854079.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#5D7985",
-      "alt": "A serene ocean scene with gentle waves and a cloudy sky on a calm day.",
+      "color": "#8C8372",
+      "alt": "Sleek wooden chair with a cane backrest in a modern minimalistic dining room setting.",
       "credit": {
-        "name": "Bilal Yahya",
-        "link": "https://www.pexels.com/@bilal-yahya-2158113463",
-        "photoLink": "https://www.pexels.com/photo/peaceful-ocean-waves-under-cloudy-sky-35162977/"
+        "name": "Letícia Alvares",
+        "link": "https://www.pexels.com/@leticia-alvares-1805702",
+        "photoLink": "https://www.pexels.com/photo/modern-minimalist-wooden-dining-chair-and-table-36854079/"
       }
     }
   ]
