@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-04T22:43:45.190Z",
+  "generatedAt": "2026-10-05T01:35:46.124Z",
   "photos": [
     {
       "prompt": "Nordic living room",
-      "id": "19966766",
-      "url": "https://images.pexels.com/photos/19966766/pexels-photo-19966766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19966766/pexels-photo-19966766.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5999,
-      "height": 4000,
-      "color": "#AEB0AD",
-      "alt": "A cozy Scandinavian living room with modern gray couch and wooden elements.",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
       "credit": {
-        "name": "Alex Tyson",
-        "link": "https://www.pexels.com/@alex-tyson-919593032",
-        "photoLink": "https://www.pexels.com/photo/modern-living-room-19966766/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
       }
     },
     {
-      "prompt": "Botanical closeup leaf",
-      "id": "34079789",
-      "url": "https://images.pexels.com/photos/34079789/pexels-photo-34079789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34079789/pexels-photo-34079789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6048,
-      "height": 3833,
-      "color": "#373737",
-      "alt": "Close-up of a leaf in black and white highlighting intricate vein patterns.",
+      "prompt": "Coastal storm clouds",
+      "id": "14920358",
+      "url": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5978,
+      "height": 3991,
+      "color": "#445660",
+      "alt": "Moody seascape with storm clouds looming over rocky coastline and driftwood on sandy beach.",
       "credit": {
-        "name": "Chris F",
-        "link": "https://www.pexels.com/@chris-f-38966",
-        "photoLink": "https://www.pexels.com/photo/macro-black-and-white-leaf-with-intricate-veins-34079789/"
-      }
-    },
-    {
-      "prompt": "Workshop hand tools",
-      "id": "9607203",
-      "url": "https://images.pexels.com/photos/9607203/pexels-photo-9607203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9607203/pexels-photo-9607203.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4887,
-      "height": 3258,
-      "color": "#5C534C",
-      "alt": "Hands selecting a tool from a versatile, well-organized toolbox for repair tasks.",
-      "credit": {
-        "name": "Anastasia  Shuraeva",
-        "link": "https://www.pexels.com/@anastasia-shuraeva",
-        "photoLink": "https://www.pexels.com/photo/tools-in-a-toolbox-9607203/"
-      }
-    },
-    {
-      "prompt": "Minimalist desk setup",
-      "id": "31213677",
-      "url": "https://images.pexels.com/photos/31213677/pexels-photo-31213677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31213677/pexels-photo-31213677.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6966,
-      "height": 4644,
-      "color": "#7F796D",
-      "alt": "A stylish home office setup featuring tech gadgets, a monitor, a tablet, and decorative plants in a minimalist design.",
-      "credit": {
-        "name": "Alpha En",
-        "link": "https://www.pexels.com/@alphaen",
-        "photoLink": "https://www.pexels.com/photo/modern-home-office-with-tech-gadgets-and-plants-31213677/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/storm-clouds-gathering-over-the-sea-14920358/"
       }
     },
     {
       "prompt": "Analogue film grain",
-      "id": "32909013",
-      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#8A8A8A",
-      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
       "credit": {
-        "name": "Faruk Canpolat",
-        "link": "https://www.pexels.com/@farukcanpolat",
-        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     },
     {
-      "prompt": "Quiet architectural hallway",
-      "id": "19963402",
-      "url": "https://images.pexels.com/photos/19963402/pexels-photo-19963402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19963402/pexels-photo-19963402.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#0D0D0D",
-      "alt": "A long, dark industrial corridor with silhouetted figures in the distance, creating a moody atmosphere.",
+      "prompt": "Urban concrete texture",
+      "id": "2463345",
+      "url": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#9496A0",
+      "alt": "Close-up of a textured concrete wall with unique black markings and patterns.",
       "credit": {
-        "name": "Haydn Dalton",
-        "link": "https://www.pexels.com/@haydn-dalton-736237834",
-        "photoLink": "https://www.pexels.com/photo/closed-market-hall-19963402/"
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/dirty-wall-2463345/"
+      }
+    },
+    {
+      "prompt": "Botanical leaf detail",
+      "id": "18041512",
+      "url": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#355509",
+      "alt": "Detailed view of a vibrant tropical leaf showing veins illuminated by natural sunlight.",
+      "credit": {
+        "name": "AG ZN",
+        "link": "https://www.pexels.com/@agzn",
+        "photoLink": "https://www.pexels.com/photo/philodendron-leaf-against-the-light-18041512/"
+      }
+    },
+    {
+      "prompt": "Morning light window",
+      "id": "36197104",
+      "url": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 4347,
+      "color": "#937E6B",
+      "alt": "Warm sunlight casting shadows through window blinds, creating a tranquil indoor setting.",
+      "credit": {
+        "name": "Alec Adriano",
+        "link": "https://www.pexels.com/@alec",
+        "photoLink": "https://www.pexels.com/photo/sunlight-filtering-through-window-blinds-indoors-36197104/"
       }
     }
   ]
