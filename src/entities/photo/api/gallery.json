@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-05T01:35:46.124Z",
+  "generatedAt": "2026-10-05T08:20:00.432Z",
   "photos": [
     {
-      "prompt": "Nordic living room",
-      "id": "7055629",
-      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5834,
-      "height": 3895,
-      "color": "#7D756D",
-      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
+      "prompt": "urban brick texture",
+      "id": "1696261",
+      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4989,
+      "height": 3326,
+      "color": "#8C726B",
+      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
       "credit": {
-        "name": "Pavel Danilyuk",
-        "link": "https://www.pexels.com/@pavel-danilyuk",
-        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
+        "name": "pasha kres",
+        "link": "https://www.pexels.com/@pashakres",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
       }
     },
     {
-      "prompt": "Coastal storm clouds",
-      "id": "14920358",
-      "url": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5978,
-      "height": 3991,
-      "color": "#445660",
-      "alt": "Moody seascape with storm clouds looming over rocky coastline and driftwood on sandy beach.",
+      "prompt": "linen wooden furniture",
+      "id": "13327416",
+      "url": "https://images.pexels.com/photos/13327416/pexels-photo-13327416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13327416/pexels-photo-13327416.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6499,
+      "height": 4333,
+      "color": "#ADA69E",
+      "alt": "Contemporary bedroom with wooden furniture and white linens in Philadelphia.",
+      "credit": {
+        "name": "Andrea Davis",
+        "link": "https://www.pexels.com/@andreaedavis",
+        "photoLink": "https://www.pexels.com/photo/brown-wooden-bed-frame-beside-brown-wooden-drawer-13327416/"
+      }
+    },
+    {
+      "prompt": "handmade ceramic vase",
+      "id": "7119222",
+      "url": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6650,
+      "height": 4433,
+      "color": "#796761",
+      "alt": "Two handcrafted ceramic vases with textured patterns set against a subtle backdrop.",
+      "credit": {
+        "name": "Ivan S",
+        "link": "https://www.pexels.com/@ivan-s",
+        "photoLink": "https://www.pexels.com/photo/ceramic-vases-on-a-white-surface-7119222/"
+      }
+    },
+    {
+      "prompt": "quiet historic building",
+      "id": "39619303",
+      "url": "https://images.pexels.com/photos/39619303/pexels-photo-39619303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39619303/pexels-photo-39619303.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#968E8C",
+      "alt": "Black and white photo of a historic building on a quiet street, evoking a vintage charm.",
+      "credit": {
+        "name": "Nelson Mota",
+        "link": "https://www.pexels.com/@nelson-mota-2163206687",
+        "photoLink": "https://www.pexels.com/photo/vintage-street-view-of-historic-building-39619303/"
+      }
+    },
+    {
+      "prompt": "nordic minimalist interior",
+      "id": "37173283",
+      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3852,
+      "height": 3712,
+      "color": "#D1D1D1",
+      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "14920354",
+      "url": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6005,
+      "height": 4009,
+      "color": "#69767C",
+      "alt": "A dramatic storm cloud hovering over a rocky beach pier with waves crashing on the shore.",
       "credit": {
         "name": "Connor Scott McManus",
         "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/storm-clouds-gathering-over-the-sea-14920358/"
-      }
-    },
-    {
-      "prompt": "Analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
-      "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
-      }
-    },
-    {
-      "prompt": "Urban concrete texture",
-      "id": "2463345",
-      "url": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#9496A0",
-      "alt": "Close-up of a textured concrete wall with unique black markings and patterns.",
-      "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/dirty-wall-2463345/"
-      }
-    },
-    {
-      "prompt": "Botanical leaf detail",
-      "id": "18041512",
-      "url": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#355509",
-      "alt": "Detailed view of a vibrant tropical leaf showing veins illuminated by natural sunlight.",
-      "credit": {
-        "name": "AG ZN",
-        "link": "https://www.pexels.com/@agzn",
-        "photoLink": "https://www.pexels.com/photo/philodendron-leaf-against-the-light-18041512/"
-      }
-    },
-    {
-      "prompt": "Morning light window",
-      "id": "36197104",
-      "url": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36197104/pexels-photo-36197104.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 4347,
-      "color": "#937E6B",
-      "alt": "Warm sunlight casting shadows through window blinds, creating a tranquil indoor setting.",
-      "credit": {
-        "name": "Alec Adriano",
-        "link": "https://www.pexels.com/@alec",
-        "photoLink": "https://www.pexels.com/photo/sunlight-filtering-through-window-blinds-indoors-36197104/"
+        "photoLink": "https://www.pexels.com/photo/storm-clouds-over-a-sandy-beach-14920354/"
       }
     }
   ]
