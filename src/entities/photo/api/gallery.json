@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-05T17:52:50.704Z",
+  "generatedAt": "2026-10-05T23:44:18.075Z",
   "photos": [
     {
-      "prompt": "Morning light",
-      "id": "36501697",
-      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 6144,
-      "color": "#675845",
-      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
+      "prompt": "Scandinavian interior",
+      "id": "19899054",
+      "url": "https://images.pexels.com/photos/19899054/pexels-photo-19899054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19899054/pexels-photo-19899054.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5999,
+      "height": 4000,
+      "color": "#A6A19B",
+      "alt": "Stylish kitchen with white cabinets, stainless steel appliances, and minimalist decor.",
       "credit": {
-        "name": "Arnu",
-        "link": "https://www.pexels.com/@arnu-2158905519",
-        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
+        "name": "Lisa Anna",
+        "link": "https://www.pexels.com/@lisa-anna-901356985",
+        "photoLink": "https://www.pexels.com/photo/white-closets-in-kitchen-19899054/"
       }
     },
     {
-      "prompt": "Still life",
-      "id": "31975356",
-      "url": "https://images.pexels.com/photos/31975356/pexels-photo-31975356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31975356/pexels-photo-31975356.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#A4A4A4",
-      "alt": "Black and white still life featuring apples, a lemon, and wheat on a wooden surface.",
+      "prompt": "Urban brick wall",
+      "id": "3816350",
+      "url": "https://images.pexels.com/photos/3816350/pexels-photo-3816350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3816350/pexels-photo-3816350.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5465,
+      "height": 3469,
+      "color": "#7D5E51",
+      "alt": "Detailed texture of red brick wall, perfect for architectural designs and backgrounds.",
       "credit": {
-        "name": "Alexey Novikov",
-        "link": "https://www.pexels.com/@alexey-novikov-2148550769",
-        "photoLink": "https://www.pexels.com/photo/monochrome-still-life-with-apples-and-lemon-31975356/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-3816350/"
       }
     },
     {
-      "prompt": "Coastal weather",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "prompt": "Quiet courtyard",
+      "id": "20588914",
+      "url": "https://images.pexels.com/photos/20588914/pexels-photo-20588914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20588914/pexels-photo-20588914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5453,
+      "height": 3635,
+      "color": "#9B877C",
+      "alt": "A quiet urban courtyard with an archway and cobblestone path, adorned with plants and vintage architecture.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+        "name": "Thomas P",
+        "link": "https://www.pexels.com/@pth686817",
+        "photoLink": "https://www.pexels.com/photo/cobblestone-alley-in-town-20588914/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "6542520",
-      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
-      "height": 2048,
-      "color": "#8C7D6D",
-      "alt": "Modern white brick facade with geometric design in soft evening light.",
+      "prompt": "Handmade ceramic vase",
+      "id": "7119222",
+      "url": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6650,
+      "height": 4433,
+      "color": "#796761",
+      "alt": "Two handcrafted ceramic vases with textured patterns set against a subtle backdrop.",
       "credit": {
-        "name": "Sinitta Leunen",
-        "link": "https://www.pexels.com/@sinileunen",
-        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
+        "name": "Ivan S",
+        "link": "https://www.pexels.com/@ivan-s",
+        "photoLink": "https://www.pexels.com/photo/ceramic-vases-on-a-white-surface-7119222/"
       }
     },
     {
-      "prompt": "Botanical detail",
-      "id": "38511748",
-      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#C6BB8E",
-      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "prompt": "Linen wood table",
+      "id": "7118748",
+      "url": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#807E79",
+      "alt": "Elegant dining setup featuring a single egg in a minimalist table setting, perfect for spring themes.",
       "credit": {
-        "name": "Umut Hasanoğlu",
-        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
-        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
+        "name": "Ivan S",
+        "link": "https://www.pexels.com/@ivan-s",
+        "photoLink": "https://www.pexels.com/photo/white-ceramic-plate-on-white-table-cloth-7118748/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "7445133",
-      "url": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#A7937A",
-      "alt": "Top view of neatly folded linen fabric tied with twine on a wooden pallet, evoking natural simplicity.",
+      "prompt": "Analog film grain",
+      "id": "6410895",
+      "url": "https://images.pexels.com/photos/6410895/pexels-photo-6410895.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6410895/pexels-photo-6410895.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 6944,
+      "height": 4272,
+      "color": "#56DB56",
+      "alt": "Atmospheric black and white film photo of a forest with light leaks creating a vintage grain effect.",
       "credit": {
-        "name": "KATRIN  BOLOVTSOVA",
-        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
-        "photoLink": "https://www.pexels.com/photo/folded-clothes-on-brown-wooden-table-7445133/"
+        "name": "Kris Møklebust",
+        "link": "https://www.pexels.com/@moklebust",
+        "photoLink": "https://www.pexels.com/photo/film-photograph-of-trees-6410895/"
       }
     }
   ]
