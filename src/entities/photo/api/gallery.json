@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-05T08:20:00.432Z",
+  "generatedAt": "2026-10-05T17:52:50.704Z",
   "photos": [
     {
-      "prompt": "urban brick texture",
-      "id": "1696261",
-      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4989,
-      "height": 3326,
-      "color": "#8C726B",
-      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
+      "prompt": "Morning light",
+      "id": "36501697",
+      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 6144,
+      "color": "#675845",
+      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
       "credit": {
-        "name": "pasha kres",
-        "link": "https://www.pexels.com/@pashakres",
-        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
+        "name": "Arnu",
+        "link": "https://www.pexels.com/@arnu-2158905519",
+        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
       }
     },
     {
-      "prompt": "linen wooden furniture",
-      "id": "13327416",
-      "url": "https://images.pexels.com/photos/13327416/pexels-photo-13327416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13327416/pexels-photo-13327416.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6499,
-      "height": 4333,
-      "color": "#ADA69E",
-      "alt": "Contemporary bedroom with wooden furniture and white linens in Philadelphia.",
+      "prompt": "Still life",
+      "id": "31975356",
+      "url": "https://images.pexels.com/photos/31975356/pexels-photo-31975356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31975356/pexels-photo-31975356.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#A4A4A4",
+      "alt": "Black and white still life featuring apples, a lemon, and wheat on a wooden surface.",
       "credit": {
-        "name": "Andrea Davis",
-        "link": "https://www.pexels.com/@andreaedavis",
-        "photoLink": "https://www.pexels.com/photo/brown-wooden-bed-frame-beside-brown-wooden-drawer-13327416/"
+        "name": "Alexey Novikov",
+        "link": "https://www.pexels.com/@alexey-novikov-2148550769",
+        "photoLink": "https://www.pexels.com/photo/monochrome-still-life-with-apples-and-lemon-31975356/"
       }
     },
     {
-      "prompt": "handmade ceramic vase",
-      "id": "7119222",
-      "url": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7119222/pexels-photo-7119222.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6650,
-      "height": 4433,
-      "color": "#796761",
-      "alt": "Two handcrafted ceramic vases with textured patterns set against a subtle backdrop.",
+      "prompt": "Coastal weather",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
       "credit": {
-        "name": "Ivan S",
-        "link": "https://www.pexels.com/@ivan-s",
-        "photoLink": "https://www.pexels.com/photo/ceramic-vases-on-a-white-surface-7119222/"
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
       }
     },
     {
-      "prompt": "quiet historic building",
-      "id": "39619303",
-      "url": "https://images.pexels.com/photos/39619303/pexels-photo-39619303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39619303/pexels-photo-39619303.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#968E8C",
-      "alt": "Black and white photo of a historic building on a quiet street, evoking a vintage charm.",
+      "prompt": "Quiet architecture",
+      "id": "6542520",
+      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3089,
+      "height": 2048,
+      "color": "#8C7D6D",
+      "alt": "Modern white brick facade with geometric design in soft evening light.",
       "credit": {
-        "name": "Nelson Mota",
-        "link": "https://www.pexels.com/@nelson-mota-2163206687",
-        "photoLink": "https://www.pexels.com/photo/vintage-street-view-of-historic-building-39619303/"
+        "name": "Sinitta Leunen",
+        "link": "https://www.pexels.com/@sinileunen",
+        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
       }
     },
     {
-      "prompt": "nordic minimalist interior",
-      "id": "37173283",
-      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3852,
-      "height": 3712,
-      "color": "#D1D1D1",
-      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
+      "prompt": "Botanical detail",
+      "id": "38511748",
+      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#C6BB8E",
+      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
+        "name": "Umut Hasanoğlu",
+        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
+        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "14920354",
-      "url": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920354/pexels-photo-14920354.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6005,
-      "height": 4009,
-      "color": "#69767C",
-      "alt": "A dramatic storm cloud hovering over a rocky beach pier with waves crashing on the shore.",
+      "prompt": "Linen wood",
+      "id": "7445133",
+      "url": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7445133/pexels-photo-7445133.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#A7937A",
+      "alt": "Top view of neatly folded linen fabric tied with twine on a wooden pallet, evoking natural simplicity.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/storm-clouds-over-a-sandy-beach-14920354/"
+        "name": "KATRIN  BOLOVTSOVA",
+        "link": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "photoLink": "https://www.pexels.com/photo/folded-clothes-on-brown-wooden-table-7445133/"
       }
     }
   ]
