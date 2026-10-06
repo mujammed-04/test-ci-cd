@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-06T17:55:38.025Z",
+  "generatedAt": "2026-10-06T22:22:20.865Z",
   "photos": [
     {
-      "prompt": "urban brick wall",
-      "id": "6205564",
-      "url": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "vibrant foliage",
+      "id": "28212253",
+      "url": "https://images.pexels.com/photos/28212253/pexels-photo-28212253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28212253/pexels-photo-28212253.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4684,
+      "height": 3183,
+      "color": "#BF5C78",
+      "alt": "Close-up of colorful Coleus leaves showcasing vibrant pink and green hues in a lush garden setting.",
+      "credit": {
+        "name": "Calvin _Cowakces",
+        "link": "https://www.pexels.com/@calvin-_cowakces-580917276",
+        "photoLink": "https://www.pexels.com/photo/daun-28212253/"
+      }
+    },
+    {
+      "prompt": "brick wall texture",
+      "id": "1696261",
+      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4989,
+      "height": 3326,
+      "color": "#8C726B",
+      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
+      "credit": {
+        "name": "pasha kres",
+        "link": "https://www.pexels.com/@pashakres",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
+      }
+    },
+    {
+      "prompt": "soft sunrise glow",
+      "id": "37146840",
+      "url": "https://images.pexels.com/photos/37146840/pexels-photo-37146840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37146840/pexels-photo-37146840.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4239,
+      "height": 2825,
+      "color": "#88807E",
+      "alt": "Beautiful sunrise view over a tranquil lake with soft mist and reflection.",
+      "credit": {
+        "name": "Cara Denison",
+        "link": "https://www.pexels.com/@cara-denison-886614634",
+        "photoLink": "https://www.pexels.com/photo/serene-sunrise-over-a-misty-lake-37146840/"
+      }
+    },
+    {
+      "prompt": "linen wooden table",
+      "id": "6962818",
+      "url": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962818/pexels-photo-6962818.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#847A6E",
+      "alt": "Fresh eggs and fruits displayed on wooden plates with a linen cloth for a rustic look.",
+      "credit": {
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/brown-eggs-in-a-bowl-beside-fruits-on-tray-6962818/"
+      }
+    },
+    {
+      "prompt": "grainy film frame",
+      "id": "10738376",
+      "url": "https://images.pexels.com/photos/10738376/pexels-photo-10738376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10738376/pexels-photo-10738376.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4789,
+      "height": 3620,
+      "color": "#3E3E3E",
+      "alt": "Artistic black and white silhouette of a woman in an outdoor setting.",
+      "credit": {
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/grainy-photo-of-a-woman-10738376/"
+      }
+    },
+    {
+      "prompt": "stormy coastline",
+      "id": "18729795",
+      "url": "https://images.pexels.com/photos/18729795/pexels-photo-18729795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18729795/pexels-photo-18729795.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#A67D60",
-      "alt": "Detailed close-up of an aged brick wall, showcasing texture and construction pattern.",
+      "color": "#767D75",
+      "alt": "Explore the rugged coastal landscape with waves crashing on rocky shores under a cloudy sky.",
       "credit": {
-        "name": "Ivan",
-        "link": "https://www.pexels.com/@ywanphoto",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-6205564/"
-      }
-    },
-    {
-      "prompt": "green fern closeup",
-      "id": "34440207",
-      "url": "https://images.pexels.com/photos/34440207/pexels-photo-34440207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34440207/pexels-photo-34440207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4016,
-      "height": 2510,
-      "color": "#283718",
-      "alt": "Detailed close-up of vibrant green fern leaves, showcasing natural beauty and symmetry in outdoor setting.",
-      "credit": {
-        "name": "Ishan Sharma",
-        "link": "https://www.pexels.com/@itslunar",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-green-fern-leaves-in-nature-34440207/"
-      }
-    },
-    {
-      "prompt": "vintage fruit bowl",
-      "id": "8873113",
-      "url": "https://images.pexels.com/photos/8873113/pexels-photo-8873113.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8873113/pexels-photo-8873113.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#4E4E4E",
-      "alt": "A monochrome image of pears in a bowl, showcasing classic still life artistry.",
-      "credit": {
-        "name": "Dino",
-        "link": "https://www.pexels.com/@dino-81840072",
-        "photoLink": "https://www.pexels.com/photo/monochrome-photo-of-a-bowl-with-fruits-8873113/"
-      }
-    },
-    {
-      "prompt": "morning golden sunlight",
-      "id": "11781209",
-      "url": "https://images.pexels.com/photos/11781209/pexels-photo-11781209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11781209/pexels-photo-11781209.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5456,
-      "height": 3064,
-      "color": "#684E15",
-      "alt": "A calming view of a sunlit meadow at sunrise, capturing dewdrops on grass in a golden light.",
-      "credit": {
-        "name": "Bryan Smith",
-        "link": "https://www.pexels.com/@bryan-smith-480077",
-        "photoLink": "https://www.pexels.com/photo/green-grass-field-during-sunset-11781209/"
-      }
-    },
-    {
-      "prompt": "quiet stone hallway",
-      "id": "37102972",
-      "url": "https://images.pexels.com/photos/37102972/pexels-photo-37102972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37102972/pexels-photo-37102972.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5987,
-      "height": 3991,
-      "color": "#523412",
-      "alt": "A serene view of an Italian hallway featuring classic stone columns and soft lighting.",
-      "credit": {
-        "name": "Istvan Gerenyi",
-        "link": "https://www.pexels.com/@ingere",
-        "photoLink": "https://www.pexels.com/photo/elegant-italian-hallway-with-stone-columns-37102972/"
-      }
-    },
-    {
-      "prompt": "minimal wooden desk",
-      "id": "326511",
-      "url": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#A6A099",
-      "alt": "A well-organized modern office desk with dual computer screens and various devices.",
-      "credit": {
-        "name": "Tranmautritam",
-        "link": "https://www.pexels.com/@tranmautritam",
-        "photoLink": "https://www.pexels.com/photo/turned-on-flat-screen-monitor-326511/"
+        "name": "Carsten Ruthemann",
+        "link": "https://www.pexels.com/@cannontaler",
+        "photoLink": "https://www.pexels.com/photo/waves-by-the-shore-18729795/"
       }
     }
   ]
