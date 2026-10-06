@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-06T04:53:22.485Z",
+  "generatedAt": "2026-10-06T11:47:29.723Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "30501199",
-      "url": "https://images.pexels.com/photos/30501199/pexels-photo-30501199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30501199/pexels-photo-30501199.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5355,
-      "height": 3570,
-      "color": "#796149",
-      "alt": "Wildflowers bask in golden sunlight creating a warm, serene scene.",
+      "prompt": "morning light stilllife",
+      "id": "39595600",
+      "url": "https://images.pexels.com/photos/39595600/pexels-photo-39595600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39595600/pexels-photo-39595600.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#4A3A20",
+      "alt": "A glass with a dropper illuminated by moody warm light on a textured surface.",
       "credit": {
-        "name": "Nataliia Zhytnytska",
-        "link": "https://www.pexels.com/@nataliia-zhytnytska-696963186",
-        "photoLink": "https://www.pexels.com/photo/golden-hour-wildflowers-in-a-sunlit-field-30501199/"
+        "name": "Jahra Tasfia Reza",
+        "link": "https://www.pexels.com/@jahratreza",
+        "photoLink": "https://www.pexels.com/photo/vintage-glass-with-dropper-in-warm-light-39595600/"
+      }
+    },
+    {
+      "prompt": "coastal weather sky",
+      "id": "36179833",
+      "url": "https://images.pexels.com/photos/36179833/pexels-photo-36179833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36179833/pexels-photo-36179833.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 11586,
+      "height": 8689,
+      "color": "#525963",
+      "alt": "A tranquil seascape with dark clouds over a pebbled beach and distant mountains.",
+      "credit": {
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/moody-coastal-landscape-with-overcast-clouds-36179833/"
+      }
+    },
+    {
+      "prompt": "minimal desk setup",
+      "id": "31726673",
+      "url": "https://images.pexels.com/photos/31726673/pexels-photo-31726673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31726673/pexels-photo-31726673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4895,
+      "height": 3268,
+      "color": "#727771",
+      "alt": "Stylish home office setup with ergonomic chair, plants, and modern desk accessories.",
+      "credit": {
+        "name": "Alpha En",
+        "link": "https://www.pexels.com/@alphaen",
+        "photoLink": "https://www.pexels.com/photo/modern-home-office-desk-with-ergonomic-chair-31726673/"
+      }
+    },
+    {
+      "prompt": "quiet architecture hallway",
+      "id": "30797254",
+      "url": "https://images.pexels.com/photos/30797254/pexels-photo-30797254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30797254/pexels-photo-30797254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
+      "height": 4016,
+      "color": "#5E5858",
+      "alt": "A quiet, empty corridor in Barbican Centre, London with brick walls and ceiling lights.",
+      "credit": {
+        "name": "Dominik Gryzbon",
+        "link": "https://www.pexels.com/@gryziu",
+        "photoLink": "https://www.pexels.com/photo/empty-corridor-in-barbican-centre-london-30797254/"
       }
     },
     {
       "prompt": "handmade ceramic vase",
-      "id": "6611307",
-      "url": "https://images.pexels.com/photos/6611307/pexels-photo-6611307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611307/pexels-photo-6611307.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#7B756E",
-      "alt": "Potter shaping a clay pot on a wheel in a workshop, showcasing craftsmanship and creativity.",
-      "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/man-making-a-clay-pot-6611307/"
-      }
-    },
-    {
-      "prompt": "vintage workshop tools",
-      "id": "4346914",
-      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3929,
-      "height": 2481,
-      "color": "#443F40",
-      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
-      "credit": {
-        "name": "Csongor Kemény",
-        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
-        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
-      }
-    },
-    {
-      "prompt": "urban brick wall",
-      "id": "19884844",
-      "url": "https://images.pexels.com/photos/19884844/pexels-photo-19884844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19884844/pexels-photo-19884844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "34512918",
+      "url": "https://images.pexels.com/photos/34512918/pexels-photo-34512918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34512918/pexels-photo-34512918.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#888493",
-      "alt": "Detailed texture of a rustic brick wall in Jessheim, Norway, showcasing distinct brick patterns.",
+      "color": "#937460",
+      "alt": "Close-up of an artisan hand-painting a delicate floral pattern on ceramic.",
       "credit": {
-        "name": "Surdu Horia",
-        "link": "https://www.pexels.com/@surdu-horia-743788511",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-19884844/"
+        "name": "Elif Yıldız",
+        "link": "https://www.pexels.com/@kameramanelif",
+        "photoLink": "https://www.pexels.com/photo/artist-painting-intricate-floral-design-on-a-vase-34512918/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
+      "prompt": "soft sunrise interior",
+      "id": "13009040",
+      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#352C23",
+      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
       "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
-      }
-    },
-    {
-      "prompt": "detailed botanical leaf",
-      "id": "35197904",
-      "url": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7952,
-      "height": 4472,
-      "color": "#23541C",
-      "alt": "Captivating macro shot showcasing the intricate veining of a green leaf.",
-      "credit": {
-        "name": "Damir K",
-        "link": "https://www.pexels.com/@damir",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-a-vibrant-green-leaf-vein-35197904/"
+        "name": "Erik Schereder",
+        "link": "https://www.pexels.com/@erik-schereder-3173655",
+        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
       }
     }
   ]
