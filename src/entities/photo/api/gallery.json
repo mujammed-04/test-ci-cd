@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-06T11:47:29.723Z",
+  "generatedAt": "2026-10-06T17:55:38.025Z",
   "photos": [
     {
-      "prompt": "morning light stilllife",
-      "id": "39595600",
-      "url": "https://images.pexels.com/photos/39595600/pexels-photo-39595600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39595600/pexels-photo-39595600.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "urban brick wall",
+      "id": "6205564",
+      "url": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#4A3A20",
-      "alt": "A glass with a dropper illuminated by moody warm light on a textured surface.",
+      "color": "#A67D60",
+      "alt": "Detailed close-up of an aged brick wall, showcasing texture and construction pattern.",
       "credit": {
-        "name": "Jahra Tasfia Reza",
-        "link": "https://www.pexels.com/@jahratreza",
-        "photoLink": "https://www.pexels.com/photo/vintage-glass-with-dropper-in-warm-light-39595600/"
+        "name": "Ivan",
+        "link": "https://www.pexels.com/@ywanphoto",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-6205564/"
       }
     },
     {
-      "prompt": "coastal weather sky",
-      "id": "36179833",
-      "url": "https://images.pexels.com/photos/36179833/pexels-photo-36179833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36179833/pexels-photo-36179833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 11586,
-      "height": 8689,
-      "color": "#525963",
-      "alt": "A tranquil seascape with dark clouds over a pebbled beach and distant mountains.",
+      "prompt": "green fern closeup",
+      "id": "34440207",
+      "url": "https://images.pexels.com/photos/34440207/pexels-photo-34440207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34440207/pexels-photo-34440207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4016,
+      "height": 2510,
+      "color": "#283718",
+      "alt": "Detailed close-up of vibrant green fern leaves, showcasing natural beauty and symmetry in outdoor setting.",
       "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/moody-coastal-landscape-with-overcast-clouds-36179833/"
+        "name": "Ishan Sharma",
+        "link": "https://www.pexels.com/@itslunar",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-green-fern-leaves-in-nature-34440207/"
       }
     },
     {
-      "prompt": "minimal desk setup",
-      "id": "31726673",
-      "url": "https://images.pexels.com/photos/31726673/pexels-photo-31726673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31726673/pexels-photo-31726673.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4895,
-      "height": 3268,
-      "color": "#727771",
-      "alt": "Stylish home office setup with ergonomic chair, plants, and modern desk accessories.",
+      "prompt": "vintage fruit bowl",
+      "id": "8873113",
+      "url": "https://images.pexels.com/photos/8873113/pexels-photo-8873113.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8873113/pexels-photo-8873113.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#4E4E4E",
+      "alt": "A monochrome image of pears in a bowl, showcasing classic still life artistry.",
       "credit": {
-        "name": "Alpha En",
-        "link": "https://www.pexels.com/@alphaen",
-        "photoLink": "https://www.pexels.com/photo/modern-home-office-desk-with-ergonomic-chair-31726673/"
+        "name": "Dino",
+        "link": "https://www.pexels.com/@dino-81840072",
+        "photoLink": "https://www.pexels.com/photo/monochrome-photo-of-a-bowl-with-fruits-8873113/"
       }
     },
     {
-      "prompt": "quiet architecture hallway",
-      "id": "30797254",
-      "url": "https://images.pexels.com/photos/30797254/pexels-photo-30797254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30797254/pexels-photo-30797254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4016,
-      "color": "#5E5858",
-      "alt": "A quiet, empty corridor in Barbican Centre, London with brick walls and ceiling lights.",
+      "prompt": "morning golden sunlight",
+      "id": "11781209",
+      "url": "https://images.pexels.com/photos/11781209/pexels-photo-11781209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11781209/pexels-photo-11781209.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5456,
+      "height": 3064,
+      "color": "#684E15",
+      "alt": "A calming view of a sunlit meadow at sunrise, capturing dewdrops on grass in a golden light.",
       "credit": {
-        "name": "Dominik Gryzbon",
-        "link": "https://www.pexels.com/@gryziu",
-        "photoLink": "https://www.pexels.com/photo/empty-corridor-in-barbican-centre-london-30797254/"
+        "name": "Bryan Smith",
+        "link": "https://www.pexels.com/@bryan-smith-480077",
+        "photoLink": "https://www.pexels.com/photo/green-grass-field-during-sunset-11781209/"
       }
     },
     {
-      "prompt": "handmade ceramic vase",
-      "id": "34512918",
-      "url": "https://images.pexels.com/photos/34512918/pexels-photo-34512918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34512918/pexels-photo-34512918.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#937460",
-      "alt": "Close-up of an artisan hand-painting a delicate floral pattern on ceramic.",
+      "prompt": "quiet stone hallway",
+      "id": "37102972",
+      "url": "https://images.pexels.com/photos/37102972/pexels-photo-37102972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37102972/pexels-photo-37102972.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5987,
+      "height": 3991,
+      "color": "#523412",
+      "alt": "A serene view of an Italian hallway featuring classic stone columns and soft lighting.",
       "credit": {
-        "name": "Elif Yıldız",
-        "link": "https://www.pexels.com/@kameramanelif",
-        "photoLink": "https://www.pexels.com/photo/artist-painting-intricate-floral-design-on-a-vase-34512918/"
+        "name": "Istvan Gerenyi",
+        "link": "https://www.pexels.com/@ingere",
+        "photoLink": "https://www.pexels.com/photo/elegant-italian-hallway-with-stone-columns-37102972/"
       }
     },
     {
-      "prompt": "soft sunrise interior",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
+      "prompt": "minimal wooden desk",
+      "id": "326511",
+      "url": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/326511/pexels-photo-326511.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#A6A099",
+      "alt": "A well-organized modern office desk with dual computer screens and various devices.",
       "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
+        "name": "Tranmautritam",
+        "link": "https://www.pexels.com/@tranmautritam",
+        "photoLink": "https://www.pexels.com/photo/turned-on-flat-screen-monitor-326511/"
       }
     }
   ]
