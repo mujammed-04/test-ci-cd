@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-07T02:04:47.430Z",
+  "generatedAt": "2026-10-07T09:48:28.108Z",
   "photos": [
     {
-      "prompt": "Minimalist desk setup",
-      "id": "17198943",
-      "url": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5547,
-      "height": 3698,
-      "color": "#625D57",
-      "alt": "A minimalist workspace featuring a smartphone, keyboard, and mouse on a wooden desk.",
-      "credit": {
-        "name": "Ionela Mat",
-        "link": "https://www.pexels.com/@ionela-mat-268382825",
-        "photoLink": "https://www.pexels.com/photo/apple-electronics-on-table-17198943/"
-      }
-    },
-    {
-      "prompt": "Coastal storm clouds",
-      "id": "20422519",
-      "url": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#41494C",
-      "alt": "Dark storm clouds gather over a tranquil ocean, creating a moody seascape.",
-      "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/storm-cloud-over-sea-coast-20422519/"
-      }
-    },
-    {
-      "prompt": "Still life arrangement",
-      "id": "7629878",
-      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "6694722",
+      "url": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
       "height": 2667,
-      "color": "#C7D0DF",
-      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
+      "color": "#CFBD98",
+      "alt": "A flat lay of various artistic ceramic plates and bowls on a white background.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
+        "name": "Antoni Shkraba",
+        "link": "https://www.pexels.com/@shkrabaanthony",
+        "photoLink": "https://www.pexels.com/photo/brown-ceramic-plates-on-white-surface-6694722/"
       }
     },
     {
-      "prompt": "Quiet architectural facade",
-      "id": "19013520",
-      "url": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6853,
-      "height": 4569,
-      "color": "#8A9599",
-      "alt": "A symmetrical facade with three wooden doors under a clear blue sky.",
+      "prompt": "detailed botanical leaf",
+      "id": "36331945",
+      "url": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3375,
+      "color": "#798D08",
+      "alt": "Detailed macro shot of vibrant green leaf veins showcasing nature's intricate patterns.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/facade-with-three-wooden-doors-19013520/"
+        "name": "Amel Uzunovic",
+        "link": "https://www.pexels.com/@amel-uzunovic-440739273",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-veins-36331945/"
       }
     },
     {
-      "prompt": "Nordic interior lounge",
-      "id": "36643430",
-      "url": "https://images.pexels.com/photos/36643430/pexels-photo-36643430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36643430/pexels-photo-36643430.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4514,
-      "height": 3386,
-      "color": "#727560",
-      "alt": "Stylish lounge area featuring contemporary furniture and geometric art. Ideal for modern design concepts.",
+      "prompt": "coastal storm clouds",
+      "id": "15470680",
+      "url": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4759,
+      "height": 3152,
+      "color": "#868E99",
+      "alt": "Dark storm clouds form over a deserted beach, creating a dramatic seascape.",
       "credit": {
-        "name": "Timothy Huliselan",
-        "link": "https://www.pexels.com/@timothy-huliselan-205951426",
-        "photoLink": "https://www.pexels.com/photo/modern-lounge-interior-with-artistic-decor-36643430/"
+        "name": "Dijanynni Kiratza",
+        "link": "https://www.pexels.com/@dijanynni-kiratza-235375981",
+        "photoLink": "https://www.pexels.com/photo/rain-cloud-over-sea-shore-15470680/"
       }
     },
     {
-      "prompt": "Morning light interior",
-      "id": "5519987",
-      "url": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#86643B",
-      "alt": "Three wooden chairs with shadows against a sunlit wall in a calm and minimalist interior setting.",
+      "prompt": "soft morning light",
+      "id": "28118363",
+      "url": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5314,
+      "height": 3543,
+      "color": "#786D40",
+      "alt": "Golden sunlight filters through trees in a misty forest landscape, capturing autumn's beauty.",
       "credit": {
-        "name": "zahra Moradkhani",
-        "link": "https://www.pexels.com/@zahra-moradkhani-3682605",
-        "photoLink": "https://www.pexels.com/photo/chairs-standing-by-the-wall-with-window-throwing-shadow-on-it-5519987/"
+        "name": "Stephen Leonardi",
+        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
+        "photoLink": "https://www.pexels.com/photo/a-field-with-trees-and-grass-in-the-sun-28118363/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
+      "id": "35658708",
+      "url": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#635344",
+      "alt": "Close-up view of a weathered brick wall with peeling plaster and textured patterns.",
+      "credit": {
+        "name": "Francesco Paggiaro",
+        "link": "https://www.pexels.com/@paggiarofrancesco",
+        "photoLink": "https://www.pexels.com/photo/textured-brick-and-plaster-wall-close-up-35658708/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "16851158",
+      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3360,
+      "height": 2240,
+      "color": "#4E4F49",
+      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
+      "credit": {
+        "name": "Scenehaus Production",
+        "link": "https://www.pexels.com/@scenehaus",
+        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
       }
     }
   ]
