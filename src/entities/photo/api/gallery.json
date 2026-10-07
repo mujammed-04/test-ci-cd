@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-07T09:48:28.108Z",
+  "generatedAt": "2026-10-07T17:14:54.241Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "6694722",
-      "url": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6694722/pexels-photo-6694722.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Minimalist desk",
+      "id": "1034650",
+      "url": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5051,
+      "height": 3310,
+      "color": "#7E6458",
+      "alt": "A sleek modern workspace featuring an iMac displaying a desert road and a stylish desk lamp.",
+      "credit": {
+        "name": "Tom Swinnen",
+        "link": "https://www.pexels.com/@shottrotter",
+        "photoLink": "https://www.pexels.com/photo/close-up-photography-of-imac-turned-on-1034650/"
+      }
+    },
+    {
+      "prompt": "Quiet architecture",
+      "id": "6542520",
+      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3089,
+      "height": 2048,
+      "color": "#8C7D6D",
+      "alt": "Modern white brick facade with geometric design in soft evening light.",
+      "credit": {
+        "name": "Sinitta Leunen",
+        "link": "https://www.pexels.com/@sinileunen",
+        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
+      }
+    },
+    {
+      "prompt": "Botanical macro",
+      "id": "4083763",
+      "url": "https://images.pexels.com/photos/4083763/pexels-photo-4083763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4083763/pexels-photo-4083763.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#71705C",
+      "alt": "Closeup of wild bulb of perennial herb of onion family on blurred background",
+      "credit": {
+        "name": "Jacob Moseholt",
+        "link": "https://www.pexels.com/@jacob-moseholt-514418",
+        "photoLink": "https://www.pexels.com/photo/round-inflorescence-of-wild-perennial-plant-4083763/"
+      }
+    },
+    {
+      "prompt": "Coastal sky",
+      "id": "19999552",
+      "url": "https://images.pexels.com/photos/19999552/pexels-photo-19999552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19999552/pexels-photo-19999552.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
-      "height": 2667,
-      "color": "#CFBD98",
-      "alt": "A flat lay of various artistic ceramic plates and bowls on a white background.",
+      "height": 3000,
+      "color": "#5C8BB7",
+      "alt": "A peaceful coastal beach scene with a vast cloudy sky, perfect for tranquil themes.",
       "credit": {
-        "name": "Antoni Shkraba",
-        "link": "https://www.pexels.com/@shkrabaanthony",
-        "photoLink": "https://www.pexels.com/photo/brown-ceramic-plates-on-white-surface-6694722/"
+        "name": "Kathrine Birch",
+        "link": "https://www.pexels.com/@kathrinepnw",
+        "photoLink": "https://www.pexels.com/photo/clouds-and-sea-19999552/"
       }
     },
     {
-      "prompt": "detailed botanical leaf",
-      "id": "36331945",
-      "url": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#798D08",
-      "alt": "Detailed macro shot of vibrant green leaf veins showcasing nature's intricate patterns.",
+      "prompt": "Vintage still life",
+      "id": "265907",
+      "url": "https://images.pexels.com/photos/265907/pexels-photo-265907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/265907/pexels-photo-265907.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5033,
+      "height": 3360,
+      "color": "#A37469",
+      "alt": "Golden wedding rings on a reflective silver tray with an engraved design.",
       "credit": {
-        "name": "Amel Uzunovic",
-        "link": "https://www.pexels.com/@amel-uzunovic-440739273",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-veins-36331945/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/bridal-ring-set-on-oval-silver-platter-265907/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "15470680",
-      "url": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15470680/pexels-photo-15470680.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4759,
-      "height": 3152,
-      "color": "#868E99",
-      "alt": "Dark storm clouds form over a deserted beach, creating a dramatic seascape.",
+      "prompt": "Workshop tools",
+      "id": "33000620",
+      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#7C716F",
+      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
       "credit": {
-        "name": "Dijanynni Kiratza",
-        "link": "https://www.pexels.com/@dijanynni-kiratza-235375981",
-        "photoLink": "https://www.pexels.com/photo/rain-cloud-over-sea-shore-15470680/"
-      }
-    },
-    {
-      "prompt": "soft morning light",
-      "id": "28118363",
-      "url": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28118363/pexels-photo-28118363.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5314,
-      "height": 3543,
-      "color": "#786D40",
-      "alt": "Golden sunlight filters through trees in a misty forest landscape, capturing autumn's beauty.",
-      "credit": {
-        "name": "Stephen Leonardi",
-        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
-        "photoLink": "https://www.pexels.com/photo/a-field-with-trees-and-grass-in-the-sun-28118363/"
-      }
-    },
-    {
-      "prompt": "urban brick texture",
-      "id": "35658708",
-      "url": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#635344",
-      "alt": "Close-up view of a weathered brick wall with peeling plaster and textured patterns.",
-      "credit": {
-        "name": "Francesco Paggiaro",
-        "link": "https://www.pexels.com/@paggiarofrancesco",
-        "photoLink": "https://www.pexels.com/photo/textured-brick-and-plaster-wall-close-up-35658708/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "16851158",
-      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3360,
-      "height": 2240,
-      "color": "#4E4F49",
-      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
-      "credit": {
-        "name": "Scenehaus Production",
-        "link": "https://www.pexels.com/@scenehaus",
-        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
       }
     }
   ]
