@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-08T02:30:27.732Z",
+  "generatedAt": "2026-10-08T09:59:06.922Z",
   "photos": [
     {
-      "prompt": "Botanical leaf detail",
-      "id": "34816459",
-      "url": "https://images.pexels.com/photos/34816459/pexels-photo-34816459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34816459/pexels-photo-34816459.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#6E9262",
-      "alt": "Detailed close-up of a green leaf showcasing texture and natural patterns.",
+      "prompt": "soft morning light",
+      "id": "11731019",
+      "url": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3902,
+      "height": 2191,
+      "color": "#AA884B",
+      "alt": "A serene misty field at dawn with soft sunlight and tall grasses.",
       "credit": {
-        "name": "Cup of Honey Lemon",
-        "link": "https://www.pexels.com/@mehmet",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-texture-34816459/"
+        "name": "Bryan Smith",
+        "link": "https://www.pexels.com/@bryan-smith-480077",
+        "photoLink": "https://www.pexels.com/photo/meadow-on-foggy-dusk-11731019/"
       }
     },
     {
-      "prompt": "Urban brick texture",
-      "id": "14617143",
-      "url": "https://images.pexels.com/photos/14617143/pexels-photo-14617143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14617143/pexels-photo-14617143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5068,
-      "height": 3444,
-      "color": "#A77A5D",
-      "alt": "Close-up of a rustic brick wall showcasing its detailed texture and warm tones.",
+      "prompt": "handmade ceramic bowl",
+      "id": "3847451",
+      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#655F62",
+      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
       "credit": {
-        "name": "Janek Sergejev",
-        "link": "https://www.pexels.com/@junkieyankee",
-        "photoLink": "https://www.pexels.com/photo/photograph-of-a-brick-wall-14617143/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
       }
     },
     {
-      "prompt": "Nordic interior cozy",
-      "id": "39912946",
-      "url": "https://images.pexels.com/photos/39912946/pexels-photo-39912946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912946/pexels-photo-39912946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#583823",
-      "alt": "Contemporary sauna interior with wooden bucket and stones, showcasing Scandinavian design.",
+      "prompt": "minimal wooden desk",
+      "id": "917460",
+      "url": "https://images.pexels.com/photos/917460/pexels-photo-917460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/917460/pexels-photo-917460.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#B9B6B4",
+      "alt": "A clean and minimalist workspace featuring a keyboard, coffee, and wallet on a wooden desk.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-sauna-with-wooden-features-39912946/"
+        "name": "Lukas Blazek",
+        "link": "https://www.pexels.com/@goumbik",
+        "photoLink": "https://www.pexels.com/photo/cup-of-coffee-near-keyboard-on-table-top-917460/"
       }
     },
     {
-      "prompt": "Minimal desk setup",
-      "id": "19513471",
-      "url": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3166,
-      "height": 2100,
-      "color": "#A19D9A",
-      "alt": "Clean and modern workspace featuring keyboard, smartphone, and wireless mouse with minimalistic design.",
+      "prompt": "linen texture wood",
+      "id": "34860684",
+      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#5F5D5E",
+      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
       "credit": {
-        "name": "Jakub Zerdzicki",
-        "link": "https://www.pexels.com/@jakubzerdzicki",
-        "photoLink": "https://www.pexels.com/photo/modern-desk-with-wireless-peripherals-19513471/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
       }
     },
     {
-      "prompt": "Coastal storm clouds",
-      "id": "570991",
-      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3862,
-      "height": 2895,
-      "color": "#594943",
-      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
+      "prompt": "workshop tool set",
+      "id": "4346914",
+      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3929,
+      "height": 2481,
+      "color": "#443F40",
+      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
+        "name": "Csongor Kemény",
+        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
+        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
       }
     },
     {
-      "prompt": "Linen wood texture",
-      "id": "27007162",
-      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5824,
-      "height": 3740,
-      "color": "#B18E6E",
-      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
+      "prompt": "analogue film grain",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
       "credit": {
-        "name": "Sohan Rahat",
-        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
       }
     }
   ]
