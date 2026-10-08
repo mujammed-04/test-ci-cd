@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-08T17:20:17.467Z",
+  "generatedAt": "2026-10-08T22:53:31.837Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "36123565",
-      "url": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2664,
-      "color": "#AAA39D",
-      "alt": "A minimalistic workspace featuring a laptop, coffee cup, and books on a white desk with wooden legs.",
+      "prompt": "botanical macro detail",
+      "id": "35908844",
+      "url": "https://images.pexels.com/photos/35908844/pexels-photo-35908844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35908844/pexels-photo-35908844.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#292735",
+      "alt": "Detailed macro shot of a leaf showcasing vivid red veins against dark foliage.",
       "credit": {
-        "name": "Letícia Alvares",
-        "link": "https://www.pexels.com/@leticia-alvares-1805702",
-        "photoLink": "https://www.pexels.com/photo/modern-workspace-with-laptop-and-books-on-desk-36123565/"
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-leaf-with-vibrant-veins-35908844/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
+      "prompt": "nordic interior design",
+      "id": "8092417",
+      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6715,
+      "height": 4477,
+      "color": "#CFCECC",
+      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
       "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "7630082",
-      "url": "https://images.pexels.com/photos/7630082/pexels-photo-7630082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7630082/pexels-photo-7630082.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#3D607A",
-      "alt": "Minimalist still life composition featuring a blood orange, grapes, and geometric shapes.",
+      "prompt": "linen wood texture",
+      "id": "34860699",
+      "url": "https://images.pexels.com/photos/34860699/pexels-photo-34860699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860699/pexels-photo-34860699.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#8D7654",
+      "alt": "Close-up of beige textile with a detailed texture and gentle folds.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/fruits-besides-geometric-shape-woods-7630082/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/high-detail-beige-fabric-with-subtle-texture-34860699/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "30397833",
-      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B1AC",
-      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
+      "prompt": "coastal storm clouds",
+      "id": "9547526",
+      "url": "https://images.pexels.com/photos/9547526/pexels-photo-9547526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9547526/pexels-photo-9547526.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5886,
+      "height": 3924,
+      "color": "#565656",
+      "alt": "Striking black and white image capturing a dramatic stormy seascape with dark clouds and waves.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
+        "name": "Matthew",
+        "link": "https://www.pexels.com/@matthew-105197916",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-ocean-waves-9547526/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "20432040",
-      "url": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4208,
-      "height": 3120,
-      "color": "#4B473C",
-      "alt": "A serene indoor setting with a blue chair by a sunlit window overlooking greenery.",
+      "prompt": "morning sunlight",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
+      "height": 4000,
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Adil Ahnaf🇧🇩🇵🇸",
-        "link": "https://www.pexels.com/@mdadilahnaf",
-        "photoLink": "https://www.pexels.com/photo/a-chair-sits-in-front-of-a-window-in-a-room-20432040/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "545046",
-      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4460,
-      "height": 2974,
-      "color": "#CEBBA8",
-      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
+      "prompt": "still life arrangement",
+      "id": "12042192",
+      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5686,
+      "height": 3887,
+      "color": "#262624",
+      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
+        "name": "Gintare Baradinske",
+        "link": "https://www.pexels.com/@gintare",
+        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
       }
     }
   ]
