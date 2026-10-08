@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-08T09:59:06.922Z",
+  "generatedAt": "2026-10-08T17:20:17.467Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "11731019",
-      "url": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3902,
-      "height": 2191,
-      "color": "#AA884B",
-      "alt": "A serene misty field at dawn with soft sunlight and tall grasses.",
+      "prompt": "minimal desk",
+      "id": "36123565",
+      "url": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2664,
+      "color": "#AAA39D",
+      "alt": "A minimalistic workspace featuring a laptop, coffee cup, and books on a white desk with wooden legs.",
       "credit": {
-        "name": "Bryan Smith",
-        "link": "https://www.pexels.com/@bryan-smith-480077",
-        "photoLink": "https://www.pexels.com/photo/meadow-on-foggy-dusk-11731019/"
+        "name": "Letícia Alvares",
+        "link": "https://www.pexels.com/@leticia-alvares-1805702",
+        "photoLink": "https://www.pexels.com/photo/modern-workspace-with-laptop-and-books-on-desk-36123565/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "3847451",
-      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#655F62",
-      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
+      "prompt": "handmade ceramics",
+      "id": "17209708",
+      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5864,
+      "height": 3933,
+      "color": "#A8948F",
+      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
       "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
+        "name": "Anna Romanova",
+        "link": "https://www.pexels.com/@anna-romanova-1406375",
+        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
       }
     },
     {
-      "prompt": "minimal wooden desk",
-      "id": "917460",
-      "url": "https://images.pexels.com/photos/917460/pexels-photo-917460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/917460/pexels-photo-917460.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#B9B6B4",
-      "alt": "A clean and minimalist workspace featuring a keyboard, coffee, and wallet on a wooden desk.",
+      "prompt": "still life",
+      "id": "7630082",
+      "url": "https://images.pexels.com/photos/7630082/pexels-photo-7630082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7630082/pexels-photo-7630082.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#3D607A",
+      "alt": "Minimalist still life composition featuring a blood orange, grapes, and geometric shapes.",
       "credit": {
-        "name": "Lukas Blazek",
-        "link": "https://www.pexels.com/@goumbik",
-        "photoLink": "https://www.pexels.com/photo/cup-of-coffee-near-keyboard-on-table-top-917460/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/fruits-besides-geometric-shape-woods-7630082/"
       }
     },
     {
-      "prompt": "linen texture wood",
-      "id": "34860684",
-      "url": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860684/pexels-photo-34860684.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#5F5D5E",
-      "alt": "Close-up view of a textured woven fabric showing intricate pattern.",
+      "prompt": "urban textures",
+      "id": "30397833",
+      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#B4B1AC",
+      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/detailed-woven-textile-fabric-background-34860684/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
       }
     },
     {
-      "prompt": "workshop tool set",
-      "id": "4346914",
-      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3929,
-      "height": 2481,
-      "color": "#443F40",
-      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
+      "prompt": "morning light",
+      "id": "20432040",
+      "url": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20432040/pexels-photo-20432040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4208,
+      "height": 3120,
+      "color": "#4B473C",
+      "alt": "A serene indoor setting with a blue chair by a sunlit window overlooking greenery.",
       "credit": {
-        "name": "Csongor Kemény",
-        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
-        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
+        "name": "Adil Ahnaf🇧🇩🇵🇸",
+        "link": "https://www.pexels.com/@mdadilahnaf",
+        "photoLink": "https://www.pexels.com/photo/a-chair-sits-in-front-of-a-window-in-a-room-20432040/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "prompt": "linen wood",
+      "id": "545046",
+      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4460,
+      "height": 2974,
+      "color": "#CEBBA8",
+      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
       "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
       }
     }
   ]
