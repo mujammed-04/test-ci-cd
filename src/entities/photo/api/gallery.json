@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-09T02:46:21.622Z",
+  "generatedAt": "2026-10-09T10:02:45.323Z",
   "photos": [
     {
-      "prompt": "urban textures",
-      "id": "17905715",
-      "url": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6221,
-      "height": 4666,
-      "color": "#6E7176",
-      "alt": "Close-up of layered torn posters peeling from a textured urban wall, showcasing street art decay.",
+      "prompt": "linen wood texture",
+      "id": "5964663",
+      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#90704C",
+      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/remnants-of-torn-posters-on-the-wall-17905715/"
+        "name": "Eva Bronzini",
+        "link": "https://www.pexels.com/@eva-bronzini",
+        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
-      "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
-      }
-    },
-    {
-      "prompt": "nordic interiors",
-      "id": "39912945",
-      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#825A41",
-      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
-      "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "16243257",
-      "url": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handcrafted ceramic vase",
+      "id": "37288376",
+      "url": "https://images.pexels.com/photos/37288376/pexels-photo-37288376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37288376/pexels-photo-37288376.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#606257",
-      "alt": "A cluttered workshop with tools, welding equipment, and storage solutions.",
+      "color": "#393431",
+      "alt": "Smiling potter skillfully crafting a large clay pot in a traditional workshop setting.",
       "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/tools-and-accessories-on-wall-in-workshop-16243257/"
+        "name": "Tuti Isnawati",
+        "link": "https://www.pexels.com/@tuti-isnawati-2160809826",
+        "photoLink": "https://www.pexels.com/photo/skilled-potter-crafting-clay-pots-in-workshop-37288376/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "11156146",
-      "url": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5784,
-      "height": 3856,
-      "color": "#956D49",
-      "alt": "Tranquil sunrise over a misty field with bare trees and a winding dirt road.",
+      "prompt": "vintage workshop tools",
+      "id": "34611566",
+      "url": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#554025",
+      "alt": "Close-up of vintage woodworking tools on a wooden workbench, showcasing craftsmanship.",
       "credit": {
-        "name": "Amir H. Bakhtiari",
-        "link": "https://www.pexels.com/@amir-h-bakhtiari-254523",
-        "photoLink": "https://www.pexels.com/photo/leafless-trees-near-dirt-road-11156146/"
+        "name": "Carel Voorhorst",
+        "link": "https://www.pexels.com/@carel-voorhorst-854238",
+        "photoLink": "https://www.pexels.com/photo/vintage-workshop-tools-on-wooden-bench-34611566/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "14651730",
-      "url": "https://images.pexels.com/photos/14651730/pexels-photo-14651730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14651730/pexels-photo-14651730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#564D46",
-      "alt": "Cozy bedroom corner featuring a rustic wooden headboard and floral pillows in Chía, Colombia.",
+      "prompt": "quiet architectural space",
+      "id": "18199191",
+      "url": "https://images.pexels.com/photos/18199191/pexels-photo-18199191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18199191/pexels-photo-18199191.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6058,
+      "height": 3929,
+      "color": "#86959C",
+      "alt": "Sleek and minimalist outdoor courtyard featuring a concrete staircase and rock garden.",
       "credit": {
-        "name": "Gustavo Galeano Maz",
-        "link": "https://www.pexels.com/@fotografiagmazg",
-        "photoLink": "https://www.pexels.com/photo/floral-pillows-on-a-bed-with-a-wooden-headboard-14651730/"
+        "name": "Jenkin Shen",
+        "link": "https://www.pexels.com/@jenkin-shen-12165130",
+        "photoLink": "https://www.pexels.com/photo/building-facade-and-a-staircase-18199191/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "1128207",
+      "url": "https://images.pexels.com/photos/1128207/pexels-photo-1128207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1128207/pexels-photo-1128207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5368,
+      "height": 3579,
+      "color": "#9EA4A9",
+      "alt": "Sleek office desk setup featuring a laptop, glass of water, and open window view.",
+      "credit": {
+        "name": "EVG Kowalievska",
+        "link": "https://www.pexels.com/@kowalievska",
+        "photoLink": "https://www.pexels.com/photo/turned-on-silver-laptop-on-tabletop-1128207/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "34816459",
+      "url": "https://images.pexels.com/photos/34816459/pexels-photo-34816459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34816459/pexels-photo-34816459.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#6E9262",
+      "alt": "Detailed close-up of a green leaf showcasing texture and natural patterns.",
+      "credit": {
+        "name": "Cup of Honey Lemon",
+        "link": "https://www.pexels.com/@mehmet",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-texture-34816459/"
       }
     }
   ]
