@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-09T17:18:33.707Z",
+  "generatedAt": "2026-10-09T22:15:12.584Z",
   "photos": [
     {
-      "prompt": "weathered brick facade",
-      "id": "37364986",
-      "url": "https://images.pexels.com/photos/37364986/pexels-photo-37364986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37364986/pexels-photo-37364986.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handmade ceramics",
+      "id": "9304500",
+      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5539,
+      "height": 3694,
+      "color": "#A17E2D",
+      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
+      "credit": {
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "39912936",
+      "url": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#755846",
+      "alt": "Discover the elegance of a modern indoor sauna featuring sleek wood panels and a glass door.",
+      "credit": {
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/stylish-modern-indoor-sauna-with-wooden-design-39912936/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "5420527",
+      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4368,
+      "height": 2912,
+      "color": "#C1B8A8",
+      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
+      "credit": {
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
+      }
+    },
+    {
+      "prompt": "minimal desk",
+      "id": "7057",
+      "url": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5362,
+      "height": 3575,
+      "color": "#929190",
+      "alt": "Minimalist home office workspace featuring a desktop computer, keyboard, and mouse on a white desk.",
+      "credit": {
+        "name": "Startup Stock Photos",
+        "link": "https://www.pexels.com/@startup-stock-photos",
+        "photoLink": "https://www.pexels.com/photo/silver-imac-apple-magic-mouse-and-apple-keyboard-7057/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "19128992",
+      "url": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#6D5B4F",
-      "alt": "Detailed view of an aged and textured brick wall showing weathering effects.",
+      "color": "#696F61",
+      "alt": "A modern minimalist building facade with glass windows and clear skies.",
       "credit": {
-        "name": "Furkan  Aktaş",
-        "link": "https://www.pexels.com/@furkanakt",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-weathered-brick-wall-texture-37364986/"
+        "name": "Mengtry  Lorn",
+        "link": "https://www.pexels.com/@mengtry-lorn-782826812",
+        "photoLink": "https://www.pexels.com/photo/clear-sky-over-white-building-19128992/"
       }
     },
     {
-      "prompt": "rusted metal tools",
-      "id": "21470316",
-      "url": "https://images.pexels.com/photos/21470316/pexels-photo-21470316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/21470316/pexels-photo-21470316.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6048,
-      "height": 4024,
-      "color": "#463A3A",
-      "alt": "A vintage rusty toolbox amidst scrap metal pieces in a junkyard under sunlight.",
+      "prompt": "botanical detail",
+      "id": "7435691",
+      "url": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#5D563A",
+      "alt": "A vivid close-up shot of green pointed leaves creating a natural texture and pattern.",
       "credit": {
-        "name": "Alfo Medeiros",
-        "link": "https://www.pexels.com/@alfomedeiros",
-        "photoLink": "https://www.pexels.com/photo/metal-trunk-on-a-junkyard-21470316/"
-      }
-    },
-    {
-      "prompt": "misty sea cliffs",
-      "id": "19510088",
-      "url": "https://images.pexels.com/photos/19510088/pexels-photo-19510088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19510088/pexels-photo-19510088.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#737975",
-      "alt": "A stunning view of rugged coastal cliffs with mist, overlooking a serene body of water.",
-      "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/sharp-rocky-coast-in-fog-19510088/"
-      }
-    },
-    {
-      "prompt": "tranquil stone courtyard",
-      "id": "24710229",
-      "url": "https://images.pexels.com/photos/24710229/pexels-photo-24710229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/24710229/pexels-photo-24710229.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2891,
-      "color": "#656958",
-      "alt": "Peaceful urban courtyard with a stone bench, surrounded by greenery and a rustic brick building.",
-      "credit": {
-        "name": "Smail Dahmani",
-        "link": "https://www.pexels.com/@smail-dahmani-2278818",
-        "photoLink": "https://www.pexels.com/photo/bench-by-residential-building-24710229/"
-      }
-    },
-    {
-      "prompt": "delicate fern fronds",
-      "id": "18001151",
-      "url": "https://images.pexels.com/photos/18001151/pexels-photo-18001151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18001151/pexels-photo-18001151.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8640,
-      "height": 5760,
-      "color": "#708006",
-      "alt": "A vibrant close-up of fresh green ferns in a lush outdoor setting, symbolizing growth.",
-      "credit": {
-        "name": "Tom Fisk",
-        "link": "https://www.pexels.com/@tomfisk",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-green-plants-18001151/"
-      }
-    },
-    {
-      "prompt": "linen draped wood",
-      "id": "7087672",
-      "url": "https://images.pexels.com/photos/7087672/pexels-photo-7087672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7087672/pexels-photo-7087672.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5641,
-      "height": 3761,
-      "color": "#DADADA",
-      "alt": "Close-up view of smooth, white fabric texture with gentle folds and wrinkles.",
-      "credit": {
-        "name": "Sandra Filipe",
-        "link": "https://www.pexels.com/@sandra-filipe-64798",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-white-textile-7087672/"
+        "name": "Ventill8  Productions",
+        "link": "https://www.pexels.com/@ventill8-productions-3270833",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-grass-7435691/"
       }
     }
   ]
