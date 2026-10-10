@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-10T19:44:54.957Z",
+  "generatedAt": "2026-10-10T23:13:31.928Z",
   "photos": [
     {
-      "prompt": "metal workshop tools",
-      "id": "10290627",
-      "url": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#5B5138",
-      "alt": "Overhead view of a workshop scene with an angle grinder and welding helmet on a textured floor.",
+      "prompt": "botanical macro texture",
+      "id": "35483696",
+      "url": "https://images.pexels.com/photos/35483696/pexels-photo-35483696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35483696/pexels-photo-35483696.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5827,
+      "height": 3883,
+      "color": "#423F16",
+      "alt": "Macro shot of a spiky green plant against a dark background.",
       "credit": {
-        "name": "Jonathan Cooper",
-        "link": "https://www.pexels.com/@theshuttervision",
-        "photoLink": "https://www.pexels.com/photo/helmet-and-an-electric-angle-grinder-10290627/"
+        "name": "Stephen Leonardi",
+        "link": "https://www.pexels.com/@stephen-leonardi-587681991",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-green-thorny-plant-35483696/"
       }
     },
     {
-      "prompt": "quiet stone hallway",
-      "id": "5089716",
-      "url": "https://images.pexels.com/photos/5089716/pexels-photo-5089716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5089716/pexels-photo-5089716.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5333,
-      "height": 4000,
-      "color": "#301F08",
-      "alt": "Mysterious brick tunnel illuminated by atmospheric lighting, creating a moody ambiance.",
+      "prompt": "urban brick wall",
+      "id": "17710692",
+      "url": "https://images.pexels.com/photos/17710692/pexels-photo-17710692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17710692/pexels-photo-17710692.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5633,
+      "height": 3760,
+      "color": "#333333",
+      "alt": "Black and white image of an abandoned brick building with graffiti. Perfect for urban decay or architectural themes.",
       "credit": {
-        "name": "Connor Kelley",
-        "link": "https://www.pexels.com/@connorkelley",
-        "photoLink": "https://www.pexels.com/photo/inside-a-brick-tunnel-5089716/"
+        "name": "Vitali Adutskevich",
+        "link": "https://www.pexels.com/@vadutskevich",
+        "photoLink": "https://www.pexels.com/photo/brick-destroyed-house-17710692/"
       }
     },
     {
-      "prompt": "detailed fern leaf",
-      "id": "9907472",
-      "url": "https://images.pexels.com/photos/9907472/pexels-photo-9907472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9907472/pexels-photo-9907472.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#353B31",
-      "alt": "Detailed close-up of fern leaves with striking red stripes on a green background.",
+      "prompt": "analogue film grain",
+      "id": "16851158",
+      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3360,
+      "height": 2240,
+      "color": "#4E4F49",
+      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
       "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-fern-leaves-9907472/"
+        "name": "Scenehaus Production",
+        "link": "https://www.pexels.com/@scenehaus",
+        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
       }
     },
     {
-      "prompt": "nordic living room",
-      "id": "37816601",
-      "url": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4F3B32",
-      "alt": "Cozy indoor sauna featuring dark wood, LED lighting, and a stone heater for a relaxing experience.",
+      "prompt": "nordic minimal interior",
+      "id": "6952331",
+      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6610,
+      "height": 4407,
+      "color": "#BDB2A8",
+      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-sauna-with-wooden-design-and-heater-37816601/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
       }
     },
     {
-      "prompt": "linen wood table",
-      "id": "6962755",
-      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6201,
-      "height": 4134,
-      "color": "#B0A79F",
-      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
+      "prompt": "coastal storm clouds",
+      "id": "9547526",
+      "url": "https://images.pexels.com/photos/9547526/pexels-photo-9547526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9547526/pexels-photo-9547526.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5886,
+      "height": 3924,
+      "color": "#565656",
+      "alt": "Striking black and white image capturing a dramatic stormy seascape with dark clouds and waves.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
+        "name": "Matthew",
+        "link": "https://www.pexels.com/@matthew-105197916",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-ocean-waves-9547526/"
       }
     },
     {
-      "prompt": "still life fruits",
-      "id": "26159450",
-      "url": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4113,
-      "height": 2742,
-      "color": "#3D190D",
-      "alt": "A striking arrangement of fresh fruits including apples, orange, and pear against a dark background.",
+      "prompt": "morning golden light",
+      "id": "640785",
+      "url": "https://images.pexels.com/photos/640785/pexels-photo-640785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/640785/pexels-photo-640785.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 1920,
+      "height": 1280,
+      "color": "#A46C2F",
+      "alt": "Close-up of golden yellow flowers backlit by the morning sun, showcasing delicate petals.",
       "credit": {
-        "name": "J E",
-        "link": "https://www.pexels.com/@j-e-22471780",
-        "photoLink": "https://www.pexels.com/photo/ripe-fresh-fruits-26159450/"
+        "name": "NAUSHIL | SKYHAWK. ASIA",
+        "link": "https://www.pexels.com/@naushil-skyhawk-asia-151720",
+        "photoLink": "https://www.pexels.com/photo/photography-of-petal-flower-640785/"
       }
     }
   ]
