@@ -1,38 +1,68 @@
 {
-  "generatedAt": "2026-10-10T15:42:02.466Z",
+  "generatedAt": "2026-10-10T19:44:54.957Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "28354605",
-      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6354,
-      "height": 4236,
-      "color": "#92A4BC",
-      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
+      "prompt": "metal workshop tools",
+      "id": "10290627",
+      "url": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#5B5138",
+      "alt": "Overhead view of a workshop scene with an angle grinder and welding helmet on a textured floor.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
+        "name": "Jonathan Cooper",
+        "link": "https://www.pexels.com/@theshuttervision",
+        "photoLink": "https://www.pexels.com/photo/helmet-and-an-electric-angle-grinder-10290627/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "29181493",
-      "url": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5873,
-      "height": 3915,
-      "color": "#293237",
-      "alt": "A mechanic in gloves organizing engine parts and tools in a workshop setting.",
+      "prompt": "quiet stone hallway",
+      "id": "5089716",
+      "url": "https://images.pexels.com/photos/5089716/pexels-photo-5089716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5089716/pexels-photo-5089716.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5333,
+      "height": 4000,
+      "color": "#301F08",
+      "alt": "Mysterious brick tunnel illuminated by atmospheric lighting, creating a moody ambiance.",
       "credit": {
-        "name": "Sergei Starostin",
-        "link": "https://www.pexels.com/@sejio402",
-        "photoLink": "https://www.pexels.com/photo/mechanic-organizing-engine-components-in-workshop-29181493/"
+        "name": "Connor Kelley",
+        "link": "https://www.pexels.com/@connorkelley",
+        "photoLink": "https://www.pexels.com/photo/inside-a-brick-tunnel-5089716/"
       }
     },
     {
-      "prompt": "linen wood textures",
+      "prompt": "detailed fern leaf",
+      "id": "9907472",
+      "url": "https://images.pexels.com/photos/9907472/pexels-photo-9907472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9907472/pexels-photo-9907472.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#353B31",
+      "alt": "Detailed close-up of fern leaves with striking red stripes on a green background.",
+      "credit": {
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-fern-leaves-9907472/"
+      }
+    },
+    {
+      "prompt": "nordic living room",
+      "id": "37816601",
+      "url": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37816601/pexels-photo-37816601.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#4F3B32",
+      "alt": "Cozy indoor sauna featuring dark wood, LED lighting, and a stone heater for a relaxing experience.",
+      "credit": {
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-sauna-with-wooden-design-and-heater-37816601/"
+      }
+    },
+    {
+      "prompt": "linen wood table",
       "id": "6962755",
       "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -47,48 +77,18 @@
       }
     },
     {
-      "prompt": "still life",
-      "id": "39585686",
-      "url": "https://images.pexels.com/photos/39585686/pexels-photo-39585686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39585686/pexels-photo-39585686.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5544,
-      "height": 3696,
-      "color": "#1E1109",
-      "alt": "A beautifully composed still life featuring an hourglass surrounded by artistic pottery and decor on a dark background.",
+      "prompt": "still life fruits",
+      "id": "26159450",
+      "url": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4113,
+      "height": 2742,
+      "color": "#3D190D",
+      "alt": "A striking arrangement of fresh fruits including apples, orange, and pear against a dark background.",
       "credit": {
-        "name": "Thilina Alagiyawanna",
-        "link": "https://www.pexels.com/@thilina-alagiyawanna-3266092",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-hourglass-and-decor-objects-39585686/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "8358607",
-      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5329,
-      "height": 4000,
-      "color": "#807863",
-      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
-      "credit": {
-        "name": "Kübra Arslaner",
-        "link": "https://www.pexels.com/@nediyodukenson",
-        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "7303855",
-      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6133,
-      "height": 4089,
-      "color": "#BEB8AB",
-      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
-      "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
+        "name": "J E",
+        "link": "https://www.pexels.com/@j-e-22471780",
+        "photoLink": "https://www.pexels.com/photo/ripe-fresh-fruits-26159450/"
       }
     }
   ]
