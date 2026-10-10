@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-09T22:15:12.584Z",
+  "generatedAt": "2026-10-10T02:04:12.507Z",
   "photos": [
     {
-      "prompt": "handmade ceramics",
-      "id": "9304500",
-      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5539,
-      "height": 3694,
-      "color": "#A17E2D",
-      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
-      "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "39912936",
-      "url": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#755846",
-      "alt": "Discover the elegance of a modern indoor sauna featuring sleek wood panels and a glass door.",
-      "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/stylish-modern-indoor-sauna-with-wooden-design-39912936/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "5420527",
-      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4368,
-      "height": 2912,
-      "color": "#C1B8A8",
-      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
-      "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
-      }
-    },
-    {
-      "prompt": "minimal desk",
-      "id": "7057",
-      "url": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5362,
-      "height": 3575,
-      "color": "#929190",
-      "alt": "Minimalist home office workspace featuring a desktop computer, keyboard, and mouse on a white desk.",
-      "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-apple-magic-mouse-and-apple-keyboard-7057/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "19128992",
-      "url": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "rusty brick wall",
+      "id": "38404253",
+      "url": "https://images.pexels.com/photos/38404253/pexels-photo-38404253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38404253/pexels-photo-38404253.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#696F61",
-      "alt": "A modern minimalist building facade with glass windows and clear skies.",
+      "color": "#725A4E",
+      "alt": "Close-up of a rusted industrial valve and pipe with a brick wall backdrop, capturing urban decay.",
       "credit": {
-        "name": "Mengtry  Lorn",
-        "link": "https://www.pexels.com/@mengtry-lorn-782826812",
-        "photoLink": "https://www.pexels.com/photo/clear-sky-over-white-building-19128992/"
+        "name": "Paul Oor",
+        "link": "https://www.pexels.com/@paul-oor-281880",
+        "photoLink": "https://www.pexels.com/photo/rusted-industrial-valve-against-brick-wall-38404253/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "7435691",
-      "url": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#5D563A",
-      "alt": "A vivid close-up shot of green pointed leaves creating a natural texture and pattern.",
+      "prompt": "ceramic coffee mug",
+      "id": "8420449",
+      "url": "https://images.pexels.com/photos/8420449/pexels-photo-8420449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8420449/pexels-photo-8420449.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5758,
+      "height": 3831,
+      "color": "#483D37",
+      "alt": "Close-up of ceramic mugs with humorous text, perfect for playful kitchen decor.",
       "credit": {
-        "name": "Ventill8  Productions",
-        "link": "https://www.pexels.com/@ventill8-productions-3270833",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-grass-7435691/"
+        "name": "Brett Sayles",
+        "link": "https://www.pexels.com/@brett-sayles",
+        "photoLink": "https://www.pexels.com/photo/close-up-view-of-white-ceramic-cups-8420449/"
+      }
+    },
+    {
+      "prompt": "white wooden desk",
+      "id": "8092421",
+      "url": "https://images.pexels.com/photos/8092421/pexels-photo-8092421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092421/pexels-photo-8092421.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#BEB1A8",
+      "alt": "A minimalist workspace featuring a notebook, eyeglasses, pen, and a decorative vase on a wooden desk.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/eyeglasses-and-notebook-on-the-table-8092421/"
+      }
+    },
+    {
+      "prompt": "light oak chair",
+      "id": "9962719",
+      "url": "https://images.pexels.com/photos/9962719/pexels-photo-9962719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9962719/pexels-photo-9962719.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3888,
+      "height": 2592,
+      "color": "#1E1E1C",
+      "alt": "A dimly lit indoor cafe features sunlight casting shadows on modern chairs and tables.",
+      "credit": {
+        "name": "Plato Terentev",
+        "link": "https://www.pexels.com/@plato-terentev-3804555",
+        "photoLink": "https://www.pexels.com/photo/a-sunlight-falling-on-chairs-and-tables-9962719/"
+      }
+    },
+    {
+      "prompt": "soft morning light",
+      "id": "39304776",
+      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3456,
+      "color": "#BDAA8C",
+      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "credit": {
+        "name": "Suvrodip Saha",
+        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
+        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
+      }
+    },
+    {
+      "prompt": "quiet stone corridor",
+      "id": "37678489",
+      "url": "https://images.pexels.com/photos/37678489/pexels-photo-37678489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37678489/pexels-photo-37678489.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6215,
+      "height": 4327,
+      "color": "#26221F",
+      "alt": "A dimly lit stone corridor leading to an ornate golden doorway in Tiruchirappalli, Tamil Nadu, India.",
+      "credit": {
+        "name": "Roman Saienko",
+        "link": "https://www.pexels.com/@roman-saienko-1867764487",
+        "photoLink": "https://www.pexels.com/photo/historic-stone-corridor-in-tiruchirappalli-temple-37678489/"
       }
     }
   ]
