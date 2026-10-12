@@ -1,64 +1,19 @@
 {
-  "generatedAt": "2026-10-12T07:09:43.548Z",
+  "generatedAt": "2026-10-12T17:21:29.035Z",
   "photos": [
     {
-      "prompt": "botanical macro",
-      "id": "15794218",
-      "url": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3776,
-      "height": 2832,
-      "color": "#49663A",
-      "alt": "A detailed close-up of a green leaf displaying intricate patterns and textures.",
+      "prompt": "quiet architecture",
+      "id": "3013852",
+      "url": "https://images.pexels.com/photos/3013852/pexels-photo-3013852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3013852/pexels-photo-3013852.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#89726A",
+      "alt": "Abstract view of a tiled staircase in Hong Kong showcasing modern architecture.",
       "credit": {
-        "name": "Sonny Sixteen",
-        "link": "https://www.pexels.com/@sonny",
-        "photoLink": "https://www.pexels.com/photo/structure-of-green-leaf-15794218/"
-      }
-    },
-    {
-      "prompt": "morning sunlight",
-      "id": "39704455",
-      "url": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4263,
-      "height": 2842,
-      "color": "#5D643B",
-      "alt": "Peaceful park pathway framed by vibrant autumn leaves and warm sunbeams.",
-      "credit": {
-        "name": "Dawid Zawiła",
-        "link": "https://www.pexels.com/@dawid-zawila-2151273316",
-        "photoLink": "https://www.pexels.com/photo/serene-autumn-pathway-in-sunlit-forest-39704455/"
-      }
-    },
-    {
-      "prompt": "still life fruit",
-      "id": "7629760",
-      "url": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#8E7A70",
-      "alt": "Elegant minimalist photo of yellow quinces casting shadows on a pastel surface.",
-      "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/yellow-fruits-over-white-and-purple-surface-7629760/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+        "name": "Cube Descent",
+        "link": "https://www.pexels.com/@cubedescent",
+        "photoLink": "https://www.pexels.com/photo/a-building-with-tiled-walls-3013852/"
       }
     },
     {
@@ -77,18 +32,63 @@
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "19826486",
-      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4687,
-      "height": 3106,
-      "color": "#8B8B8B",
-      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
+      "prompt": "linen wood",
+      "id": "39761773",
+      "url": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#7E6E61",
+      "alt": "A modern minimalist bedroom with a double bed, wooden accents, and soft lighting.",
       "credit": {
-        "name": "Misak Aghababyan",
-        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
+        "name": "Mustafa  Fatemi",
+        "link": "https://www.pexels.com/@solaticace",
+        "photoLink": "https://www.pexels.com/photo/cozy-minimalist-bedroom-interior-with-lamp-39761773/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "20937747",
+      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3954,
+      "height": 2666,
+      "color": "#98A2A4",
+      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "credit": {
+        "name": "Nam Quân Nguyễn",
+        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
+        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "219890",
+      "url": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#674927",
+      "alt": "Captivating sunrise over a misty countryside with silhouetted trees and soft morning light.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/trees-next-to-body-of-water-219890/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "12661315",
+      "url": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#DCDCDC",
+      "alt": "Palm trees swaying in strong winds by a stormy ocean seascape.",
+      "credit": {
+        "name": "Atlantic Ambience",
+        "link": "https://www.pexels.com/@freestockpro",
+        "photoLink": "https://www.pexels.com/photo/coconut-trees-near-the-sea-12661315/"
       }
     }
   ]
