@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-11T21:28:15.557Z",
+  "generatedAt": "2026-10-12T00:58:01.649Z",
   "photos": [
     {
-      "prompt": "brick wall texture",
-      "id": "12001528",
-      "url": "https://images.pexels.com/photos/12001528/pexels-photo-12001528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12001528/pexels-photo-12001528.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#908F8D",
-      "alt": "Detailed image of a textured gray brick wall, perfect for backgrounds and design use.",
+      "prompt": "soft morning light",
+      "id": "9987493",
+      "url": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5464,
+      "height": 3643,
+      "color": "#907E56",
+      "alt": "Misty rural landscape in Wisconsin with trees in a foggy field at dawn, creating a serene nature scene.",
       "credit": {
-        "name": "Timothy Huliselan",
-        "link": "https://www.pexels.com/@timothy-huliselan-205951426",
-        "photoLink": "https://www.pexels.com/photo/gray-bricks-on-wall-12001528/"
+        "name": "Tom Fisk",
+        "link": "https://www.pexels.com/@tomfisk",
+        "photoLink": "https://www.pexels.com/photo/trees-on-a-grassy-field-9987493/"
       }
     },
     {
-      "prompt": "minimalist desk surface",
-      "id": "36331296",
-      "url": "https://images.pexels.com/photos/36331296/pexels-photo-36331296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36331296/pexels-photo-36331296.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4559,
-      "height": 3039,
-      "color": "#808684",
-      "alt": "Simple desk with a blue bottle and empty glasses beside a soft lit window.",
+      "prompt": "vintage workshop tools",
+      "id": "30335372",
+      "url": "https://images.pexels.com/photos/30335372/pexels-photo-30335372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335372/pexels-photo-30335372.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#3B4039",
+      "alt": "Old industrial machines in an abandoned workshop with vintage tools and equipment.",
       "credit": {
-        "name": "Tasso Mitsarakis",
-        "link": "https://www.pexels.com/@tasso-mitsarakis-4849571",
-        "photoLink": "https://www.pexels.com/photo/minimalist-desk-setup-with-bottle-and-glasses-36331296/"
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/vintage-industrial-machines-in-abandoned-workshop-30335372/"
       }
     },
     {
-      "prompt": "green fern closeup",
-      "id": "35996089",
-      "url": "https://images.pexels.com/photos/35996089/pexels-photo-35996089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35996089/pexels-photo-35996089.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "botanical leaf detail",
+      "id": "10666891",
+      "url": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#2A5923",
+      "alt": "Detailed close-up of a green leaf displaying natural patterns under bright sunlight.",
+      "credit": {
+        "name": "Sonny Sixteen",
+        "link": "https://www.pexels.com/@sonny",
+        "photoLink": "https://www.pexels.com/photo/natural-pattern-on-leaf-10666891/"
+      }
+    },
+    {
+      "prompt": "scandinavian nordic interior",
+      "id": "39912938",
+      "url": "https://images.pexels.com/photos/39912938/pexels-photo-39912938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912938/pexels-photo-39912938.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6815,
+      "height": 4543,
+      "color": "#6D4F37",
+      "alt": "A beautifully designed indoor sauna with an electric heater and wooden panels, showcasing Nordic aesthetics.",
+      "credit": {
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-nordic-sauna-with-electric-heater-and-stones-39912938/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "17198943",
+      "url": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5547,
+      "height": 3698,
+      "color": "#625D57",
+      "alt": "A minimalist workspace featuring a smartphone, keyboard, and mouse on a wooden desk.",
+      "credit": {
+        "name": "Ionela Mat",
+        "link": "https://www.pexels.com/@ionela-mat-268382825",
+        "photoLink": "https://www.pexels.com/photo/apple-electronics-on-table-17198943/"
+      }
+    },
+    {
+      "prompt": "still life composition",
+      "id": "12687108",
+      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#0F4128",
-      "alt": "Lush and vibrant green ferns create a textured natural background.",
+      "color": "#853F33",
+      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
       "credit": {
-        "name": "Aneesh Thazhathethil",
-        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
-        "photoLink": "https://www.pexels.com/photo/vibrant-green-foliage-of-fern-leaves-35996089/"
-      }
-    },
-    {
-      "prompt": "linen draped wood",
-      "id": "8754132",
-      "url": "https://images.pexels.com/photos/8754132/pexels-photo-8754132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8754132/pexels-photo-8754132.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#CE6659",
-      "alt": "Artistic draped red and beige fabric with intricate folds creating a textured appearance.",
-      "credit": {
-        "name": "Tamanna Rumee",
-        "link": "https://www.pexels.com/@tamanna-rumee-52377920",
-        "photoLink": "https://www.pexels.com/photo/red-and-beige-folded-fabric-8754132/"
-      }
-    },
-    {
-      "prompt": "rusty workshop tools",
-      "id": "15102481",
-      "url": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6064,
-      "height": 3430,
-      "color": "#A48662",
-      "alt": "Collection of vintage hand drills with wooden handles on a rustic workbench.",
-      "credit": {
-        "name": "FFD Restorations",
-        "link": "https://www.pexels.com/@ffd-restorations-400571257",
-        "photoLink": "https://www.pexels.com/photo/vintage-rusty-tools-on-a-wooden-table-15102481/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
-      "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+        "name": "Yusra  Mizgin Günay",
+        "link": "https://www.pexels.com/@yusramizgingunay",
+        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
       }
     }
   ]
