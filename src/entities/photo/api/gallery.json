@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-12T00:58:01.649Z",
+  "generatedAt": "2026-10-12T07:09:43.548Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "9987493",
-      "url": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9987493/pexels-photo-9987493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5464,
-      "height": 3643,
-      "color": "#907E56",
-      "alt": "Misty rural landscape in Wisconsin with trees in a foggy field at dawn, creating a serene nature scene.",
-      "credit": {
-        "name": "Tom Fisk",
-        "link": "https://www.pexels.com/@tomfisk",
-        "photoLink": "https://www.pexels.com/photo/trees-on-a-grassy-field-9987493/"
-      }
-    },
-    {
-      "prompt": "vintage workshop tools",
-      "id": "30335372",
-      "url": "https://images.pexels.com/photos/30335372/pexels-photo-30335372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335372/pexels-photo-30335372.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#3B4039",
-      "alt": "Old industrial machines in an abandoned workshop with vintage tools and equipment.",
-      "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/vintage-industrial-machines-in-abandoned-workshop-30335372/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "10666891",
-      "url": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10666891/pexels-photo-10666891.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#2A5923",
-      "alt": "Detailed close-up of a green leaf displaying natural patterns under bright sunlight.",
+      "prompt": "botanical macro",
+      "id": "15794218",
+      "url": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15794218/pexels-photo-15794218.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3776,
+      "height": 2832,
+      "color": "#49663A",
+      "alt": "A detailed close-up of a green leaf displaying intricate patterns and textures.",
       "credit": {
         "name": "Sonny Sixteen",
         "link": "https://www.pexels.com/@sonny",
-        "photoLink": "https://www.pexels.com/photo/natural-pattern-on-leaf-10666891/"
+        "photoLink": "https://www.pexels.com/photo/structure-of-green-leaf-15794218/"
       }
     },
     {
-      "prompt": "scandinavian nordic interior",
-      "id": "39912938",
-      "url": "https://images.pexels.com/photos/39912938/pexels-photo-39912938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912938/pexels-photo-39912938.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6815,
-      "height": 4543,
-      "color": "#6D4F37",
-      "alt": "A beautifully designed indoor sauna with an electric heater and wooden panels, showcasing Nordic aesthetics.",
+      "prompt": "morning sunlight",
+      "id": "39704455",
+      "url": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4263,
+      "height": 2842,
+      "color": "#5D643B",
+      "alt": "Peaceful park pathway framed by vibrant autumn leaves and warm sunbeams.",
+      "credit": {
+        "name": "Dawid Zawiła",
+        "link": "https://www.pexels.com/@dawid-zawila-2151273316",
+        "photoLink": "https://www.pexels.com/photo/serene-autumn-pathway-in-sunlit-forest-39704455/"
+      }
+    },
+    {
+      "prompt": "still life fruit",
+      "id": "7629760",
+      "url": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7629760/pexels-photo-7629760.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8E7A70",
+      "alt": "Elegant minimalist photo of yellow quinces casting shadows on a pastel surface.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/yellow-fruits-over-white-and-purple-surface-7629760/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "credit": {
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "39912945",
+      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#825A41",
+      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
       "credit": {
         "name": "HUUM  │sauna heaters",
         "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-nordic-sauna-with-electric-heater-and-stones-39912938/"
+        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "17198943",
-      "url": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5547,
-      "height": 3698,
-      "color": "#625D57",
-      "alt": "A minimalist workspace featuring a smartphone, keyboard, and mouse on a wooden desk.",
+      "prompt": "analogue film grain",
+      "id": "19826486",
+      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4687,
+      "height": 3106,
+      "color": "#8B8B8B",
+      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
       "credit": {
-        "name": "Ionela Mat",
-        "link": "https://www.pexels.com/@ionela-mat-268382825",
-        "photoLink": "https://www.pexels.com/photo/apple-electronics-on-table-17198943/"
-      }
-    },
-    {
-      "prompt": "still life composition",
-      "id": "12687108",
-      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#853F33",
-      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
-      "credit": {
-        "name": "Yusra  Mizgin Günay",
-        "link": "https://www.pexels.com/@yusramizgingunay",
-        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
+        "name": "Misak Aghababyan",
+        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
       }
     }
   ]
