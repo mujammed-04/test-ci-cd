@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-13T00:08:18.746Z",
+  "generatedAt": "2026-10-13T07:20:50.399Z",
   "photos": [
     {
-      "prompt": "grainy film texture",
-      "id": "28036347",
-      "url": "https://images.pexels.com/photos/28036347/pexels-photo-28036347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28036347/pexels-photo-28036347.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#2E2E2E",
-      "alt": "A mysterious abstract image featuring light leaks and scratches in a black and white film scan.",
+      "prompt": "Nordic interior",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
       "credit": {
-        "name": "Alissa Kennedy",
-        "link": "https://www.pexels.com/@prizmatika",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-film-dust-scratches-and-light-leaks-28036347/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
       }
     },
     {
-      "prompt": "botanical leaf detail",
-      "id": "18041512",
-      "url": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#355509",
-      "alt": "Detailed view of a vibrant tropical leaf showing veins illuminated by natural sunlight.",
+      "prompt": "Quiet architecture",
+      "id": "28257494",
+      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5455,
+      "height": 3636,
+      "color": "#7B96B3",
+      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
       "credit": {
-        "name": "AG ZN",
-        "link": "https://www.pexels.com/@agzn",
-        "photoLink": "https://www.pexels.com/photo/philodendron-leaf-against-the-light-18041512/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
       }
     },
     {
-      "prompt": "urban brick facade",
-      "id": "19897755",
-      "url": "https://images.pexels.com/photos/19897755/pexels-photo-19897755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19897755/pexels-photo-19897755.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#7C7D82",
-      "alt": "Low angle shot of a vintage brick building facade showcasing architectural details.",
+      "prompt": "Morning light",
+      "id": "35228360",
+      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#5F4632",
+      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
       "credit": {
-        "name": "Matt Webster",
-        "link": "https://www.pexels.com/@matt-webster-643346449",
-        "photoLink": "https://www.pexels.com/photo/gray-wall-of-vintage-building-19897755/"
+        "name": "Meltem  B.",
+        "link": "https://www.pexels.com/@meltem-b-300284420",
+        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
       }
     },
     {
-      "prompt": "nordic wooden interior",
-      "id": "5023743",
-      "url": "https://images.pexels.com/photos/5023743/pexels-photo-5023743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5023743/pexels-photo-5023743.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5E545A",
-      "alt": "Interior of old authentic wooden Viking house with chairs and burning fireplace in traditional Norstead Village",
+      "prompt": "Workshop tools",
+      "id": "14637831",
+      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#52453F",
+      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
       "credit": {
-        "name": "Erik Mclean",
-        "link": "https://www.pexels.com/@introspectivedsgn",
-        "photoLink": "https://www.pexels.com/photo/traditional-wooden-house-with-rustic-furniture-and-fireplace-5023743/"
+        "name": "Ayub Abdul Rahman",
+        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
+        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
       }
     },
     {
-      "prompt": "coastal foggy sky",
-      "id": "1450091",
-      "url": "https://images.pexels.com/photos/1450091/pexels-photo-1450091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1450091/pexels-photo-1450091.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4492,
-      "height": 2527,
-      "color": "#737E82",
-      "alt": "A moody depiction of a lighthouse on a rugged seashore with stormy waves and overcast skies.",
+      "prompt": "Linen wood table",
+      "id": "7118748",
+      "url": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#807E79",
+      "alt": "Elegant dining setup featuring a single egg in a minimalist table setting, perfect for spring themes.",
       "credit": {
-        "name": "Sindre Fs",
-        "link": "https://www.pexels.com/@blitzboy",
-        "photoLink": "https://www.pexels.com/photo/sea-wave-1450091/"
+        "name": "Ivan S",
+        "link": "https://www.pexels.com/@ivan-s",
+        "photoLink": "https://www.pexels.com/photo/white-ceramic-plate-on-white-table-cloth-7118748/"
       }
     },
     {
-      "prompt": "morning soft light",
-      "id": "39304776",
-      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#BDAA8C",
-      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "prompt": "Still life composition",
+      "id": "38094623",
+      "url": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5562,
+      "height": 3708,
+      "color": "#412927",
+      "alt": "A sophisticated still life showcasing white porcelain vessels on a red surface with a black background.",
       "credit": {
-        "name": "Suvrodip Saha",
-        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
-        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-white-porcelain-vessels-38094623/"
       }
     }
   ]
