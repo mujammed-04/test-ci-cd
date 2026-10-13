@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-12T17:21:29.035Z",
+  "generatedAt": "2026-10-13T00:08:18.746Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "3013852",
-      "url": "https://images.pexels.com/photos/3013852/pexels-photo-3013852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3013852/pexels-photo-3013852.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#89726A",
-      "alt": "Abstract view of a tiled staircase in Hong Kong showcasing modern architecture.",
+      "prompt": "grainy film texture",
+      "id": "28036347",
+      "url": "https://images.pexels.com/photos/28036347/pexels-photo-28036347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28036347/pexels-photo-28036347.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#2E2E2E",
+      "alt": "A mysterious abstract image featuring light leaks and scratches in a black and white film scan.",
       "credit": {
-        "name": "Cube Descent",
-        "link": "https://www.pexels.com/@cubedescent",
-        "photoLink": "https://www.pexels.com/photo/a-building-with-tiled-walls-3013852/"
+        "name": "Alissa Kennedy",
+        "link": "https://www.pexels.com/@prizmatika",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-film-dust-scratches-and-light-leaks-28036347/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "39912945",
-      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#825A41",
-      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
+      "prompt": "botanical leaf detail",
+      "id": "18041512",
+      "url": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#355509",
+      "alt": "Detailed view of a vibrant tropical leaf showing veins illuminated by natural sunlight.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
+        "name": "AG ZN",
+        "link": "https://www.pexels.com/@agzn",
+        "photoLink": "https://www.pexels.com/photo/philodendron-leaf-against-the-light-18041512/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "39761773",
-      "url": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#7E6E61",
-      "alt": "A modern minimalist bedroom with a double bed, wooden accents, and soft lighting.",
+      "prompt": "urban brick facade",
+      "id": "19897755",
+      "url": "https://images.pexels.com/photos/19897755/pexels-photo-19897755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19897755/pexels-photo-19897755.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#7C7D82",
+      "alt": "Low angle shot of a vintage brick building facade showcasing architectural details.",
       "credit": {
-        "name": "Mustafa  Fatemi",
-        "link": "https://www.pexels.com/@solaticace",
-        "photoLink": "https://www.pexels.com/photo/cozy-minimalist-bedroom-interior-with-lamp-39761773/"
+        "name": "Matt Webster",
+        "link": "https://www.pexels.com/@matt-webster-643346449",
+        "photoLink": "https://www.pexels.com/photo/gray-wall-of-vintage-building-19897755/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
-      "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "219890",
-      "url": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "nordic wooden interior",
+      "id": "5023743",
+      "url": "https://images.pexels.com/photos/5023743/pexels-photo-5023743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5023743/pexels-photo-5023743.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5472,
       "height": 3648,
-      "color": "#674927",
-      "alt": "Captivating sunrise over a misty countryside with silhouetted trees and soft morning light.",
+      "color": "#5E545A",
+      "alt": "Interior of old authentic wooden Viking house with chairs and burning fireplace in traditional Norstead Village",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/trees-next-to-body-of-water-219890/"
+        "name": "Erik Mclean",
+        "link": "https://www.pexels.com/@introspectivedsgn",
+        "photoLink": "https://www.pexels.com/photo/traditional-wooden-house-with-rustic-furniture-and-fireplace-5023743/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "12661315",
-      "url": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#DCDCDC",
-      "alt": "Palm trees swaying in strong winds by a stormy ocean seascape.",
+      "prompt": "coastal foggy sky",
+      "id": "1450091",
+      "url": "https://images.pexels.com/photos/1450091/pexels-photo-1450091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1450091/pexels-photo-1450091.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4492,
+      "height": 2527,
+      "color": "#737E82",
+      "alt": "A moody depiction of a lighthouse on a rugged seashore with stormy waves and overcast skies.",
       "credit": {
-        "name": "Atlantic Ambience",
-        "link": "https://www.pexels.com/@freestockpro",
-        "photoLink": "https://www.pexels.com/photo/coconut-trees-near-the-sea-12661315/"
+        "name": "Sindre Fs",
+        "link": "https://www.pexels.com/@blitzboy",
+        "photoLink": "https://www.pexels.com/photo/sea-wave-1450091/"
+      }
+    },
+    {
+      "prompt": "morning soft light",
+      "id": "39304776",
+      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3456,
+      "color": "#BDAA8C",
+      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "credit": {
+        "name": "Suvrodip Saha",
+        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
+        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
       }
     }
   ]
