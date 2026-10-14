@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-14T16:32:34.263Z",
+  "generatedAt": "2026-10-14T20:26:53.058Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34851017",
-      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#1B3448",
-      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
-      "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
-      }
-    },
-    {
-      "prompt": "morning light interior",
-      "id": "33668611",
-      "url": "https://images.pexels.com/photos/33668611/pexels-photo-33668611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33668611/pexels-photo-33668611.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#453B32",
-      "alt": "A cozy kitchen in Patlekhet, Nepal bathed in warm morning light with a single guava on the table.",
-      "credit": {
-        "name": "Sujal Rijal",
-        "link": "https://www.pexels.com/@sujal-rijal-822160551",
-        "photoLink": "https://www.pexels.com/photo/sunlit-kitchen-interior-with-guava-on-table-33668611/"
-      }
-    },
-    {
-      "prompt": "nordic interior design",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "39198016",
-      "url": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3237,
-      "height": 2158,
-      "color": "#494949",
-      "alt": "Detailed macro shot of leaf veins in black and white, showcasing intricate patterns and textures.",
-      "credit": {
-        "name": "Klaus Nenning",
-        "link": "https://www.pexels.com/@nekibek",
-        "photoLink": "https://www.pexels.com/photo/macro-black-and-white-leaf-veins-close-up-39198016/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "10525839",
-      "url": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5658,
-      "height": 3772,
-      "color": "#766C6B",
-      "alt": "Artistic still life photo of pears, stones, and branches with a minimalist design.",
-      "credit": {
-        "name": "Ron Lach",
-        "link": "https://www.pexels.com/@ron-lach",
-        "photoLink": "https://www.pexels.com/photo/pears-near-stones-and-paper-10525839/"
-      }
-    },
-    {
-      "prompt": "quiet architectural facade",
-      "id": "16258922",
-      "url": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "soft morning light",
+      "id": "26632174",
+      "url": "https://images.pexels.com/photos/26632174/pexels-photo-26632174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26632174/pexels-photo-26632174.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#856E5E",
-      "alt": "A beautiful church facade with intricate stonework and arched wooden doors under bright sunlight.",
+      "color": "#666644",
+      "alt": "Close-up of sunlit evergreen branches in a lush summer park setting, with scattered sunlight creating a tranquil atmosphere.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/doors-to-church-16258922/"
+        "name": "George Todoran",
+        "link": "https://www.pexels.com/@george-todoran-1445526814",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-tree-branches-in-a-park-26632174/"
+      }
+    },
+    {
+      "prompt": "handcrafted ceramic vase",
+      "id": "17209708",
+      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5864,
+      "height": 3933,
+      "color": "#A8948F",
+      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
+      "credit": {
+        "name": "Anna Romanova",
+        "link": "https://www.pexels.com/@anna-romanova-1406375",
+        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+      }
+    },
+    {
+      "prompt": "quiet modern architecture",
+      "id": "11318647",
+      "url": "https://images.pexels.com/photos/11318647/pexels-photo-11318647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11318647/pexels-photo-11318647.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8000,
+      "height": 6000,
+      "color": "#141414",
+      "alt": "A dimly lit empty auditorium with rows of seats and a bright doorway at the back, captured in monochrome.",
+      "credit": {
+        "name": "Fra 890",
+        "link": "https://www.pexels.com/@fra890",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-empty-seats-11318647/"
+      }
+    },
+    {
+      "prompt": "vintage workshop tools",
+      "id": "30335395",
+      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#302E22",
+      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "credit": {
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
+      }
+    },
+    {
+      "prompt": "minimalist wooden desk",
+      "id": "776114",
+      "url": "https://images.pexels.com/photos/776114/pexels-photo-776114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/776114/pexels-photo-776114.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3080,
+      "color": "#7D7C7E",
+      "alt": "A clean and modern workspace with a laptop and tablet, emphasizing minimalist design.",
+      "credit": {
+        "name": "Jens Mahnke",
+        "link": "https://www.pexels.com/@atomlaborblog",
+        "photoLink": "https://www.pexels.com/photo/silver-macbook-on-gray-table-776114/"
+      }
+    },
+    {
+      "prompt": "urban gritty texture",
+      "id": "13777953",
+      "url": "https://images.pexels.com/photos/13777953/pexels-photo-13777953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13777953/pexels-photo-13777953.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#484848",
+      "alt": "Close-up of a weathered concrete wall with visible textures and patterns.",
+      "credit": {
+        "name": "Alfredo Marco Pradil",
+        "link": "https://www.pexels.com/@marcologous",
+        "photoLink": "https://www.pexels.com/photo/wall-weathered-concrete-wall-hankenstock-13777953/"
       }
     }
   ]
