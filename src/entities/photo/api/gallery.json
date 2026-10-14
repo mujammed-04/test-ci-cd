@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-13T20:58:31.433Z",
+  "generatedAt": "2026-10-14T00:13:25.237Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "38958556",
-      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#6C4E12",
-      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "prompt": "Vintage workshop tools",
+      "id": "33000620",
+      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#7C716F",
+      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
       "credit": {
-        "name": "meryem",
-        "link": "https://www.pexels.com/@meryem-2157128767",
-        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "39014622",
-      "url": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5943,
-      "height": 3344,
-      "color": "#657579",
-      "alt": "Close-up of a textured wall showing wear, with exposed red brick and dimensional plaster.",
+      "prompt": "Botanical leaf texture",
+      "id": "38681769",
+      "url": "https://images.pexels.com/photos/38681769/pexels-photo-38681769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38681769/pexels-photo-38681769.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#386625",
+      "alt": "Detailed macro of a vibrant green leaf showcasing its intricate texture and vein pattern.",
       "credit": {
-        "name": "Phát Trương",
-        "link": "https://www.pexels.com/@phat-tr-ng-1662052981",
-        "photoLink": "https://www.pexels.com/photo/textured-wall-with-weathered-and-exposed-brick-39014622/"
+        "name": "Ilo Frey",
+        "link": "https://www.pexels.com/@couleur",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-textured-green-leaf-under-sunlight-38681769/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "12661315",
-      "url": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12661315/pexels-photo-12661315.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#DCDCDC",
-      "alt": "Palm trees swaying in strong winds by a stormy ocean seascape.",
+      "prompt": "Quiet minimalist architecture",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
       "credit": {
-        "name": "Atlantic Ambience",
-        "link": "https://www.pexels.com/@freestockpro",
-        "photoLink": "https://www.pexels.com/photo/coconut-trees-near-the-sea-12661315/"
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
+      "prompt": "Analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
       "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "6954767",
-      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4592,
-      "height": 3064,
-      "color": "#B5B3AB",
-      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
+      "prompt": "Morning light interior",
+      "id": "5519987",
+      "url": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#86643B",
+      "alt": "Three wooden chairs with shadows against a sunlit wall in a calm and minimalist interior setting.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
+        "name": "zahra Moradkhani",
+        "link": "https://www.pexels.com/@zahra-moradkhani-3682605",
+        "photoLink": "https://www.pexels.com/photo/chairs-standing-by-the-wall-with-window-throwing-shadow-on-it-5519987/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "prompt": "Linen wood texture",
+      "id": "34860699",
+      "url": "https://images.pexels.com/photos/34860699/pexels-photo-34860699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860699/pexels-photo-34860699.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#8D7654",
+      "alt": "Close-up of beige textile with a detailed texture and gentle folds.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/high-detail-beige-fabric-with-subtle-texture-34860699/"
       }
     }
   ]
