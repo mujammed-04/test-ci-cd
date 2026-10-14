@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-14T20:26:53.058Z",
+  "generatedAt": "2026-10-14T23:40:46.482Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "26632174",
-      "url": "https://images.pexels.com/photos/26632174/pexels-photo-26632174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26632174/pexels-photo-26632174.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#666644",
-      "alt": "Close-up of sunlit evergreen branches in a lush summer park setting, with scattered sunlight creating a tranquil atmosphere.",
-      "credit": {
-        "name": "George Todoran",
-        "link": "https://www.pexels.com/@george-todoran-1445526814",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-tree-branches-in-a-park-26632174/"
-      }
-    },
-    {
-      "prompt": "handcrafted ceramic vase",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
-      "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
-      }
-    },
-    {
-      "prompt": "quiet modern architecture",
-      "id": "11318647",
-      "url": "https://images.pexels.com/photos/11318647/pexels-photo-11318647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11318647/pexels-photo-11318647.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8000,
-      "height": 6000,
-      "color": "#141414",
-      "alt": "A dimly lit empty auditorium with rows of seats and a bright doorway at the back, captured in monochrome.",
-      "credit": {
-        "name": "Fra 890",
-        "link": "https://www.pexels.com/@fra890",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-empty-seats-11318647/"
-      }
-    },
-    {
-      "prompt": "vintage workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
-      "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
-      }
-    },
-    {
-      "prompt": "minimalist wooden desk",
-      "id": "776114",
-      "url": "https://images.pexels.com/photos/776114/pexels-photo-776114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/776114/pexels-photo-776114.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "stormy coastline",
+      "id": "24603870",
+      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5472,
-      "height": 3080,
-      "color": "#7D7C7E",
-      "alt": "A clean and modern workspace with a laptop and tablet, emphasizing minimalist design.",
+      "height": 3018,
+      "color": "#8E9196",
+      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
       "credit": {
-        "name": "Jens Mahnke",
-        "link": "https://www.pexels.com/@atomlaborblog",
-        "photoLink": "https://www.pexels.com/photo/silver-macbook-on-gray-table-776114/"
+        "name": "Olga Prilepskaya",
+        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
+        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
       }
     },
     {
-      "prompt": "urban gritty texture",
-      "id": "13777953",
-      "url": "https://images.pexels.com/photos/13777953/pexels-photo-13777953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13777953/pexels-photo-13777953.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8256,
-      "height": 6192,
-      "color": "#484848",
-      "alt": "Close-up of a weathered concrete wall with visible textures and patterns.",
+      "prompt": "scandinavian interior",
+      "id": "4252513",
+      "url": "https://images.pexels.com/photos/4252513/pexels-photo-4252513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4252513/pexels-photo-4252513.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4696,
+      "height": 3096,
+      "color": "#858990",
+      "alt": "Kitchen island and dining table in stylish modern studio apartment with comfortable sofa and big windows",
       "credit": {
-        "name": "Alfredo Marco Pradil",
-        "link": "https://www.pexels.com/@marcologous",
-        "photoLink": "https://www.pexels.com/photo/wall-weathered-concrete-wall-hankenstock-13777953/"
+        "name": "Alexander Zvir",
+        "link": "https://www.pexels.com/@algrey",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-of-kitchen-combined-with-living-room-in-light-house-4252513/"
+      }
+    },
+    {
+      "prompt": "urban wall texture",
+      "id": "12008050",
+      "url": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6224,
+      "height": 4150,
+      "color": "#9B928B",
+      "alt": "A close-up of a textured wall featuring worn wood and partially painted surfaces.",
+      "credit": {
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/photo-of-daubed-wall-and-glass-door-12008050/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "18041512",
+      "url": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#355509",
+      "alt": "Detailed view of a vibrant tropical leaf showing veins illuminated by natural sunlight.",
+      "credit": {
+        "name": "AG ZN",
+        "link": "https://www.pexels.com/@agzn",
+        "photoLink": "https://www.pexels.com/photo/philodendron-leaf-against-the-light-18041512/"
+      }
+    },
+    {
+      "prompt": "workshop tool set",
+      "id": "4346914",
+      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3929,
+      "height": 2481,
+      "color": "#443F40",
+      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
+      "credit": {
+        "name": "Csongor Kemény",
+        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
+        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
+      }
+    },
+    {
+      "prompt": "vintage stilllife",
+      "id": "265006",
+      "url": "https://images.pexels.com/photos/265006/pexels-photo-265006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/265006/pexels-photo-265006.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4256,
+      "height": 2832,
+      "color": "#28231B",
+      "alt": "Elegant display of vintage ceramic tea cups and ornate wooden decoration on a rustic tray.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/two-white-teacups-on-black-tray-265006/"
       }
     }
   ]
