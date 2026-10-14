@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-14T11:11:21.768Z",
+  "generatedAt": "2026-10-14T16:32:34.263Z",
   "photos": [
     {
-      "prompt": "rustic workshop tools",
-      "id": "5853929",
-      "url": "https://images.pexels.com/photos/5853929/pexels-photo-5853929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5853929/pexels-photo-5853929.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#7B5345",
-      "alt": "Top view of carpenter's measuring tools on rustic wooden surface, ideal for construction concepts.",
+      "prompt": "linen wood texture",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
       "credit": {
-        "name": "Antoni Shkraba",
-        "link": "https://www.pexels.com/@shkrabaanthony",
-        "photoLink": "https://www.pexels.com/photo/measuring-devices-against-wooden-boards-5853929/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     },
     {
-      "prompt": "quiet minimalist architecture",
-      "id": "15246961",
-      "url": "https://images.pexels.com/photos/15246961/pexels-photo-15246961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15246961/pexels-photo-15246961.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4288,
-      "height": 2848,
-      "color": "#2D2D2B",
-      "alt": "A dark and empty corridor with windows revealing an outdoor view, creating a mysterious ambiance.",
+      "prompt": "morning light interior",
+      "id": "33668611",
+      "url": "https://images.pexels.com/photos/33668611/pexels-photo-33668611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33668611/pexels-photo-33668611.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#453B32",
+      "alt": "A cozy kitchen in Patlekhet, Nepal bathed in warm morning light with a single guava on the table.",
       "credit": {
-        "name": "Yavuz Solgun",
-        "link": "https://www.pexels.com/@yavuz-solgun-26647055",
-        "photoLink": "https://www.pexels.com/photo/windows-in-dark-corridor-15246961/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "30369053",
-      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#626D73",
-      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
-      "credit": {
-        "name": "Maria Suslova",
-        "link": "https://www.pexels.com/@maria-suslova-541493887",
-        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
-      }
-    },
-    {
-      "prompt": "vintage still life",
-      "id": "6153880",
-      "url": "https://images.pexels.com/photos/6153880/pexels-photo-6153880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6153880/pexels-photo-6153880.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#A18C78",
-      "alt": "A flat lay of a pocket watch and jewelry in a glass dish over vintage bird-patterned fabric.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/a-pocket-watch-and-jewelries-on-a-glass-container-6153880/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "35993620",
-      "url": "https://images.pexels.com/photos/35993620/pexels-photo-35993620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35993620/pexels-photo-35993620.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4288,
-      "height": 2848,
-      "color": "#803E04",
-      "alt": "Vibrant macro shot of a plant leaf showcasing its rich colors and textures.",
-      "credit": {
-        "name": "wal_ 172619",
-        "link": "https://www.pexels.com/@wal_-172619-2156618639",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-colorful-plant-leaf-texture-35993620/"
+        "name": "Sujal Rijal",
+        "link": "https://www.pexels.com/@sujal-rijal-822160551",
+        "photoLink": "https://www.pexels.com/photo/sunlit-kitchen-interior-with-guava-on-table-33668611/"
       }
     },
     {
       "prompt": "nordic interior design",
-      "id": "6633454",
-      "url": "https://images.pexels.com/photos/6633454/pexels-photo-6633454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6633454/pexels-photo-6633454.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#837265",
-      "alt": "A minimalist setup with a wooden chair, vase, and stack of books indoors.",
+      "id": "8092417",
+      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6715,
+      "height": 4477,
+      "color": "#CFCECC",
+      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/white-and-green-flowers-on-the-chair-6633454/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "39198016",
+      "url": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39198016/pexels-photo-39198016.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3237,
+      "height": 2158,
+      "color": "#494949",
+      "alt": "Detailed macro shot of leaf veins in black and white, showcasing intricate patterns and textures.",
+      "credit": {
+        "name": "Klaus Nenning",
+        "link": "https://www.pexels.com/@nekibek",
+        "photoLink": "https://www.pexels.com/photo/macro-black-and-white-leaf-veins-close-up-39198016/"
+      }
+    },
+    {
+      "prompt": "still life arrangement",
+      "id": "10525839",
+      "url": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5658,
+      "height": 3772,
+      "color": "#766C6B",
+      "alt": "Artistic still life photo of pears, stones, and branches with a minimalist design.",
+      "credit": {
+        "name": "Ron Lach",
+        "link": "https://www.pexels.com/@ron-lach",
+        "photoLink": "https://www.pexels.com/photo/pears-near-stones-and-paper-10525839/"
+      }
+    },
+    {
+      "prompt": "quiet architectural facade",
+      "id": "16258922",
+      "url": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#856E5E",
+      "alt": "A beautiful church facade with intricate stonework and arched wooden doors under bright sunlight.",
+      "credit": {
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/doors-to-church-16258922/"
       }
     }
   ]
