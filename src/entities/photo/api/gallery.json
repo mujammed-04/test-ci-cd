@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-15T03:13:07.864Z",
+  "generatedAt": "2026-10-15T08:50:57.845Z",
   "photos": [
     {
-      "prompt": "rustic workshop tools",
-      "id": "32599546",
-      "url": "https://images.pexels.com/photos/32599546/pexels-photo-32599546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32599546/pexels-photo-32599546.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6016,
-      "height": 4016,
-      "color": "#392E28",
-      "alt": "Set of vintage woodworking chisels neatly arranged on a rustic leather mat, showcasing craftsmanship.",
-      "credit": {
-        "name": "Cihan Yüce",
-        "link": "https://www.pexels.com/@cihanyuce",
-        "photoLink": "https://www.pexels.com/photo/vintage-woodworking-chisels-on-leather-background-32599546/"
-      }
-    },
-    {
-      "prompt": "minimalist desk space",
-      "id": "917463",
-      "url": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#BBBBBB",
-      "alt": "An organized workspace with a keyboard, coffee cup, wallet, and succulent plant on a wooden desk.",
-      "credit": {
-        "name": "Lukas Blazek",
-        "link": "https://www.pexels.com/@goumbik",
-        "photoLink": "https://www.pexels.com/photo/white-apple-keyboard-near-white-cup-917463/"
-      }
-    },
-    {
-      "prompt": "quiet architectural interior",
-      "id": "1381782",
-      "url": "https://images.pexels.com/photos/1381782/pexels-photo-1381782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1381782/pexels-photo-1381782.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5052,
-      "height": 3369,
-      "color": "#7C8184",
-      "alt": "Contemporary indoor architecture showcasing minimalistic lighting and geometric shadows.",
-      "credit": {
-        "name": "Paweł L.",
-        "link": "https://www.pexels.com/@pawel-l-435199",
-        "photoLink": "https://www.pexels.com/photo/black-pendant-lamps-in-white-building-1381782/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "3847451",
-      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#655F62",
-      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
-      "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "linen texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
       "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "5964663",
-      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#90704C",
-      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
+      "prompt": "wooden grain",
+      "id": "4705928",
+      "url": "https://images.pexels.com/photos/4705928/pexels-photo-4705928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4705928/pexels-photo-4705928.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#140E07",
+      "alt": "Closeup of a dark wooden surface texture, perfect for backgrounds or patterns.",
       "credit": {
-        "name": "Eva Bronzini",
-        "link": "https://www.pexels.com/@eva-bronzini",
-        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-wooden-surface-4705928/"
+      }
+    },
+    {
+      "prompt": "urban decay",
+      "id": "19446239",
+      "url": "https://images.pexels.com/photos/19446239/pexels-photo-19446239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19446239/pexels-photo-19446239.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4564,
+      "height": 2567,
+      "color": "#5E5B54",
+      "alt": "Rusty window frame reflecting an abandoned building under a dramatic cloudy sky.",
+      "credit": {
+        "name": "Alex Agrico",
+        "link": "https://www.pexels.com/@sofus",
+        "photoLink": "https://www.pexels.com/photo/bars-in-windows-in-an-abandoned-building-19446239/"
+      }
+    },
+    {
+      "prompt": "coastal storm",
+      "id": "14920355",
+      "url": "https://images.pexels.com/photos/14920355/pexels-photo-14920355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920355/pexels-photo-14920355.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5960,
+      "height": 3979,
+      "color": "#828278",
+      "alt": "A dramatic beach scene with storm clouds gathering over the horizon, casting shadows on rocks and driftwood.",
+      "credit": {
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/dramatic-storm-clouds-over-the-sea-with-beach-in-the-foreground-14920355/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "30227710",
+      "url": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#3B586A",
+      "alt": "Sharp angles of a minimalist building against a clear blue sky, showcasing modern design.",
+      "credit": {
+        "name": "Matthew Jesús",
+        "link": "https://www.pexels.com/@matthew-jesus-468170389",
+        "photoLink": "https://www.pexels.com/photo/minimalist-modern-architecture-against-blue-sky-30227710/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "33000620",
+      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#7C716F",
+      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
+      "credit": {
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
       }
     }
   ]
