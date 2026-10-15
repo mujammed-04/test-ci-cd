@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-14T23:40:46.482Z",
+  "generatedAt": "2026-10-15T03:13:07.864Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "24603870",
-      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3018,
-      "color": "#8E9196",
-      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
+      "prompt": "rustic workshop tools",
+      "id": "32599546",
+      "url": "https://images.pexels.com/photos/32599546/pexels-photo-32599546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32599546/pexels-photo-32599546.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
+      "height": 4016,
+      "color": "#392E28",
+      "alt": "Set of vintage woodworking chisels neatly arranged on a rustic leather mat, showcasing craftsmanship.",
       "credit": {
-        "name": "Olga Prilepskaya",
-        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
+        "name": "Cihan Yüce",
+        "link": "https://www.pexels.com/@cihanyuce",
+        "photoLink": "https://www.pexels.com/photo/vintage-woodworking-chisels-on-leather-background-32599546/"
       }
     },
     {
-      "prompt": "scandinavian interior",
-      "id": "4252513",
-      "url": "https://images.pexels.com/photos/4252513/pexels-photo-4252513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4252513/pexels-photo-4252513.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4696,
-      "height": 3096,
-      "color": "#858990",
-      "alt": "Kitchen island and dining table in stylish modern studio apartment with comfortable sofa and big windows",
-      "credit": {
-        "name": "Alexander Zvir",
-        "link": "https://www.pexels.com/@algrey",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-of-kitchen-combined-with-living-room-in-light-house-4252513/"
-      }
-    },
-    {
-      "prompt": "urban wall texture",
-      "id": "12008050",
-      "url": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6224,
-      "height": 4150,
-      "color": "#9B928B",
-      "alt": "A close-up of a textured wall featuring worn wood and partially painted surfaces.",
-      "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/photo-of-daubed-wall-and-glass-door-12008050/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "18041512",
-      "url": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18041512/pexels-photo-18041512.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimalist desk space",
+      "id": "917463",
+      "url": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/917463/pexels-photo-917463.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4928,
       "height": 3264,
-      "color": "#355509",
-      "alt": "Detailed view of a vibrant tropical leaf showing veins illuminated by natural sunlight.",
+      "color": "#BBBBBB",
+      "alt": "An organized workspace with a keyboard, coffee cup, wallet, and succulent plant on a wooden desk.",
       "credit": {
-        "name": "AG ZN",
-        "link": "https://www.pexels.com/@agzn",
-        "photoLink": "https://www.pexels.com/photo/philodendron-leaf-against-the-light-18041512/"
+        "name": "Lukas Blazek",
+        "link": "https://www.pexels.com/@goumbik",
+        "photoLink": "https://www.pexels.com/photo/white-apple-keyboard-near-white-cup-917463/"
       }
     },
     {
-      "prompt": "workshop tool set",
-      "id": "4346914",
-      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3929,
-      "height": 2481,
-      "color": "#443F40",
-      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
+      "prompt": "quiet architectural interior",
+      "id": "1381782",
+      "url": "https://images.pexels.com/photos/1381782/pexels-photo-1381782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1381782/pexels-photo-1381782.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5052,
+      "height": 3369,
+      "color": "#7C8184",
+      "alt": "Contemporary indoor architecture showcasing minimalistic lighting and geometric shadows.",
       "credit": {
-        "name": "Csongor Kemény",
-        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
-        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
+        "name": "Paweł L.",
+        "link": "https://www.pexels.com/@pawel-l-435199",
+        "photoLink": "https://www.pexels.com/photo/black-pendant-lamps-in-white-building-1381782/"
       }
     },
     {
-      "prompt": "vintage stilllife",
-      "id": "265006",
-      "url": "https://images.pexels.com/photos/265006/pexels-photo-265006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/265006/pexels-photo-265006.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#28231B",
-      "alt": "Elegant display of vintage ceramic tea cups and ornate wooden decoration on a rustic tray.",
+      "prompt": "handmade ceramic bowl",
+      "id": "3847451",
+      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#655F62",
+      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/two-white-teacups-on-black-tray-265006/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "9780172",
+      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#B99C96",
+      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "credit": {
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "5964663",
+      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#90704C",
+      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
+      "credit": {
+        "name": "Eva Bronzini",
+        "link": "https://www.pexels.com/@eva-bronzini",
+        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
       }
     }
   ]
