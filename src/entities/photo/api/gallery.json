@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-15T18:04:45.538Z",
+  "generatedAt": "2026-10-15T21:55:38.942Z",
   "photos": [
     {
-      "prompt": "botanical detail",
-      "id": "39200567",
-      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B4F41",
-      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
+      "prompt": "analogue film grain",
+      "id": "32909013",
+      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3088,
+      "height": 2048,
+      "color": "#8A8A8A",
+      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
       "credit": {
-        "name": "NEOSiAM 18+",
-        "link": "https://www.pexels.com/@neosiam",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
+        "name": "Faruk Canpolat",
+        "link": "https://www.pexels.com/@farukcanpolat",
+        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
+      }
+    },
+    {
+      "prompt": "minimal desks",
+      "id": "7534169",
+      "url": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4069,
+      "height": 3137,
+      "color": "#AEAEAC",
+      "alt": "Wooden tables and blue office chairs placed in modern workplace with shelves on wall",
+      "credit": {
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/interior-of-office-with-tables-and-chairs-7534169/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "7815314",
+      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1999,
+      "color": "#B79F7B",
+      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
+      "credit": {
+        "name": "Ch  SAAD",
+        "link": "https://www.pexels.com/@ch-saad-3019259",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
+      }
+    },
+    {
+      "prompt": "handmade ceramics",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "credit": {
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     },
     {
       "prompt": "workshop tools",
-      "id": "7423708",
-      "url": "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4272,
-      "height": 2848,
-      "color": "#4B4A45",
-      "alt": "Soft focus of weathered part of industrial machinery installed on workbench in professional workshop",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
       "credit": {
-        "name": "Karen Laårk Boshoff",
-        "link": "https://www.pexels.com/@laarkstudio",
-        "photoLink": "https://www.pexels.com/photo/part-of-machine-in-workshop-7423708/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "6952331",
-      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6610,
-      "height": 4407,
-      "color": "#BDB2A8",
-      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
+      "prompt": "nordic interiors",
+      "id": "32690493",
+      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2704,
+      "color": "#7A7675",
+      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "17994857",
-      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#968677",
-      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
-      "credit": {
-        "name": "Osmany Mederos",
-        "link": "https://www.pexels.com/@osmany-mederos-211956483",
-        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
-      }
-    },
-    {
-      "prompt": "minimal desk",
-      "id": "8473794",
-      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#B7AB95",
-      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
-      "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "38783538",
-      "url": "https://images.pexels.com/photos/38783538/pexels-photo-38783538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38783538/pexels-photo-38783538.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#AAAAAA",
-      "alt": "Black and white coastal scene with a rustic wooden fence in Guaratuba, Brazil.",
-      "credit": {
-        "name": "Landiva  Weber",
-        "link": "https://www.pexels.com/@diva",
-        "photoLink": "https://www.pexels.com/photo/rustic-fence-by-the-coast-in-guaratuba-38783538/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
       }
     }
   ]
