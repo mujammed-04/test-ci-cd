@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-15T21:55:38.942Z",
+  "generatedAt": "2026-10-16T00:05:39.315Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "32909013",
-      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#8A8A8A",
-      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
-      "credit": {
-        "name": "Faruk Canpolat",
-        "link": "https://www.pexels.com/@farukcanpolat",
-        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
-      }
-    },
-    {
-      "prompt": "minimal desks",
-      "id": "7534169",
-      "url": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7534169/pexels-photo-7534169.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4069,
-      "height": 3137,
-      "color": "#AEAEAC",
-      "alt": "Wooden tables and blue office chairs placed in modern workplace with shelves on wall",
-      "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/interior-of-office-with-tables-and-chairs-7534169/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "7815314",
-      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "grainy film texture",
+      "id": "11635501",
+      "url": "https://images.pexels.com/photos/11635501/pexels-photo-11635501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11635501/pexels-photo-11635501.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 3000,
-      "height": 1999,
-      "color": "#B79F7B",
-      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
+      "height": 2083,
+      "color": "#7E7E7E",
+      "alt": "Abstract black-and-white close-up of a textured wall featuring dried plant material.",
       "credit": {
-        "name": "Ch  SAAD",
-        "link": "https://www.pexels.com/@ch-saad-3019259",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-a-wall-11635501/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "prompt": "soft morning light",
+      "id": "979323",
+      "url": "https://images.pexels.com/photos/979323/pexels-photo-979323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/979323/pexels-photo-979323.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#889573",
+      "alt": "Close-up macro shot of dewy grass blades with a soft bokeh background, capturing nature's beauty.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "name": "Dapur Melodi",
+        "link": "https://www.pexels.com/@dapur-melodi-192125",
+        "photoLink": "https://www.pexels.com/photo/macro-photography-of-blades-of-grass-979323/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "prompt": "minimal desk setup",
+      "id": "7055",
+      "url": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#9F9C99",
+      "alt": "A clean and modern home office workspace featuring an iMac, keyboard, and magic mouse on a minimalist desk.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+        "name": "Startup Stock Photos",
+        "link": "https://www.pexels.com/@startup-stock-photos",
+        "photoLink": "https://www.pexels.com/photo/silver-imac-set-on-table-7055/"
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
+      "prompt": "coastal storm clouds",
+      "id": "14920356",
+      "url": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5960,
+      "height": 3979,
+      "color": "#898F83",
+      "alt": "A dramatic scene of a storm approaching a sandy beach with rocks under a cloudy sky.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/rocks-and-a-tree-log-on-the-beach-under-a-stormy-sky-14920356/"
+      }
+    },
+    {
+      "prompt": "botanical leaf closeup",
+      "id": "4593955",
+      "url": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6330,
+      "height": 4220,
+      "color": "#485944",
+      "alt": "Detailed close-up of a vibrant green leaf with rich textures and patterns.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/jungle-leaf-texture-4593955/"
+      }
+    },
+    {
+      "prompt": "quiet architectural hallway",
+      "id": "6895380",
+      "url": "https://images.pexels.com/photos/6895380/pexels-photo-6895380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6895380/pexels-photo-6895380.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3458,
+      "height": 2763,
+      "color": "#838583",
+      "alt": "Spacious hallway in a modern office building with sunlight streaming in, highlighting clean design.",
+      "credit": {
+        "name": "David Slaager",
+        "link": "https://www.pexels.com/@david-slaager-3875806",
+        "photoLink": "https://www.pexels.com/photo/a-hallway-of-a-building-6895380/"
       }
     }
   ]
