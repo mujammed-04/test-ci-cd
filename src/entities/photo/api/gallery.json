@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-16T19:17:58.137Z",
+  "generatedAt": "2026-10-16T22:31:16.463Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "8089263",
-      "url": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#94978C",
-      "alt": "Modern apartment corridor with vibrant decor and plants, highlighting contemporary style.",
+      "prompt": "stormy coastline",
+      "id": "6051247",
+      "url": "https://images.pexels.com/photos/6051247/pexels-photo-6051247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6051247/pexels-photo-6051247.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#838C92",
+      "alt": "Dramatic thick clouds floating over rippling sea with foamy waves rolling on black sandy beach",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/decor-of-contemporary-apartment-8089263/"
+        "name": "Dasha Musohranova",
+        "link": "https://www.pexels.com/@dasha-musohranova-1745017",
+        "photoLink": "https://www.pexels.com/photo/breathtaking-seascape-with-foamy-waves-and-cloudy-sky-6051247/"
       }
     },
     {
-      "prompt": "Urban texture",
-      "id": "3735605",
-      "url": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4998,
-      "height": 3112,
-      "color": "#735D4B",
-      "alt": "A textured brick wall showcasing varied patterns and tones, perfect for backgrounds and design elements.",
+      "prompt": "rusty workshop tools",
+      "id": "21470305",
+      "url": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4024,
+      "color": "#453331",
+      "alt": "A close-up of an old, rusty toolbox filled with vintage tools under harsh sunlight.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/brick-wall-3735605/"
+        "name": "Alfo Medeiros",
+        "link": "https://www.pexels.com/@alfomedeiros",
+        "photoLink": "https://www.pexels.com/photo/an-old-tool-box-21470305/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "6954767",
-      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4592,
-      "height": 3064,
-      "color": "#B5B3AB",
-      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
+      "prompt": "gritty urban textures",
+      "id": "3964653",
+      "url": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#A8A5A1",
+      "alt": "Close-up view of a rough textured concrete wall, ideal for backgrounds.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-3964653/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
+      "prompt": "vintage still life",
+      "id": "10874339",
+      "url": "https://images.pexels.com/photos/10874339/pexels-photo-10874339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10874339/pexels-photo-10874339.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#3D2F26",
+      "alt": "Artistic display of a vintage floral teacup beside a rose and old book. Elegant and timeless.",
       "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+        "name": "Ylanite Koppens",
+        "link": "https://www.pexels.com/@nietjuhart",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-cup-10874339/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "4346914",
-      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3929,
-      "height": 2481,
-      "color": "#443F40",
-      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
+      "prompt": "analogue film grain",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
       "credit": {
-        "name": "Csongor Kemény",
-        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
-        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
       }
     },
     {
-      "prompt": "Morning light",
-      "id": "1590078",
-      "url": "https://images.pexels.com/photos/1590078/pexels-photo-1590078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1590078/pexels-photo-1590078.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3330,
-      "height": 2220,
-      "color": "#685135",
-      "alt": "Warm interior scene with sunlight streaming through a window and curtain.",
+      "prompt": "nordic interior design",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "Dương Nhân",
-        "link": "https://www.pexels.com/@d-ng-nhan-324384",
-        "photoLink": "https://www.pexels.com/photo/brown-and-white-window-curtain-1590078/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     }
   ]
