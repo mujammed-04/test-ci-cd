@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-16T05:26:37.309Z",
+  "generatedAt": "2026-10-16T10:42:22.430Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "9564681",
-      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5799,
-      "height": 4000,
-      "color": "#716956",
-      "alt": "A serene forest scene with sun rays through trees and morning fog.",
+      "prompt": "minimal desk",
+      "id": "6662",
+      "url": "https://images.pexels.com/photos/6662/creative-smartphone-notebook-typography.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6662/creative-smartphone-notebook-typography.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4104,
+      "height": 2736,
+      "color": "#C2C2C2",
+      "alt": "Black and white flat lay of smartphone, notebook, and earphones on a minimalist desk.",
       "credit": {
-        "name": "Ludvig Hedenborg",
-        "link": "https://www.pexels.com/@ludvighedenborg",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
+        "name": "Karolina Grabowska www.kaboompics.com",
+        "link": "https://www.pexels.com/@karola-g2",
+        "photoLink": "https://www.pexels.com/photo/top-view-of-phone-earphones-pen-and-diary-6662/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "handmade ceramics",
+      "id": "6611482",
+      "url": "https://images.pexels.com/photos/6611482/pexels-photo-6611482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611482/pexels-photo-6611482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3333,
+      "color": "#B5B0A9",
+      "alt": "Close-up of stacked ceramic bowls and plates showcasing fine craftsmanship.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "33000620",
-      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8256,
-      "height": 6192,
-      "color": "#7C716F",
-      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
-      "credit": {
-        "name": "Tahir Xəlfəquliyev",
-        "link": "https://www.pexels.com/@tahir",
-        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "132709",
-      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2814,
-      "color": "#878F8A",
-      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
-      "credit": {
-        "name": "Snapwire",
-        "link": "https://www.pexels.com/@snapwire",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
-      }
-    },
-    {
-      "prompt": "nordic interiors",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/stack-of-plates-and-bowls-in-a-pottery-workshop-6611482/"
       }
     },
     {
       "prompt": "still life",
-      "id": "19135397",
-      "url": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3260,
-      "height": 2518,
-      "color": "#A4A488",
-      "alt": "Yellow apples with bark casting a playful cat shadow in warm sunlight.",
+      "id": "20530960",
+      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#9C9674",
+      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
       "credit": {
-        "name": "Dagmara Dombrovska",
-        "link": "https://www.pexels.com/@dagmara-dombrovska-22732579",
-        "photoLink": "https://www.pexels.com/photo/two-yellow-apples-and-a-piece-of-bark-on-the-table-19135397/"
+        "name": "Esra Erdem",
+        "link": "https://www.pexels.com/@esrakorkmaz",
+        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
+      }
+    },
+    {
+      "prompt": "urban texture",
+      "id": "17905715",
+      "url": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6221,
+      "height": 4666,
+      "color": "#6E7176",
+      "alt": "Close-up of layered torn posters peeling from a textured urban wall, showcasing street art decay.",
+      "credit": {
+        "name": "Carsten Ruthemann",
+        "link": "https://www.pexels.com/@cannontaler",
+        "photoLink": "https://www.pexels.com/photo/remnants-of-torn-posters-on-the-wall-17905715/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "credit": {
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "29623051",
+      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3342,
+      "height": 2303,
+      "color": "#494134",
+      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
+      "credit": {
+        "name": "zheng liang",
+        "link": "https://www.pexels.com/@zzzzlz",
+        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
       }
     }
   ]
