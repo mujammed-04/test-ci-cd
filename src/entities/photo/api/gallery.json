@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-16T15:11:58.438Z",
+  "generatedAt": "2026-10-16T19:17:58.137Z",
   "photos": [
     {
-      "prompt": "handmade ceramics",
-      "id": "33703946",
-      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4D3B2F",
-      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
+      "prompt": "Nordic interior",
+      "id": "8089263",
+      "url": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#94978C",
+      "alt": "Modern apartment corridor with vibrant decor and plants, highlighting contemporary style.",
       "credit": {
-        "name": "Miguel González",
-        "link": "https://www.pexels.com/@mikegles",
-        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/decor-of-contemporary-apartment-8089263/"
       }
     },
     {
-      "prompt": "urban textures",
-      "id": "9990207",
-      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B5B7",
-      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
+      "prompt": "Urban texture",
+      "id": "3735605",
+      "url": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3735605/pexels-photo-3735605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4998,
+      "height": 3112,
+      "color": "#735D4B",
+      "alt": "A textured brick wall showcasing varied patterns and tones, perfect for backgrounds and design elements.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-3735605/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "15102482",
-      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5522,
-      "height": 3106,
-      "color": "#AC8A65",
-      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
+      "prompt": "Linen wood",
+      "id": "6954767",
+      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4592,
+      "height": 3064,
+      "color": "#B5B3AB",
+      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
       "credit": {
-        "name": "FFD Restorations",
-        "link": "https://www.pexels.com/@ffd-restorations-400571257",
-        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "17994857",
-      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#968677",
-      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
+      "prompt": "Analogue film grain",
+      "id": "3538574",
+      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3581,
+      "height": 2383,
+      "color": "#7D685E",
+      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
       "credit": {
-        "name": "Osmany Mederos",
-        "link": "https://www.pexels.com/@osmany-mederos-211956483",
-        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
+        "name": "Giovanni Calia",
+        "link": "https://www.pexels.com/@giovanni-calia-1140926",
+        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8534373",
-      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5654,
-      "height": 3769,
-      "color": "#B5B5B5",
-      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
+      "prompt": "Workshop tools",
+      "id": "4346914",
+      "url": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4346914/pexels-photo-4346914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3929,
+      "height": 2481,
+      "color": "#443F40",
+      "alt": "From above of various carpentry tools arranged on wooden table near box in workshop",
       "credit": {
-        "name": "Hanna Pad",
-        "link": "https://www.pexels.com/@anna-nekrashevich",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
+        "name": "Csongor Kemény",
+        "link": "https://www.pexels.com/@csongor-kemeny-1815134",
+        "photoLink": "https://www.pexels.com/photo/carpentry-implements-placed-on-wooden-table-4346914/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "11000789",
-      "url": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#5F7537",
-      "alt": "Macro shot of green pine flower buds with vivid textures and details.",
+      "prompt": "Morning light",
+      "id": "1590078",
+      "url": "https://images.pexels.com/photos/1590078/pexels-photo-1590078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1590078/pexels-photo-1590078.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3330,
+      "height": 2220,
+      "color": "#685135",
+      "alt": "Warm interior scene with sunlight streaming through a window and curtain.",
       "credit": {
-        "name": "Piotr Wojnowski",
-        "link": "https://www.pexels.com/@piotr-wojnowski-2767306",
-        "photoLink": "https://www.pexels.com/photo/macro-shot-photography-of-buds-of-a-flower-11000789/"
+        "name": "Dương Nhân",
+        "link": "https://www.pexels.com/@d-ng-nhan-324384",
+        "photoLink": "https://www.pexels.com/photo/brown-and-white-window-curtain-1590078/"
       }
     }
   ]
