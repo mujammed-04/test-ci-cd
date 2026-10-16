@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-16T00:05:39.315Z",
+  "generatedAt": "2026-10-16T05:26:37.309Z",
   "photos": [
     {
-      "prompt": "grainy film texture",
-      "id": "11635501",
-      "url": "https://images.pexels.com/photos/11635501/pexels-photo-11635501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11635501/pexels-photo-11635501.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2083,
-      "color": "#7E7E7E",
-      "alt": "Abstract black-and-white close-up of a textured wall featuring dried plant material.",
+      "prompt": "morning light",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
+      "height": 4000,
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-a-wall-11635501/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "979323",
-      "url": "https://images.pexels.com/photos/979323/pexels-photo-979323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/979323/pexels-photo-979323.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#889573",
-      "alt": "Close-up macro shot of dewy grass blades with a soft bokeh background, capturing nature's beauty.",
-      "credit": {
-        "name": "Dapur Melodi",
-        "link": "https://www.pexels.com/@dapur-melodi-192125",
-        "photoLink": "https://www.pexels.com/photo/macro-photography-of-blades-of-grass-979323/"
-      }
-    },
-    {
-      "prompt": "minimal desk setup",
-      "id": "7055",
-      "url": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#9F9C99",
-      "alt": "A clean and modern home office workspace featuring an iMac, keyboard, and magic mouse on a minimalist desk.",
-      "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-set-on-table-7055/"
-      }
-    },
-    {
-      "prompt": "coastal storm clouds",
-      "id": "14920356",
-      "url": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920356/pexels-photo-14920356.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5960,
-      "height": 3979,
-      "color": "#898F83",
-      "alt": "A dramatic scene of a storm approaching a sandy beach with rocks under a cloudy sky.",
-      "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/rocks-and-a-tree-log-on-the-beach-under-a-stormy-sky-14920356/"
-      }
-    },
-    {
-      "prompt": "botanical leaf closeup",
-      "id": "4593955",
-      "url": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4593955/pexels-photo-4593955.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6330,
-      "height": 4220,
-      "color": "#485944",
-      "alt": "Detailed close-up of a vibrant green leaf with rich textures and patterns.",
+      "prompt": "minimal desks",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
       "credit": {
         "name": "https://kaboompics.com/",
         "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/jungle-leaf-texture-4593955/"
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
       }
     },
     {
-      "prompt": "quiet architectural hallway",
-      "id": "6895380",
-      "url": "https://images.pexels.com/photos/6895380/pexels-photo-6895380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6895380/pexels-photo-6895380.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3458,
-      "height": 2763,
-      "color": "#838583",
-      "alt": "Spacious hallway in a modern office building with sunlight streaming in, highlighting clean design.",
+      "prompt": "workshop tools",
+      "id": "33000620",
+      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#7C716F",
+      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
       "credit": {
-        "name": "David Slaager",
-        "link": "https://www.pexels.com/@david-slaager-3875806",
-        "photoLink": "https://www.pexels.com/photo/a-hallway-of-a-building-6895380/"
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "132709",
+      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 2814,
+      "color": "#878F8A",
+      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
+      "credit": {
+        "name": "Snapwire",
+        "link": "https://www.pexels.com/@snapwire",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
+      }
+    },
+    {
+      "prompt": "nordic interiors",
+      "id": "8092417",
+      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6715,
+      "height": 4477,
+      "color": "#CFCECC",
+      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "19135397",
+      "url": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3260,
+      "height": 2518,
+      "color": "#A4A488",
+      "alt": "Yellow apples with bark casting a playful cat shadow in warm sunlight.",
+      "credit": {
+        "name": "Dagmara Dombrovska",
+        "link": "https://www.pexels.com/@dagmara-dombrovska-22732579",
+        "photoLink": "https://www.pexels.com/photo/two-yellow-apples-and-a-piece-of-bark-on-the-table-19135397/"
       }
     }
   ]
