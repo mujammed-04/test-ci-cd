@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-16T10:42:22.430Z",
+  "generatedAt": "2026-10-16T15:11:58.438Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "6662",
-      "url": "https://images.pexels.com/photos/6662/creative-smartphone-notebook-typography.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6662/creative-smartphone-notebook-typography.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4104,
-      "height": 2736,
-      "color": "#C2C2C2",
-      "alt": "Black and white flat lay of smartphone, notebook, and earphones on a minimalist desk.",
-      "credit": {
-        "name": "Karolina Grabowska www.kaboompics.com",
-        "link": "https://www.pexels.com/@karola-g2",
-        "photoLink": "https://www.pexels.com/photo/top-view-of-phone-earphones-pen-and-diary-6662/"
-      }
-    },
-    {
       "prompt": "handmade ceramics",
-      "id": "6611482",
-      "url": "https://images.pexels.com/photos/6611482/pexels-photo-6611482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611482/pexels-photo-6611482.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3333,
-      "color": "#B5B0A9",
-      "alt": "Close-up of stacked ceramic bowls and plates showcasing fine craftsmanship.",
+      "id": "33703946",
+      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#4D3B2F",
+      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
       "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/stack-of-plates-and-bowls-in-a-pottery-workshop-6611482/"
+        "name": "Miguel González",
+        "link": "https://www.pexels.com/@mikegles",
+        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "20530960",
-      "url": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20530960/pexels-photo-20530960.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#9C9674",
-      "alt": "A green apple reflected in a mirror atop vintage book pages, creating a still life artwork.",
+      "prompt": "urban textures",
+      "id": "9990207",
+      "url": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9990207/pexels-photo-9990207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#B4B5B7",
+      "alt": "Close-up of a concrete wall with cracked and peeling paint pattern.",
       "credit": {
-        "name": "Esra Erdem",
-        "link": "https://www.pexels.com/@esrakorkmaz",
-        "photoLink": "https://www.pexels.com/photo/apple-reflecting-in-mirror-20530960/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-9990207/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "17905715",
-      "url": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17905715/pexels-photo-17905715.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6221,
-      "height": 4666,
-      "color": "#6E7176",
-      "alt": "Close-up of layered torn posters peeling from a textured urban wall, showcasing street art decay.",
+      "prompt": "workshop tools",
+      "id": "15102482",
+      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5522,
+      "height": 3106,
+      "color": "#AC8A65",
+      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/remnants-of-torn-posters-on-the-wall-17905715/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "9493189",
-      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4737,
-      "height": 3153,
-      "color": "#68757E",
-      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "prompt": "linen wood",
+      "id": "17994857",
+      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#968677",
+      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+        "name": "Osmany Mederos",
+        "link": "https://www.pexels.com/@osmany-mederos-211956483",
+        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "29623051",
-      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3342,
-      "height": 2303,
-      "color": "#494134",
-      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
+      "prompt": "minimal desks",
+      "id": "8534373",
+      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5654,
+      "height": 3769,
+      "color": "#B5B5B5",
+      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
       "credit": {
-        "name": "zheng liang",
-        "link": "https://www.pexels.com/@zzzzlz",
-        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
+        "name": "Hanna Pad",
+        "link": "https://www.pexels.com/@anna-nekrashevich",
+        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "11000789",
+      "url": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11000789/pexels-photo-11000789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#5F7537",
+      "alt": "Macro shot of green pine flower buds with vivid textures and details.",
+      "credit": {
+        "name": "Piotr Wojnowski",
+        "link": "https://www.pexels.com/@piotr-wojnowski-2767306",
+        "photoLink": "https://www.pexels.com/photo/macro-shot-photography-of-buds-of-a-flower-11000789/"
       }
     }
   ]
