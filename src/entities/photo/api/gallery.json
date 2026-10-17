@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-17T20:07:24.203Z",
+  "generatedAt": "2026-10-17T22:52:56.129Z",
   "photos": [
     {
-      "prompt": "Botanical detail",
-      "id": "39200567",
-      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B4F41",
-      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
-      "credit": {
-        "name": "NEOSiAM 18+",
-        "link": "https://www.pexels.com/@neosiam",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
-      }
-    },
-    {
-      "prompt": "Quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
+      "prompt": "morning light",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
       "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "5420527",
-      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4368,
-      "height": 2912,
-      "color": "#C1B8A8",
-      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
+      "prompt": "linen wood",
+      "id": "6123304",
+      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5040,
+      "height": 3360,
+      "color": "#8A8E91",
+      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
+        "name": "Rachel Claire",
+        "link": "https://www.pexels.com/@rachel-claire",
+        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
       }
     },
     {
-      "prompt": "Still life arrangement",
-      "id": "38094623",
-      "url": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5562,
-      "height": 3708,
-      "color": "#412927",
-      "alt": "A sophisticated still life showcasing white porcelain vessels on a red surface with a black background.",
+      "prompt": "still life",
+      "id": "8177774",
+      "url": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6403,
+      "height": 4269,
+      "color": "#5A4C3F",
+      "alt": "Classic still life featuring fruits and flowers on a table with soft lighting.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-white-porcelain-vessels-38094623/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/fruits-and-flowers-on-table-8177774/"
       }
     },
     {
-      "prompt": "Urban textures",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "prompt": "botanical detail",
+      "id": "20121245",
+      "url": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6631,
+      "height": 4421,
+      "color": "#2A3525",
+      "alt": "Detailed view of Matthiola sinuata leaves with intricate contours and vibrant green hues.",
       "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+        "name": "Nadine Ginzel",
+        "link": "https://www.pexels.com/@nadine-ginzel-80607840",
+        "photoLink": "https://www.pexels.com/photo/leaves-of-matthiola-sinuata-20121245/"
       }
     },
     {
-      "prompt": "Coastal weather",
-      "id": "19157371",
-      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4128,
-      "color": "#999896",
-      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
+      "prompt": "quiet architecture",
+      "id": "5395673",
+      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#876E5A",
+      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
       "credit": {
-        "name": "Parveen Singh",
-        "link": "https://www.pexels.com/@psingh",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
+        "name": "taha balta",
+        "link": "https://www.pexels.com/@taha-balta-3031128",
+        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "63564",
+      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 19900,
+      "height": 3638,
+      "color": "#6E8081",
+      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
+      "credit": {
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
       }
     }
   ]
