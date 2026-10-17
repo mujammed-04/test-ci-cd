@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-17T11:21:43.330Z",
+  "generatedAt": "2026-10-17T14:57:52.509Z",
   "photos": [
     {
-      "prompt": "botanical detail",
-      "id": "6452143",
-      "url": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6452143/pexels-photo-6452143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3232,
-      "height": 2424,
-      "color": "#484848",
-      "alt": "Monochrome macro shot of leaves showcasing natural patterns and textures.",
+      "prompt": "rustic fruit arrangement",
+      "id": "37971783",
+      "url": "https://images.pexels.com/photos/37971783/pexels-photo-37971783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37971783/pexels-photo-37971783.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3200,
+      "height": 2136,
+      "color": "#58503B",
+      "alt": "Colorful composition of apples, grapes, and flowers in a rustic setting, perfect for autumn.",
       "credit": {
-        "name": "Jason Stewart",
-        "link": "https://www.pexels.com/@jason-stewart-2831705",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-leaves-6452143/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/vibrant-still-life-with-fruits-and-flowers-37971783/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "14788763",
-      "url": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#39372B",
-      "alt": "A cozy workspace with a laptop, keyboard, books, and a refreshing beverage.",
+      "prompt": "coastal storm clouds",
+      "id": "1154510",
+      "url": "https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#454F50",
+      "alt": "A captivating view of the ocean with dramatic dark clouds above, presenting a moody and dramatic seascape.",
       "credit": {
-        "name": "Elifnur Gökmenoğlu",
-        "link": "https://www.pexels.com/@elifnur-gokmenoglu-54877017",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-gadgets-on-home-office-table-14788763/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-1154510/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "35228360",
-      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#5F4632",
-      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "prompt": "vintage film grain",
+      "id": "16851158",
+      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3360,
+      "height": 2240,
+      "color": "#4E4F49",
+      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
       "credit": {
-        "name": "Meltem  B.",
-        "link": "https://www.pexels.com/@meltem-b-300284420",
-        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
+        "name": "Scenehaus Production",
+        "link": "https://www.pexels.com/@scenehaus",
+        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "39912945",
-      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#825A41",
-      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
+      "prompt": "delicate fern closeup",
+      "id": "40235452",
+      "url": "https://images.pexels.com/photos/40235452/pexels-photo-40235452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40235452/pexels-photo-40235452.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#683C19",
+      "alt": "Detailed image of orange autumn fern leaves displaying beautiful seasonal change.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
+        "name": "Ali Goode",
+        "link": "https://www.pexels.com/@ali-goode-2151511157",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-orange-autumn-fern-leaves-40235452/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "30397833",
-      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B1AC",
-      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
+      "prompt": "scandinavian living room",
+      "id": "19866414",
+      "url": "https://images.pexels.com/photos/19866414/pexels-photo-19866414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19866414/pexels-photo-19866414.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5999,
+      "height": 4000,
+      "color": "#AFAAA4",
+      "alt": "Spacious Scandinavian-style living and dining area with minimalist decor and natural light.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
+        "name": "Lisa Anna",
+        "link": "https://www.pexels.com/@lisa-anna-901356985",
+        "photoLink": "https://www.pexels.com/photo/minimalist-aerial-dining-room-19866414/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "prompt": "soft sunrise window",
+      "id": "920386",
+      "url": "https://images.pexels.com/photos/920386/pexels-photo-920386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/920386/pexels-photo-920386.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7680,
+      "height": 5120,
+      "color": "#7F817A",
+      "alt": "A woman sits by the window, hugging a pillow while smiling warmly.",
       "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+        "name": "Andrea Piacquadio",
+        "link": "https://www.pexels.com/@olly",
+        "photoLink": "https://www.pexels.com/photo/black-haired-woman-hugging-gray-pillow-near-glass-panel-window-920386/"
       }
     }
   ]
