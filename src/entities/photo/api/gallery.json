@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-17T17:48:43.239Z",
+  "generatedAt": "2026-10-17T20:07:24.203Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Botanical detail",
+      "id": "39200567",
+      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5472,
       "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
+      "color": "#5B4F41",
+      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
+        "name": "NEOSiAM 18+",
+        "link": "https://www.pexels.com/@neosiam",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "17136619",
-      "url": "https://images.pexels.com/photos/17136619/pexels-photo-17136619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17136619/pexels-photo-17136619.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#4E473D",
-      "alt": "Stylish home office setup with tech gadgets, large monitor, and modern decor.",
+      "prompt": "Quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "Pew Nguyen",
-        "link": "https://www.pexels.com/@nguyendesigner",
-        "photoLink": "https://www.pexels.com/photo/computer-on-a-desk-in-a-bedroom-17136619/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
-      "prompt": "urban wall texture",
-      "id": "19263762",
-      "url": "https://images.pexels.com/photos/19263762/pexels-photo-19263762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19263762/pexels-photo-19263762.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4800,
-      "height": 3200,
-      "color": "#92A5AC",
-      "alt": "Contemporary building facade showcasing blue and beige striped pattern with windows.",
+      "prompt": "Linen wood",
+      "id": "5420527",
+      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4368,
+      "height": 2912,
+      "color": "#C1B8A8",
+      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/colorful-striped-wall-19263762/"
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
       }
     },
     {
-      "prompt": "quiet architectural detail",
-      "id": "34177769",
-      "url": "https://images.pexels.com/photos/34177769/pexels-photo-34177769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34177769/pexels-photo-34177769.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4521,
-      "height": 3014,
-      "color": "#C29473",
-      "alt": "Empty stone bench against a textured, rustic wall outdoors, with strong sunlight casting shadows.",
+      "prompt": "Still life arrangement",
+      "id": "38094623",
+      "url": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38094623/pexels-photo-38094623.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5562,
+      "height": 3708,
+      "color": "#412927",
+      "alt": "A sophisticated still life showcasing white porcelain vessels on a red surface with a black background.",
       "credit": {
-        "name": "Hassan Bouamoud",
-        "link": "https://www.pexels.com/@hassan-bouamoud-1857973307",
-        "photoLink": "https://www.pexels.com/photo/minimalist-outdoor-scene-with-rustic-wall-and-bench-34177769/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-white-porcelain-vessels-38094623/"
       }
     },
     {
-      "prompt": "handmade ceramic vase",
-      "id": "37301842",
-      "url": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37301842/pexels-photo-37301842.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4080,
-      "height": 3264,
-      "color": "#544E42",
-      "alt": "Artisan potter skillfully molding clay pots in a rustic workshop setting.",
+      "prompt": "Urban textures",
+      "id": "2463329",
+      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#6A7681",
+      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
       "credit": {
-        "name": "Mehmet Turgut  Kirkgoz",
-        "link": "https://www.pexels.com/@tkirkgoz",
-        "photoLink": "https://www.pexels.com/photo/skilled-potter-shaping-clay-vases-in-workshop-37301842/"
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "32690493",
-      "url": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32690493/pexels-photo-32690493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2704,
-      "color": "#7A7675",
-      "alt": "A cozy corner with a modern couch and a unique white ceramic vase on a wooden table.",
+      "prompt": "Coastal weather",
+      "id": "19157371",
+      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4128,
+      "color": "#999896",
+      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/minimalist-interior-with-a-unique-ceramic-vase-32690493/"
+        "name": "Parveen Singh",
+        "link": "https://www.pexels.com/@psingh",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
       }
     }
   ]
