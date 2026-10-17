@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-16T22:31:16.463Z",
+  "generatedAt": "2026-10-17T01:02:54.626Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "6051247",
-      "url": "https://images.pexels.com/photos/6051247/pexels-photo-6051247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6051247/pexels-photo-6051247.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 3024,
-      "color": "#838C92",
-      "alt": "Dramatic thick clouds floating over rippling sea with foamy waves rolling on black sandy beach",
+      "prompt": "minimalist desk",
+      "id": "13075330",
+      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3956,
+      "height": 2225,
+      "color": "#5C5451",
+      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
       "credit": {
-        "name": "Dasha Musohranova",
-        "link": "https://www.pexels.com/@dasha-musohranova-1745017",
-        "photoLink": "https://www.pexels.com/photo/breathtaking-seascape-with-foamy-waves-and-cloudy-sky-6051247/"
+        "name": "Pușcaș Adryan",
+        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
+        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
       }
     },
     {
-      "prompt": "rusty workshop tools",
-      "id": "21470305",
-      "url": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/21470305/pexels-photo-21470305.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6048,
-      "height": 4024,
-      "color": "#453331",
-      "alt": "A close-up of an old, rusty toolbox filled with vintage tools under harsh sunlight.",
+      "prompt": "quiet architecture",
+      "id": "28354605",
+      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6354,
+      "height": 4236,
+      "color": "#92A4BC",
+      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
       "credit": {
-        "name": "Alfo Medeiros",
-        "link": "https://www.pexels.com/@alfomedeiros",
-        "photoLink": "https://www.pexels.com/photo/an-old-tool-box-21470305/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
       }
     },
     {
-      "prompt": "gritty urban textures",
-      "id": "3964653",
-      "url": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#A8A5A1",
-      "alt": "Close-up view of a rough textured concrete wall, ideal for backgrounds.",
+      "prompt": "botanical detail",
+      "id": "40262866",
+      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#AB4A27",
+      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
       "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-3964653/"
+        "name": "Ali Goode",
+        "link": "https://www.pexels.com/@ali-goode-2151511157",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
       }
     },
     {
-      "prompt": "vintage still life",
-      "id": "10874339",
-      "url": "https://images.pexels.com/photos/10874339/pexels-photo-10874339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10874339/pexels-photo-10874339.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
+      "prompt": "still life",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
       "height": 4000,
-      "color": "#3D2F26",
-      "alt": "Artistic display of a vintage floral teacup beside a rose and old book. Elegant and timeless.",
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
       "credit": {
-        "name": "Ylanite Koppens",
-        "link": "https://www.pexels.com/@nietjuhart",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-cup-10874339/"
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "prompt": "nordic interior",
+      "id": "7303855",
+      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6133,
+      "height": 4089,
+      "color": "#BEB8AB",
+      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
       "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "prompt": "handmade ceramics",
+      "id": "6611187",
+      "url": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#807C72",
+      "alt": "Close-up of artisan-crafted ceramic mugs on a shelf, showcasing pottery craftsmanship.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-handmade-ceramic-pottery-on-shelf-6611187/"
       }
     }
   ]
