@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-17T01:02:54.626Z",
+  "generatedAt": "2026-10-17T06:33:21.489Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "13075330",
-      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3956,
-      "height": 2225,
-      "color": "#5C5451",
-      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
-      "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
-      }
-    },
-    {
       "prompt": "quiet architecture",
-      "id": "28354605",
-      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "28337781",
+      "url": "https://images.pexels.com/photos/28337781/pexels-photo-28337781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28337781/pexels-photo-28337781.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6354,
       "height": 4236,
-      "color": "#92A4BC",
-      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
+      "color": "#8899B3",
+      "alt": "Modern architecture featuring a minimalist white facade against a clear blue sky.",
       "credit": {
         "name": "Jan van der Wolf",
         "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "40262866",
-      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3888,
-      "color": "#AB4A27",
-      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
-      "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
-      "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
-      "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "7303855",
-      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6133,
-      "height": 4089,
-      "color": "#BEB8AB",
-      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
-      "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28337781/"
       }
     },
     {
       "prompt": "handmade ceramics",
-      "id": "6611187",
-      "url": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "6611184",
+      "url": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5000,
       "height": 3338,
-      "color": "#807C72",
-      "alt": "Close-up of artisan-crafted ceramic mugs on a shelf, showcasing pottery craftsmanship.",
+      "color": "#777369",
+      "alt": "A collection of elegant ceramic dishes and cups organized on storage shelves.",
       "credit": {
         "name": "Yan Krukau",
         "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-handmade-ceramic-pottery-on-shelf-6611187/"
+        "photoLink": "https://www.pexels.com/photo/ceramic-products-on-a-shelf-6611184/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "39539385",
+      "url": "https://images.pexels.com/photos/39539385/pexels-photo-39539385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39539385/pexels-photo-39539385.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5582,
+      "height": 3721,
+      "color": "#443522",
+      "alt": "A creative arrangement of pomegranates and broken pottery, emphasizing balance and color.",
+      "credit": {
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/artistic-still-life-of-pomegranates-and-broken-pot-39539385/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "5420527",
+      "url": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5420527/pexels-photo-5420527.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4368,
+      "height": 2912,
+      "color": "#C1B8A8",
+      "alt": "Eco-friendly cleaning set featuring a ceramic bowl, brush, soap, and natural linens with eucalyptus leaves.",
+      "credit": {
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/brush-on-bowl-5420527/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "14637831",
+      "url": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14637831/pexels-photo-14637831.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#52453F",
+      "alt": "A well-equipped workshop features various machinery and an industrial lubricator.",
+      "credit": {
+        "name": "Ayub Abdul Rahman",
+        "link": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
+        "photoLink": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "38350381",
+      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#829091",
+      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
+      "credit": {
+        "name": "Margarita K",
+        "link": "https://www.pexels.com/@margarita-k-105195494",
+        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
       }
     }
   ]
