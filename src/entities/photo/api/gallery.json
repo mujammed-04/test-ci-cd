@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T14:18:13.722Z",
+  "generatedAt": "2026-10-18T17:49:15.767Z",
   "photos": [
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
-      "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
-      }
-    },
-    {
-      "prompt": "linen wood chair",
-      "id": "12277255",
-      "url": "https://images.pexels.com/photos/12277255/pexels-photo-12277255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12277255/pexels-photo-12277255.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#E8E6DA",
-      "alt": "Simple minimalist design featuring wooden chairs and a potted plant in a spacious corner.",
-      "credit": {
-        "name": "dada _design",
-        "link": "https://www.pexels.com/@dada-_design-240566386",
-        "photoLink": "https://www.pexels.com/photo/white-wooden-chairs-beside-potted-plant-on-table-12277255/"
-      }
-    },
-    {
-      "prompt": "nordic interior minimalism",
-      "id": "37173283",
-      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3852,
-      "height": 3712,
-      "color": "#D1D1D1",
-      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
+      "prompt": "nordic bedroom",
+      "id": "37834299",
+      "url": "https://images.pexels.com/photos/37834299/pexels-photo-37834299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37834299/pexels-photo-37834299.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4277,
+      "height": 3220,
+      "color": "#A7A3A0",
+      "alt": "A cozy children's room in Finland featuring floral bedding and a cute teddy bear on a white nightstand.",
       "credit": {
         "name": "Margo Evardson",
         "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
+        "photoLink": "https://www.pexels.com/photo/cozy-children-s-bedroom-with-floral-bedding-and-teddy-bear-37834299/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "35611566",
-      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4125,
-      "color": "#5C5D58",
-      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
+      "prompt": "handmade ceramic bowl",
+      "id": "29282184",
+      "url": "https://images.pexels.com/photos/29282184/pexels-photo-29282184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29282184/pexels-photo-29282184.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5281,
+      "height": 3521,
+      "color": "#382E22",
+      "alt": "A collection of handcrafted ceramic bowls displaying various textures and colors.",
       "credit": {
-        "name": "Jose Luis  Vanasco",
-        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
-        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
+        "name": "Elina Volkova",
+        "link": "https://www.pexels.com/@miami302",
+        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-bowls-in-earthy-tones-29282184/"
+      }
+    },
+    {
+      "prompt": "urban brick wall",
+      "id": "10517936",
+      "url": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#C1C0BB",
+      "alt": "Close-up of a white brick wall featuring a red numbered sign with a white gutter pipe.",
+      "credit": {
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/gutter-on-wall-10517936/"
+      }
+    },
+    {
+      "prompt": "minimalist desk setup",
+      "id": "20213722",
+      "url": "https://images.pexels.com/photos/20213722/pexels-photo-20213722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20213722/pexels-photo-20213722.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4992,
+      "height": 3328,
+      "color": "#342B22",
+      "alt": "A sleek gaming desk setup featuring a modern monitor, keyboard, and decorative elements, ideal for gamers or professionals.",
+      "credit": {
+        "name": "minhphuc .workspace",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/monitor-on-a-desk-20213722/"
       }
     },
     {
       "prompt": "botanical leaf detail",
-      "id": "35197904",
-      "url": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7952,
-      "height": 4472,
-      "color": "#23541C",
-      "alt": "Captivating macro shot showcasing the intricate veining of a green leaf.",
+      "id": "9654659",
+      "url": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5693,
+      "height": 3795,
+      "color": "#485333",
+      "alt": "Explore the intricate patterns of a green leaf vein through macro photography, showcasing nature's detailed design.",
       "credit": {
-        "name": "Damir K",
-        "link": "https://www.pexels.com/@damir",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-a-vibrant-green-leaf-vein-35197904/"
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/a-close-up-shot-of-a-green-leaf-9654659/"
       }
     },
     {
-      "prompt": "quiet architectural facade",
-      "id": "38189092",
-      "url": "https://images.pexels.com/photos/38189092/pexels-photo-38189092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38189092/pexels-photo-38189092.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5842,
-      "height": 3892,
-      "color": "#6E6E6E",
-      "alt": "Black and white image of an old stone facade with multiple vintage windows.",
+      "prompt": "still life arrangement",
+      "id": "6070340",
+      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#667185",
+      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
       "credit": {
-        "name": "Jean-Paul Wettstein",
-        "link": "https://www.pexels.com/@jean-paul-wettstein-677916508",
-        "photoLink": "https://www.pexels.com/photo/rustic-stone-facade-with-vintage-windows-38189092/"
+        "name": "Jill Burrow",
+        "link": "https://www.pexels.com/@jill-burrow",
+        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
       }
     }
   ]
