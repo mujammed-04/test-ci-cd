@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T20:05:56.477Z",
+  "generatedAt": "2026-10-18T22:45:57.012Z",
   "photos": [
     {
-      "prompt": "rustic workshop tools",
-      "id": "30688207",
-      "url": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#513F3B",
-      "alt": "Explore a vintage blacksmith workshop filled with traditional tools and rustic charm.",
-      "credit": {
-        "name": "Denys Gromov",
-        "link": "https://www.pexels.com/@jdgromov",
-        "photoLink": "https://www.pexels.com/photo/rustic-blacksmith-workshop-with-tools-and-anvil-30688207/"
-      }
-    },
-    {
-      "prompt": "coastal storm clouds",
-      "id": "18898633",
-      "url": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6007,
-      "height": 4010,
-      "color": "#6F665D",
-      "alt": "Dark storm clouds gather menacingly over a deserted beach by the ocean.",
+      "prompt": "coastal clouds",
+      "id": "12951983",
+      "url": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#585161",
+      "alt": "A tranquil ocean scene at twilight with colorful clouds and a serene horizon.",
       "credit": {
         "name": "Connor Scott McManus",
         "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/hurricane-over-sea-18898633/"
+        "photoLink": "https://www.pexels.com/photo/a-beautiful-shore-during-a-twilight-12951983/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "34860693",
-      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#2D4255",
-      "alt": "Close-up of blue textile with textured surface and subtle folds.",
+      "prompt": "quiet building",
+      "id": "38507995",
+      "url": "https://images.pexels.com/photos/38507995/pexels-photo-38507995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38507995/pexels-photo-38507995.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#847B7C",
+      "alt": "Artistic capture of shadows on a white brick wall with vertical windows, creating a geometric pattern.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
+        "name": "princess",
+        "link": "https://www.pexels.com/@princess-2150885580",
+        "photoLink": "https://www.pexels.com/photo/shadow-patterns-on-urban-brick-wall-38507995/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "36622451",
-      "url": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#2C5327",
-      "alt": "Detailed macro shot of green plant leaves with vibrant stripes, creating a natural texture.",
+      "prompt": "analogue grain",
+      "id": "13266654",
+      "url": "https://images.pexels.com/photos/13266654/pexels-photo-13266654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13266654/pexels-photo-13266654.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3566,
+      "height": 2397,
+      "color": "#463E33",
+      "alt": "Close-up of hands holding a retro camera in warm sunlight, creating a nostalgic feel.",
       "credit": {
-        "name": "Rafael Rodrigues",
-        "link": "https://www.pexels.com/@rrodriguesim",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-plant-leaves-36622451/"
+        "name": "through my lens",
+        "link": "https://www.pexels.com/@through-my-lens-157990371",
+        "photoLink": "https://www.pexels.com/photo/person-holding-black-and-silver-nikon-camera-13266654/"
       }
     },
     {
-      "prompt": "nordic living room",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "prompt": "morning light",
+      "id": "8358607",
+      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5329,
+      "height": 4000,
+      "color": "#807863",
+      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "name": "Kübra Arslaner",
+        "link": "https://www.pexels.com/@nediyodukenson",
+        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
       }
     },
     {
-      "prompt": "quiet urban architecture",
-      "id": "17497274",
-      "url": "https://images.pexels.com/photos/17497274/pexels-photo-17497274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17497274/pexels-photo-17497274.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2365,
-      "height": 1774,
-      "color": "#84837F",
-      "alt": "A contemporary city apartment building featuring large glass facades, showcasing modern urban architecture.",
+      "prompt": "handmade pottery",
+      "id": "30283531",
+      "url": "https://images.pexels.com/photos/30283531/pexels-photo-30283531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30283531/pexels-photo-30283531.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2766,
+      "height": 1522,
+      "color": "#9B765C",
+      "alt": "Artisan hands sculpting pottery on a wheel, showcasing the creative process.",
       "credit": {
-        "name": "Ver vaeck",
-        "link": "https://www.pexels.com/@ver-vaeck-550494540",
-        "photoLink": "https://www.pexels.com/photo/modern-house-building-in-a-city-17497274/"
+        "name": "Seda Nur Koç",
+        "link": "https://www.pexels.com/@seda-nur-koc-2148806558",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-hands-sculpting-pottery-on-a-wheel-30283531/"
+      }
+    },
+    {
+      "prompt": "minimal desk",
+      "id": "8473795",
+      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#BAB7A8",
+      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
+      "credit": {
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
       }
     }
   ]
