@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T10:23:53.729Z",
+  "generatedAt": "2026-10-18T14:18:13.722Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "37154097",
-      "url": "https://images.pexels.com/photos/37154097/pexels-photo-37154097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37154097/pexels-photo-37154097.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5520,
-      "height": 3680,
-      "color": "#787B72",
-      "alt": "Calm water surface with gentle ripples and sunlight reflections creating a serene mood.",
+      "prompt": "handmade ceramic bowl",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
       "credit": {
-        "name": "Sóc Năng Động",
-        "link": "https://www.pexels.com/@soc-nang-d-ng-2150345854",
-        "photoLink": "https://www.pexels.com/photo/rippling-water-surface-in-natural-light-37154097/"
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "4884193",
-      "url": "https://images.pexels.com/photos/4884193/pexels-photo-4884193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4884193/pexels-photo-4884193.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
-      "height": 2048,
-      "color": "#846DB5",
-      "alt": "Unique analog photography capturing a building and trees with colorful overlays.",
+      "prompt": "linen wood chair",
+      "id": "12277255",
+      "url": "https://images.pexels.com/photos/12277255/pexels-photo-12277255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12277255/pexels-photo-12277255.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#E8E6DA",
+      "alt": "Simple minimalist design featuring wooden chairs and a potted plant in a spacious corner.",
       "credit": {
-        "name": "Inga Seliverstova",
-        "link": "https://www.pexels.com/@inga-sv",
-        "photoLink": "https://www.pexels.com/photo/double-exposure-photo-of-a-building-in-city-and-trees-4884193/"
+        "name": "dada _design",
+        "link": "https://www.pexels.com/@dada-_design-240566386",
+        "photoLink": "https://www.pexels.com/photo/white-wooden-chairs-beside-potted-plant-on-table-12277255/"
+      }
+    },
+    {
+      "prompt": "nordic interior minimalism",
+      "id": "37173283",
+      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3852,
+      "height": 3712,
+      "color": "#D1D1D1",
+      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
       }
     },
     {
       "prompt": "coastal storm clouds",
-      "id": "18898633",
-      "url": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6007,
-      "height": 4010,
-      "color": "#6F665D",
-      "alt": "Dark storm clouds gather menacingly over a deserted beach by the ocean.",
+      "id": "35611566",
+      "url": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35611566/pexels-photo-35611566.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4125,
+      "color": "#5C5D58",
+      "alt": "Stunning sunset beach view with dramatic storm clouds seen over the tranquil sea.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/hurricane-over-sea-18898633/"
+        "name": "Jose Luis  Vanasco",
+        "link": "https://www.pexels.com/@jose-luis-vanasco-2155044313",
+        "photoLink": "https://www.pexels.com/photo/dramatic-beach-sunset-with-stormy-skies-35611566/"
       }
     },
     {
-      "prompt": "workshop tool layout",
-      "id": "4312854",
-      "url": "https://images.pexels.com/photos/4312854/pexels-photo-4312854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4312854/pexels-photo-4312854.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6082,
-      "height": 4055,
-      "color": "#3D3D34",
-      "alt": "Hand tools arranged on a black surface, featuring saws, levels, and a tape measure.",
+      "prompt": "botanical leaf detail",
+      "id": "35197904",
+      "url": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7952,
+      "height": 4472,
+      "color": "#23541C",
+      "alt": "Captivating macro shot showcasing the intricate veining of a green leaf.",
       "credit": {
-        "name": "Anna Shvets",
-        "link": "https://www.pexels.com/@shvetsa",
-        "photoLink": "https://www.pexels.com/photo/yellow-and-black-hand-tools-4312854/"
+        "name": "Damir K",
+        "link": "https://www.pexels.com/@damir",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-a-vibrant-green-leaf-vein-35197904/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
+      "prompt": "quiet architectural facade",
+      "id": "38189092",
+      "url": "https://images.pexels.com/photos/38189092/pexels-photo-38189092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38189092/pexels-photo-38189092.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5842,
+      "height": 3892,
+      "color": "#6E6E6E",
+      "alt": "Black and white image of an old stone facade with multiple vintage windows.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
-      }
-    },
-    {
-      "prompt": "quiet architectural hallway",
-      "id": "13025145",
-      "url": "https://images.pexels.com/photos/13025145/pexels-photo-13025145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13025145/pexels-photo-13025145.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#68665A",
-      "alt": "A beautifully lit curved hallway with a brick floor and arched windows, showcasing minimalist interior design.",
-      "credit": {
-        "name": "Adrien Olichon",
-        "link": "https://www.pexels.com/@adrien-olichon-1257089",
-        "photoLink": "https://www.pexels.com/photo/hallway-of-a-concrete-building-13025145/"
+        "name": "Jean-Paul Wettstein",
+        "link": "https://www.pexels.com/@jean-paul-wettstein-677916508",
+        "photoLink": "https://www.pexels.com/photo/rustic-stone-facade-with-vintage-windows-38189092/"
       }
     }
   ]
