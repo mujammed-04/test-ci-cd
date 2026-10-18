@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-17T22:52:56.129Z",
+  "generatedAt": "2026-10-18T00:38:15.450Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "9564681",
-      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5799,
-      "height": 4000,
-      "color": "#716956",
-      "alt": "A serene forest scene with sun rays through trees and morning fog.",
+      "prompt": "minimal desk",
+      "id": "36123565",
+      "url": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2664,
+      "color": "#AAA39D",
+      "alt": "A minimalistic workspace featuring a laptop, coffee cup, and books on a white desk with wooden legs.",
       "credit": {
-        "name": "Ludvig Hedenborg",
-        "link": "https://www.pexels.com/@ludvighedenborg",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "6123304",
-      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5040,
-      "height": 3360,
-      "color": "#8A8E91",
-      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
-      "credit": {
-        "name": "Rachel Claire",
-        "link": "https://www.pexels.com/@rachel-claire",
-        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "8177774",
-      "url": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6403,
-      "height": 4269,
-      "color": "#5A4C3F",
-      "alt": "Classic still life featuring fruits and flowers on a table with soft lighting.",
-      "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/fruits-and-flowers-on-table-8177774/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "20121245",
-      "url": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20121245/pexels-photo-20121245.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6631,
-      "height": 4421,
-      "color": "#2A3525",
-      "alt": "Detailed view of Matthiola sinuata leaves with intricate contours and vibrant green hues.",
-      "credit": {
-        "name": "Nadine Ginzel",
-        "link": "https://www.pexels.com/@nadine-ginzel-80607840",
-        "photoLink": "https://www.pexels.com/photo/leaves-of-matthiola-sinuata-20121245/"
+        "name": "Letícia Alvares",
+        "link": "https://www.pexels.com/@leticia-alvares-1805702",
+        "photoLink": "https://www.pexels.com/photo/modern-workspace-with-laptop-and-books-on-desk-36123565/"
       }
     },
     {
       "prompt": "quiet architecture",
-      "id": "5395673",
-      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#876E5A",
-      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
+      "id": "10610785",
+      "url": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#919594",
+      "alt": "Minimalist beige building facade against a blue sky, showcasing modern architectural design.",
       "credit": {
-        "name": "taha balta",
-        "link": "https://www.pexels.com/@taha-balta-3031128",
-        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+        "name": "alleksana",
+        "link": "https://www.pexels.com/@alleksana",
+        "photoLink": "https://www.pexels.com/photo/diagonal-shot-of-a-beige-modern-building-and-blue-sky-10610785/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "63564",
-      "url": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/63564/pexels-photo-63564.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 19900,
-      "height": 3638,
-      "color": "#6E8081",
-      "alt": "A panoramic view of a stormy beach with dark clouds over the ocean waves.",
+      "prompt": "handmade ceramics",
+      "id": "9304500",
+      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5539,
+      "height": 3694,
+      "color": "#A17E2D",
+      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/beach-under-cloudy-sky-63564/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
+      }
+    },
+    {
+      "prompt": "workshop tools",
+      "id": "220639",
+      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#D7D7D7",
+      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
+      "credit": {
+        "name": "icon0 com",
+        "link": "https://www.pexels.com/@icon0",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "30405792",
+      "url": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3456,
+      "height": 2304,
+      "color": "#757575",
+      "alt": "Clothes drying on a line with clothespins on a cloudy day in Wrocław.",
+      "credit": {
+        "name": "Darcy Lis | Photography & travels",
+        "link": "https://www.pexels.com/@darcy-lis-photography-travels-1478124445",
+        "photoLink": "https://www.pexels.com/photo/laundry-hanging-outdoors-on-a-cloudy-day-30405792/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "38511748",
+      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#C6BB8E",
+      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "credit": {
+        "name": "Umut Hasanoğlu",
+        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
+        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
       }
     }
   ]
