@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T17:49:15.767Z",
+  "generatedAt": "2026-10-18T20:05:56.477Z",
   "photos": [
     {
-      "prompt": "nordic bedroom",
-      "id": "37834299",
-      "url": "https://images.pexels.com/photos/37834299/pexels-photo-37834299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37834299/pexels-photo-37834299.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4277,
-      "height": 3220,
-      "color": "#A7A3A0",
-      "alt": "A cozy children's room in Finland featuring floral bedding and a cute teddy bear on a white nightstand.",
+      "prompt": "rustic workshop tools",
+      "id": "30688207",
+      "url": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30688207/pexels-photo-30688207.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#513F3B",
+      "alt": "Explore a vintage blacksmith workshop filled with traditional tools and rustic charm.",
+      "credit": {
+        "name": "Denys Gromov",
+        "link": "https://www.pexels.com/@jdgromov",
+        "photoLink": "https://www.pexels.com/photo/rustic-blacksmith-workshop-with-tools-and-anvil-30688207/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "18898633",
+      "url": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18898633/pexels-photo-18898633.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6007,
+      "height": 4010,
+      "color": "#6F665D",
+      "alt": "Dark storm clouds gather menacingly over a deserted beach by the ocean.",
+      "credit": {
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/hurricane-over-sea-18898633/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "34860693",
+      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#2D4255",
+      "alt": "Close-up of blue textile with textured surface and subtle folds.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
+      }
+    },
+    {
+      "prompt": "botanical leaf closeup",
+      "id": "36622451",
+      "url": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#2C5327",
+      "alt": "Detailed macro shot of green plant leaves with vibrant stripes, creating a natural texture.",
+      "credit": {
+        "name": "Rafael Rodrigues",
+        "link": "https://www.pexels.com/@rrodriguesim",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-plant-leaves-36622451/"
+      }
+    },
+    {
+      "prompt": "nordic living room",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
         "name": "Margo Evardson",
         "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/cozy-children-s-bedroom-with-floral-bedding-and-teddy-bear-37834299/"
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "29282184",
-      "url": "https://images.pexels.com/photos/29282184/pexels-photo-29282184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29282184/pexels-photo-29282184.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5281,
-      "height": 3521,
-      "color": "#382E22",
-      "alt": "A collection of handcrafted ceramic bowls displaying various textures and colors.",
+      "prompt": "quiet urban architecture",
+      "id": "17497274",
+      "url": "https://images.pexels.com/photos/17497274/pexels-photo-17497274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17497274/pexels-photo-17497274.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2365,
+      "height": 1774,
+      "color": "#84837F",
+      "alt": "A contemporary city apartment building featuring large glass facades, showcasing modern urban architecture.",
       "credit": {
-        "name": "Elina Volkova",
-        "link": "https://www.pexels.com/@miami302",
-        "photoLink": "https://www.pexels.com/photo/artisan-ceramic-bowls-in-earthy-tones-29282184/"
-      }
-    },
-    {
-      "prompt": "urban brick wall",
-      "id": "10517936",
-      "url": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#C1C0BB",
-      "alt": "Close-up of a white brick wall featuring a red numbered sign with a white gutter pipe.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/gutter-on-wall-10517936/"
-      }
-    },
-    {
-      "prompt": "minimalist desk setup",
-      "id": "20213722",
-      "url": "https://images.pexels.com/photos/20213722/pexels-photo-20213722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20213722/pexels-photo-20213722.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4992,
-      "height": 3328,
-      "color": "#342B22",
-      "alt": "A sleek gaming desk setup featuring a modern monitor, keyboard, and decorative elements, ideal for gamers or professionals.",
-      "credit": {
-        "name": "minhphuc .workspace",
-        "link": "https://www.pexels.com/@mintworkspace",
-        "photoLink": "https://www.pexels.com/photo/monitor-on-a-desk-20213722/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "9654659",
-      "url": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5693,
-      "height": 3795,
-      "color": "#485333",
-      "alt": "Explore the intricate patterns of a green leaf vein through macro photography, showcasing nature's detailed design.",
-      "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/a-close-up-shot-of-a-green-leaf-9654659/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "6070340",
-      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#667185",
-      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
-      "credit": {
-        "name": "Jill Burrow",
-        "link": "https://www.pexels.com/@jill-burrow",
-        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
+        "name": "Ver vaeck",
+        "link": "https://www.pexels.com/@ver-vaeck-550494540",
+        "photoLink": "https://www.pexels.com/photo/modern-house-building-in-a-city-17497274/"
       }
     }
   ]
