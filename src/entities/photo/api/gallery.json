@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T00:38:15.450Z",
+  "generatedAt": "2026-10-18T05:25:28.741Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "36123565",
-      "url": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36123565/pexels-photo-36123565.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2664,
-      "color": "#AAA39D",
-      "alt": "A minimalistic workspace featuring a laptop, coffee cup, and books on a white desk with wooden legs.",
-      "credit": {
-        "name": "Letícia Alvares",
-        "link": "https://www.pexels.com/@leticia-alvares-1805702",
-        "photoLink": "https://www.pexels.com/photo/modern-workspace-with-laptop-and-books-on-desk-36123565/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "10610785",
-      "url": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10610785/pexels-photo-10610785.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handmade ceramic bowl",
+      "id": "3847451",
+      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#919594",
-      "alt": "Minimalist beige building facade against a blue sky, showcasing modern architectural design.",
+      "color": "#655F62",
+      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
       "credit": {
-        "name": "alleksana",
-        "link": "https://www.pexels.com/@alleksana",
-        "photoLink": "https://www.pexels.com/photo/diagonal-shot-of-a-beige-modern-building-and-blue-sky-10610785/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "9304500",
-      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5539,
-      "height": 3694,
-      "color": "#A17E2D",
-      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
+      "prompt": "minimalist nordic living room",
+      "id": "19866401",
+      "url": "https://images.pexels.com/photos/19866401/pexels-photo-19866401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19866401/pexels-photo-19866401.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5999,
+      "height": 4000,
+      "color": "#9A938B",
+      "alt": "Bright and stylish living room featuring modern furniture and elegant decor with natural light.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
+        "name": "Lisa Anna",
+        "link": "https://www.pexels.com/@lisa-anna-901356985",
+        "photoLink": "https://www.pexels.com/photo/sofa-in-a-living-room-19866401/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "220639",
-      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#D7D7D7",
-      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
+      "prompt": "coastal stormy sky",
+      "id": "3968130",
+      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4387,
+      "height": 2925,
+      "color": "#42576E",
+      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
       "credit": {
-        "name": "icon0 com",
-        "link": "https://www.pexels.com/@icon0",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
+        "name": "Tatiana Syrikova",
+        "link": "https://www.pexels.com/@tatianasyrikova",
+        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "30405792",
-      "url": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3456,
-      "height": 2304,
-      "color": "#757575",
-      "alt": "Clothes drying on a line with clothespins on a cloudy day in Wrocław.",
+      "prompt": "linen wood table",
+      "id": "7118748",
+      "url": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7118748/pexels-photo-7118748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#807E79",
+      "alt": "Elegant dining setup featuring a single egg in a minimalist table setting, perfect for spring themes.",
       "credit": {
-        "name": "Darcy Lis | Photography & travels",
-        "link": "https://www.pexels.com/@darcy-lis-photography-travels-1478124445",
-        "photoLink": "https://www.pexels.com/photo/laundry-hanging-outdoors-on-a-cloudy-day-30405792/"
+        "name": "Ivan S",
+        "link": "https://www.pexels.com/@ivan-s",
+        "photoLink": "https://www.pexels.com/photo/white-ceramic-plate-on-white-table-cloth-7118748/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "38511748",
-      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "botanical leaf closeup",
+      "id": "7718431",
+      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
-      "height": 3000,
-      "color": "#C6BB8E",
-      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "height": 2667,
+      "color": "#8C5235",
+      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
       "credit": {
-        "name": "Umut Hasanoğlu",
-        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
-        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
+      }
+    },
+    {
+      "prompt": "still life fruit",
+      "id": "37511476",
+      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2659,
+      "height": 1775,
+      "color": "#382E24",
+      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
+      "credit": {
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
       }
     }
   ]
