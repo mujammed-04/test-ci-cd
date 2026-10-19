@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-19T00:48:12.430Z",
+  "generatedAt": "2026-10-19T05:43:08.575Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "9304555",
-      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5509,
-      "height": 3672,
-      "color": "#AF9073",
-      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
+      "prompt": "Nordic interior",
+      "id": "39912945",
+      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#825A41",
+      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
       }
     },
     {
-      "prompt": "urban brick wall",
-      "id": "10517936",
-      "url": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
+      "prompt": "Linen wood textures",
+      "id": "36346049",
+      "url": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5088,
+      "height": 3392,
+      "color": "#AE8E75",
+      "alt": "Detailed close-up of beige fabric texture, highlighting its woven pattern.",
+      "credit": {
+        "name": "Jonathan Borba",
+        "link": "https://www.pexels.com/@jonathanborba",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-natural-fabric-texture-36346049/"
+      }
+    },
+    {
+      "prompt": "Handmade ceramic vase",
+      "id": "37269422",
+      "url": "https://images.pexels.com/photos/37269422/pexels-photo-37269422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37269422/pexels-photo-37269422.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#7F7B72",
+      "alt": "A potter skillfully shaping clay vases in a rustic workshop setting.",
+      "credit": {
+        "name": "Mehmet Turgut  Kirkgoz",
+        "link": "https://www.pexels.com/@tkirkgoz",
+        "photoLink": "https://www.pexels.com/photo/skilled-potter-crafting-traditional-vases-37269422/"
+      }
+    },
+    {
+      "prompt": "Coastal weather clouds",
+      "id": "26492759",
+      "url": "https://images.pexels.com/photos/26492759/pexels-photo-26492759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26492759/pexels-photo-26492759.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6016,
       "height": 4000,
-      "color": "#C1C0BB",
-      "alt": "Close-up of a white brick wall featuring a red numbered sign with a white gutter pipe.",
+      "color": "#647B89",
+      "alt": "Tranquil view of the ocean under a cloudy blue sky with soft lighting.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/gutter-on-wall-10517936/"
+        "name": "Vika Glitter",
+        "link": "https://www.pexels.com/@vika-glitter-392079",
+        "photoLink": "https://www.pexels.com/photo/clouds-over-sea-26492759/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "7718431",
-      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#8C5235",
-      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
+      "prompt": "Morning light glow",
+      "id": "20642219",
+      "url": "https://images.pexels.com/photos/20642219/pexels-photo-20642219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20642219/pexels-photo-20642219.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8640,
+      "height": 5760,
+      "color": "#926F47",
+      "alt": "Sunrise over a frosty field in rural West Newton, MN, creating a warm glow.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
+        "name": "Tom Fisk",
+        "link": "https://www.pexels.com/@tomfisk",
+        "photoLink": "https://www.pexels.com/photo/rural-field-at-sunset-20642219/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "20648395",
-      "url": "https://images.pexels.com/photos/20648395/pexels-photo-20648395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20648395/pexels-photo-20648395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5020,
-      "height": 3347,
-      "color": "#4F4539",
-      "alt": "Stylish home office setup featuring a curved monitor, ergonomic chair, and indoor plants for a modern workspace vibe.",
+      "prompt": "Analogue film grain",
+      "id": "20539730",
+      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#8B8E95",
+      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
       "credit": {
-        "name": "minhphuc .workspace",
-        "link": "https://www.pexels.com/@mintworkspace",
-        "photoLink": "https://www.pexels.com/photo/gaming-monitor-on-desk-20648395/"
-      }
-    },
-    {
-      "prompt": "quiet architectural interior",
-      "id": "16955548",
-      "url": "https://images.pexels.com/photos/16955548/pexels-photo-16955548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16955548/pexels-photo-16955548.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5985,
-      "height": 3990,
-      "color": "#221C04",
-      "alt": "Warm and inviting wooden interior with plants, creating a cozy atmosphere.",
-      "credit": {
-        "name": "Thanh  Luu",
-        "link": "https://www.pexels.com/@thanh-luu-29104820",
-        "photoLink": "https://www.pexels.com/photo/dark-interior-of-a-bar-16955548/"
-      }
-    },
-    {
-      "prompt": "linen wood texture",
-      "id": "7533979",
-      "url": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#CCBCA6",
-      "alt": "Detailed texture of beige canvas fabric with soft lighting, perfect for background or textile themes.",
-      "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/white-canvas-fabric-7533979/"
+        "name": "Nguyen Huy",
+        "link": "https://www.pexels.com/@ngochuy",
+        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
       }
     }
   ]
