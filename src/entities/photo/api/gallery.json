@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T22:45:57.012Z",
+  "generatedAt": "2026-10-19T00:48:12.430Z",
   "photos": [
     {
-      "prompt": "coastal clouds",
-      "id": "12951983",
-      "url": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12951983/pexels-photo-12951983.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#585161",
-      "alt": "A tranquil ocean scene at twilight with colorful clouds and a serene horizon.",
+      "prompt": "handcrafted ceramic bowl",
+      "id": "9304555",
+      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5509,
+      "height": 3672,
+      "color": "#AF9073",
+      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/a-beautiful-shore-during-a-twilight-12951983/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
       }
     },
     {
-      "prompt": "quiet building",
-      "id": "38507995",
-      "url": "https://images.pexels.com/photos/38507995/pexels-photo-38507995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38507995/pexels-photo-38507995.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#847B7C",
-      "alt": "Artistic capture of shadows on a white brick wall with vertical windows, creating a geometric pattern.",
-      "credit": {
-        "name": "princess",
-        "link": "https://www.pexels.com/@princess-2150885580",
-        "photoLink": "https://www.pexels.com/photo/shadow-patterns-on-urban-brick-wall-38507995/"
-      }
-    },
-    {
-      "prompt": "analogue grain",
-      "id": "13266654",
-      "url": "https://images.pexels.com/photos/13266654/pexels-photo-13266654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13266654/pexels-photo-13266654.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3566,
-      "height": 2397,
-      "color": "#463E33",
-      "alt": "Close-up of hands holding a retro camera in warm sunlight, creating a nostalgic feel.",
-      "credit": {
-        "name": "through my lens",
-        "link": "https://www.pexels.com/@through-my-lens-157990371",
-        "photoLink": "https://www.pexels.com/photo/person-holding-black-and-silver-nikon-camera-13266654/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "8358607",
-      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5329,
+      "prompt": "urban brick wall",
+      "id": "10517936",
+      "url": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10517936/pexels-photo-10517936.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
       "height": 4000,
-      "color": "#807863",
-      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
+      "color": "#C1C0BB",
+      "alt": "Close-up of a white brick wall featuring a red numbered sign with a white gutter pipe.",
       "credit": {
-        "name": "Kübra Arslaner",
-        "link": "https://www.pexels.com/@nediyodukenson",
-        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/gutter-on-wall-10517936/"
       }
     },
     {
-      "prompt": "handmade pottery",
-      "id": "30283531",
-      "url": "https://images.pexels.com/photos/30283531/pexels-photo-30283531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30283531/pexels-photo-30283531.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2766,
-      "height": 1522,
-      "color": "#9B765C",
-      "alt": "Artisan hands sculpting pottery on a wheel, showcasing the creative process.",
+      "prompt": "botanical leaf closeup",
+      "id": "7718431",
+      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8C5235",
+      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
       "credit": {
-        "name": "Seda Nur Koç",
-        "link": "https://www.pexels.com/@seda-nur-koc-2148806558",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-hands-sculpting-pottery-on-a-wheel-30283531/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8473795",
-      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#BAB7A8",
-      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
+      "prompt": "minimalist desk setup",
+      "id": "20648395",
+      "url": "https://images.pexels.com/photos/20648395/pexels-photo-20648395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20648395/pexels-photo-20648395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5020,
+      "height": 3347,
+      "color": "#4F4539",
+      "alt": "Stylish home office setup featuring a curved monitor, ergonomic chair, and indoor plants for a modern workspace vibe.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
+        "name": "minhphuc .workspace",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/gaming-monitor-on-desk-20648395/"
+      }
+    },
+    {
+      "prompt": "quiet architectural interior",
+      "id": "16955548",
+      "url": "https://images.pexels.com/photos/16955548/pexels-photo-16955548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16955548/pexels-photo-16955548.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5985,
+      "height": 3990,
+      "color": "#221C04",
+      "alt": "Warm and inviting wooden interior with plants, creating a cozy atmosphere.",
+      "credit": {
+        "name": "Thanh  Luu",
+        "link": "https://www.pexels.com/@thanh-luu-29104820",
+        "photoLink": "https://www.pexels.com/photo/dark-interior-of-a-bar-16955548/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "7533979",
+      "url": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2592,
+      "height": 1728,
+      "color": "#CCBCA6",
+      "alt": "Detailed texture of beige canvas fabric with soft lighting, perfect for background or textile themes.",
+      "credit": {
+        "name": "amanda cavalcante",
+        "link": "https://www.pexels.com/@amandaaaaaaaa",
+        "photoLink": "https://www.pexels.com/photo/white-canvas-fabric-7533979/"
       }
     }
   ]
