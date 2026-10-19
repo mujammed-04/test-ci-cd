@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-19T19:00:01.505Z",
+  "generatedAt": "2026-10-19T22:52:17.132Z",
   "photos": [
     {
+      "prompt": "vintage coffee cup",
+      "id": "228183",
+      "url": "https://images.pexels.com/photos/228183/pexels-photo-228183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/228183/pexels-photo-228183.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#957552",
+      "alt": "A rustic coffee mug sits on a wooden table surrounded by autumn leaves, creating a cozy atmosphere.",
+      "credit": {
+        "name": "Lisa Fotios",
+        "link": "https://www.pexels.com/@fotios-photos",
+        "photoLink": "https://www.pexels.com/photo/white-ceramic-mug-over-brown-table-228183/"
+      }
+    },
+    {
+      "prompt": "minimal desk surface",
+      "id": "4790260",
+      "url": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5865,
+      "height": 3915,
+      "color": "#A9A9A8",
+      "alt": "Elegant minimalist white desk setup with a digital clock in a serene setting.",
+      "credit": {
+        "name": "Anete Lusina",
+        "link": "https://www.pexels.com/@anete-lusina",
+        "photoLink": "https://www.pexels.com/photo/white-electronic-device-on-the-table-4790260/"
+      }
+    },
+    {
+      "prompt": "brick wall texture",
+      "id": "7394220",
+      "url": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#8B7361",
+      "alt": "High-resolution textured brick wall, perfect for design and architectural projects.",
+      "credit": {
+        "name": "Ila Bappa Ibrahim",
+        "link": "https://www.pexels.com/@ilabappa",
+        "photoLink": "https://www.pexels.com/photo/a-wall-made-of-bricks-7394220/"
+      }
+    },
+    {
+      "prompt": "analog film grain",
+      "id": "33276114",
+      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2500,
+      "height": 1678,
+      "color": "#7F645D",
+      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
+      "credit": {
+        "name": "Şeyma Emine  TAMER GÜL",
+        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
+        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
+      }
+    },
+    {
+      "prompt": "stormy coastal cliffs",
+      "id": "18730801",
+      "url": "https://images.pexels.com/photos/18730801/pexels-photo-18730801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18730801/pexels-photo-18730801.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4875,
+      "height": 3900,
+      "color": "#787E70",
+      "alt": "A stunning view of waves crashing against rocky cliffs under a cloudy sky, perfect for nature enthusiasts.",
+      "credit": {
+        "name": "Carsten Ruthemann",
+        "link": "https://www.pexels.com/@cannontaler",
+        "photoLink": "https://www.pexels.com/photo/waves-by-the-rocky-shore-18730801/"
+      }
+    },
+    {
       "prompt": "rusty workshop tools",
-      "id": "32777397",
-      "url": "https://images.pexels.com/photos/32777397/pexels-photo-32777397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32777397/pexels-photo-32777397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5054,
-      "height": 3369,
-      "color": "#3D3D3D",
-      "alt": "Monochrome image of a spanner on a workbench, highlighting industrial textures.",
+      "id": "15102481",
+      "url": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6064,
+      "height": 3430,
+      "color": "#A48662",
+      "alt": "Collection of vintage hand drills with wooden handles on a rustic workbench.",
       "credit": {
-        "name": "MD. Raktim Raze",
-        "link": "https://www.pexels.com/@roktim619",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-industrial-workshop-scene-32777397/"
-      }
-    },
-    {
-      "prompt": "grainy analog film",
-      "id": "10219043",
-      "url": "https://images.pexels.com/photos/10219043/pexels-photo-10219043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10219043/pexels-photo-10219043.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3620,
-      "height": 2415,
-      "color": "#8B8B8B",
-      "alt": "Close-up of film negatives soaking in a solution, showcasing the film development process in grayscale.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/negative-films-soaked-in-water-10219043/"
-      }
-    },
-    {
-      "prompt": "minimalist nordic interior",
-      "id": "7561304",
-      "url": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5647,
-      "height": 3757,
-      "color": "#C3C2C2",
-      "alt": "Elderly woman relaxing on a modern white sofa with a minimalist design theme.",
-      "credit": {
-        "name": "SHVETS production",
-        "link": "https://www.pexels.com/@shvets-production",
-        "photoLink": "https://www.pexels.com/photo/a-woman-in-white-reclining-on-white-couch-using-a-laptop-7561304/"
-      }
-    },
-    {
-      "prompt": "quiet architectural space",
-      "id": "18431230",
-      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3499,
-      "height": 2403,
-      "color": "#7B7165",
-      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
-      "credit": {
-        "name": "Javid Hashimov",
-        "link": "https://www.pexels.com/@javidhashimov",
-        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
-      }
-    },
-    {
-      "prompt": "clean minimal desk",
-      "id": "11163174",
-      "url": "https://images.pexels.com/photos/11163174/pexels-photo-11163174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11163174/pexels-photo-11163174.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#99897A",
-      "alt": "Bright workspace featuring a computer, wooden desk, and natural light through blinds.",
-      "credit": {
-        "name": "Yusuf P",
-        "link": "https://www.pexels.com/@artyusufpatel",
-        "photoLink": "https://www.pexels.com/photo/window-near-a-table-11163174/"
-      }
-    },
-    {
-      "prompt": "urban concrete texture",
-      "id": "9981497",
-      "url": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#959595",
-      "alt": "Black and white abstract graffiti on a textured concrete wall with shadows.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/black-textile-on-white-textile-9981497/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/vintage-rusty-tools-on-a-wooden-table-15102481/"
       }
     }
   ]
