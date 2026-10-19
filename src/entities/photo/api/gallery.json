@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-19T12:08:16.799Z",
+  "generatedAt": "2026-10-19T19:00:01.505Z",
   "photos": [
     {
-      "prompt": "ceramic coffee mug",
-      "id": "1809127",
-      "url": "https://images.pexels.com/photos/1809127/pexels-photo-1809127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1809127/pexels-photo-1809127.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5083,
-      "height": 4091,
-      "color": "#BBB9BB",
-      "alt": "A simple grey ceramic coffee mug with a clean design, ideal for minimalist decor.",
+      "prompt": "rusty workshop tools",
+      "id": "32777397",
+      "url": "https://images.pexels.com/photos/32777397/pexels-photo-32777397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32777397/pexels-photo-32777397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5054,
+      "height": 3369,
+      "color": "#3D3D3D",
+      "alt": "Monochrome image of a spanner on a workbench, highlighting industrial textures.",
       "credit": {
-        "name": "Andrea Piacquadio",
-        "link": "https://www.pexels.com/@olly",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-cup-1809127/"
+        "name": "MD. Raktim Raze",
+        "link": "https://www.pexels.com/@roktim619",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-industrial-workshop-scene-32777397/"
       }
     },
     {
-      "prompt": "light oak bookshelf",
-      "id": "7587300",
-      "url": "https://images.pexels.com/photos/7587300/pexels-photo-7587300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7587300/pexels-photo-7587300.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#827164",
-      "alt": "Stylish home library with wooden bookshelves, ladder, grey seating, and modern lighting.",
+      "prompt": "grainy analog film",
+      "id": "10219043",
+      "url": "https://images.pexels.com/photos/10219043/pexels-photo-10219043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10219043/pexels-photo-10219043.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3620,
+      "height": 2415,
+      "color": "#8B8B8B",
+      "alt": "Close-up of film negatives soaking in a solution, showcasing the film development process in grayscale.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/brown-wooden-shelves-with-books-7587300/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/negative-films-soaked-in-water-10219043/"
       }
     },
     {
-      "prompt": "gray brick facade",
-      "id": "5714687",
-      "url": "https://images.pexels.com/photos/5714687/pexels-photo-5714687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5714687/pexels-photo-5714687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3072,
-      "height": 1589,
-      "color": "#8C9BAD",
-      "alt": "Intricate geometric pattern created with interlocking bricks forming a detailed symmetrical design.",
+      "prompt": "minimalist nordic interior",
+      "id": "7561304",
+      "url": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5647,
+      "height": 3757,
+      "color": "#C3C2C2",
+      "alt": "Elderly woman relaxing on a modern white sofa with a minimalist design theme.",
       "credit": {
-        "name": "Jason Youngman",
-        "link": "https://www.pexels.com/@jason-youngman-3849515",
-        "photoLink": "https://www.pexels.com/photo/a-gray-brick-wall-5714687/"
+        "name": "SHVETS production",
+        "link": "https://www.pexels.com/@shvets-production",
+        "photoLink": "https://www.pexels.com/photo/a-woman-in-white-reclining-on-white-couch-using-a-laptop-7561304/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "11731019",
-      "url": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11731019/pexels-photo-11731019.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3902,
-      "height": 2191,
-      "color": "#AA884B",
-      "alt": "A serene misty field at dawn with soft sunlight and tall grasses.",
+      "prompt": "quiet architectural space",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
       "credit": {
-        "name": "Bryan Smith",
-        "link": "https://www.pexels.com/@bryan-smith-480077",
-        "photoLink": "https://www.pexels.com/photo/meadow-on-foggy-dusk-11731019/"
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
       }
     },
     {
-      "prompt": "minimalist wooden desk",
-      "id": "6934240",
-      "url": "https://images.pexels.com/photos/6934240/pexels-photo-6934240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6934240/pexels-photo-6934240.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4787,
-      "height": 3191,
-      "color": "#AF9E90",
-      "alt": "Chair and wooden table placed near window with curtains in home office with TV set",
-      "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/wooden-table-with-chair-near-cupboard-in-study-room-6934240/"
-      }
-    },
-    {
-      "prompt": "scandinavian living room",
-      "id": "12281845",
-      "url": "https://images.pexels.com/photos/12281845/pexels-photo-12281845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12281845/pexels-photo-12281845.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "clean minimal desk",
+      "id": "11163174",
+      "url": "https://images.pexels.com/photos/11163174/pexels-photo-11163174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11163174/pexels-photo-11163174.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 3840,
       "height": 2160,
-      "color": "#B6B3AE",
-      "alt": "Bright and cozy minimalist living room with beige sofa and modern decor.",
+      "color": "#99897A",
+      "alt": "Bright workspace featuring a computer, wooden desk, and natural light through blinds.",
       "credit": {
-        "name": "dada _design",
-        "link": "https://www.pexels.com/@dada-_design-240566386",
-        "photoLink": "https://www.pexels.com/photo/a-cozy-living-room-inside-a-house-12281845/"
+        "name": "Yusuf P",
+        "link": "https://www.pexels.com/@artyusufpatel",
+        "photoLink": "https://www.pexels.com/photo/window-near-a-table-11163174/"
+      }
+    },
+    {
+      "prompt": "urban concrete texture",
+      "id": "9981497",
+      "url": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9981497/pexels-photo-9981497.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#959595",
+      "alt": "Black and white abstract graffiti on a textured concrete wall with shadows.",
+      "credit": {
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/black-textile-on-white-textile-9981497/"
       }
     }
   ]
