@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-20T01:34:42.020Z",
+  "generatedAt": "2026-10-20T07:10:28.601Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "10813682",
-      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#6C5432",
-      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
+      "prompt": "linen wood texture",
+      "id": "34860678",
+      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#0D2D54",
+      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
       }
     },
     {
-      "prompt": "minimalist nordic interior",
-      "id": "6805417",
-      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6378,
-      "height": 4252,
-      "color": "#BDB0A7",
-      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
+      "prompt": "workshop tool arrangement",
+      "id": "29689995",
+      "url": "https://images.pexels.com/photos/29689995/pexels-photo-29689995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29689995/pexels-photo-29689995.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4495,
+      "height": 2997,
+      "color": "#A8A095",
+      "alt": "A neatly organized workshop with tools, craft supplies, and creative essentials on display.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
+        "name": "Sayeed Bin Mohiuddin",
+        "link": "https://www.pexels.com/@sayeedbm",
+        "photoLink": "https://www.pexels.com/photo/organized-workshop-tools-in-craft-studio-29689995/"
       }
     },
     {
-      "prompt": "vintage workshop tools",
-      "id": "33000620",
-      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8256,
-      "height": 6192,
-      "color": "#7C716F",
-      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
+      "prompt": "morning light desk",
+      "id": "1179490",
+      "url": "https://images.pexels.com/photos/1179490/pexels-photo-1179490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1179490/pexels-photo-1179490.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4096,
+      "height": 2304,
+      "color": "#A9A7A2",
+      "alt": "Retro blue alarm clock on a white desk with plant and candle nearby.",
       "credit": {
-        "name": "Tahir Xəlfəquliyev",
-        "link": "https://www.pexels.com/@tahir",
-        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
+        "name": "Enikő Tóth",
+        "link": "https://www.pexels.com/@eniko-toth-473630",
+        "photoLink": "https://www.pexels.com/photo/round-blue-alarm-clock-with-bell-on-white-table-near-snake-plant-1179490/"
       }
     },
     {
-      "prompt": "stormy coastal weather",
-      "id": "24603870",
-      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3018,
-      "color": "#8E9196",
-      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
+      "prompt": "minimal desk composition",
+      "id": "4087576",
+      "url": "https://images.pexels.com/photos/4087576/pexels-photo-4087576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4087576/pexels-photo-4087576.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8245,
+      "height": 5497,
+      "color": "#E1E1E2",
+      "alt": "Top view of minimalist white office supplies arranged in a flatlay on a white background.",
       "credit": {
-        "name": "Olga Prilepskaya",
-        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
+        "name": "Luna  Lovegood",
+        "link": "https://www.pexels.com/@luna-lovegood",
+        "photoLink": "https://www.pexels.com/photo/flatlay-photo-of-office-materials-4087576/"
       }
     },
     {
-      "prompt": "intricate botanical detail",
-      "id": "7718270",
-      "url": "https://images.pexels.com/photos/7718270/pexels-photo-7718270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718270/pexels-photo-7718270.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#3B3D35",
-      "alt": "Detailed macro shot of a textured begonia leaf showing distinct patterns and colors.",
+      "prompt": "still life arrangement",
+      "id": "33401256",
+      "url": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33401256/pexels-photo-33401256.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5726,
+      "height": 3817,
+      "color": "#141510",
+      "alt": "Vibrant physalis branch with orange and green husks against a dark backdrop.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-leaf-7718270/"
+        "name": "Valentin Ivantsov",
+        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
+        "photoLink": "https://www.pexels.com/photo/colorful-physalis-branch-on-dark-background-33401256/"
       }
     },
     {
-      "prompt": "gritty urban textures",
-      "id": "3964653",
-      "url": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#A8A5A1",
-      "alt": "Close-up view of a rough textured concrete wall, ideal for backgrounds.",
+      "prompt": "botanical leaf detail",
+      "id": "36316674",
+      "url": "https://images.pexels.com/photos/36316674/pexels-photo-36316674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36316674/pexels-photo-36316674.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#9F9D9E",
+      "alt": "Detailed close-up of a textured, dried leaf surface showcasing vein patterns.",
       "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-3964653/"
+        "name": "Sandi Yudha",
+        "link": "https://www.pexels.com/@sandiyp",
+        "photoLink": "https://www.pexels.com/photo/close-up-textured-dry-leaf-surface-36316674/"
       }
     }
   ]
