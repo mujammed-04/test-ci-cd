@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-19T22:52:17.132Z",
+  "generatedAt": "2026-10-20T01:34:42.020Z",
   "photos": [
     {
-      "prompt": "vintage coffee cup",
-      "id": "228183",
-      "url": "https://images.pexels.com/photos/228183/pexels-photo-228183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/228183/pexels-photo-228183.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#957552",
-      "alt": "A rustic coffee mug sits on a wooden table surrounded by autumn leaves, creating a cozy atmosphere.",
+      "prompt": "soft morning light",
+      "id": "10813682",
+      "url": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10813682/pexels-photo-10813682.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#6C5432",
+      "alt": "Tranquil scene of palm trees in a sunlit tropical forest, capturing nature's beauty.",
       "credit": {
-        "name": "Lisa Fotios",
-        "link": "https://www.pexels.com/@fotios-photos",
-        "photoLink": "https://www.pexels.com/photo/white-ceramic-mug-over-brown-table-228183/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/palm-trees-in-a-forest-10813682/"
       }
     },
     {
-      "prompt": "minimal desk surface",
-      "id": "4790260",
-      "url": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5865,
-      "height": 3915,
-      "color": "#A9A9A8",
-      "alt": "Elegant minimalist white desk setup with a digital clock in a serene setting.",
+      "prompt": "minimalist nordic interior",
+      "id": "6805417",
+      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6378,
+      "height": 4252,
+      "color": "#BDB0A7",
+      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
       "credit": {
-        "name": "Anete Lusina",
-        "link": "https://www.pexels.com/@anete-lusina",
-        "photoLink": "https://www.pexels.com/photo/white-electronic-device-on-the-table-4790260/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
       }
     },
     {
-      "prompt": "brick wall texture",
-      "id": "7394220",
-      "url": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7394220/pexels-photo-7394220.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#8B7361",
-      "alt": "High-resolution textured brick wall, perfect for design and architectural projects.",
+      "prompt": "vintage workshop tools",
+      "id": "33000620",
+      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#7C716F",
+      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
       "credit": {
-        "name": "Ila Bappa Ibrahim",
-        "link": "https://www.pexels.com/@ilabappa",
-        "photoLink": "https://www.pexels.com/photo/a-wall-made-of-bricks-7394220/"
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "33276114",
-      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2500,
-      "height": 1678,
-      "color": "#7F645D",
-      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
+      "prompt": "stormy coastal weather",
+      "id": "24603870",
+      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3018,
+      "color": "#8E9196",
+      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
       "credit": {
-        "name": "Şeyma Emine  TAMER GÜL",
-        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
-        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
+        "name": "Olga Prilepskaya",
+        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
+        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
       }
     },
     {
-      "prompt": "stormy coastal cliffs",
-      "id": "18730801",
-      "url": "https://images.pexels.com/photos/18730801/pexels-photo-18730801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18730801/pexels-photo-18730801.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4875,
-      "height": 3900,
-      "color": "#787E70",
-      "alt": "A stunning view of waves crashing against rocky cliffs under a cloudy sky, perfect for nature enthusiasts.",
+      "prompt": "intricate botanical detail",
+      "id": "7718270",
+      "url": "https://images.pexels.com/photos/7718270/pexels-photo-7718270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718270/pexels-photo-7718270.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#3B3D35",
+      "alt": "Detailed macro shot of a textured begonia leaf showing distinct patterns and colors.",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/waves-by-the-rocky-shore-18730801/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-leaf-7718270/"
       }
     },
     {
-      "prompt": "rusty workshop tools",
-      "id": "15102481",
-      "url": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15102481/pexels-photo-15102481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6064,
-      "height": 3430,
-      "color": "#A48662",
-      "alt": "Collection of vintage hand drills with wooden handles on a rustic workbench.",
+      "prompt": "gritty urban textures",
+      "id": "3964653",
+      "url": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#A8A5A1",
+      "alt": "Close-up view of a rough textured concrete wall, ideal for backgrounds.",
       "credit": {
-        "name": "FFD Restorations",
-        "link": "https://www.pexels.com/@ffd-restorations-400571257",
-        "photoLink": "https://www.pexels.com/photo/vintage-rusty-tools-on-a-wooden-table-15102481/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-3964653/"
       }
     }
   ]
