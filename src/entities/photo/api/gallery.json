@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-20T13:20:15.750Z",
+  "generatedAt": "2026-10-20T18:20:40.671Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "27007162",
-      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5824,
-      "height": 3740,
-      "color": "#B18E6E",
-      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
+      "prompt": "stormy coastline",
+      "id": "2419009",
+      "url": "https://images.pexels.com/photos/2419009/pexels-photo-2419009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2419009/pexels-photo-2419009.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4770,
+      "height": 3175,
+      "color": "#6F7A89",
+      "alt": "Powerful waves crash against rocks under a stormy sky in Sandnes, Norway.",
       "credit": {
-        "name": "Sohan Rahat",
-        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-2419009/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "6952331",
-      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6610,
-      "height": 4407,
-      "color": "#BDB2A8",
-      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
+      "prompt": "rusty workshop tools",
+      "id": "5194769",
+      "url": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#9E816D",
+      "alt": "A vibrant assortment of various hand tools arranged in a pile. Ideal for construction themes.",
+      "credit": {
+        "name": "Şahin Sezer Dinçer",
+        "link": "https://www.pexels.com/@sahinsezerdincer",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-assorted-tools-5194769/"
+      }
+    },
+    {
+      "prompt": "quiet stone arches",
+      "id": "34247021",
+      "url": "https://images.pexels.com/photos/34247021/pexels-photo-34247021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34247021/pexels-photo-34247021.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4080,
+      "height": 3072,
+      "color": "#403B38",
+      "alt": "Interior view of a gothic chapel showcasing its grand arches and an old window.",
+      "credit": {
+        "name": "Radka  Plchová",
+        "link": "https://www.pexels.com/@radka-plchova-2156305711",
+        "photoLink": "https://www.pexels.com/photo/gothic-arches-in-historic-stone-chapel-34247021/"
+      }
+    },
+    {
+      "prompt": "minimal white desk",
+      "id": "8092310",
+      "url": "https://images.pexels.com/photos/8092310/pexels-photo-8092310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092310/pexels-photo-8092310.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6124,
+      "height": 4083,
+      "color": "#CAD3D2",
+      "alt": "Aesthetic minimalist desk setup featuring potted plants and a white desk lamp against elegant wall paneling.",
       "credit": {
         "name": "https://kaboompics.com/",
         "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
+        "photoLink": "https://www.pexels.com/photo/indoor-plants-and-lamp-on-top-of-the-table-8092310/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "19826486",
-      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4687,
-      "height": 3106,
-      "color": "#8B8B8B",
-      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
+      "prompt": "nordic wood interior",
+      "id": "36077588",
+      "url": "https://images.pexels.com/photos/36077588/pexels-photo-36077588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36077588/pexels-photo-36077588.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#45342A",
+      "alt": "Stylish indoor sauna with wooden benches and modern LED lighting.",
       "credit": {
-        "name": "Misak Aghababyan",
-        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-with-wooden-design-36077588/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "8167283",
-      "url": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2800,
-      "color": "#C9B495",
-      "alt": "A minimalist still life featuring dried flowers in a pastel vase with scattered pebbles.",
+      "prompt": "simple fruit stilllife",
+      "id": "7250026",
+      "url": "https://images.pexels.com/photos/7250026/pexels-photo-7250026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7250026/pexels-photo-7250026.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4592,
+      "height": 3064,
+      "color": "#C2AA82",
+      "alt": "A composition of pears and citrus fruits in a minimalist still life photography setting.",
       "credit": {
-        "name": "Daria Liudnaya",
-        "link": "https://www.pexels.com/@daria-liudnaya",
-        "photoLink": "https://www.pexels.com/photo/colorful-decorations-and-dried-flowers-in-a-vase-8167283/"
-      }
-    },
-    {
-      "prompt": "minimal desk setup",
-      "id": "19513471",
-      "url": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3166,
-      "height": 2100,
-      "color": "#A19D9A",
-      "alt": "Clean and modern workspace featuring keyboard, smartphone, and wireless mouse with minimalistic design.",
-      "credit": {
-        "name": "Jakub Zerdzicki",
-        "link": "https://www.pexels.com/@jakubzerdzicki",
-        "photoLink": "https://www.pexels.com/photo/modern-desk-with-wireless-peripherals-19513471/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "40262866",
-      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3888,
-      "color": "#AB4A27",
-      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
-      "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/a-still-life-photography-of-assorted-fruits-on-a-beige-surface-7250026/"
       }
     }
   ]
