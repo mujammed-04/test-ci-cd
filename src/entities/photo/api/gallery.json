@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-21T07:03:19.640Z",
+  "generatedAt": "2026-10-21T13:25:40.917Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "6542520",
-      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3089,
+      "prompt": "linen wood texture",
+      "id": "34860687",
+      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#272727",
+      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+      }
+    },
+    {
+      "prompt": "quiet architectural interior",
+      "id": "36501697",
+      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 6144,
+      "color": "#675845",
+      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
+      "credit": {
+        "name": "Arnu",
+        "link": "https://www.pexels.com/@arnu-2158905519",
+        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
+      }
+    },
+    {
+      "prompt": "analog film grain",
+      "id": "32909013",
+      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3088,
       "height": 2048,
-      "color": "#8C7D6D",
-      "alt": "Modern white brick facade with geometric design in soft evening light.",
+      "color": "#8A8A8A",
+      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
       "credit": {
-        "name": "Sinitta Leunen",
-        "link": "https://www.pexels.com/@sinileunen",
-        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
+        "name": "Faruk Canpolat",
+        "link": "https://www.pexels.com/@farukcanpolat",
+        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8473794",
-      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#B7AB95",
-      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
+      "prompt": "still life arrangement",
+      "id": "6070340",
+      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#667185",
+      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
+        "name": "Jill Burrow",
+        "link": "https://www.pexels.com/@jill-burrow",
+        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "5443369",
-      "url": "https://images.pexels.com/photos/5443369/pexels-photo-5443369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5443369/pexels-photo-5443369.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#797F7D",
-      "alt": "A textured wall with layers of torn and weathered paper for artistic backgrounds.",
+      "prompt": "urban texture wall",
+      "id": "2969398",
+      "url": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9000,
+      "height": 6001,
+      "color": "#515048",
+      "alt": "Detailed close-up of a weathered concrete wall showcasing texture, drips, and stains.",
       "credit": {
-        "name": "max laurell",
-        "link": "https://www.pexels.com/@max-laurell-1958001",
-        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-5443369/"
+        "name": "Tim Mossholder",
+        "link": "https://www.pexels.com/@timmossholder",
+        "photoLink": "https://www.pexels.com/photo/grey-concrete-wall-2969398/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "545046",
-      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4460,
-      "height": 2974,
-      "color": "#CEBBA8",
-      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
-      "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "207116",
-      "url": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#1E1B0F",
-      "alt": "A refined still life featuring Talisker whisky, floral arrangement, and vintage decor.",
-      "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/yellow-and-pink-roses-in-vase-beside-wine-bottle-close-up-photography-207116/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "40262866",
-      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimalist desk setup",
+      "id": "25450658",
+      "url": "https://images.pexels.com/photos/25450658/pexels-photo-25450658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/25450658/pexels-photo-25450658.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5184,
-      "height": 3888,
-      "color": "#AB4A27",
-      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
+      "height": 2912,
+      "color": "#4A4B4D",
+      "alt": "A stylish home office desk featuring a computer setup with accessories, perfect for creativity and productivity.",
       "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
+        "name": "Bich Tran",
+        "link": "https://www.pexels.com/@thngocbich",
+        "photoLink": "https://www.pexels.com/photo/aesthetic-computer-setup-in-home-office-25450658/"
       }
     }
   ]
