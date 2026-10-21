@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-21T01:16:26.812Z",
+  "generatedAt": "2026-10-21T07:03:19.640Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "8181512",
-      "url": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2715,
-      "height": 1818,
-      "color": "#868686",
-      "alt": "A serene black and white river scene featuring a distant ferris wheel and lush vegetation.",
+      "prompt": "quiet architecture",
+      "id": "6542520",
+      "url": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6542520/pexels-photo-6542520.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3089,
+      "height": 2048,
+      "color": "#8C7D6D",
+      "alt": "Modern white brick facade with geometric design in soft evening light.",
       "credit": {
-        "name": "Andrey Karpov",
-        "link": "https://www.pexels.com/@andrey-karpov-3835451",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-film-photograph-of-a-river-in-a-park-and-a-ferris-wheel-in-distance-8181512/"
+        "name": "Sinitta Leunen",
+        "link": "https://www.pexels.com/@sinileunen",
+        "photoLink": "https://www.pexels.com/photo/facade-of-brick-building-6542520/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
+      "prompt": "minimal desk",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "39200567",
-      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B4F41",
-      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
+      "prompt": "urban texture",
+      "id": "5443369",
+      "url": "https://images.pexels.com/photos/5443369/pexels-photo-5443369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5443369/pexels-photo-5443369.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#797F7D",
+      "alt": "A textured wall with layers of torn and weathered paper for artistic backgrounds.",
       "credit": {
-        "name": "NEOSiAM 18+",
-        "link": "https://www.pexels.com/@neosiam",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
+        "name": "max laurell",
+        "link": "https://www.pexels.com/@max-laurell-1958001",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-5443369/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
+      "prompt": "linen wood",
+      "id": "545046",
+      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4460,
+      "height": 2974,
+      "color": "#CEBBA8",
+      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
       }
     },
     {
       "prompt": "still life",
-      "id": "37848848",
-      "url": "https://images.pexels.com/photos/37848848/pexels-photo-37848848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37848848/pexels-photo-37848848.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1782,
-      "color": "#231A15",
-      "alt": "Moody still life featuring a rustic setting with bread, onions, and a clay pot on a wooden table.",
+      "id": "207116",
+      "url": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4256,
+      "height": 2832,
+      "color": "#1E1B0F",
+      "alt": "A refined still life featuring Talisker whisky, floral arrangement, and vintage decor.",
       "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/rustic-still-life-with-bread-and-onions-37848848/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/yellow-and-pink-roses-in-vase-beside-wine-bottle-close-up-photography-207116/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "38350381",
-      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#829091",
-      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
+      "prompt": "botanical detail",
+      "id": "40262866",
+      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#AB4A27",
+      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
       "credit": {
-        "name": "Margarita K",
-        "link": "https://www.pexels.com/@margarita-k-105195494",
-        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
+        "name": "Ali Goode",
+        "link": "https://www.pexels.com/@ali-goode-2151511157",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
       }
     }
   ]
