@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-21T13:25:40.917Z",
+  "generatedAt": "2026-10-21T18:22:29.586Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34860687",
-      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#272727",
-      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
+      "prompt": "botanical detail",
+      "id": "40260622",
+      "url": "https://images.pexels.com/photos/40260622/pexels-photo-40260622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40260622/pexels-photo-40260622.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#5E605F",
+      "alt": "Explore the intricate details of a blooming Passiflora flower with vibrant colors.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+        "name": "Tess h.",
+        "link": "https://www.pexels.com/@tess-h-312625",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-passiflora-flower-in-bloom-40260622/"
       }
     },
     {
-      "prompt": "quiet architectural interior",
-      "id": "36501697",
-      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 6144,
-      "color": "#675845",
-      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
+      "prompt": "morning light",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
+      "height": 4000,
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Arnu",
-        "link": "https://www.pexels.com/@arnu-2158905519",
-        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "32909013",
-      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#8A8A8A",
-      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
+      "prompt": "handmade ceramics",
+      "id": "6611187",
+      "url": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611187/pexels-photo-6611187.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#807C72",
+      "alt": "Close-up of artisan-crafted ceramic mugs on a shelf, showcasing pottery craftsmanship.",
       "credit": {
-        "name": "Faruk Canpolat",
-        "link": "https://www.pexels.com/@farukcanpolat",
-        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-handmade-ceramic-pottery-on-shelf-6611187/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "6070340",
-      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#667185",
-      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
+      "prompt": "minimal desks",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "Jill Burrow",
-        "link": "https://www.pexels.com/@jill-burrow",
-        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "urban texture wall",
-      "id": "2969398",
-      "url": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 9000,
-      "height": 6001,
-      "color": "#515048",
-      "alt": "Detailed close-up of a weathered concrete wall showcasing texture, drips, and stains.",
+      "prompt": "still life",
+      "id": "207116",
+      "url": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4256,
+      "height": 2832,
+      "color": "#1E1B0F",
+      "alt": "A refined still life featuring Talisker whisky, floral arrangement, and vintage decor.",
       "credit": {
-        "name": "Tim Mossholder",
-        "link": "https://www.pexels.com/@timmossholder",
-        "photoLink": "https://www.pexels.com/photo/grey-concrete-wall-2969398/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/yellow-and-pink-roses-in-vase-beside-wine-bottle-close-up-photography-207116/"
       }
     },
     {
-      "prompt": "minimalist desk setup",
-      "id": "25450658",
-      "url": "https://images.pexels.com/photos/25450658/pexels-photo-25450658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/25450658/pexels-photo-25450658.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2912,
-      "color": "#4A4B4D",
-      "alt": "A stylish home office desk featuring a computer setup with accessories, perfect for creativity and productivity.",
+      "prompt": "nordic interiors",
+      "id": "8092417",
+      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6715,
+      "height": 4477,
+      "color": "#CFCECC",
+      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
       "credit": {
-        "name": "Bich Tran",
-        "link": "https://www.pexels.com/@thngocbich",
-        "photoLink": "https://www.pexels.com/photo/aesthetic-computer-setup-in-home-office-25450658/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
       }
     }
   ]
