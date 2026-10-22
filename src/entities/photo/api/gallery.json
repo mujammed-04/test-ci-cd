@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-22T13:26:45.906Z",
+  "generatedAt": "2026-10-22T18:17:05.336Z",
   "photos": [
     {
-      "prompt": "soft sunrise glow",
-      "id": "266142",
-      "url": "https://images.pexels.com/photos/266142/pexels-photo-266142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/266142/pexels-photo-266142.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2500,
-      "height": 1666,
-      "color": "#655B53",
-      "alt": "Tranquil seascape captured during sunset with golden reflections on the beach and water.",
+      "prompt": "brick wall texture",
+      "id": "9843688",
+      "url": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5927,
+      "height": 3951,
+      "color": "#BE845C",
+      "alt": "Photo of a brick wall with interesting shadow patterns from stairs.",
       "credit": {
-        "name": "Pok Rie",
-        "link": "https://www.pexels.com/@pok-rie-33563",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-266142/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-light-casting-a-shadow-of-lines-on-a-brown-brick-wall-9843688/"
       }
     },
     {
-      "prompt": "stormy coastline",
-      "id": "2419009",
-      "url": "https://images.pexels.com/photos/2419009/pexels-photo-2419009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2419009/pexels-photo-2419009.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4770,
-      "height": 3175,
-      "color": "#6F7A89",
-      "alt": "Powerful waves crash against rocks under a stormy sky in Sandnes, Norway.",
+      "prompt": "rusty metal tools",
+      "id": "27348524",
+      "url": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#554F43",
+      "alt": "A rusty industrial lathe in a vintage workshop setting showcasing metalwork machinery.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/waves-crashing-2419009/"
+        "name": "Marian  Cosnete",
+        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
+        "photoLink": "https://www.pexels.com/photo/a-machine-shop-with-a-lamp-and-a-machine-27348524/"
       }
     },
     {
-      "prompt": "quiet stone facade",
-      "id": "8454881",
-      "url": "https://images.pexels.com/photos/8454881/pexels-photo-8454881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8454881/pexels-photo-8454881.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet architectural corridor",
+      "id": "13003822",
+      "url": "https://images.pexels.com/photos/13003822/pexels-photo-13003822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13003822/pexels-photo-13003822.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#363531",
-      "alt": "Rustic stone house in Portugal with dark clouds overhead, creating a moody atmosphere.",
+      "color": "#7B7569",
+      "alt": "Sunlit colonial corridor in Venezuela with arches and columns casting beautiful shadows.",
       "credit": {
-        "name": "César Fonseca",
-        "link": "https://www.pexels.com/@cesar-fonseca-17375691",
-        "photoLink": "https://www.pexels.com/photo/brown-stone-house-under-dark-clouds-8454881/"
+        "name": "Arturo A",
+        "link": "https://www.pexels.com/@arturoaez225",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-corridor-13003822/"
       }
     },
     {
-      "prompt": "delicate fern leaf",
-      "id": "33725773",
-      "url": "https://images.pexels.com/photos/33725773/pexels-photo-33725773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33725773/pexels-photo-33725773.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#5D6E2A",
-      "alt": "Macro photograph capturing the intricate details and vibrant green color of a fern leaf.",
+      "prompt": "minimal wooden desk",
+      "id": "12881058",
+      "url": "https://images.pexels.com/photos/12881058/pexels-photo-12881058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12881058/pexels-photo-12881058.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3956,
+      "height": 2225,
+      "color": "#3F352C",
+      "alt": "A modern and minimalist workspace featuring a computer, desk, and chair with elegant stone wall decor.",
       "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-green-fern-leaf-with-details-33725773/"
+        "name": "Pușcaș Adryan",
+        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
+        "photoLink": "https://www.pexels.com/photo/computer-monitor-on-top-of-a-desk-12881058/"
       }
     },
     {
-      "prompt": "gritty city walls",
-      "id": "15125364",
-      "url": "https://images.pexels.com/photos/15125364/pexels-photo-15125364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15125364/pexels-photo-15125364.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#61574D",
-      "alt": "A rustic metal door set in an aged brick wall with shadows.",
+      "prompt": "coastal foggy sky",
+      "id": "32482262",
+      "url": "https://images.pexels.com/photos/32482262/pexels-photo-32482262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32482262/pexels-photo-32482262.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#84888B",
+      "alt": "Tranquil scene of a foggy coastline with pine trees in the foreground.",
       "credit": {
-        "name": "Mak_ jp",
-        "link": "https://www.pexels.com/@mak_-jp-107017486",
-        "photoLink": "https://www.pexels.com/photo/sand-near-building-wall-15125364/"
+        "name": "Erik Mclean",
+        "link": "https://www.pexels.com/@introspectivedsgn",
+        "photoLink": "https://www.pexels.com/photo/serene-foggy-coastline-with-pine-tree-32482262/"
       }
     },
     {
-      "prompt": "vintage film grain",
-      "id": "9940546",
-      "url": "https://images.pexels.com/photos/9940546/pexels-photo-9940546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9940546/pexels-photo-9940546.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#323232",
-      "alt": "Artistic close-up of black and white film texture with light patterns.",
+      "prompt": "still life composition",
+      "id": "37511454",
+      "url": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2659,
+      "height": 1733,
+      "color": "#25201C",
+      "alt": "A still life composition featuring tangerines on a blue cloth beside a glass jug of water.",
       "credit": {
-        "name": "Евгений Качин",
-        "link": "https://www.pexels.com/@123396308",
-        "photoLink": "https://www.pexels.com/photo/an-old-photo-film-9940546/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-tangerines-and-water-jug-37511454/"
       }
     }
   ]
