@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-21T22:05:26.644Z",
+  "generatedAt": "2026-10-22T01:12:29.081Z",
   "photos": [
     {
-      "prompt": "Morning light",
-      "id": "8358607",
-      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5329,
-      "height": 4000,
-      "color": "#807863",
-      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
+      "prompt": "rusty workshop tools",
+      "id": "15102482",
+      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5522,
+      "height": 3106,
+      "color": "#AC8A65",
+      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
       "credit": {
-        "name": "Kübra Arslaner",
-        "link": "https://www.pexels.com/@nediyodukenson",
-        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "8181512",
-      "url": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2715,
-      "height": 1818,
-      "color": "#868686",
-      "alt": "A serene black and white river scene featuring a distant ferris wheel and lush vegetation.",
+      "prompt": "delicate botanical macro",
+      "id": "784877",
+      "url": "https://images.pexels.com/photos/784877/pexels-photo-784877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/784877/pexels-photo-784877.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#47493A",
+      "alt": "Vibrant blue flowers surrounded by delicate leaves, showcasing nature's beauty in a garden setting.",
       "credit": {
-        "name": "Andrey Karpov",
-        "link": "https://www.pexels.com/@andrey-karpov-3835451",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-film-photograph-of-a-river-in-a-park-and-a-ferris-wheel-in-distance-8181512/"
+        "name": "Swapnil Sharma",
+        "link": "https://www.pexels.com/@hellochemo",
+        "photoLink": "https://www.pexels.com/photo/close-up-photography-of-flowers-784877/"
       }
     },
     {
-      "prompt": "Botanical detail",
-      "id": "39200567",
-      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B4F41",
-      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
+      "prompt": "soft morning light",
+      "id": "40414740",
+      "url": "https://images.pexels.com/photos/40414740/pexels-photo-40414740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40414740/pexels-photo-40414740.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#795630",
+      "alt": "A softly lit wooden door partially open, bathed in warm sunlight.",
       "credit": {
-        "name": "NEOSiAM 18+",
-        "link": "https://www.pexels.com/@neosiam",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
+        "name": "Patryk Balcerzak",
+        "link": "https://www.pexels.com/@valeblunt",
+        "photoLink": "https://www.pexels.com/photo/warm-sunlight-streaming-through-open-door-40414740/"
       }
     },
     {
-      "prompt": "Urban textures",
-      "id": "31061268",
-      "url": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31061268/pexels-photo-31061268.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#BAB5B1",
-      "alt": "Close-up of a weathered wall with peeling posters and exposed textures, showcasing urban decay.",
+      "prompt": "grainy analogue film",
+      "id": "5083445",
+      "url": "https://images.pexels.com/photos/5083445/pexels-photo-5083445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5083445/pexels-photo-5083445.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2864,
+      "height": 2718,
+      "color": "#5A5444",
+      "alt": "Black and white film negative depicting a plant in cinematic style.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-peeling-posters-on-urban-wall-31061268/"
+        "name": "Point And Shoot",
+        "link": "https://www.pexels.com/@point-and-shoot-3393354",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-photo-of-plants-5083445/"
       }
     },
     {
-      "prompt": "Nordic interiors",
-      "id": "37173283",
-      "url": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173283/pexels-photo-37173283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3852,
-      "height": 3712,
-      "color": "#D1D1D1",
-      "alt": "Bright and modern Scandinavian-style staircase with a glass lantern and dried plants.",
+      "prompt": "artful still life",
+      "id": "5010623",
+      "url": "https://images.pexels.com/photos/5010623/pexels-photo-5010623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5010623/pexels-photo-5010623.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#3B7380",
+      "alt": "Creative still life featuring vegetables and a log against a blue background.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/minimalist-white-staircase-with-lantern-decor-37173283/"
+        "name": "Alexander Sergienko",
+        "link": "https://www.pexels.com/@alexander-sergienko-3350339",
+        "photoLink": "https://www.pexels.com/photo/art-against-a-blue-background-5010623/"
       }
     },
     {
-      "prompt": "Handmade ceramics",
-      "id": "28867382",
-      "url": "https://images.pexels.com/photos/28867382/pexels-photo-28867382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28867382/pexels-photo-28867382.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#646255",
-      "alt": "A collection of elegant handcrafted ceramic vases featuring detailed floral designs.",
+      "prompt": "stormy coastal sky",
+      "id": "1572665",
+      "url": "https://images.pexels.com/photos/1572665/pexels-photo-1572665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1572665/pexels-photo-1572665.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5173,
+      "height": 3449,
+      "color": "#788489",
+      "alt": "A dramatic view of the Baltic Sea coastline in Latvia with moody skies and waves crashing on the shore.",
       "credit": {
-        "name": "Lâm Thanh",
-        "link": "https://www.pexels.com/@lam-thanh-1100392445",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-vases-with-floral-designs-28867382/"
+        "name": "Mareks Steins",
+        "link": "https://www.pexels.com/@marekssteins",
+        "photoLink": "https://www.pexels.com/photo/sea-1572665/"
       }
     }
   ]
