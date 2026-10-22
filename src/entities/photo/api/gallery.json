@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-22T18:17:05.336Z",
+  "generatedAt": "2026-10-22T22:05:08.126Z",
   "photos": [
     {
-      "prompt": "brick wall texture",
-      "id": "9843688",
-      "url": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5927,
-      "height": 3951,
-      "color": "#BE845C",
-      "alt": "Photo of a brick wall with interesting shadow patterns from stairs.",
+      "prompt": "rustic workshop tools",
+      "id": "5845901",
+      "url": "https://images.pexels.com/photos/5845901/pexels-photo-5845901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5845901/pexels-photo-5845901.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5784,
+      "height": 3856,
+      "color": "#525252",
+      "alt": "A monochrome display of various metal hammers arranged on a workshop rack.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-light-casting-a-shadow-of-lines-on-a-brown-brick-wall-9843688/"
+        "name": "Tima Miroshnichenko",
+        "link": "https://www.pexels.com/@tima-miroshnichenko",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-metal-hammers-5845901/"
       }
     },
     {
-      "prompt": "rusty metal tools",
-      "id": "27348524",
-      "url": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#554F43",
-      "alt": "A rusty industrial lathe in a vintage workshop setting showcasing metalwork machinery.",
-      "credit": {
-        "name": "Marian  Cosnete",
-        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
-        "photoLink": "https://www.pexels.com/photo/a-machine-shop-with-a-lamp-and-a-machine-27348524/"
-      }
-    },
-    {
-      "prompt": "quiet architectural corridor",
-      "id": "13003822",
-      "url": "https://images.pexels.com/photos/13003822/pexels-photo-13003822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13003822/pexels-photo-13003822.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "scandinavian interior",
+      "id": "7836571",
+      "url": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7836571/pexels-photo-7836571.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#7B7569",
-      "alt": "Sunlit colonial corridor in Venezuela with arches and columns casting beautiful shadows.",
+      "color": "#A7A9A8",
+      "alt": "Bright and modern living room featuring monstera plants and cozy decor.",
       "credit": {
-        "name": "Arturo A",
-        "link": "https://www.pexels.com/@arturoaez225",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-corridor-13003822/"
+        "name": "Stanislav Kondratiev",
+        "link": "https://www.pexels.com/@technobulka",
+        "photoLink": "https://www.pexels.com/photo/interior-of-a-living-room-7836571/"
       }
     },
     {
-      "prompt": "minimal wooden desk",
-      "id": "12881058",
-      "url": "https://images.pexels.com/photos/12881058/pexels-photo-12881058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12881058/pexels-photo-12881058.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3956,
-      "height": 2225,
-      "color": "#3F352C",
-      "alt": "A modern and minimalist workspace featuring a computer, desk, and chair with elegant stone wall decor.",
+      "prompt": "botanical leaf closeup",
+      "id": "5555319",
+      "url": "https://images.pexels.com/photos/5555319/pexels-photo-5555319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5555319/pexels-photo-5555319.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4160,
+      "height": 3120,
+      "color": "#699627",
+      "alt": "Detailed close-up view of leaf veins showcasing natural texture and vibrant green color.",
       "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/computer-monitor-on-top-of-a-desk-12881058/"
+        "name": "Life is a Poem",
+        "link": "https://www.pexels.com/@lifeisapoem",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-leaf-5555319/"
       }
     },
     {
-      "prompt": "coastal foggy sky",
-      "id": "32482262",
-      "url": "https://images.pexels.com/photos/32482262/pexels-photo-32482262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32482262/pexels-photo-32482262.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#84888B",
-      "alt": "Tranquil scene of a foggy coastline with pine trees in the foreground.",
+      "prompt": "soft morning light",
+      "id": "30501199",
+      "url": "https://images.pexels.com/photos/30501199/pexels-photo-30501199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30501199/pexels-photo-30501199.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5355,
+      "height": 3570,
+      "color": "#796149",
+      "alt": "Wildflowers bask in golden sunlight creating a warm, serene scene.",
       "credit": {
-        "name": "Erik Mclean",
-        "link": "https://www.pexels.com/@introspectivedsgn",
-        "photoLink": "https://www.pexels.com/photo/serene-foggy-coastline-with-pine-tree-32482262/"
+        "name": "Nataliia Zhytnytska",
+        "link": "https://www.pexels.com/@nataliia-zhytnytska-696963186",
+        "photoLink": "https://www.pexels.com/photo/golden-hour-wildflowers-in-a-sunlit-field-30501199/"
       }
     },
     {
-      "prompt": "still life composition",
-      "id": "37511454",
-      "url": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37511454/pexels-photo-37511454.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1733,
-      "color": "#25201C",
-      "alt": "A still life composition featuring tangerines on a blue cloth beside a glass jug of water.",
+      "prompt": "linen wood texture",
+      "id": "7232397",
+      "url": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6144,
+      "height": 3456,
+      "color": "#AC9D8C",
+      "alt": "Close-up of beige cotton fabric showcasing natural texture and crumples.",
       "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-tangerines-and-water-jug-37511454/"
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/close-up-white-fabric-with-crumple-7232397/"
+      }
+    },
+    {
+      "prompt": "stormy coastal sky",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "credit": {
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
       }
     }
   ]
