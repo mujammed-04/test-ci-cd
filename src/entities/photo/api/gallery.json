@@ -1,68 +1,53 @@
 {
-  "generatedAt": "2026-10-23T06:57:15.928Z",
+  "generatedAt": "2026-10-23T12:29:34.663Z",
   "photos": [
     {
-      "prompt": "workshop tools",
-      "id": "220639",
-      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#D7D7D7",
-      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
+      "prompt": "minimalist desk",
+      "id": "4790260",
+      "url": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4790260/pexels-photo-4790260.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5865,
+      "height": 3915,
+      "color": "#A9A9A8",
+      "alt": "Elegant minimalist white desk setup with a digital clock in a serene setting.",
       "credit": {
-        "name": "icon0 com",
-        "link": "https://www.pexels.com/@icon0",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
+        "name": "Anete Lusina",
+        "link": "https://www.pexels.com/@anete-lusina",
+        "photoLink": "https://www.pexels.com/photo/white-electronic-device-on-the-table-4790260/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "14651730",
-      "url": "https://images.pexels.com/photos/14651730/pexels-photo-14651730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14651730/pexels-photo-14651730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#564D46",
-      "alt": "Cozy bedroom corner featuring a rustic wooden headboard and floral pillows in Chía, Colombia.",
+      "prompt": "linen wood surface",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
       "credit": {
-        "name": "Gustavo Galeano Maz",
-        "link": "https://www.pexels.com/@fotografiagmazg",
-        "photoLink": "https://www.pexels.com/photo/floral-pillows-on-a-bed-with-a-wooden-headboard-14651730/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "36501697",
-      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 6144,
-      "color": "#675845",
-      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
+      "prompt": "morning sunlight",
+      "id": "39704455",
+      "url": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4263,
+      "height": 2842,
+      "color": "#5D643B",
+      "alt": "Peaceful park pathway framed by vibrant autumn leaves and warm sunbeams.",
       "credit": {
-        "name": "Arnu",
-        "link": "https://www.pexels.com/@arnu-2158905519",
-        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
+        "name": "Dawid Zawiła",
+        "link": "https://www.pexels.com/@dawid-zawila-2151273316",
+        "photoLink": "https://www.pexels.com/photo/serene-autumn-pathway-in-sunlit-forest-39704455/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
-      "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
+      "prompt": "handcrafted ceramic bowl",
       "id": "33703946",
       "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -77,18 +62,33 @@
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "39714897",
-      "url": "https://images.pexels.com/photos/39714897/pexels-photo-39714897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39714897/pexels-photo-39714897.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6960,
-      "height": 4640,
-      "color": "#C82D4F",
-      "alt": "Close-up macro of a vibrant pink rose showcasing intricate stamen details in natural light.",
+      "prompt": "analogue film grain",
+      "id": "19826486",
+      "url": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19826486/pexels-photo-19826486.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4687,
+      "height": 3106,
+      "color": "#8B8B8B",
+      "alt": "Grainy black and white abstract film photograph demonstrating gradient lighting and texture.",
       "credit": {
-        "name": "Ali   Soheil",
-        "link": "https://www.pexels.com/@ali-soheil-2154370577",
-        "photoLink": "https://www.pexels.com/photo/vivid-pink-rose-macro-with-detailed-stamen-39714897/"
+        "name": "Misak Aghababyan",
+        "link": "https://www.pexels.com/@misak-aghababyan-157457125",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-grainy-film-photograph-19826486/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "13734041",
+      "url": "https://images.pexels.com/photos/13734041/pexels-photo-13734041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13734041/pexels-photo-13734041.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#112617",
+      "alt": "Detailed close-up of green leaf veins showcasing natural pattern and texture.",
+      "credit": {
+        "name": "Gabriella Ally",
+        "link": "https://www.pexels.com/@gabriella-ally-3664539",
+        "photoLink": "https://www.pexels.com/photo/green-leaf-in-close-up-photography-13734041/"
       }
     }
   ]
