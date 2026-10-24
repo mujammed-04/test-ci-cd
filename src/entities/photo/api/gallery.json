@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-24T03:17:56.831Z",
+  "generatedAt": "2026-10-24T08:38:48.667Z",
   "photos": [
     {
-      "prompt": "Minimal desk setup",
-      "id": "7057",
-      "url": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5362,
-      "height": 3575,
-      "color": "#929190",
-      "alt": "Minimalist home office workspace featuring a desktop computer, keyboard, and mouse on a white desk.",
+      "prompt": "stormy coastline",
+      "id": "29857091",
+      "url": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7500,
+      "height": 4219,
+      "color": "#7A7B76",
+      "alt": "Waves crash against a distant shore under dark, stormy clouds.",
       "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-apple-magic-mouse-and-apple-keyboard-7057/"
+        "name": "Raul Ling",
+        "link": "https://www.pexels.com/@raulling",
+        "photoLink": "https://www.pexels.com/photo/stormy-sea-with-distant-tower-and-moody-clouds-29857091/"
       }
     },
     {
-      "prompt": "Morning light interior",
-      "id": "35471064",
-      "url": "https://images.pexels.com/photos/35471064/pexels-photo-35471064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35471064/pexels-photo-35471064.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#665C50",
-      "alt": "Chairs casting long shadows on a sunlit floor with a solitary leaf.",
+      "prompt": "emerald fern leaf",
+      "id": "36499511",
+      "url": "https://images.pexels.com/photos/36499511/pexels-photo-36499511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36499511/pexels-photo-36499511.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#3E521D",
+      "alt": "Vibrant green fern leaves in Estepona, Spain, showcasing the beauty of tropical plant life.",
       "credit": {
-        "name": "mingche lee",
-        "link": "https://www.pexels.com/@mingche-lee-2072368",
-        "photoLink": "https://www.pexels.com/photo/sunlight-and-shadows-on-indoor-floor-with-leaf-35471064/"
+        "name": "Amaia Garcia",
+        "link": "https://www.pexels.com/@amaiagarcia",
+        "photoLink": "https://www.pexels.com/photo/lush-tropical-ferns-in-estepona-spain-36499511/"
       }
     },
     {
-      "prompt": "Quiet architectural hallway",
-      "id": "31716253",
-      "url": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7255,
-      "height": 4842,
-      "color": "#0E1118",
-      "alt": "View of a historic gothic church corridor in Basel, showcasing architectural beauty.",
-      "credit": {
-        "name": "Ramon Karolan",
-        "link": "https://www.pexels.com/@ramonkaphotography",
-        "photoLink": "https://www.pexels.com/photo/gothic-church-corridor-in-basel-switzerland-31716253/"
-      }
-    },
-    {
-      "prompt": "Urban texture wall",
-      "id": "35658708",
-      "url": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35658708/pexels-photo-35658708.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#635344",
-      "alt": "Close-up view of a weathered brick wall with peeling plaster and textured patterns.",
-      "credit": {
-        "name": "Francesco Paggiaro",
-        "link": "https://www.pexels.com/@paggiarofrancesco",
-        "photoLink": "https://www.pexels.com/photo/textured-brick-and-plaster-wall-close-up-35658708/"
-      }
-    },
-    {
-      "prompt": "Analogue film grain",
-      "id": "16851158",
-      "url": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16851158/pexels-photo-16851158.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3360,
-      "height": 2240,
-      "color": "#4E4F49",
-      "alt": "A moody abstract texture with dark tones and subtle gradients, ideal for backgrounds.",
-      "credit": {
-        "name": "Scenehaus Production",
-        "link": "https://www.pexels.com/@scenehaus",
-        "photoLink": "https://www.pexels.com/photo/gray-abstract-surface-16851158/"
-      }
-    },
-    {
-      "prompt": "Still life objects",
-      "id": "37076329",
-      "url": "https://images.pexels.com/photos/37076329/pexels-photo-37076329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37076329/pexels-photo-37076329.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "ceramic fruit arrangement",
+      "id": "7167300",
+      "url": "https://images.pexels.com/photos/7167300/pexels-photo-7167300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7167300/pexels-photo-7167300.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5760,
       "height": 3840,
-      "color": "#241D13",
-      "alt": "A creative still life of a broken mug with scattered orange balls, set against a black backdrop.",
+      "color": "#C6BEA9",
+      "alt": "Fresh pears and lemons on a checkered cloth beside flowers and a ceramic mug.",
       "credit": {
-        "name": "Valentin Ivantsov",
-        "link": "https://www.pexels.com/@valentin-ivantsov-2154772556",
-        "photoLink": "https://www.pexels.com/photo/artful-arrangement-of-broken-mug-and-balls-37076329/"
+        "name": "Jill Wellington",
+        "link": "https://www.pexels.com/@jill-wellington-1638660",
+        "photoLink": "https://www.pexels.com/photo/a-yellow-fruits-near-the-ceramic-mug-7167300/"
+      }
+    },
+    {
+      "prompt": "weathered brick wall",
+      "id": "10900700",
+      "url": "https://images.pexels.com/photos/10900700/pexels-photo-10900700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10900700/pexels-photo-10900700.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4416,
+      "height": 2801,
+      "color": "#807766",
+      "alt": "Close-up of a weathered brick wall showing cracks, peeling paint, and natural textures.",
+      "credit": {
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-damaged-wall-10900700/"
+      }
+    },
+    {
+      "prompt": "quiet courtyard façade",
+      "id": "20588917",
+      "url": "https://images.pexels.com/photos/20588917/pexels-photo-20588917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20588917/pexels-photo-20588917.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7791,
+      "height": 5044,
+      "color": "#857D72",
+      "alt": "A picturesque alley featuring vintage European buildings with bicycles and cobblestone path.",
+      "credit": {
+        "name": "Thomas P",
+        "link": "https://www.pexels.com/@pth686817",
+        "photoLink": "https://www.pexels.com/photo/vintage-cobblestone-alley-in-town-20588917/"
+      }
+    },
+    {
+      "prompt": "steel workshop tools",
+      "id": "8335678",
+      "url": "https://images.pexels.com/photos/8335678/pexels-photo-8335678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8335678/pexels-photo-8335678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#151412",
+      "alt": "Detailed view of chrome metallic socket tools against a dark background showcasing precision and craftsmanship.",
+      "credit": {
+        "name": "Terrance Barksdale",
+        "link": "https://www.pexels.com/@perfect-lens",
+        "photoLink": "https://www.pexels.com/photo/stainless-steel-tools-8335678/"
       }
     }
   ]
