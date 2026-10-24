@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-24T20:13:34.020Z",
+  "generatedAt": "2026-10-24T22:53:21.459Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "7533973",
-      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#C9B79F",
-      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
-      "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
-      }
-    },
-    {
-      "prompt": "nordic interior design",
-      "id": "6782271",
-      "url": "https://images.pexels.com/photos/6782271/pexels-photo-6782271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6782271/pexels-photo-6782271.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#B2A99F",
-      "alt": "Modern apartment interior with open plan kitchen and living room with TV on wall and white cabinets",
-      "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/dining-table-next-to-tv-and-kitchen-near-chairs-6782271/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic vase",
-      "id": "28867382",
-      "url": "https://images.pexels.com/photos/28867382/pexels-photo-28867382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28867382/pexels-photo-28867382.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#646255",
-      "alt": "A collection of elegant handcrafted ceramic vases featuring detailed floral designs.",
-      "credit": {
-        "name": "Lâm Thanh",
-        "link": "https://www.pexels.com/@lam-thanh-1100392445",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-ceramic-vases-with-floral-designs-28867382/"
-      }
-    },
-    {
-      "prompt": "morning light glow",
-      "id": "10014093",
-      "url": "https://images.pexels.com/photos/10014093/pexels-photo-10014093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10014093/pexels-photo-10014093.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 1885,
-      "color": "#483606",
-      "alt": "Captivating sunrise over a dewy meadow with vibrant foliage, captured in warm golden tones.",
+      "prompt": "coastal storm",
+      "id": "19262884",
+      "url": "https://images.pexels.com/photos/19262884/pexels-photo-19262884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19262884/pexels-photo-19262884.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2095,
+      "color": "#5B666C",
+      "alt": "Powerful ocean waves crashing with foam and spray, capturing dramatic sea motion.",
       "credit": {
         "name": "Ray Bilcliff",
         "link": "https://www.pexels.com/@raybilcliff",
-        "photoLink": "https://www.pexels.com/photo/vegetation-and-golden-sky-10014093/"
+        "photoLink": "https://www.pexels.com/photo/wave-on-ocean-during-storm-19262884/"
       }
     },
     {
-      "prompt": "coastal weather clouds",
-      "id": "38221507",
-      "url": "https://images.pexels.com/photos/38221507/pexels-photo-38221507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38221507/pexels-photo-38221507.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3181,
-      "height": 2448,
-      "color": "#8D9EA6",
-      "alt": "Dramatic sky with large clouds over a calm ocean, capturing a serene and moody atmosphere.",
+      "prompt": "driftwood stilllife",
+      "id": "36340078",
+      "url": "https://images.pexels.com/photos/36340078/pexels-photo-36340078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36340078/pexels-photo-36340078.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#89807B",
+      "alt": "Detailed close-up of wavy driftwood patterns showcasing natural texture.",
       "credit": {
-        "name": "Marianna Sigov",
-        "link": "https://www.pexels.com/@marianna-sigov-2148401730",
-        "photoLink": "https://www.pexels.com/photo/dramatic-cloudscape-over-tranquil-ocean-38221507/"
+        "name": "Clip It Comunicación",
+        "link": "https://www.pexels.com/@andyclipit",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-textured-driftwood-surface-36340078/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
+      "prompt": "quiet courtyard",
+      "id": "31262576",
+      "url": "https://images.pexels.com/photos/31262576/pexels-photo-31262576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31262576/pexels-photo-31262576.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#7F8174",
+      "alt": "Bright courtyard with vintage green shutters and artificial grass, offering a cozy outdoor space.",
       "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+        "name": "ZHIGANG MENG",
+        "link": "https://www.pexels.com/@zhigang-meng-2150668589",
+        "photoLink": "https://www.pexels.com/photo/charming-courtyard-with-vintage-shuttered-windows-31262576/"
+      }
+    },
+    {
+      "prompt": "minimalist desk",
+      "id": "13075330",
+      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3956,
+      "height": 2225,
+      "color": "#5C5451",
+      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
+      "credit": {
+        "name": "Pușcaș Adryan",
+        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
+        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
+      }
+    },
+    {
+      "prompt": "botanical detail",
+      "id": "59812",
+      "url": "https://images.pexels.com/photos/59812/small-flower-flower-wild-flower-green-59812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/59812/small-flower-flower-wild-flower-green-59812.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#2E2F15",
+      "alt": "Detailed macro shot of a green flower bud against a black background.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/green-plant-59812/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "39338444",
+      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2560,
+      "color": "#9A9591",
+      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
+      "credit": {
+        "name": "Mateusz Pielech",
+        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
+        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
       }
     }
   ]
