@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-24T13:06:07.250Z",
+  "generatedAt": "2026-10-24T17:11:51.563Z",
   "photos": [
     {
-      "prompt": "Minimal desk surface",
-      "id": "1906440",
-      "url": "https://images.pexels.com/photos/1906440/pexels-photo-1906440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1906440/pexels-photo-1906440.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#CACBC7",
-      "alt": "Flat lay of a modern office desk with gadgets and stationery on a marble surface.",
+      "prompt": "emerald fern frond",
+      "id": "35521672",
+      "url": "https://images.pexels.com/photos/35521672/pexels-photo-35521672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35521672/pexels-photo-35521672.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5338,
+      "height": 3439,
+      "color": "#253727",
+      "alt": "Detailed view of vibrant green Mimosa fronds showcasing intricate natural patterns.",
       "credit": {
         "name": "Ylanite Koppens",
         "link": "https://www.pexels.com/@nietjuhart",
-        "photoLink": "https://www.pexels.com/photo/two-pens-in-middle-of-apple-keyboard-and-eyeglasses-1906440/"
+        "photoLink": "https://www.pexels.com/photo/close-up-of-green-mimosa-leaf-fronds-35521672/"
       }
     },
     {
-      "prompt": "Coastal storm sky",
-      "id": "1526251",
-      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 1852,
-      "color": "#454147",
-      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
+      "prompt": "scandinavian wood sofa",
+      "id": "26988002",
+      "url": "https://images.pexels.com/photos/26988002/pexels-photo-26988002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26988002/pexels-photo-26988002.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4500,
+      "height": 3375,
+      "color": "#9A816D",
+      "alt": "Stylish living room with a modern sofa, coffee table, and ambient lighting in a minimalist design.",
       "credit": {
-        "name": "Ray Bilcliff",
-        "link": "https://www.pexels.com/@raybilcliff",
-        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
+        "name": "Wilcle Nunes",
+        "link": "https://www.pexels.com/@wilcle-nunes-38713774",
+        "photoLink": "https://www.pexels.com/photo/interior-design-of-modern-living-room-26988002/"
       }
     },
     {
-      "prompt": "Nordic interior design",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
-      }
-    },
-    {
-      "prompt": "Urban texture wall",
-      "id": "30397833",
-      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B1AC",
-      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
-      }
-    },
-    {
-      "prompt": "Quiet architecture facade",
-      "id": "40058427",
-      "url": "https://images.pexels.com/photos/40058427/pexels-photo-40058427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40058427/pexels-photo-40058427.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 2592,
-      "color": "#866B4D",
-      "alt": "A serene courtyard with classic architecture and one person sitting on a bench.",
-      "credit": {
-        "name": "mingche lee",
-        "link": "https://www.pexels.com/@mingche-lee-2072368",
-        "photoLink": "https://www.pexels.com/photo/historic-courtyard-with-classic-architecture-40058427/"
-      }
-    },
-    {
-      "prompt": "Still life arrangement",
-      "id": "6773345",
-      "url": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimalist white desk",
+      "id": "6177596",
+      "url": "https://images.pexels.com/photos/6177596/pexels-photo-6177596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6177596/pexels-photo-6177596.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6720,
       "height": 4480,
-      "color": "#848387",
-      "alt": "Artistic arrangement of orange roses in glass vases casting shadows on the floor.",
+      "color": "#AEABAA",
+      "alt": "High angle of crop faceless person sitting at table with wireless gadgets and computer",
       "credit": {
-        "name": "Jill Burrow",
-        "link": "https://www.pexels.com/@jill-burrow",
-        "photoLink": "https://www.pexels.com/photo/yellow-roses-in-glass-vases-on-the-floor-6773345/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/crop-person-browsing-computer-in-workplace-6177596/"
+      }
+    },
+    {
+      "prompt": "ceramic fruit bowl",
+      "id": "4828496",
+      "url": "https://images.pexels.com/photos/4828496/pexels-photo-4828496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4828496/pexels-photo-4828496.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#E6DFDE",
+      "alt": "A bowl of ripe cherries on a light minimalist background, perfect for food themes.",
+      "credit": {
+        "name": "Polina Tankilevitch",
+        "link": "https://www.pexels.com/@polina-tankilevitch",
+        "photoLink": "https://www.pexels.com/photo/red-cherries-with-stems-on-a-white-bowl-4828496/"
+      }
+    },
+    {
+      "prompt": "tranquil stone hallway",
+      "id": "12301042",
+      "url": "https://images.pexels.com/photos/12301042/pexels-photo-12301042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12301042/pexels-photo-12301042.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5412,
+      "height": 3382,
+      "color": "#908569",
+      "alt": "Empty corridor in a historic English cloister with gothic windows, casting shadows on stone floor.",
+      "credit": {
+        "name": "Faith Yuan",
+        "link": "https://www.pexels.com/@faith-yuan-1365844",
+        "photoLink": "https://www.pexels.com/photo/photo-of-a-corridor-12301042/"
+      }
+    },
+    {
+      "prompt": "soft sunrise glow",
+      "id": "37146840",
+      "url": "https://images.pexels.com/photos/37146840/pexels-photo-37146840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37146840/pexels-photo-37146840.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4239,
+      "height": 2825,
+      "color": "#88807E",
+      "alt": "Beautiful sunrise view over a tranquil lake with soft mist and reflection.",
+      "credit": {
+        "name": "Cara Denison",
+        "link": "https://www.pexels.com/@cara-denison-886614634",
+        "photoLink": "https://www.pexels.com/photo/serene-sunrise-over-a-misty-lake-37146840/"
       }
     }
   ]
