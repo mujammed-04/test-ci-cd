@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-24T08:38:48.667Z",
+  "generatedAt": "2026-10-24T13:06:07.250Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "29857091",
-      "url": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29857091/pexels-photo-29857091.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7500,
-      "height": 4219,
-      "color": "#7A7B76",
-      "alt": "Waves crash against a distant shore under dark, stormy clouds.",
+      "prompt": "Minimal desk surface",
+      "id": "1906440",
+      "url": "https://images.pexels.com/photos/1906440/pexels-photo-1906440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1906440/pexels-photo-1906440.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#CACBC7",
+      "alt": "Flat lay of a modern office desk with gadgets and stationery on a marble surface.",
       "credit": {
-        "name": "Raul Ling",
-        "link": "https://www.pexels.com/@raulling",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-with-distant-tower-and-moody-clouds-29857091/"
+        "name": "Ylanite Koppens",
+        "link": "https://www.pexels.com/@nietjuhart",
+        "photoLink": "https://www.pexels.com/photo/two-pens-in-middle-of-apple-keyboard-and-eyeglasses-1906440/"
       }
     },
     {
-      "prompt": "emerald fern leaf",
-      "id": "36499511",
-      "url": "https://images.pexels.com/photos/36499511/pexels-photo-36499511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36499511/pexels-photo-36499511.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#3E521D",
-      "alt": "Vibrant green fern leaves in Estepona, Spain, showcasing the beauty of tropical plant life.",
+      "prompt": "Coastal storm sky",
+      "id": "1526251",
+      "url": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1526251/pexels-photo-1526251.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1852,
+      "color": "#454147",
+      "alt": "A stunning beach landscape with dark storm clouds looming over the sea and sandy shore.",
       "credit": {
-        "name": "Amaia Garcia",
-        "link": "https://www.pexels.com/@amaiagarcia",
-        "photoLink": "https://www.pexels.com/photo/lush-tropical-ferns-in-estepona-spain-36499511/"
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/green-grass-under-white-clouds-1526251/"
       }
     },
     {
-      "prompt": "ceramic fruit arrangement",
-      "id": "7167300",
-      "url": "https://images.pexels.com/photos/7167300/pexels-photo-7167300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7167300/pexels-photo-7167300.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#C6BEA9",
-      "alt": "Fresh pears and lemons on a checkered cloth beside flowers and a ceramic mug.",
+      "prompt": "Nordic interior design",
+      "id": "8092417",
+      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6715,
+      "height": 4477,
+      "color": "#CFCECC",
+      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
       "credit": {
-        "name": "Jill Wellington",
-        "link": "https://www.pexels.com/@jill-wellington-1638660",
-        "photoLink": "https://www.pexels.com/photo/a-yellow-fruits-near-the-ceramic-mug-7167300/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
       }
     },
     {
-      "prompt": "weathered brick wall",
-      "id": "10900700",
-      "url": "https://images.pexels.com/photos/10900700/pexels-photo-10900700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10900700/pexels-photo-10900700.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4416,
-      "height": 2801,
-      "color": "#807766",
-      "alt": "Close-up of a weathered brick wall showing cracks, peeling paint, and natural textures.",
+      "prompt": "Urban texture wall",
+      "id": "30397833",
+      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#B4B1AC",
+      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-damaged-wall-10900700/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
       }
     },
     {
-      "prompt": "quiet courtyard façade",
-      "id": "20588917",
-      "url": "https://images.pexels.com/photos/20588917/pexels-photo-20588917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20588917/pexels-photo-20588917.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7791,
-      "height": 5044,
-      "color": "#857D72",
-      "alt": "A picturesque alley featuring vintage European buildings with bicycles and cobblestone path.",
+      "prompt": "Quiet architecture facade",
+      "id": "40058427",
+      "url": "https://images.pexels.com/photos/40058427/pexels-photo-40058427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40058427/pexels-photo-40058427.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 2592,
+      "color": "#866B4D",
+      "alt": "A serene courtyard with classic architecture and one person sitting on a bench.",
       "credit": {
-        "name": "Thomas P",
-        "link": "https://www.pexels.com/@pth686817",
-        "photoLink": "https://www.pexels.com/photo/vintage-cobblestone-alley-in-town-20588917/"
+        "name": "mingche lee",
+        "link": "https://www.pexels.com/@mingche-lee-2072368",
+        "photoLink": "https://www.pexels.com/photo/historic-courtyard-with-classic-architecture-40058427/"
       }
     },
     {
-      "prompt": "steel workshop tools",
-      "id": "8335678",
-      "url": "https://images.pexels.com/photos/8335678/pexels-photo-8335678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8335678/pexels-photo-8335678.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4272,
-      "height": 2848,
-      "color": "#151412",
-      "alt": "Detailed view of chrome metallic socket tools against a dark background showcasing precision and craftsmanship.",
+      "prompt": "Still life arrangement",
+      "id": "6773345",
+      "url": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6773345/pexels-photo-6773345.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#848387",
+      "alt": "Artistic arrangement of orange roses in glass vases casting shadows on the floor.",
       "credit": {
-        "name": "Terrance Barksdale",
-        "link": "https://www.pexels.com/@perfect-lens",
-        "photoLink": "https://www.pexels.com/photo/stainless-steel-tools-8335678/"
+        "name": "Jill Burrow",
+        "link": "https://www.pexels.com/@jill-burrow",
+        "photoLink": "https://www.pexels.com/photo/yellow-roses-in-glass-vases-on-the-floor-6773345/"
       }
     }
   ]
