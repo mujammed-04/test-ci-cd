@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-25T05:40:41.748Z",
+  "generatedAt": "2026-10-25T10:43:32.045Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "28257494",
-      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5455,
-      "height": 3636,
-      "color": "#7B96B3",
-      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
+      "prompt": "analogue grain",
+      "id": "9780172",
+      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#B99C96",
+      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "credit": {
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+      }
+    },
+    {
+      "prompt": "minimal desk",
+      "id": "7055",
+      "url": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#9F9C99",
+      "alt": "A clean and modern home office workspace featuring an iMac, keyboard, and magic mouse on a minimalist desk.",
+      "credit": {
+        "name": "Startup Stock Photos",
+        "link": "https://www.pexels.com/@startup-stock-photos",
+        "photoLink": "https://www.pexels.com/photo/silver-imac-set-on-table-7055/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "36166396",
+      "url": "https://images.pexels.com/photos/36166396/pexels-photo-36166396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36166396/pexels-photo-36166396.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3751,
+      "height": 2501,
+      "color": "#B5B6A6",
+      "alt": "A stylish artistic arrangement of glassware casting shadows, captured from above in a vintage tone.",
+      "credit": {
+        "name": "Mr Dr3igeteilt",
+        "link": "https://www.pexels.com/@mr-dr3igeteilt-2159455987",
+        "photoLink": "https://www.pexels.com/photo/elegant-overhead-glassware-composition-in-vintage-style-36166396/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "1154510",
+      "url": "https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#454F50",
+      "alt": "A captivating view of the ocean with dramatic dark clouds above, presenting a moody and dramatic seascape.",
+      "credit": {
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-1154510/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
+      "id": "9843688",
+      "url": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5927,
+      "height": 3951,
+      "color": "#BE845C",
+      "alt": "Photo of a brick wall with interesting shadow patterns from stairs.",
       "credit": {
         "name": "Jan van der Wolf",
         "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
+        "photoLink": "https://www.pexels.com/photo/a-light-casting-a-shadow-of-lines-on-a-brown-brick-wall-9843688/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "12042192",
-      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5686,
-      "height": 3887,
-      "color": "#262624",
-      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
+      "prompt": "quiet architectural facade",
+      "id": "19013520",
+      "url": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6853,
+      "height": 4569,
+      "color": "#8A9599",
+      "alt": "A symmetrical facade with three wooden doors under a clear blue sky.",
       "credit": {
-        "name": "Gintare Baradinske",
-        "link": "https://www.pexels.com/@gintare",
-        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
-      }
-    },
-    {
-      "prompt": "workshop tools",
-      "id": "5963142",
-      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#536160",
-      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
-      "credit": {
-        "name": "Anna Tarazevich",
-        "link": "https://www.pexels.com/@anntarazevich",
-        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
-      "id": "6611423",
-      "url": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#7C6E69",
-      "alt": "Captivating close-up view of vibrant ceramic tableware on wooden shelves, showcasing artistic craftsmanship.",
-      "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/porcelain-plates-and-cups-6611423/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "39704455",
-      "url": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4263,
-      "height": 2842,
-      "color": "#5D643B",
-      "alt": "Peaceful park pathway framed by vibrant autumn leaves and warm sunbeams.",
-      "credit": {
-        "name": "Dawid Zawiła",
-        "link": "https://www.pexels.com/@dawid-zawila-2151273316",
-        "photoLink": "https://www.pexels.com/photo/serene-autumn-pathway-in-sunlit-forest-39704455/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "132709",
-      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2814,
-      "color": "#878F8A",
-      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
-      "credit": {
-        "name": "Snapwire",
-        "link": "https://www.pexels.com/@snapwire",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/facade-with-three-wooden-doors-19013520/"
       }
     }
   ]
