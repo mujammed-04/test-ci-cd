@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-24T22:53:21.459Z",
+  "generatedAt": "2026-10-25T00:49:08.916Z",
   "photos": [
     {
-      "prompt": "coastal storm",
-      "id": "19262884",
-      "url": "https://images.pexels.com/photos/19262884/pexels-photo-19262884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19262884/pexels-photo-19262884.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2095,
-      "color": "#5B666C",
-      "alt": "Powerful ocean waves crashing with foam and spray, capturing dramatic sea motion.",
+      "prompt": "Nordic interior",
+      "id": "6805417",
+      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6378,
+      "height": 4252,
+      "color": "#BDB0A7",
+      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
       "credit": {
-        "name": "Ray Bilcliff",
-        "link": "https://www.pexels.com/@raybilcliff",
-        "photoLink": "https://www.pexels.com/photo/wave-on-ocean-during-storm-19262884/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
       }
     },
     {
-      "prompt": "driftwood stilllife",
-      "id": "36340078",
-      "url": "https://images.pexels.com/photos/36340078/pexels-photo-36340078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36340078/pexels-photo-36340078.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
+      "prompt": "Linen wood textures",
+      "id": "36346049",
+      "url": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5088,
+      "height": 3392,
+      "color": "#AE8E75",
+      "alt": "Detailed close-up of beige fabric texture, highlighting its woven pattern.",
+      "credit": {
+        "name": "Jonathan Borba",
+        "link": "https://www.pexels.com/@jonathanborba",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-natural-fabric-texture-36346049/"
+      }
+    },
+    {
+      "prompt": "Quiet architecture",
+      "id": "5395673",
+      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#876E5A",
+      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
+      "credit": {
+        "name": "taha balta",
+        "link": "https://www.pexels.com/@taha-balta-3031128",
+        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+      }
+    },
+    {
+      "prompt": "Botanical detail",
+      "id": "40262866",
+      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3888,
+      "color": "#AB4A27",
+      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
+      "credit": {
+        "name": "Ali Goode",
+        "link": "https://www.pexels.com/@ali-goode-2151511157",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
+      }
+    },
+    {
+      "prompt": "Still life",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
       "height": 4000,
-      "color": "#89807B",
-      "alt": "Detailed close-up of wavy driftwood patterns showcasing natural texture.",
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
       "credit": {
-        "name": "Clip It Comunicación",
-        "link": "https://www.pexels.com/@andyclipit",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-textured-driftwood-surface-36340078/"
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
       }
     },
     {
-      "prompt": "quiet courtyard",
-      "id": "31262576",
-      "url": "https://images.pexels.com/photos/31262576/pexels-photo-31262576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31262576/pexels-photo-31262576.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#7F8174",
-      "alt": "Bright courtyard with vintage green shutters and artificial grass, offering a cozy outdoor space.",
+      "prompt": "Morning light",
+      "id": "39704455",
+      "url": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4263,
+      "height": 2842,
+      "color": "#5D643B",
+      "alt": "Peaceful park pathway framed by vibrant autumn leaves and warm sunbeams.",
       "credit": {
-        "name": "ZHIGANG MENG",
-        "link": "https://www.pexels.com/@zhigang-meng-2150668589",
-        "photoLink": "https://www.pexels.com/photo/charming-courtyard-with-vintage-shuttered-windows-31262576/"
-      }
-    },
-    {
-      "prompt": "minimalist desk",
-      "id": "13075330",
-      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3956,
-      "height": 2225,
-      "color": "#5C5451",
-      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
-      "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "59812",
-      "url": "https://images.pexels.com/photos/59812/small-flower-flower-wild-flower-green-59812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/59812/small-flower-flower-wild-flower-green-59812.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#2E2F15",
-      "alt": "Detailed macro shot of a green flower bud against a black background.",
-      "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/green-plant-59812/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "39338444",
-      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2560,
-      "color": "#9A9591",
-      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
-      "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
+        "name": "Dawid Zawiła",
+        "link": "https://www.pexels.com/@dawid-zawila-2151273316",
+        "photoLink": "https://www.pexels.com/photo/serene-autumn-pathway-in-sunlit-forest-39704455/"
       }
     }
   ]
