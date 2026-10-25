@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-25T14:48:00.547Z",
+  "generatedAt": "2026-10-25T18:07:19.704Z",
   "photos": [
     {
-      "prompt": "minimal desk setup",
-      "id": "4006143",
-      "url": "https://images.pexels.com/photos/4006143/pexels-photo-4006143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4006143/pexels-photo-4006143.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5977,
-      "height": 3985,
-      "color": "#787A77",
-      "alt": "Clean and organized desk setup featuring a laptop, smartphone, and plants for a modern workspace vibe.",
+      "prompt": "Nordic interior",
+      "id": "8089263",
+      "url": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#94978C",
+      "alt": "Modern apartment corridor with vibrant decor and plants, highlighting contemporary style.",
       "credit": {
-        "name": "Jean-Daniel Francoeur",
-        "link": "https://www.pexels.com/@jean-daniel",
-        "photoLink": "https://www.pexels.com/photo/laptop-computer-beside-white-apple-magic-keyboard-and-apple-magic-mouse-4006143/"
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/decor-of-contemporary-apartment-8089263/"
       }
     },
     {
-      "prompt": "soft morning light",
-      "id": "39304776",
-      "url": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39304776/pexels-photo-39304776.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#BDAA8C",
-      "alt": "Two fishing boats navigate a calm, misty waterway at sunrise, casting reflections.",
+      "prompt": "Analogue film grain",
+      "id": "32132450",
+      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#93705A",
+      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
       "credit": {
-        "name": "Suvrodip Saha",
-        "link": "https://www.pexels.com/@suvrodip-saha-2159329926",
-        "photoLink": "https://www.pexels.com/photo/serene-misty-morning-with-fishing-boats-39304776/"
+        "name": "Ánh Đặng",
+        "link": "https://www.pexels.com/@anhdanghihi",
+        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
       }
     },
     {
-      "prompt": "coastal weather clouds",
-      "id": "3968130",
-      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4387,
-      "height": 2925,
-      "color": "#42576E",
-      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
+      "prompt": "Minimal desk",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
       "credit": {
-        "name": "Tatiana Syrikova",
-        "link": "https://www.pexels.com/@tatianasyrikova",
-        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "38853235",
-      "url": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5444,
-      "height": 3649,
-      "color": "#9A8E78",
-      "alt": "People enjoying a sunny day in a beautiful park in Taichung, Taiwan.",
+      "prompt": "Quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "Lara Hart",
-        "link": "https://www.pexels.com/@lara-hart-2149371048",
-        "photoLink": "https://www.pexels.com/photo/relaxing-day-in-taichung-park-taiwan-38853235/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
-      "prompt": "workshop tool set",
-      "id": "8985610",
-      "url": "https://images.pexels.com/photos/8985610/pexels-photo-8985610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8985610/pexels-photo-8985610.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6144,
-      "height": 3456,
-      "color": "#525252",
-      "alt": "Black and white image of a complete toolset in an open box, perfect for garages and repairs.",
+      "prompt": "Workshop tools",
+      "id": "5963142",
+      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#536160",
+      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
       "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/tools-in-a-box-in-black-and-white-8985610/"
+        "name": "Anna Tarazevich",
+        "link": "https://www.pexels.com/@anntarazevich",
+        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "12042192",
-      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5686,
-      "height": 3887,
-      "color": "#262624",
-      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
+      "prompt": "Linen wood texture",
+      "id": "27007162",
+      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5824,
+      "height": 3740,
+      "color": "#B18E6E",
+      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
       "credit": {
-        "name": "Gintare Baradinske",
-        "link": "https://www.pexels.com/@gintare",
-        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
+        "name": "Sohan Rahat",
+        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
       }
     }
   ]
