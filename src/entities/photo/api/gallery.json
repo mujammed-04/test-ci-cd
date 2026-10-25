@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-25T18:07:19.704Z",
+  "generatedAt": "2026-10-25T21:25:35.169Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "8089263",
-      "url": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8089263/pexels-photo-8089263.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#94978C",
-      "alt": "Modern apartment corridor with vibrant decor and plants, highlighting contemporary style.",
+      "prompt": "analog film grain",
+      "id": "11418937",
+      "url": "https://images.pexels.com/photos/11418937/pexels-photo-11418937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11418937/pexels-photo-11418937.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2031,
+      "color": "#4B4B4B",
+      "alt": "Black and white photo of a vintage Hasselblad camera on a table.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/decor-of-contemporary-apartment-8089263/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-a-camera-11418937/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "32132450",
-      "url": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32132450/pexels-photo-32132450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#93705A",
-      "alt": "Artistic setup with vintage camera, cute toy, and cappuccino in cozy indoor scene.",
+      "prompt": "workshop hand tools",
+      "id": "9607203",
+      "url": "https://images.pexels.com/photos/9607203/pexels-photo-9607203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9607203/pexels-photo-9607203.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4887,
+      "height": 3258,
+      "color": "#5C534C",
+      "alt": "Hands selecting a tool from a versatile, well-organized toolbox for repair tasks.",
       "credit": {
-        "name": "Ánh Đặng",
-        "link": "https://www.pexels.com/@anhdanghihi",
-        "photoLink": "https://www.pexels.com/photo/vintage-camera-with-coffee-and-stuffed-toy-setup-32132450/"
+        "name": "Anastasia  Shuraeva",
+        "link": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoLink": "https://www.pexels.com/photo/tools-in-a-toolbox-9607203/"
       }
     },
     {
-      "prompt": "Minimal desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "urban concrete textures",
+      "id": "2455119",
+      "url": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#7B7C7D",
+      "alt": "Close-up of a textured grey concrete wall with a metal pipeline along the bottom edge.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "𝗛&𝗖𝗢 　",
+        "link": "https://www.pexels.com/@hngstrm",
+        "photoLink": "https://www.pexels.com/photo/gray-surface-2455119/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "nordic living room",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
+      "credit": {
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
+      }
+    },
+    {
+      "prompt": "quiet minimalist architecture",
+      "id": "17732653",
+      "url": "https://images.pexels.com/photos/17732653/pexels-photo-17732653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17732653/pexels-photo-17732653.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
+      "color": "#97B4C6",
+      "alt": "A minimalist white stucco building with clean lines against a vibrant blue sky.",
       "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-and-clouds-17732653/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "5963142",
-      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#536160",
-      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
+      "prompt": "coastal stormy sky",
+      "id": "39465587",
+      "url": "https://images.pexels.com/photos/39465587/pexels-photo-39465587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39465587/pexels-photo-39465587.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9440,
+      "height": 6293,
+      "color": "#82898F",
+      "alt": "Dramatic coastal scenery in Trans, Denmark with grassy cliffs and stormy skies.",
       "credit": {
-        "name": "Anna Tarazevich",
-        "link": "https://www.pexels.com/@anntarazevich",
-        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
-      }
-    },
-    {
-      "prompt": "Linen wood texture",
-      "id": "27007162",
-      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5824,
-      "height": 3740,
-      "color": "#B18E6E",
-      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
-      "credit": {
-        "name": "Sohan Rahat",
-        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
+        "name": "Tommes Frites",
+        "link": "https://www.pexels.com/@tommes-frites-1141358642",
+        "photoLink": "https://www.pexels.com/photo/coastal-landscape-in-trans-denmark-with-moody-skies-39465587/"
       }
     }
   ]
