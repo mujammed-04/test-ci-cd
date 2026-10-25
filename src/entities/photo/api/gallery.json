@@ -1,83 +1,68 @@
 {
-  "generatedAt": "2026-10-25T00:49:08.916Z",
+  "generatedAt": "2026-10-25T05:40:41.748Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "6805417",
-      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6378,
-      "height": 4252,
-      "color": "#BDB0A7",
-      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
+      "prompt": "quiet architecture",
+      "id": "28257494",
+      "url": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28257494/pexels-photo-28257494.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5455,
+      "height": 3636,
+      "color": "#7B96B3",
+      "alt": "A minimalist white building with modern design contrasts sharply with a clear blue sky.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/a-white-building-with-a-blue-sky-in-the-background-28257494/"
       }
     },
     {
-      "prompt": "Linen wood textures",
-      "id": "36346049",
-      "url": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5088,
-      "height": 3392,
-      "color": "#AE8E75",
-      "alt": "Detailed close-up of beige fabric texture, highlighting its woven pattern.",
+      "prompt": "still life arrangement",
+      "id": "12042192",
+      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5686,
+      "height": 3887,
+      "color": "#262624",
+      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
       "credit": {
-        "name": "Jonathan Borba",
-        "link": "https://www.pexels.com/@jonathanborba",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-natural-fabric-texture-36346049/"
+        "name": "Gintare Baradinske",
+        "link": "https://www.pexels.com/@gintare",
+        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "5395673",
-      "url": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5395673/pexels-photo-5395673.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3456,
-      "color": "#876E5A",
-      "alt": "Explore the minimalist architectural design of Sancaklar Mosque in Istanbul.",
+      "prompt": "workshop tools",
+      "id": "5963142",
+      "url": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5963142/pexels-photo-5963142.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#536160",
+      "alt": "A cluttered workspace featuring cutting mats, tools, and crafting materials for DIY projects.",
       "credit": {
-        "name": "taha balta",
-        "link": "https://www.pexels.com/@taha-balta-3031128",
-        "photoLink": "https://www.pexels.com/photo/the-interior-of-the-sancaklar-mosque-5395673/"
+        "name": "Anna Tarazevich",
+        "link": "https://www.pexels.com/@anntarazevich",
+        "photoLink": "https://www.pexels.com/photo/tools-on-the-table-5963142/"
       }
     },
     {
-      "prompt": "Botanical detail",
-      "id": "40262866",
-      "url": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40262866/pexels-photo-40262866.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 3888,
-      "color": "#AB4A27",
-      "alt": "Detailed macro photograph showcasing the intricate patterns of an autumn leaf.",
+      "prompt": "handmade ceramics",
+      "id": "6611423",
+      "url": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611423/pexels-photo-6611423.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#7C6E69",
+      "alt": "Captivating close-up view of vibrant ceramic tableware on wooden shelves, showcasing artistic craftsmanship.",
       "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-autumn-leaf-veins-and-texture-40262866/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/porcelain-plates-and-cups-6611423/"
       }
     },
     {
-      "prompt": "Still life",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
-      "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
-      "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
-      }
-    },
-    {
-      "prompt": "Morning light",
+      "prompt": "morning light",
       "id": "39704455",
       "url": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/39704455/pexels-photo-39704455.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -89,6 +74,21 @@
         "name": "Dawid Zawiła",
         "link": "https://www.pexels.com/@dawid-zawila-2151273316",
         "photoLink": "https://www.pexels.com/photo/serene-autumn-pathway-in-sunlit-forest-39704455/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "132709",
+      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 2814,
+      "color": "#878F8A",
+      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
+      "credit": {
+        "name": "Snapwire",
+        "link": "https://www.pexels.com/@snapwire",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
       }
     }
   ]
