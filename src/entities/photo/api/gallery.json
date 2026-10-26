@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-25T23:48:16.947Z",
+  "generatedAt": "2026-10-26T03:14:06.284Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "7057",
-      "url": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7057/desk-office-computer-imac.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5362,
-      "height": 3575,
-      "color": "#929190",
-      "alt": "Minimalist home office workspace featuring a desktop computer, keyboard, and mouse on a white desk.",
+      "prompt": "weathered brick wall",
+      "id": "10900700",
+      "url": "https://images.pexels.com/photos/10900700/pexels-photo-10900700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10900700/pexels-photo-10900700.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4416,
+      "height": 2801,
+      "color": "#807766",
+      "alt": "Close-up of a weathered brick wall showing cracks, peeling paint, and natural textures.",
       "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-apple-magic-mouse-and-apple-keyboard-7057/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-damaged-wall-10900700/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "38853235",
-      "url": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38853235/pexels-photo-38853235.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5444,
-      "height": 3649,
-      "color": "#9A8E78",
-      "alt": "People enjoying a sunny day in a beautiful park in Taichung, Taiwan.",
+      "prompt": "scandinavian linen sofa",
+      "id": "12281845",
+      "url": "https://images.pexels.com/photos/12281845/pexels-photo-12281845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12281845/pexels-photo-12281845.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#B6B3AE",
+      "alt": "Bright and cozy minimalist living room with beige sofa and modern decor.",
       "credit": {
-        "name": "Lara Hart",
-        "link": "https://www.pexels.com/@lara-hart-2149371048",
-        "photoLink": "https://www.pexels.com/photo/relaxing-day-in-taichung-park-taiwan-38853235/"
+        "name": "dada _design",
+        "link": "https://www.pexels.com/@dada-_design-240566386",
+        "photoLink": "https://www.pexels.com/photo/a-cozy-living-room-inside-a-house-12281845/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "7303855",
-      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6133,
-      "height": 4089,
-      "color": "#BEB8AB",
-      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
+      "prompt": "coastal storm clouds",
+      "id": "36143704",
+      "url": "https://images.pexels.com/photos/36143704/pexels-photo-36143704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36143704/pexels-photo-36143704.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4742,
+      "height": 3161,
+      "color": "#9CA5AA",
+      "alt": "A dramatic storm cloud looms over a calm ocean, highlighting nature's power and serenity.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
+        "name": "Fernando B M",
+        "link": "https://www.pexels.com/@fernando-b-m-3624021",
+        "photoLink": "https://www.pexels.com/photo/dramatic-cloud-formation-over-the-ocean-36143704/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "35228360",
-      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#5F4632",
-      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "prompt": "workshop tool bench",
+      "id": "3844516",
+      "url": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7680,
+      "height": 5120,
+      "color": "#6A6052",
+      "alt": "From above of vise fixing at workbench among different tools in workshop",
       "credit": {
-        "name": "Meltem  B.",
-        "link": "https://www.pexels.com/@meltem-b-300284420",
-        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
+        "name": "Andrea Piacquadio",
+        "link": "https://www.pexels.com/@olly",
+        "photoLink": "https://www.pexels.com/photo/metal-vise-and-assorted-tools-in-workshop-3844516/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "28493535",
-      "url": "https://images.pexels.com/photos/28493535/pexels-photo-28493535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28493535/pexels-photo-28493535.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6471,
-      "height": 4314,
-      "color": "#656565",
-      "alt": "Black and white photo of a serene park scene featuring trees and a modern wall.",
+      "prompt": "minimalist wooden desk",
+      "id": "265096",
+      "url": "https://images.pexels.com/photos/265096/pexels-photo-265096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/265096/pexels-photo-265096.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 1920,
+      "height": 1280,
+      "color": "#A48B79",
+      "alt": "A minimalist home office setup with a wooden desk, chair, keyboard, and camera.",
       "credit": {
-        "name": "정규송 Nui MALAMA",
-        "link": "https://www.pexels.com/@nui-malama-169330637",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-minimalist-park-scene-with-trees-28493535/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/white-wooden-chair-beside-table-265096/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "9304500",
-      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5539,
-      "height": 3694,
-      "color": "#A17E2D",
-      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
+      "prompt": "urban concrete texture",
+      "id": "4691571",
+      "url": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4691571/pexels-photo-4691571.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4024,
+      "color": "#ABA7AF",
+      "alt": "Close-up of a gray stucco wall showing rough, textured surface ideal for backgrounds.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
+        "name": "Aukid phumsirichat",
+        "link": "https://www.pexels.com/@aukid-phumsirichat-3095759",
+        "photoLink": "https://www.pexels.com/photo/gray-concrete-wall-with-rough-surface-4691571/"
       }
     }
   ]
