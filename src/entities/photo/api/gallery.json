@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-26T16:29:00.034Z",
+  "generatedAt": "2026-10-26T21:20:42.041Z",
   "photos": [
     {
-      "prompt": "vintage workshop tools",
-      "id": "27348529",
-      "url": "https://images.pexels.com/photos/27348529/pexels-photo-27348529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27348529/pexels-photo-27348529.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#5C584D",
-      "alt": "Rustic industrial workshop filled with vintage machinery, tools, and metal parts, set in a dimly lit room.",
+      "prompt": "Nordic interior",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
       "credit": {
-        "name": "Marian  Cosnete",
-        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
-        "photoLink": "https://www.pexels.com/photo/a-room-with-a-lot-of-tools-and-machinery-27348529/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
       }
     },
     {
-      "prompt": "minimalist wooden desk",
-      "id": "17198943",
-      "url": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5547,
-      "height": 3698,
-      "color": "#625D57",
-      "alt": "A minimalist workspace featuring a smartphone, keyboard, and mouse on a wooden desk.",
+      "prompt": "Handmade ceramic bowl",
+      "id": "9304481",
+      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5722,
+      "height": 3814,
+      "color": "#A88E37",
+      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
       "credit": {
-        "name": "Ionela Mat",
-        "link": "https://www.pexels.com/@ionela-mat-268382825",
-        "photoLink": "https://www.pexels.com/photo/apple-electronics-on-table-17198943/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
       }
     },
     {
-      "prompt": "handcrafted ceramic vase",
-      "id": "37288376",
-      "url": "https://images.pexels.com/photos/37288376/pexels-photo-37288376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37288376/pexels-photo-37288376.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Linen wood texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "credit": {
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+      }
+    },
+    {
+      "prompt": "Quiet architecture",
+      "id": "28493535",
+      "url": "https://images.pexels.com/photos/28493535/pexels-photo-28493535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28493535/pexels-photo-28493535.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6471,
+      "height": 4314,
+      "color": "#656565",
+      "alt": "Black and white photo of a serene park scene featuring trees and a modern wall.",
+      "credit": {
+        "name": "정규송 Nui MALAMA",
+        "link": "https://www.pexels.com/@nui-malama-169330637",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-minimalist-park-scene-with-trees-28493535/"
+      }
+    },
+    {
+      "prompt": "Analogue film grain",
+      "id": "209724",
+      "url": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#393431",
-      "alt": "Smiling potter skillfully crafting a large clay pot in a traditional workshop setting.",
+      "color": "#817166",
+      "alt": "Classic vintage camera on a rustic wooden surface, evoking nostalgia and history.",
       "credit": {
-        "name": "Tuti Isnawati",
-        "link": "https://www.pexels.com/@tuti-isnawati-2160809826",
-        "photoLink": "https://www.pexels.com/photo/skilled-potter-crafting-clay-pots-in-workshop-37288376/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/black-milc-on-brown-panel-209724/"
       }
     },
     {
-      "prompt": "closeup botanical leaf",
-      "id": "39298443",
-      "url": "https://images.pexels.com/photos/39298443/pexels-photo-39298443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39298443/pexels-photo-39298443.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#53784F",
-      "alt": "Detailed macro shot of a fresh green palm leaf showcasing its natural texture and vibrant color.",
+      "prompt": "Minimal desk",
+      "id": "14788763",
+      "url": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#39372B",
+      "alt": "A cozy workspace with a laptop, keyboard, books, and a refreshing beverage.",
       "credit": {
-        "name": "MJ RAHNAMA",
-        "link": "https://www.pexels.com/@mjrahnama",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-palm-leaf-texture-39298443/"
-      }
-    },
-    {
-      "prompt": "stormy coastal sky",
-      "id": "3968130",
-      "url": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3968130/pexels-photo-3968130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4387,
-      "height": 2925,
-      "color": "#42576E",
-      "alt": "Dramatic clouds over the ocean at sunset, creating a captivating seascape view.",
-      "credit": {
-        "name": "Tatiana Syrikova",
-        "link": "https://www.pexels.com/@tatianasyrikova",
-        "photoLink": "https://www.pexels.com/photo/ocean-under-cloudy-sky-3968130/"
-      }
-    },
-    {
-      "prompt": "nordic interior design",
-      "id": "37834298",
-      "url": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37834298/pexels-photo-37834298.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C7C7C5",
-      "alt": "A sleek and minimalist Scandinavian living room with white decor and electronics.",
-      "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-style-living-room-interior-37834298/"
+        "name": "Elifnur Gökmenoğlu",
+        "link": "https://www.pexels.com/@elifnur-gokmenoglu-54877017",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-gadgets-on-home-office-table-14788763/"
       }
     }
   ]
