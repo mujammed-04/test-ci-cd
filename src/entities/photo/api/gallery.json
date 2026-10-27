@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-27T01:07:23.252Z",
+  "generatedAt": "2026-10-27T07:17:52.403Z",
   "photos": [
     {
-      "prompt": "morning light",
-      "id": "8358607",
-      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5329,
-      "height": 4000,
-      "color": "#807863",
-      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
+      "prompt": "grainy film texture",
+      "id": "9983069",
+      "url": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#888691",
+      "alt": "Abstract film negative featuring bare trees in a forest. Moody, dark, and artistic vibe.",
       "credit": {
-        "name": "Kübra Arslaner",
-        "link": "https://www.pexels.com/@nediyodukenson",
-        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/polaroid-photo-of-forest-at-night-9983069/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "stormy coastal sky",
+      "id": "1572665",
+      "url": "https://images.pexels.com/photos/1572665/pexels-photo-1572665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1572665/pexels-photo-1572665.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5173,
+      "height": 3449,
+      "color": "#788489",
+      "alt": "A dramatic view of the Baltic Sea coastline in Latvia with moody skies and waves crashing on the shore.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "Mareks Steins",
+        "link": "https://www.pexels.com/@marekssteins",
+        "photoLink": "https://www.pexels.com/photo/sea-1572665/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "6070340",
-      "url": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6070340/pexels-photo-6070340.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#667185",
-      "alt": "Bright blooming flowers on thin stalks with wavy leaves in glass vases on fabric with shades in sunlight",
+      "prompt": "linen wood surface",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
       "credit": {
-        "name": "Jill Burrow",
-        "link": "https://www.pexels.com/@jill-burrow",
-        "photoLink": "https://www.pexels.com/photo/colorful-blossoming-flowers-in-vases-on-textile-with-shadows-6070340/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "36924685",
-      "url": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36924685/pexels-photo-36924685.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "scandinavian interior lighting",
+      "id": "6588594",
+      "url": "https://images.pexels.com/photos/6588594/pexels-photo-6588594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6588594/pexels-photo-6588594.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7360,
+      "height": 4912,
+      "color": "#949290",
+      "alt": "Interior of modern residential apartment with comfortable furniture and compact kitchen in grey shades",
+      "credit": {
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/interior-of-modern-apartment-with-simple-furniture-6588594/"
+      }
+    },
+    {
+      "prompt": "botanical leaf closeup",
+      "id": "7718272",
+      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#314D22",
+      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
+      }
+    },
+    {
+      "prompt": "urban concrete pattern",
+      "id": "2463345",
+      "url": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#786B5A",
-      "alt": "A textured wall with cracks and budding branches against it.",
+      "color": "#9496A0",
+      "alt": "Close-up of a textured concrete wall with unique black markings and patterns.",
       "credit": {
-        "name": "Müca 🇩🇪",
-        "link": "https://www.pexels.com/@muca-2159917767",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-spring-branches-36924685/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
-      "id": "6611482",
-      "url": "https://images.pexels.com/photos/6611482/pexels-photo-6611482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611482/pexels-photo-6611482.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3333,
-      "color": "#B5B0A9",
-      "alt": "Close-up of stacked ceramic bowls and plates showcasing fine craftsmanship.",
-      "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/stack-of-plates-and-bowls-in-a-pottery-workshop-6611482/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "20539730",
-      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#8B8E95",
-      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
-      "credit": {
-        "name": "Nguyen Huy",
-        "link": "https://www.pexels.com/@ngochuy",
-        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
+        "name": "Archie Binamira",
+        "link": "https://www.pexels.com/@chiecharon",
+        "photoLink": "https://www.pexels.com/photo/dirty-wall-2463345/"
       }
     }
   ]
