@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-27T07:17:52.403Z",
+  "generatedAt": "2026-10-27T13:57:31.264Z",
   "photos": [
     {
-      "prompt": "grainy film texture",
-      "id": "9983069",
-      "url": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9983069/pexels-photo-9983069.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#888691",
-      "alt": "Abstract film negative featuring bare trees in a forest. Moody, dark, and artistic vibe.",
+      "prompt": "green leaf veins",
+      "id": "6364238",
+      "url": "https://images.pexels.com/photos/6364238/pexels-photo-6364238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6364238/pexels-photo-6364238.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#73835C",
+      "alt": "Close-up of a vibrant green leaf showing detailed vein patterns, signifying nature's growth.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/polaroid-photo-of-forest-at-night-9983069/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-green-leaf-6364238/"
       }
     },
     {
-      "prompt": "stormy coastal sky",
-      "id": "1572665",
-      "url": "https://images.pexels.com/photos/1572665/pexels-photo-1572665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1572665/pexels-photo-1572665.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5173,
-      "height": 3449,
-      "color": "#788489",
-      "alt": "A dramatic view of the Baltic Sea coastline in Latvia with moody skies and waves crashing on the shore.",
+      "prompt": "vintage film grain",
+      "id": "33276114",
+      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2500,
+      "height": 1678,
+      "color": "#7F645D",
+      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
       "credit": {
-        "name": "Mareks Steins",
-        "link": "https://www.pexels.com/@marekssteins",
-        "photoLink": "https://www.pexels.com/photo/sea-1572665/"
+        "name": "Şeyma Emine  TAMER GÜL",
+        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
+        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
       }
     },
     {
-      "prompt": "linen wood surface",
+      "prompt": "linen wood texture",
       "id": "7794365",
       "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -47,48 +47,48 @@
       }
     },
     {
-      "prompt": "scandinavian interior lighting",
-      "id": "6588594",
-      "url": "https://images.pexels.com/photos/6588594/pexels-photo-6588594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6588594/pexels-photo-6588594.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7360,
-      "height": 4912,
-      "color": "#949290",
-      "alt": "Interior of modern residential apartment with comfortable furniture and compact kitchen in grey shades",
+      "prompt": "minimalist desk surface",
+      "id": "187107",
+      "url": "https://images.pexels.com/photos/187107/pexels-photo-187107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/187107/pexels-photo-187107.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4162,
+      "height": 2901,
+      "color": "#847966",
+      "alt": "A well-organized workspace featuring a laptop, notebook, and glasses on a leather surface.",
       "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/interior-of-modern-apartment-with-simple-furniture-6588594/"
+        "name": "Suset Briseño",
+        "link": "https://www.pexels.com/@susetbr",
+        "photoLink": "https://www.pexels.com/photo/macbook-pro-beside-black-framed-eyeglasses-on-brown-wooden-surface-187107/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "7718272",
-      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#314D22",
-      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
+      "prompt": "metal workshop tools",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
       }
     },
     {
-      "prompt": "urban concrete pattern",
-      "id": "2463345",
-      "url": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463345/pexels-photo-2463345.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#9496A0",
-      "alt": "Close-up of a textured concrete wall with unique black markings and patterns.",
+      "prompt": "urban concrete texture",
+      "id": "2969398",
+      "url": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9000,
+      "height": 6001,
+      "color": "#515048",
+      "alt": "Detailed close-up of a weathered concrete wall showcasing texture, drips, and stains.",
       "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/dirty-wall-2463345/"
+        "name": "Tim Mossholder",
+        "link": "https://www.pexels.com/@timmossholder",
+        "photoLink": "https://www.pexels.com/photo/grey-concrete-wall-2969398/"
       }
     }
   ]
