@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-28T16:59:04.261Z",
+  "generatedAt": "2026-10-28T21:36:12.106Z",
   "photos": [
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "9736483",
-      "url": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#A17955",
-      "alt": "A woman artist holding ceramic bowls in a sunlit workshop, surrounded by shelves filled with pottery.",
+      "prompt": "rusty wrench",
+      "id": "5194769",
+      "url": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5194769/pexels-photo-5194769.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#9E816D",
+      "alt": "A vibrant assortment of various hand tools arranged in a pile. Ideal for construction themes.",
       "credit": {
-        "name": "KoolShooters",
-        "link": "https://www.pexels.com/@koolshooters",
-        "photoLink": "https://www.pexels.com/photo/woman-carrying-a-bowl-with-paint-9736483/"
+        "name": "Şahin Sezer Dinçer",
+        "link": "https://www.pexels.com/@sahinsezerdincer",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-assorted-tools-5194769/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "prompt": "stormy coastline",
+      "id": "1450092",
+      "url": "https://images.pexels.com/photos/1450092/pexels-photo-1450092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1450092/pexels-photo-1450092.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5004,
+      "height": 2815,
+      "color": "#809297",
+      "alt": "Dramatic seascape featuring crashing waves against rocky shores with a distant lighthouse under a moody sky.",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "Sindre Fs",
+        "link": "https://www.pexels.com/@blitzboy",
+        "photoLink": "https://www.pexels.com/photo/ocean-wave-scenery-1450092/"
       }
     },
     {
-      "prompt": "morning light window",
-      "id": "38958556",
-      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#6C4E12",
-      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "prompt": "soft morning light",
+      "id": "30501199",
+      "url": "https://images.pexels.com/photos/30501199/pexels-photo-30501199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30501199/pexels-photo-30501199.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5355,
+      "height": 3570,
+      "color": "#796149",
+      "alt": "Wildflowers bask in golden sunlight creating a warm, serene scene.",
       "credit": {
-        "name": "meryem",
-        "link": "https://www.pexels.com/@meryem-2157128767",
-        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+        "name": "Nataliia Zhytnytska",
+        "link": "https://www.pexels.com/@nataliia-zhytnytska-696963186",
+        "photoLink": "https://www.pexels.com/photo/golden-hour-wildflowers-in-a-sunlit-field-30501199/"
       }
     },
     {
-      "prompt": "workshop tool bench",
-      "id": "1094770",
-      "url": "https://images.pexels.com/photos/1094770/pexels-photo-1094770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1094770/pexels-photo-1094770.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#675C53",
-      "alt": "Close-up of various woodworking tools in a workshop, featuring wood shavings and equipment.",
+      "prompt": "delicate fern leaf",
+      "id": "37993152",
+      "url": "https://images.pexels.com/photos/37993152/pexels-photo-37993152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37993152/pexels-photo-37993152.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5183,
+      "height": 4194,
+      "color": "#4B5F43",
+      "alt": "Vibrant close-up of lush green fern leaves showcasing natural beauty and intricate details.",
       "credit": {
-        "name": "Thijs van der Weide",
-        "link": "https://www.pexels.com/@thijsvdw",
-        "photoLink": "https://www.pexels.com/photo/photography-of-black-power-tool-1094770/"
+        "name": "Alexas Fotos",
+        "link": "https://www.pexels.com/@alexasfotos",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-lush-green-fern-leaves-37993152/"
       }
     },
     {
-      "prompt": "nordic interior lighting",
-      "id": "39912920",
-      "url": "https://images.pexels.com/photos/39912920/pexels-photo-39912920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912920/pexels-photo-39912920.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6814,
-      "height": 4543,
-      "color": "#AFA6A1",
-      "alt": "Stylish indoor sauna featuring a glass wall, wood panels, and a contemporary design for relaxation and wellness.",
+      "prompt": "vintage glass bottle",
+      "id": "8903685",
+      "url": "https://images.pexels.com/photos/8903685/pexels-photo-8903685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8903685/pexels-photo-8903685.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6607,
+      "height": 4405,
+      "color": "#ACB2A6",
+      "alt": "Aesthetic composition of vintage clear glass bottles on a light surface, perfect for minimalist decor themes.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-with-glass-wall-and-wood-accents-39912920/"
+        "name": "RDNE Stock project",
+        "link": "https://www.pexels.com/@rdne",
+        "photoLink": "https://www.pexels.com/photo/clear-glass-bottles-on-white-surface-8903685/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "10525839",
-      "url": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5658,
-      "height": 3772,
-      "color": "#766C6B",
-      "alt": "Artistic still life photo of pears, stones, and branches with a minimalist design.",
+      "prompt": "weathered brick wall",
+      "id": "11958368",
+      "url": "https://images.pexels.com/photos/11958368/pexels-photo-11958368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11958368/pexels-photo-11958368.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#6A655F",
+      "alt": "Close-up of a weathered brick wall with textured surface and moss, ideal for backgrounds.",
       "credit": {
-        "name": "Ron Lach",
-        "link": "https://www.pexels.com/@ron-lach",
-        "photoLink": "https://www.pexels.com/photo/pears-near-stones-and-paper-10525839/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-dirty-bricks-11958368/"
       }
     }
   ]
