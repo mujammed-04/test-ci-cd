@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-28T10:29:37.306Z",
+  "generatedAt": "2026-10-28T16:59:04.261Z",
   "photos": [
     {
-      "prompt": "green fern leaf",
-      "id": "37894940",
-      "url": "https://images.pexels.com/photos/37894940/pexels-photo-37894940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37894940/pexels-photo-37894940.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "handmade ceramic bowl",
+      "id": "9736483",
+      "url": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9736483/pexels-photo-9736483.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#A17955",
+      "alt": "A woman artist holding ceramic bowls in a sunlit workshop, surrounded by shelves filled with pottery.",
+      "credit": {
+        "name": "KoolShooters",
+        "link": "https://www.pexels.com/@koolshooters",
+        "photoLink": "https://www.pexels.com/photo/woman-carrying-a-bowl-with-paint-9736483/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "9941176",
+      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1698,
+      "color": "#41494C",
+      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "credit": {
+        "name": "Karina Guseva",
+        "link": "https://www.pexels.com/@karina-guseva-101151339",
+        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+      }
+    },
+    {
+      "prompt": "morning light window",
+      "id": "38958556",
+      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#6C4E12",
+      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "credit": {
+        "name": "meryem",
+        "link": "https://www.pexels.com/@meryem-2157128767",
+        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+      }
+    },
+    {
+      "prompt": "workshop tool bench",
+      "id": "1094770",
+      "url": "https://images.pexels.com/photos/1094770/pexels-photo-1094770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1094770/pexels-photo-1094770.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#153B2C",
-      "alt": "Detailed view of a green fern leaf showcasing its intricate, natural texture.",
+      "color": "#675C53",
+      "alt": "Close-up of various woodworking tools in a workshop, featuring wood shavings and equipment.",
       "credit": {
-        "name": "高 长华",
-        "link": "https://www.pexels.com/@2160634325",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-fern-leaf-with-natural-texture-37894940/"
+        "name": "Thijs van der Weide",
+        "link": "https://www.pexels.com/@thijsvdw",
+        "photoLink": "https://www.pexels.com/photo/photography-of-black-power-tool-1094770/"
       }
     },
     {
-      "prompt": "silent stone facade",
-      "id": "6194261",
-      "url": "https://images.pexels.com/photos/6194261/pexels-photo-6194261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6194261/pexels-photo-6194261.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5905,
-      "height": 3936,
-      "color": "#4A505E",
-      "alt": "Graveyard with chapel and tombstones on snow with shadows under starry blue sky at night in wintertime",
+      "prompt": "nordic interior lighting",
+      "id": "39912920",
+      "url": "https://images.pexels.com/photos/39912920/pexels-photo-39912920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912920/pexels-photo-39912920.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6814,
+      "height": 4543,
+      "color": "#AFA6A1",
+      "alt": "Stylish indoor sauna featuring a glass wall, wood panels, and a contemporary design for relaxation and wellness.",
       "credit": {
-        "name": "Erik Mclean",
-        "link": "https://www.pexels.com/@introspectivedsgn",
-        "photoLink": "https://www.pexels.com/photo/cemetery-with-gravestones-and-church-at-dusk-in-winter-6194261/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-with-glass-wall-and-wood-accents-39912920/"
       }
     },
     {
-      "prompt": "stormy coastal sky",
-      "id": "1478521",
-      "url": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1478521/pexels-photo-1478521.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8561,
-      "height": 5830,
-      "color": "#5F6C70",
-      "alt": "A breathtaking aerial view of a coastal city under dramatic cloudscape, showcasing buildings, ocean, and horizon.",
+      "prompt": "still life arrangement",
+      "id": "10525839",
+      "url": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5658,
+      "height": 3772,
+      "color": "#766C6B",
+      "alt": "Artistic still life photo of pears, stones, and branches with a minimalist design.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/scenic-view-of-ocean-under-cloudy-sky-1478521/"
-      }
-    },
-    {
-      "prompt": "handcrafted clay bowl",
-      "id": "6611420",
-      "url": "https://images.pexels.com/photos/6611420/pexels-photo-6611420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611420/pexels-photo-6611420.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#827D75",
-      "alt": "Discover the beauty of handmade ceramic bowls featuring creative sun motifs. Perfect for art lovers.",
-      "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-creative-clay-bowls-6611420/"
-      }
-    },
-    {
-      "prompt": "minimal wooden desk",
-      "id": "14788763",
-      "url": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14788763/pexels-photo-14788763.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#39372B",
-      "alt": "A cozy workspace with a laptop, keyboard, books, and a refreshing beverage.",
-      "credit": {
-        "name": "Elifnur Gökmenoğlu",
-        "link": "https://www.pexels.com/@elifnur-gokmenoglu-54877017",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-gadgets-on-home-office-table-14788763/"
-      }
-    },
-    {
-      "prompt": "gritty urban wall",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
-      "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+        "name": "Ron Lach",
+        "link": "https://www.pexels.com/@ron-lach",
+        "photoLink": "https://www.pexels.com/photo/pears-near-stones-and-paper-10525839/"
       }
     }
   ]
