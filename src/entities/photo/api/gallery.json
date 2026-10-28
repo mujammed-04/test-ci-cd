@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-27T23:28:57.825Z",
+  "generatedAt": "2026-10-28T03:59:57.012Z",
   "photos": [
     {
       "prompt": "linen texture",
-      "id": "40354125",
-      "url": "https://images.pexels.com/photos/40354125/pexels-photo-40354125.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40354125/pexels-photo-40354125.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3376,
-      "color": "#474B42",
-      "alt": "A close-up view of colorful towels hanging side by side, showcasing various textures.",
+      "id": "7794385",
+      "url": "https://images.pexels.com/photos/7794385/pexels-photo-7794385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794385/pexels-photo-7794385.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8E9BBD",
+      "alt": "Close-up of light blue fabric with elegant folds and delicate texture, perfect for backgrounds.",
       "credit": {
-        "name": "Phát Trương",
-        "link": "https://www.pexels.com/@phat-tr-ng-1662052981",
-        "photoLink": "https://www.pexels.com/photo/colorful-hanging-towels-in-close-up-shot-40354125/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-wrinkled-light-blue-fabric-7794385/"
       }
     },
     {
-      "prompt": "weathered wood",
-      "id": "8352382",
-      "url": "https://images.pexels.com/photos/8352382/pexels-photo-8352382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8352382/pexels-photo-8352382.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5124,
-      "height": 3843,
-      "color": "#4A3D34",
-      "alt": "Detailed view of a rustic wooden fence showcasing weathered textures and natural grains.",
+      "prompt": "wood grain",
+      "id": "5684813",
+      "url": "https://images.pexels.com/photos/5684813/pexels-photo-5684813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5684813/pexels-photo-5684813.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1996,
+      "color": "#5F6265",
+      "alt": "Rustic and textured close-up of weathered wooden planks, ideal for backgrounds or design projects.",
       "credit": {
-        "name": "Kindel Media",
-        "link": "https://www.pexels.com/@kindelmedia",
-        "photoLink": "https://www.pexels.com/photo/old-wooden-fence-8352382/"
+        "name": "Tóth Viktor",
+        "link": "https://www.pexels.com/@toth-viktor-3834339",
+        "photoLink": "https://www.pexels.com/photo/brown-wooden-plank-with-hole-5684813/"
       }
     },
     {
-      "prompt": "coastal clouds",
-      "id": "27497535",
-      "url": "https://images.pexels.com/photos/27497535/pexels-photo-27497535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27497535/pexels-photo-27497535.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5903,
-      "height": 3957,
-      "color": "#909598",
-      "alt": "Stunning view of a rocky shoreline under cloudy skies with distant cliffs, capturing the beauty of the sea.",
+      "prompt": "morning light",
+      "id": "36501697",
+      "url": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36501697/pexels-photo-36501697.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 6144,
+      "color": "#675845",
+      "alt": "A quiet, sunlit interior space with geometric shadows and minimalist design elements.",
       "credit": {
-        "name": "Karolina",
-        "link": "https://www.pexels.com/@karolina-2031292",
-        "photoLink": "https://www.pexels.com/photo/a-view-of-the-ocean-from-a-rocky-shore-27497535/"
+        "name": "Arnu",
+        "link": "https://www.pexels.com/@arnu-2158905519",
+        "photoLink": "https://www.pexels.com/photo/sunlit-minimalist-interior-with-geometric-design-36501697/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "28354605",
-      "url": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28354605/pexels-photo-28354605.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6354,
-      "height": 4236,
-      "color": "#92A4BC",
-      "alt": "A modern building with white walls and green windows against a clear blue sky. Minimalist architecture style.",
+      "prompt": "minimalist desk",
+      "id": "6337",
+      "url": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6337/light-coffee-pen-working.jpg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5331,
+      "height": 3554,
+      "color": "#CBCDD2",
+      "alt": "White tablet with stylus and coffee cup on modern office desk setup.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28354605/"
+        "name": "Karolina Grabowska www.kaboompics.com",
+        "link": "https://www.pexels.com/@karola-g2",
+        "photoLink": "https://www.pexels.com/photo/white-tablet-and-cup-of-coffee-6337/"
       }
     },
     {
-      "prompt": "morning sunlight",
-      "id": "11156146",
-      "url": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5784,
-      "height": 3856,
-      "color": "#956D49",
-      "alt": "Tranquil sunrise over a misty field with bare trees and a winding dirt road.",
+      "prompt": "coastal weather",
+      "id": "26598056",
+      "url": "https://images.pexels.com/photos/26598056/pexels-photo-26598056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26598056/pexels-photo-26598056.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2264,
+      "color": "#807B78",
+      "alt": "Peaceful coastal scene with waves around concrete blocks under a cloudy sky.",
       "credit": {
-        "name": "Amir H. Bakhtiari",
-        "link": "https://www.pexels.com/@amir-h-bakhtiari-254523",
-        "photoLink": "https://www.pexels.com/photo/leafless-trees-near-dirt-road-11156146/"
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/concrete-blocks-in-sand-at-beach-26598056/"
       }
     },
     {
-      "prompt": "handcrafted ceramics",
-      "id": "36731530",
-      "url": "https://images.pexels.com/photos/36731530/pexels-photo-36731530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36731530/pexels-photo-36731530.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3800,
-      "height": 2138,
-      "color": "#6D6F6E",
-      "alt": "Elderly man skillfully shaping clay on potter's wheel in a pottery workshop filled with artifacts.",
+      "prompt": "botanical detail",
+      "id": "6142130",
+      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#333E39",
+      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
       "credit": {
-        "name": "Vitaly Gariev",
-        "link": "https://www.pexels.com/@silverkblack",
-        "photoLink": "https://www.pexels.com/photo/senior-potter-crafting-clay-pots-in-art-studio-36731530/"
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
       }
     }
   ]
