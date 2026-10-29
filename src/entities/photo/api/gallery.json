@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-29T01:32:37.786Z",
+  "generatedAt": "2026-10-29T08:01:15.786Z",
   "photos": [
     {
-      "prompt": "soft morning light",
-      "id": "8991556",
-      "url": "https://images.pexels.com/photos/8991556/pexels-photo-8991556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8991556/pexels-photo-8991556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5195,
-      "height": 2922,
-      "color": "#9F724B",
-      "alt": "Close-up of a frosty dewdrop on grass during sunrise, capturing serene winter beauty.",
+      "prompt": "rusty workshop tools",
+      "id": "15102482",
+      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5522,
+      "height": 3106,
+      "color": "#AC8A65",
+      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
       "credit": {
-        "name": "Marek Piwnicki",
-        "link": "https://www.pexels.com/@marek-piwnicki-3907296",
-        "photoLink": "https://www.pexels.com/photo/water-dew-on-green-grass-8991556/"
+        "name": "FFD Restorations",
+        "link": "https://www.pexels.com/@ffd-restorations-400571257",
+        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
       }
     },
     {
-      "prompt": "quiet stone architecture",
-      "id": "416999",
-      "url": "https://images.pexels.com/photos/416999/pexels-photo-416999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/416999/pexels-photo-416999.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2664,
-      "color": "#7A6048",
-      "alt": "A sunlit alleyway showcasing rustic stone architecture in a picturesque European village.",
+      "prompt": "gritty urban textures",
+      "id": "2969398",
+      "url": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9000,
+      "height": 6001,
+      "color": "#515048",
+      "alt": "Detailed close-up of a weathered concrete wall showcasing texture, drips, and stains.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/brown-concrete-house-416999/"
+        "name": "Tim Mossholder",
+        "link": "https://www.pexels.com/@timmossholder",
+        "photoLink": "https://www.pexels.com/photo/grey-concrete-wall-2969398/"
+      }
+    },
+    {
+      "prompt": "stormy coastal weather",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "credit": {
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+      }
+    },
+    {
+      "prompt": "minimalist nordic interior",
+      "id": "39912936",
+      "url": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#755846",
+      "alt": "Discover the elegance of a modern indoor sauna featuring sleek wood panels and a glass door.",
+      "credit": {
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/stylish-modern-indoor-sauna-with-wooden-design-39912936/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "id": "3538574",
+      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3581,
+      "height": 2383,
+      "color": "#7D685E",
+      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+        "name": "Giovanni Calia",
+        "link": "https://www.pexels.com/@giovanni-calia-1140926",
+        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
       }
     },
     {
-      "prompt": "nordic interior design",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
+      "prompt": "linen wood backdrop",
+      "id": "7232397",
+      "url": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6144,
+      "height": 3456,
+      "color": "#AC9D8C",
+      "alt": "Close-up of beige cotton fabric showcasing natural texture and crumples.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
-      }
-    },
-    {
-      "prompt": "minimalist desk setup",
-      "id": "25450658",
-      "url": "https://images.pexels.com/photos/25450658/pexels-photo-25450658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/25450658/pexels-photo-25450658.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2912,
-      "color": "#4A4B4D",
-      "alt": "A stylish home office desk featuring a computer setup with accessories, perfect for creativity and productivity.",
-      "credit": {
-        "name": "Bich Tran",
-        "link": "https://www.pexels.com/@thngocbich",
-        "photoLink": "https://www.pexels.com/photo/aesthetic-computer-setup-in-home-office-25450658/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "8167283",
-      "url": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2800,
-      "color": "#C9B495",
-      "alt": "A minimalist still life featuring dried flowers in a pastel vase with scattered pebbles.",
-      "credit": {
-        "name": "Daria Liudnaya",
-        "link": "https://www.pexels.com/@daria-liudnaya",
-        "photoLink": "https://www.pexels.com/photo/colorful-decorations-and-dried-flowers-in-a-vase-8167283/"
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/close-up-white-fabric-with-crumple-7232397/"
       }
     }
   ]
