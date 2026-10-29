@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-29T08:01:15.786Z",
+  "generatedAt": "2026-10-29T15:51:25.042Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "15102482",
-      "url": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5522,
-      "height": 3106,
-      "color": "#AC8A65",
-      "alt": "A collection of rusty vintage tools displayed on a wooden workbench, showcasing woodworking history.",
+      "prompt": "Nordic interior",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
       "credit": {
-        "name": "FFD Restorations",
-        "link": "https://www.pexels.com/@ffd-restorations-400571257",
-        "photoLink": "https://www.pexels.com/photo/old-rusty-tools-15102482/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
       }
     },
     {
-      "prompt": "gritty urban textures",
-      "id": "2969398",
-      "url": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2969398/pexels-photo-2969398.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 9000,
-      "height": 6001,
-      "color": "#515048",
-      "alt": "Detailed close-up of a weathered concrete wall showcasing texture, drips, and stains.",
+      "prompt": "Minimal desk",
+      "id": "8534373",
+      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5654,
+      "height": 3769,
+      "color": "#B5B5B5",
+      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
       "credit": {
-        "name": "Tim Mossholder",
-        "link": "https://www.pexels.com/@timmossholder",
-        "photoLink": "https://www.pexels.com/photo/grey-concrete-wall-2969398/"
+        "name": "Hanna Pad",
+        "link": "https://www.pexels.com/@anna-nekrashevich",
+        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
       }
     },
     {
-      "prompt": "stormy coastal weather",
-      "id": "9493189",
-      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4737,
-      "height": 3153,
-      "color": "#68757E",
-      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "prompt": "Workshop tools",
+      "id": "33000620",
+      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8256,
+      "height": 6192,
+      "color": "#7C716F",
+      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
       }
     },
     {
-      "prompt": "minimalist nordic interior",
-      "id": "39912936",
-      "url": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39912936/pexels-photo-39912936.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#755846",
-      "alt": "Discover the elegance of a modern indoor sauna featuring sleek wood panels and a glass door.",
+      "prompt": "Coastal weather",
+      "id": "38350380",
+      "url": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4819,
+      "height": 3213,
+      "color": "#879192",
+      "alt": "A captivating view of the stormy sea with rough waves and thick clouds overhead, showcasing nature's power.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/stylish-modern-indoor-sauna-with-wooden-design-39912936/"
+        "name": "Margarita K",
+        "link": "https://www.pexels.com/@margarita-k-105195494",
+        "photoLink": "https://www.pexels.com/photo/dramatic-stormy-sea-with-choppy-waves-and-clouds-38350380/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "3538574",
-      "url": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3538574/pexels-photo-3538574.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3581,
-      "height": 2383,
-      "color": "#7D685E",
-      "alt": "Blurred abstract portrait of a bald man in a bathroom with distorted light effects in Sardinia, Italy.",
+      "prompt": "Linen wood",
+      "id": "5964663",
+      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#90704C",
+      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
       "credit": {
-        "name": "Giovanni Calia",
-        "link": "https://www.pexels.com/@giovanni-calia-1140926",
-        "photoLink": "https://www.pexels.com/photo/blurred-bald-man-in-bathroom-3538574/"
+        "name": "Eva Bronzini",
+        "link": "https://www.pexels.com/@eva-bronzini",
+        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
       }
     },
     {
-      "prompt": "linen wood backdrop",
-      "id": "7232397",
-      "url": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6144,
-      "height": 3456,
-      "color": "#AC9D8C",
-      "alt": "Close-up of beige cotton fabric showcasing natural texture and crumples.",
+      "prompt": "Handmade ceramics",
+      "id": "6611426",
+      "url": "https://images.pexels.com/photos/6611426/pexels-photo-6611426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611426/pexels-photo-6611426.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#918985",
+      "alt": "Close-up of artisan pottery cups and bowls arranged on a rustic table.",
       "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/close-up-white-fabric-with-crumple-7232397/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-handmade-pottery-on-table-6611426/"
       }
     }
   ]
