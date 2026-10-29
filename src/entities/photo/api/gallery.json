@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-29T15:51:25.042Z",
+  "generatedAt": "2026-10-29T20:52:41.492Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "7055629",
-      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5834,
-      "height": 3895,
-      "color": "#7D756D",
-      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
+      "prompt": "linen wood",
+      "id": "6962747",
+      "url": "https://images.pexels.com/photos/6962747/pexels-photo-6962747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962747/pexels-photo-6962747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#A9A49C",
+      "alt": "A simple wooden bowl placed on a striped linen napkin on a wooden surface, top view.",
       "credit": {
-        "name": "Pavel Danilyuk",
-        "link": "https://www.pexels.com/@pavel-danilyuk",
-        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/an-empty-wooden-bowl-on-gray-kitchen-towel-6962747/"
       }
     },
     {
-      "prompt": "Minimal desk",
-      "id": "8534373",
-      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5654,
-      "height": 3769,
-      "color": "#B5B5B5",
-      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
+      "prompt": "morning light",
+      "id": "29623051",
+      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3342,
+      "height": 2303,
+      "color": "#494134",
+      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
       "credit": {
-        "name": "Hanna Pad",
-        "link": "https://www.pexels.com/@anna-nekrashevich",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
+        "name": "zheng liang",
+        "link": "https://www.pexels.com/@zzzzlz",
+        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
       }
     },
     {
-      "prompt": "Workshop tools",
-      "id": "33000620",
-      "url": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33000620/pexels-photo-33000620.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8256,
-      "height": 6192,
-      "color": "#7C716F",
-      "alt": "A collection of various tools neatly arranged on a workshop rack, showcasing a DIY environment.",
+      "prompt": "minimal desk",
+      "id": "6044914",
+      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#5B5B59",
+      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
       "credit": {
-        "name": "Tahir Xəlfəquliyev",
-        "link": "https://www.pexels.com/@tahir",
-        "photoLink": "https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/"
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
       }
     },
     {
-      "prompt": "Coastal weather",
-      "id": "38350380",
-      "url": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38350380/pexels-photo-38350380.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4819,
-      "height": 3213,
-      "color": "#879192",
-      "alt": "A captivating view of the stormy sea with rough waves and thick clouds overhead, showcasing nature's power.",
+      "prompt": "still life",
+      "id": "12687108",
+      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#853F33",
+      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
       "credit": {
-        "name": "Margarita K",
-        "link": "https://www.pexels.com/@margarita-k-105195494",
-        "photoLink": "https://www.pexels.com/photo/dramatic-stormy-sea-with-choppy-waves-and-clouds-38350380/"
+        "name": "Yusra  Mizgin Günay",
+        "link": "https://www.pexels.com/@yusramizgingunay",
+        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "5964663",
-      "url": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5964663/pexels-photo-5964663.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#90704C",
-      "alt": "Rustic wooden chopping board on textured linen surface for kitchen decor",
+      "prompt": "urban texture",
+      "id": "39014622",
+      "url": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5943,
+      "height": 3344,
+      "color": "#657579",
+      "alt": "Close-up of a textured wall showing wear, with exposed red brick and dimensional plaster.",
       "credit": {
-        "name": "Eva Bronzini",
-        "link": "https://www.pexels.com/@eva-bronzini",
-        "photoLink": "https://www.pexels.com/photo/wooden-chopping-board-on-brown-textile-5964663/"
+        "name": "Phát Trương",
+        "link": "https://www.pexels.com/@phat-tr-ng-1662052981",
+        "photoLink": "https://www.pexels.com/photo/textured-wall-with-weathered-and-exposed-brick-39014622/"
       }
     },
     {
-      "prompt": "Handmade ceramics",
-      "id": "6611426",
-      "url": "https://images.pexels.com/photos/6611426/pexels-photo-6611426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6611426/pexels-photo-6611426.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5000,
-      "height": 3338,
-      "color": "#918985",
-      "alt": "Close-up of artisan pottery cups and bowls arranged on a rustic table.",
+      "prompt": "quiet architecture",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
       "credit": {
-        "name": "Yan Krukau",
-        "link": "https://www.pexels.com/@yankrukov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-handmade-pottery-on-table-6611426/"
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
       }
     }
   ]
