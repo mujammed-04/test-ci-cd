@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-30T06:48:03.531Z",
+  "generatedAt": "2026-10-30T13:50:17.765Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic vase",
-      "id": "36312202",
-      "url": "https://images.pexels.com/photos/36312202/pexels-photo-36312202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36312202/pexels-photo-36312202.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3896,
-      "height": 3000,
-      "color": "#867B65",
-      "alt": "Classic white ceramic vase with rustic floral design on wooden shelf against a pastel wall.",
+      "prompt": "soft sunrise glow",
+      "id": "266142",
+      "url": "https://images.pexels.com/photos/266142/pexels-photo-266142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/266142/pexels-photo-266142.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2500,
+      "height": 1666,
+      "color": "#655B53",
+      "alt": "Tranquil seascape captured during sunset with golden reflections on the beach and water.",
       "credit": {
-        "name": "Michael Vest",
-        "link": "https://www.pexels.com/@michael-vest-2158818556",
-        "photoLink": "https://www.pexels.com/photo/vintage-ceramic-vase-on-wooden-shelf-36312202/"
+        "name": "Pok Rie",
+        "link": "https://www.pexels.com/@pok-rie-33563",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-266142/"
       }
     },
     {
-      "prompt": "urban brick wall",
-      "id": "9843688",
-      "url": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9843688/pexels-photo-9843688.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5927,
-      "height": 3951,
-      "color": "#BE845C",
-      "alt": "Photo of a brick wall with interesting shadow patterns from stairs.",
+      "prompt": "coastal fog horizon",
+      "id": "8673468",
+      "url": "https://images.pexels.com/photos/8673468/pexels-photo-8673468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8673468/pexels-photo-8673468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3130,
+      "height": 2075,
+      "color": "#9D9D9D",
+      "alt": "Black and white photo of a tranquil coastal scene shrouded in fog, showcasing the sea.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-light-casting-a-shadow-of-lines-on-a-brown-brick-wall-9843688/"
+        "name": "Глеб Серебренников",
+        "link": "https://www.pexels.com/@78162042",
+        "photoLink": "https://www.pexels.com/photo/a-grayscale-of-a-shore-8673468/"
       }
     },
     {
-      "prompt": "minimalist wooden desk",
-      "id": "373904",
-      "url": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5593,
-      "height": 3729,
-      "color": "#7D756D",
-      "alt": "A well-organized workspace featuring a laptop, books, and a lamp on a wooden desk.",
+      "prompt": "analog film grain",
+      "id": "33276114",
+      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2500,
+      "height": 1678,
+      "color": "#7F645D",
+      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/chair-computer-desk-furniture-373904/"
+        "name": "Şeyma Emine  TAMER GÜL",
+        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
+        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20539730",
-      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#8B8E95",
-      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
+      "prompt": "quiet library interior",
+      "id": "13770425",
+      "url": "https://images.pexels.com/photos/13770425/pexels-photo-13770425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13770425/pexels-photo-13770425.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5940,
+      "height": 3960,
+      "color": "#B9A894",
+      "alt": "Open and airy modern library with bookshelves, desks, and a large screen in a well-lit space.",
       "credit": {
-        "name": "Nguyen Huy",
-        "link": "https://www.pexels.com/@ngochuy",
-        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
+        "name": "Asia Culture Center",
+        "link": "https://www.pexels.com/@asia-culture-center-3116378",
+        "photoLink": "https://www.pexels.com/photo/shelves-and-counters-in-a-modern-library-13770425/"
       }
     },
     {
-      "prompt": "linen textured surface",
-      "id": "34860687",
-      "url": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860687/pexels-photo-34860687.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#272727",
-      "alt": "Detailed black fabric texture showing intricate weave and subtle ripples.",
+      "prompt": "still life fruit",
+      "id": "26159450",
+      "url": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4113,
+      "height": 2742,
+      "color": "#3D190D",
+      "alt": "A striking arrangement of fresh fruits including apples, orange, and pear against a dark background.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-black-textured-fabric-with-ripples-34860687/"
+        "name": "J E",
+        "link": "https://www.pexels.com/@j-e-22471780",
+        "photoLink": "https://www.pexels.com/photo/ripe-fresh-fruits-26159450/"
       }
     },
     {
-      "prompt": "botanical leaf detail",
-      "id": "6364240",
-      "url": "https://images.pexels.com/photos/6364240/pexels-photo-6364240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6364240/pexels-photo-6364240.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#2D5C10",
-      "alt": "Detailed macro image highlighting the intricate veining structure of a vibrant green leaf.",
+      "prompt": "minimalist desk arrangement",
+      "id": "36331296",
+      "url": "https://images.pexels.com/photos/36331296/pexels-photo-36331296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36331296/pexels-photo-36331296.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4559,
+      "height": 3039,
+      "color": "#808684",
+      "alt": "Simple desk with a blue bottle and empty glasses beside a soft lit window.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/a-close-up-shot-of-a-leaf-6364240/"
+        "name": "Tasso Mitsarakis",
+        "link": "https://www.pexels.com/@tasso-mitsarakis-4849571",
+        "photoLink": "https://www.pexels.com/photo/minimalist-desk-setup-with-bottle-and-glasses-36331296/"
       }
     }
   ]
