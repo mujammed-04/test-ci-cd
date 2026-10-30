@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-29T20:52:41.492Z",
+  "generatedAt": "2026-10-30T00:36:32.119Z",
   "photos": [
     {
-      "prompt": "linen wood",
-      "id": "6962747",
-      "url": "https://images.pexels.com/photos/6962747/pexels-photo-6962747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962747/pexels-photo-6962747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#A9A49C",
-      "alt": "A simple wooden bowl placed on a striped linen napkin on a wooden surface, top view.",
+      "prompt": "stormy coastline",
+      "id": "6244795",
+      "url": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#C1BAB6",
+      "alt": "Capture of strong ocean waves during twilight showcasing nature's power and beauty.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/an-empty-wooden-bowl-on-gray-kitchen-towel-6962747/"
+        "name": "photoGraph",
+        "link": "https://www.pexels.com/@photograph",
+        "photoLink": "https://www.pexels.com/photo/photograph-of-strong-sea-waves-6244795/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "29623051",
-      "url": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29623051/pexels-photo-29623051.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3342,
-      "height": 2303,
-      "color": "#494134",
-      "alt": "Warm bedroom featuring sunlit curtains and a peaceful, cozy ambiance.",
+      "prompt": "rustic stilllife",
+      "id": "37718563",
+      "url": "https://images.pexels.com/photos/37718563/pexels-photo-37718563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37718563/pexels-photo-37718563.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3200,
+      "height": 2136,
+      "color": "#584E45",
+      "alt": "A rustic still life featuring clay pots and onions on a burlap cloth, exuding earthy tones.",
       "credit": {
-        "name": "zheng liang",
-        "link": "https://www.pexels.com/@zzzzlz",
-        "photoLink": "https://www.pexels.com/photo/cozy-bedroom-with-sunlit-curtains-and-soft-lighting-29623051/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/rustic-still-life-with-clay-pottery-and-onions-37718563/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "6044914",
-      "url": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044914/pexels-photo-6044914.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#5B5B59",
-      "alt": "Modern computers and smartphone placed on black table near marble table with books in contemporary workspace",
+      "prompt": "soft morning light",
+      "id": "997565",
+      "url": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3086,
+      "height": 3080,
+      "color": "#6A676A",
+      "alt": "Snow-covered branches create a serene winter ambiance against a neutral background.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/contemporary-workplace-with-modern-gadgets-and-books-6044914/"
+        "name": "Alissa Nabiullina",
+        "link": "https://www.pexels.com/@alissa-nabiullina-367960",
+        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-white-clustered-flowers-997565/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "12687108",
-      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#853F33",
-      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
+      "prompt": "linen wood texture",
+      "id": "27007162",
+      "url": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27007162/pexels-photo-27007162.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5824,
+      "height": 3740,
+      "color": "#B18E6E",
+      "alt": "High-resolution close-up of intertwined natural fibers, showcasing rough and textured patterns.",
       "credit": {
-        "name": "Yusra  Mizgin Günay",
-        "link": "https://www.pexels.com/@yusramizgingunay",
-        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
+        "name": "Sohan Rahat",
+        "link": "https://www.pexels.com/@sohan-rahat-1445529889",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-blond-hair-27007162/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "39014622",
-      "url": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39014622/pexels-photo-39014622.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5943,
-      "height": 3344,
-      "color": "#657579",
-      "alt": "Close-up of a textured wall showing wear, with exposed red brick and dimensional plaster.",
+      "prompt": "metal workshop tools",
+      "id": "30351214",
+      "url": "https://images.pexels.com/photos/30351214/pexels-photo-30351214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30351214/pexels-photo-30351214.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3508,
+      "height": 2481,
+      "color": "#373737",
+      "alt": "A detailed black and white image of a caliper tool on a workshop table, highlighting precision.",
       "credit": {
-        "name": "Phát Trương",
-        "link": "https://www.pexels.com/@phat-tr-ng-1662052981",
-        "photoLink": "https://www.pexels.com/photo/textured-wall-with-weathered-and-exposed-brick-39014622/"
+        "name": "Michel AVRIL",
+        "link": "https://www.pexels.com/@michel-avril-1082999050",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-close-up-of-caliper-tool-30351214/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "18431230",
-      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3499,
-      "height": 2403,
-      "color": "#7B7165",
-      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
+      "prompt": "minimalist desk",
+      "id": "1034650",
+      "url": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1034650/pexels-photo-1034650.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5051,
+      "height": 3310,
+      "color": "#7E6458",
+      "alt": "A sleek modern workspace featuring an iMac displaying a desert road and a stylish desk lamp.",
       "credit": {
-        "name": "Javid Hashimov",
-        "link": "https://www.pexels.com/@javidhashimov",
-        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
+        "name": "Tom Swinnen",
+        "link": "https://www.pexels.com/@shottrotter",
+        "photoLink": "https://www.pexels.com/photo/close-up-photography-of-imac-turned-on-1034650/"
       }
     }
   ]
