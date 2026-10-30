@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-30T13:50:17.765Z",
+  "generatedAt": "2026-10-30T18:58:46.299Z",
   "photos": [
     {
-      "prompt": "soft sunrise glow",
-      "id": "266142",
-      "url": "https://images.pexels.com/photos/266142/pexels-photo-266142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/266142/pexels-photo-266142.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2500,
-      "height": 1666,
-      "color": "#655B53",
-      "alt": "Tranquil seascape captured during sunset with golden reflections on the beach and water.",
+      "prompt": "urban brick walls",
+      "id": "14982351",
+      "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5878,
+      "height": 3919,
+      "color": "#C09376",
+      "alt": "Detailed image of a rough, multicolored brick wall texture for backgrounds or design.",
       "credit": {
-        "name": "Pok Rie",
-        "link": "https://www.pexels.com/@pok-rie-33563",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-266142/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/brick-on-a-wall-14982351/"
       }
     },
     {
-      "prompt": "coastal fog horizon",
-      "id": "8673468",
-      "url": "https://images.pexels.com/photos/8673468/pexels-photo-8673468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8673468/pexels-photo-8673468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3130,
-      "height": 2075,
-      "color": "#9D9D9D",
-      "alt": "Black and white photo of a tranquil coastal scene shrouded in fog, showcasing the sea.",
+      "prompt": "morning soft light",
+      "id": "36770657",
+      "url": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6024,
+      "height": 4016,
+      "color": "#838B58",
+      "alt": "Close-up of dewy grass with a blurred, sunlit background, featuring artistic bokeh.",
       "credit": {
-        "name": "Глеб Серебренников",
-        "link": "https://www.pexels.com/@78162042",
-        "photoLink": "https://www.pexels.com/photo/a-grayscale-of-a-shore-8673468/"
+        "name": "Aneesh Thazhathethil",
+        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
+        "photoLink": "https://www.pexels.com/photo/dewy-grass-with-sunlit-background-36770657/"
       }
     },
     {
-      "prompt": "analog film grain",
-      "id": "33276114",
-      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2500,
-      "height": 1678,
-      "color": "#7F645D",
-      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
+      "prompt": "minimal wooden desk",
+      "id": "110644",
+      "url": "https://images.pexels.com/photos/110644/pexels-photo-110644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/110644/pexels-photo-110644.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#7C7B74",
+      "alt": "A minimalist workspace setup featuring a laptop, paper, and stationery on a wooden desk.",
       "credit": {
-        "name": "Şeyma Emine  TAMER GÜL",
-        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
-        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
+        "name": "Markus Spiske",
+        "link": "https://www.pexels.com/@markusspiske",
+        "photoLink": "https://www.pexels.com/photo/macbook-pro-on-brown-wooden-table-110644/"
       }
     },
     {
-      "prompt": "quiet library interior",
-      "id": "13770425",
-      "url": "https://images.pexels.com/photos/13770425/pexels-photo-13770425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13770425/pexels-photo-13770425.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5940,
-      "height": 3960,
-      "color": "#B9A894",
-      "alt": "Open and airy modern library with bookshelves, desks, and a large screen in a well-lit space.",
+      "prompt": "still life fruits",
+      "id": "3252136",
+      "url": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 21600,
+      "height": 14400,
+      "color": "#3D4047",
+      "alt": "Dark moody still life of fresh grapes and figs in a glass setting, highlighting autumn flavors.",
       "credit": {
-        "name": "Asia Culture Center",
-        "link": "https://www.pexels.com/@asia-culture-center-3116378",
-        "photoLink": "https://www.pexels.com/photo/shelves-and-counters-in-a-modern-library-13770425/"
+        "name": "Tijana Drndarski",
+        "link": "https://www.pexels.com/@tijana-drndarski-449691",
+        "photoLink": "https://www.pexels.com/photo/variety-of-fruits-3252136/"
       }
     },
     {
-      "prompt": "still life fruit",
-      "id": "26159450",
-      "url": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26159450/pexels-photo-26159450.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4113,
-      "height": 2742,
-      "color": "#3D190D",
-      "alt": "A striking arrangement of fresh fruits including apples, orange, and pear against a dark background.",
+      "prompt": "analogue film grain",
+      "id": "20539730",
+      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#8B8E95",
+      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
       "credit": {
-        "name": "J E",
-        "link": "https://www.pexels.com/@j-e-22471780",
-        "photoLink": "https://www.pexels.com/photo/ripe-fresh-fruits-26159450/"
+        "name": "Nguyen Huy",
+        "link": "https://www.pexels.com/@ngochuy",
+        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
       }
     },
     {
-      "prompt": "minimalist desk arrangement",
-      "id": "36331296",
-      "url": "https://images.pexels.com/photos/36331296/pexels-photo-36331296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36331296/pexels-photo-36331296.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4559,
-      "height": 3039,
-      "color": "#808684",
-      "alt": "Simple desk with a blue bottle and empty glasses beside a soft lit window.",
+      "prompt": "quiet concrete architecture",
+      "id": "39121831",
+      "url": "https://images.pexels.com/photos/39121831/pexels-photo-39121831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39121831/pexels-photo-39121831.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5711,
+      "height": 3212,
+      "color": "#576882",
+      "alt": "Minimalist view of sunny rooftops under a clear blue sky in an arid environment.",
       "credit": {
-        "name": "Tasso Mitsarakis",
-        "link": "https://www.pexels.com/@tasso-mitsarakis-4849571",
-        "photoLink": "https://www.pexels.com/photo/minimalist-desk-setup-with-bottle-and-glasses-36331296/"
+        "name": "Mone Kostner",
+        "link": "https://www.pexels.com/@mone-kostner-484319678",
+        "photoLink": "https://www.pexels.com/photo/sunny-rooftops-against-a-clear-blue-sky-39121831/"
       }
     }
   ]
