@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-30T18:58:46.299Z",
+  "generatedAt": "2026-10-30T22:54:30.353Z",
   "photos": [
     {
-      "prompt": "urban brick walls",
+      "prompt": "linen wood texture",
+      "id": "36346049",
+      "url": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5088,
+      "height": 3392,
+      "color": "#AE8E75",
+      "alt": "Detailed close-up of beige fabric texture, highlighting its woven pattern.",
+      "credit": {
+        "name": "Jonathan Borba",
+        "link": "https://www.pexels.com/@jonathanborba",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-natural-fabric-texture-36346049/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "9654659",
+      "url": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5693,
+      "height": 3795,
+      "color": "#485333",
+      "alt": "Explore the intricate patterns of a green leaf vein through macro photography, showcasing nature's detailed design.",
+      "credit": {
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/a-close-up-shot-of-a-green-leaf-9654659/"
+      }
+    },
+    {
+      "prompt": "quiet architectural facade",
+      "id": "19013520",
+      "url": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6853,
+      "height": 4569,
+      "color": "#8A9599",
+      "alt": "A symmetrical facade with three wooden doors under a clear blue sky.",
+      "credit": {
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/facade-with-three-wooden-doors-19013520/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
       "id": "14982351",
       "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -18,77 +63,32 @@
     },
     {
       "prompt": "morning soft light",
-      "id": "36770657",
-      "url": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6024,
-      "height": 4016,
-      "color": "#838B58",
-      "alt": "Close-up of dewy grass with a blurred, sunlit background, featuring artistic bokeh.",
+      "id": "39853337",
+      "url": "https://images.pexels.com/photos/39853337/pexels-photo-39853337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39853337/pexels-photo-39853337.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4128,
+      "height": 2752,
+      "color": "#1B2B2A",
+      "alt": "Serene woodland scene captured in early morning light with a misty, atmospheric mood.",
       "credit": {
-        "name": "Aneesh Thazhathethil",
-        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
-        "photoLink": "https://www.pexels.com/photo/dewy-grass-with-sunlit-background-36770657/"
+        "name": "sanynjez gao",
+        "link": "https://www.pexels.com/@sanynjez-gao-2161888371",
+        "photoLink": "https://www.pexels.com/photo/tranquil-forest-at-dawn-with-misty-atmosphere-39853337/"
       }
     },
     {
-      "prompt": "minimal wooden desk",
-      "id": "110644",
-      "url": "https://images.pexels.com/photos/110644/pexels-photo-110644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/110644/pexels-photo-110644.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#7C7B74",
-      "alt": "A minimalist workspace setup featuring a laptop, paper, and stationery on a wooden desk.",
+      "prompt": "handmade ceramic bowl",
+      "id": "5566964",
+      "url": "https://images.pexels.com/photos/5566964/pexels-photo-5566964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5566964/pexels-photo-5566964.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6552,
+      "height": 4368,
+      "color": "#898D87",
+      "alt": "Minimalist ceramic tableware arrangement on textured fabric and white surface, highlighting elegant design.",
       "credit": {
-        "name": "Markus Spiske",
-        "link": "https://www.pexels.com/@markusspiske",
-        "photoLink": "https://www.pexels.com/photo/macbook-pro-on-brown-wooden-table-110644/"
-      }
-    },
-    {
-      "prompt": "still life fruits",
-      "id": "3252136",
-      "url": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3252136/pexels-photo-3252136.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 21600,
-      "height": 14400,
-      "color": "#3D4047",
-      "alt": "Dark moody still life of fresh grapes and figs in a glass setting, highlighting autumn flavors.",
-      "credit": {
-        "name": "Tijana Drndarski",
-        "link": "https://www.pexels.com/@tijana-drndarski-449691",
-        "photoLink": "https://www.pexels.com/photo/variety-of-fruits-3252136/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "20539730",
-      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#8B8E95",
-      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
-      "credit": {
-        "name": "Nguyen Huy",
-        "link": "https://www.pexels.com/@ngochuy",
-        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
-      }
-    },
-    {
-      "prompt": "quiet concrete architecture",
-      "id": "39121831",
-      "url": "https://images.pexels.com/photos/39121831/pexels-photo-39121831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39121831/pexels-photo-39121831.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5711,
-      "height": 3212,
-      "color": "#576882",
-      "alt": "Minimalist view of sunny rooftops under a clear blue sky in an arid environment.",
-      "credit": {
-        "name": "Mone Kostner",
-        "link": "https://www.pexels.com/@mone-kostner-484319678",
-        "photoLink": "https://www.pexels.com/photo/sunny-rooftops-against-a-clear-blue-sky-39121831/"
+        "name": "Anastasia  Shuraeva",
+        "link": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoLink": "https://www.pexels.com/photo/ceramic-flatware-on-a-white-surface-5566964/"
       }
     }
   ]
