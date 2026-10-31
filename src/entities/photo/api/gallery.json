@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-31T15:35:50.079Z",
+  "generatedAt": "2026-10-31T19:43:02.854Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "39400251",
-      "url": "https://images.pexels.com/photos/39400251/pexels-photo-39400251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39400251/pexels-photo-39400251.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5029,
-      "height": 2829,
-      "color": "#C7D6DB",
-      "alt": "Minimalist structure with geometric design in Lisbon's Parque das Nações, Portugal",
+      "prompt": "handcrafted pottery",
+      "id": "40551301",
+      "url": "https://images.pexels.com/photos/40551301/pexels-photo-40551301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40551301/pexels-photo-40551301.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#67412E",
+      "alt": "Artisan crafting pottery in a sunlit workshop, showcasing traditional skills and craftsmanship.",
       "credit": {
-        "name": "Igor Passchier",
-        "link": "https://www.pexels.com/@igor-passchier-111147847",
-        "photoLink": "https://www.pexels.com/photo/modern-architecture-at-parque-das-nacoes-lisbon-39400251/"
+        "name": "Andreas Suwardy",
+        "link": "https://www.pexels.com/@andreas-suwardy-2152085739",
+        "photoLink": "https://www.pexels.com/photo/traditional-pottery-crafting-in-sunlit-workshop-40551301/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "24603870",
-      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3018,
-      "color": "#8E9196",
-      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
+      "prompt": "stormy coastline",
+      "id": "6244795",
+      "url": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4928,
+      "height": 3264,
+      "color": "#C1BAB6",
+      "alt": "Capture of strong ocean waves during twilight showcasing nature's power and beauty.",
       "credit": {
-        "name": "Olga Prilepskaya",
-        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
+        "name": "photoGraph",
+        "link": "https://www.pexels.com/@photograph",
+        "photoLink": "https://www.pexels.com/photo/photograph-of-strong-sea-waves-6244795/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "29181493",
-      "url": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29181493/pexels-photo-29181493.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5873,
-      "height": 3915,
-      "color": "#293237",
-      "alt": "A mechanic in gloves organizing engine parts and tools in a workshop setting.",
+      "prompt": "linen timber",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
       "credit": {
-        "name": "Sergei Starostin",
-        "link": "https://www.pexels.com/@sejio402",
-        "photoLink": "https://www.pexels.com/photo/mechanic-organizing-engine-components-in-workshop-29181493/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "6142130",
-      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#333E39",
-      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
-      "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "39338444",
-      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "scandinavian livingroom",
+      "id": "36353421",
+      "url": "https://images.pexels.com/photos/36353421/pexels-photo-36353421.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36353421/pexels-photo-36353421.png?auto=compress&cs=tinysrgb&h=350",
       "width": 3840,
-      "height": 2560,
-      "color": "#9A9591",
-      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
+      "height": 2451,
+      "color": "#72685D",
+      "alt": "A stylish living room interior with modern furniture and large windows overlooking nature.",
       "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
+        "name": "The Ghazi",
+        "link": "https://www.pexels.com/@the-ghazi-2152398165",
+        "photoLink": "https://www.pexels.com/photo/cozy-modern-living-room-with-large-windows-36353421/"
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8092507",
-      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CCCBC9",
-      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
+      "prompt": "silent architecture",
+      "id": "16569537",
+      "url": "https://images.pexels.com/photos/16569537/pexels-photo-16569537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16569537/pexels-photo-16569537.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5792,
+      "height": 3864,
+      "color": "#A6A6A6",
+      "alt": "Black and white image of a modern building with clear sky background.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
+        "name": "Isaac Garcia",
+        "link": "https://www.pexels.com/@isaac-garcia-351057826",
+        "photoLink": "https://www.pexels.com/photo/clear-sky-over-building-in-black-and-white-16569537/"
+      }
+    },
+    {
+      "prompt": "film grain texture",
+      "id": "6410895",
+      "url": "https://images.pexels.com/photos/6410895/pexels-photo-6410895.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6410895/pexels-photo-6410895.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 6944,
+      "height": 4272,
+      "color": "#56DB56",
+      "alt": "Atmospheric black and white film photo of a forest with light leaks creating a vintage grain effect.",
+      "credit": {
+        "name": "Kris Møklebust",
+        "link": "https://www.pexels.com/@moklebust",
+        "photoLink": "https://www.pexels.com/photo/film-photograph-of-trees-6410895/"
       }
     }
   ]
