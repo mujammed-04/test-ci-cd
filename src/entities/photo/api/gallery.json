@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-31T19:43:02.854Z",
+  "generatedAt": "2026-10-31T23:05:05.958Z",
   "photos": [
     {
-      "prompt": "handcrafted pottery",
-      "id": "40551301",
-      "url": "https://images.pexels.com/photos/40551301/pexels-photo-40551301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40551301/pexels-photo-40551301.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#67412E",
-      "alt": "Artisan crafting pottery in a sunlit workshop, showcasing traditional skills and craftsmanship.",
+      "prompt": "minimal desk",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
       "credit": {
-        "name": "Andreas Suwardy",
-        "link": "https://www.pexels.com/@andreas-suwardy-2152085739",
-        "photoLink": "https://www.pexels.com/photo/traditional-pottery-crafting-in-sunlit-workshop-40551301/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
       }
     },
     {
-      "prompt": "stormy coastline",
-      "id": "6244795",
-      "url": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6244795/pexels-photo-6244795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4928,
-      "height": 3264,
-      "color": "#C1BAB6",
-      "alt": "Capture of strong ocean waves during twilight showcasing nature's power and beauty.",
+      "prompt": "coastal sky",
+      "id": "570991",
+      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3862,
+      "height": 2895,
+      "color": "#594943",
+      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
       "credit": {
-        "name": "photoGraph",
-        "link": "https://www.pexels.com/@photograph",
-        "photoLink": "https://www.pexels.com/photo/photograph-of-strong-sea-waves-6244795/"
+        "name": "Josh Sorenson",
+        "link": "https://www.pexels.com/@joshsorenson",
+        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
       }
     },
     {
-      "prompt": "linen timber",
-      "id": "34860703",
-      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#AA9576",
-      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
+      "prompt": "still life",
+      "id": "8177774",
+      "url": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6403,
+      "height": 4269,
+      "color": "#5A4C3F",
+      "alt": "Classic still life featuring fruits and flowers on a table with soft lighting.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/fruits-and-flowers-on-table-8177774/"
       }
     },
     {
-      "prompt": "scandinavian livingroom",
-      "id": "36353421",
-      "url": "https://images.pexels.com/photos/36353421/pexels-photo-36353421.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36353421/pexels-photo-36353421.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2451,
-      "color": "#72685D",
-      "alt": "A stylish living room interior with modern furniture and large windows overlooking nature.",
+      "prompt": "handmade ceramics",
+      "id": "9304500",
+      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5539,
+      "height": 3694,
+      "color": "#A17E2D",
+      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
       "credit": {
-        "name": "The Ghazi",
-        "link": "https://www.pexels.com/@the-ghazi-2152398165",
-        "photoLink": "https://www.pexels.com/photo/cozy-modern-living-room-with-large-windows-36353421/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
       }
     },
     {
-      "prompt": "silent architecture",
-      "id": "16569537",
-      "url": "https://images.pexels.com/photos/16569537/pexels-photo-16569537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16569537/pexels-photo-16569537.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5792,
-      "height": 3864,
-      "color": "#A6A6A6",
-      "alt": "Black and white image of a modern building with clear sky background.",
+      "prompt": "linen wood",
+      "id": "6954767",
+      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4592,
+      "height": 3064,
+      "color": "#B5B3AB",
+      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
       "credit": {
-        "name": "Isaac Garcia",
-        "link": "https://www.pexels.com/@isaac-garcia-351057826",
-        "photoLink": "https://www.pexels.com/photo/clear-sky-over-building-in-black-and-white-16569537/"
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
       }
     },
     {
-      "prompt": "film grain texture",
-      "id": "6410895",
-      "url": "https://images.pexels.com/photos/6410895/pexels-photo-6410895.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6410895/pexels-photo-6410895.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 6944,
-      "height": 4272,
-      "color": "#56DB56",
-      "alt": "Atmospheric black and white film photo of a forest with light leaks creating a vintage grain effect.",
+      "prompt": "morning light",
+      "id": "7815314",
+      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1999,
+      "color": "#B79F7B",
+      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
       "credit": {
-        "name": "Kris Møklebust",
-        "link": "https://www.pexels.com/@moklebust",
-        "photoLink": "https://www.pexels.com/photo/film-photograph-of-trees-6410895/"
+        "name": "Ch  SAAD",
+        "link": "https://www.pexels.com/@ch-saad-3019259",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
       }
     }
   ]
