@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-31T02:00:18.526Z",
+  "generatedAt": "2026-10-31T09:16:26.191Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "622072",
-      "url": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2555,
-      "height": 1697,
-      "color": "#888886",
-      "alt": "Powerful ocean waves crash against rocky seashore at dusk, creating a dramatic seascape.",
-      "credit": {
-        "name": "Bella  White",
-        "link": "https://www.pexels.com/@bella-white-201200",
-        "photoLink": "https://www.pexels.com/photo/water-splashing-on-seashore-622072/"
-      }
-    },
-    {
-      "prompt": "rusty workshop tools",
-      "id": "11966615",
-      "url": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#412814",
-      "alt": "A nostalgic view of an old workshop, showcasing vintage tools and machinery against a timeworn backdrop.",
-      "credit": {
-        "name": "Barbaros Gültekin",
-        "link": "https://www.pexels.com/@barbarosgultekin",
-        "photoLink": "https://www.pexels.com/photo/old-and-rusty-hand-tools-11966615/"
-      }
-    },
-    {
-      "prompt": "grainy film texture",
-      "id": "10145752",
-      "url": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4484,
-      "height": 2989,
-      "color": "#535353",
-      "alt": "Close-up of a vintage 35mm film roll for color prints, emphasizing analog photography.",
-      "credit": {
-        "name": "hikmet a",
-        "link": "https://www.pexels.com/@hikmet-a-4166235",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-35mm-film-10145752/"
-      }
-    },
-    {
       "prompt": "soft morning light",
-      "id": "36770657",
-      "url": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6024,
-      "height": 4016,
-      "color": "#838B58",
-      "alt": "Close-up of dewy grass with a blurred, sunlit background, featuring artistic bokeh.",
+      "id": "37154097",
+      "url": "https://images.pexels.com/photos/37154097/pexels-photo-37154097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37154097/pexels-photo-37154097.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5520,
+      "height": 3680,
+      "color": "#787B72",
+      "alt": "Calm water surface with gentle ripples and sunlight reflections creating a serene mood.",
       "credit": {
-        "name": "Aneesh Thazhathethil",
-        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
-        "photoLink": "https://www.pexels.com/photo/dewy-grass-with-sunlit-background-36770657/"
+        "name": "Sóc Năng Động",
+        "link": "https://www.pexels.com/@soc-nang-d-ng-2150345854",
+        "photoLink": "https://www.pexels.com/photo/rippling-water-surface-in-natural-light-37154097/"
       }
     },
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet stone architecture",
+      "id": "9473062",
+      "url": "https://images.pexels.com/photos/9473062/pexels-photo-9473062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9473062/pexels-photo-9473062.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7167,
+      "height": 4358,
+      "color": "#4F5356",
+      "alt": "An imposing Gothic church exterior set against dramatic overcast skies, emphasizing historical architecture.",
+      "credit": {
+        "name": "David Yu",
+        "link": "https://www.pexels.com/@psad",
+        "photoLink": "https://www.pexels.com/photo/view-of-an-old-church-9473062/"
+      }
+    },
+    {
+      "prompt": "handcrafted ceramic vase",
+      "id": "31553230",
+      "url": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31553230/pexels-photo-31553230.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6240,
       "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "color": "#7B6760",
+      "alt": "Warm rustic still life with ceramic vases and dried flowers on a red mat indoors.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "name": "🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳",
+        "link": "https://www.pexels.com/@nguy-n-ti-n-th-nh-2150376175",
+        "photoLink": "https://www.pexels.com/photo/rustic-indoor-still-life-with-ceramic-vases-31553230/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "7533973",
-      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#C9B79F",
-      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
+      "prompt": "analogue film grain",
+      "id": "8181512",
+      "url": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2715,
+      "height": 1818,
+      "color": "#868686",
+      "alt": "A serene black and white river scene featuring a distant ferris wheel and lush vegetation.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
+        "name": "Andrey Karpov",
+        "link": "https://www.pexels.com/@andrey-karpov-3835451",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-film-photograph-of-a-river-in-a-park-and-a-ferris-wheel-in-distance-8181512/"
+      }
+    },
+    {
+      "prompt": "nordic interior design",
+      "id": "6633454",
+      "url": "https://images.pexels.com/photos/6633454/pexels-photo-6633454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6633454/pexels-photo-6633454.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#837265",
+      "alt": "A minimalist setup with a wooden chair, vase, and stack of books indoors.",
+      "credit": {
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/white-and-green-flowers-on-the-chair-6633454/"
+      }
+    },
+    {
+      "prompt": "coastal stormy sky",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "credit": {
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
       }
     }
   ]
