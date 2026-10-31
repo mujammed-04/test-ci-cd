@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-30T22:54:30.353Z",
+  "generatedAt": "2026-10-31T02:00:18.526Z",
   "photos": [
     {
+      "prompt": "stormy coastline",
+      "id": "622072",
+      "url": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/622072/pexels-photo-622072.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2555,
+      "height": 1697,
+      "color": "#888886",
+      "alt": "Powerful ocean waves crash against rocky seashore at dusk, creating a dramatic seascape.",
+      "credit": {
+        "name": "Bella  White",
+        "link": "https://www.pexels.com/@bella-white-201200",
+        "photoLink": "https://www.pexels.com/photo/water-splashing-on-seashore-622072/"
+      }
+    },
+    {
+      "prompt": "rusty workshop tools",
+      "id": "11966615",
+      "url": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#412814",
+      "alt": "A nostalgic view of an old workshop, showcasing vintage tools and machinery against a timeworn backdrop.",
+      "credit": {
+        "name": "Barbaros Gültekin",
+        "link": "https://www.pexels.com/@barbarosgultekin",
+        "photoLink": "https://www.pexels.com/photo/old-and-rusty-hand-tools-11966615/"
+      }
+    },
+    {
+      "prompt": "grainy film texture",
+      "id": "10145752",
+      "url": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10145752/pexels-photo-10145752.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4484,
+      "height": 2989,
+      "color": "#535353",
+      "alt": "Close-up of a vintage 35mm film roll for color prints, emphasizing analog photography.",
+      "credit": {
+        "name": "hikmet a",
+        "link": "https://www.pexels.com/@hikmet-a-4166235",
+        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-a-35mm-film-10145752/"
+      }
+    },
+    {
+      "prompt": "soft morning light",
+      "id": "36770657",
+      "url": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36770657/pexels-photo-36770657.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6024,
+      "height": 4016,
+      "color": "#838B58",
+      "alt": "Close-up of dewy grass with a blurred, sunlit background, featuring artistic bokeh.",
+      "credit": {
+        "name": "Aneesh Thazhathethil",
+        "link": "https://www.pexels.com/@aneesh-thazhathethil-2158504385",
+        "photoLink": "https://www.pexels.com/photo/dewy-grass-with-sunlit-background-36770657/"
+      }
+    },
+    {
+      "prompt": "handcrafted ceramic bowl",
+      "id": "28271468",
+      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#899591",
+      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "credit": {
+        "name": "Mathias Reding",
+        "link": "https://www.pexels.com/@matreding",
+        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+      }
+    },
+    {
       "prompt": "linen wood texture",
-      "id": "36346049",
-      "url": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36346049/pexels-photo-36346049.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5088,
-      "height": 3392,
-      "color": "#AE8E75",
-      "alt": "Detailed close-up of beige fabric texture, highlighting its woven pattern.",
+      "id": "7533973",
+      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2592,
+      "height": 1728,
+      "color": "#C9B79F",
+      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
       "credit": {
-        "name": "Jonathan Borba",
-        "link": "https://www.pexels.com/@jonathanborba",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-natural-fabric-texture-36346049/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "9654659",
-      "url": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9654659/pexels-photo-9654659.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5693,
-      "height": 3795,
-      "color": "#485333",
-      "alt": "Explore the intricate patterns of a green leaf vein through macro photography, showcasing nature's detailed design.",
-      "credit": {
-        "name": "Diana ✨",
-        "link": "https://www.pexels.com/@didsss",
-        "photoLink": "https://www.pexels.com/photo/a-close-up-shot-of-a-green-leaf-9654659/"
-      }
-    },
-    {
-      "prompt": "quiet architectural facade",
-      "id": "19013520",
-      "url": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19013520/pexels-photo-19013520.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6853,
-      "height": 4569,
-      "color": "#8A9599",
-      "alt": "A symmetrical facade with three wooden doors under a clear blue sky.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/facade-with-three-wooden-doors-19013520/"
-      }
-    },
-    {
-      "prompt": "urban brick texture",
-      "id": "14982351",
-      "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5878,
-      "height": 3919,
-      "color": "#C09376",
-      "alt": "Detailed image of a rough, multicolored brick wall texture for backgrounds or design.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/brick-on-a-wall-14982351/"
-      }
-    },
-    {
-      "prompt": "morning soft light",
-      "id": "39853337",
-      "url": "https://images.pexels.com/photos/39853337/pexels-photo-39853337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39853337/pexels-photo-39853337.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4128,
-      "height": 2752,
-      "color": "#1B2B2A",
-      "alt": "Serene woodland scene captured in early morning light with a misty, atmospheric mood.",
-      "credit": {
-        "name": "sanynjez gao",
-        "link": "https://www.pexels.com/@sanynjez-gao-2161888371",
-        "photoLink": "https://www.pexels.com/photo/tranquil-forest-at-dawn-with-misty-atmosphere-39853337/"
-      }
-    },
-    {
-      "prompt": "handmade ceramic bowl",
-      "id": "5566964",
-      "url": "https://images.pexels.com/photos/5566964/pexels-photo-5566964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5566964/pexels-photo-5566964.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6552,
-      "height": 4368,
-      "color": "#898D87",
-      "alt": "Minimalist ceramic tableware arrangement on textured fabric and white surface, highlighting elegant design.",
-      "credit": {
-        "name": "Anastasia  Shuraeva",
-        "link": "https://www.pexels.com/@anastasia-shuraeva",
-        "photoLink": "https://www.pexels.com/photo/ceramic-flatware-on-a-white-surface-5566964/"
+        "name": "amanda cavalcante",
+        "link": "https://www.pexels.com/@amandaaaaaaaa",
+        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
       }
     }
   ]
