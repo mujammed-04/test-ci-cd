@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-01T11:40:28.249Z",
+  "generatedAt": "2026-11-01T17:38:19.528Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34851017",
-      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#1B3448",
-      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
+      "prompt": "soft morning light",
+      "id": "35657809",
+      "url": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5129,
+      "height": 4037,
+      "color": "#413A32",
+      "alt": "A minimalist interior space with soft morning light casting shadows on a wall and a sweater hanging in a calm setting.",
       "credit": {
-        "name": "3D Render",
-        "link": "https://www.pexels.com/@3d-render-1058120333",
-        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
+        "name": "Yunuen Zempoaltecatl",
+        "link": "https://www.pexels.com/@yunuen-zempoaltecatl-2158880957",
+        "photoLink": "https://www.pexels.com/photo/moody-interior-with-soft-light-and-shadows-35657809/"
       }
     },
     {
-      "prompt": "coastal storm sky",
-      "id": "20422519",
-      "url": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#41494C",
-      "alt": "Dark storm clouds gather over a tranquil ocean, creating a moody seascape.",
+      "prompt": "stormy coastal sky",
+      "id": "15475993",
+      "url": "https://images.pexels.com/photos/15475993/pexels-photo-15475993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15475993/pexels-photo-15475993.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#878D9D",
+      "alt": "A moody seascape with dark clouds and waves crashing on a rocky shore.",
       "credit": {
-        "name": "Francesco Ungaro",
-        "link": "https://www.pexels.com/@francesco-ungaro",
-        "photoLink": "https://www.pexels.com/photo/storm-cloud-over-sea-coast-20422519/"
+        "name": "Katy Ramm",
+        "link": "https://www.pexels.com/@katy-ramm-2914800",
+        "photoLink": "https://www.pexels.com/photo/waves-on-sea-shore-15475993/"
       }
     },
     {
-      "prompt": "minimal desk setup",
-      "id": "4499765",
-      "url": "https://images.pexels.com/photos/4499765/pexels-photo-4499765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4499765/pexels-photo-4499765.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2602,
-      "height": 1920,
-      "color": "#222323",
-      "alt": "Stationery computer with keyboard and mouse on desk placed under white shelf in dark workspace with armchair near table in modern room",
+      "prompt": "gritty urban walls",
+      "id": "15760053",
+      "url": "https://images.pexels.com/photos/15760053/pexels-photo-15760053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/15760053/pexels-photo-15760053.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#8C9799",
+      "alt": "A gritty urban wall with numbers in an industrial city setting, conveying neglect.",
       "credit": {
-        "name": "Chelsey Horne",
-        "link": "https://www.pexels.com/@chelsey-horne-2961698",
-        "photoLink": "https://www.pexels.com/photo/computer-monitor-with-on-table-4499765/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/numbers-on-brick-wall-15760053/"
       }
     },
     {
-      "prompt": "workshop hand tools",
-      "id": "29226694",
-      "url": "https://images.pexels.com/photos/29226694/pexels-photo-29226694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29226694/pexels-photo-29226694.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "minimalist nordic living",
+      "id": "37173314",
+      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#C6C8C7",
+      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+      }
+    },
+    {
+      "prompt": "quiet stone facade",
+      "id": "17367440",
+      "url": "https://images.pexels.com/photos/17367440/pexels-photo-17367440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17367440/pexels-photo-17367440.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#505141",
-      "alt": "Detailed view of a hand operating a drill press in a workshop setting.",
-      "credit": {
-        "name": "Sergei Starostin",
-        "link": "https://www.pexels.com/@sejio402",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-drill-press-in-action-29226694/"
-      }
-    },
-    {
-      "prompt": "nordic interior light",
-      "id": "33054907",
-      "url": "https://images.pexels.com/photos/33054907/pexels-photo-33054907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33054907/pexels-photo-33054907.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3072,
-      "height": 2047,
-      "color": "#9F9F9F",
-      "alt": "Bright dining area in Kraków, featuring a wooden table, wicker lamp, and minimalist design.",
-      "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-dining-area-with-scandinavian-decor-33054907/"
-      }
-    },
-    {
-      "prompt": "quiet architectural facade",
-      "id": "16258922",
-      "url": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#856E5E",
-      "alt": "A beautiful church facade with intricate stonework and arched wooden doors under bright sunlight.",
+      "color": "#989B8A",
+      "alt": "Intricate vintage windows with green shutters in Vannes, showcasing classic Breton architectural style.",
       "credit": {
         "name": "Jan van der Wolf",
         "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/doors-to-church-16258922/"
+        "photoLink": "https://www.pexels.com/photo/windows-in-an-old-tenement-17367440/"
+      }
+    },
+    {
+      "prompt": "rusty workshop tools",
+      "id": "27348524",
+      "url": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27348524/pexels-photo-27348524.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#554F43",
+      "alt": "A rusty industrial lathe in a vintage workshop setting showcasing metalwork machinery.",
+      "credit": {
+        "name": "Marian  Cosnete",
+        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
+        "photoLink": "https://www.pexels.com/photo/a-machine-shop-with-a-lamp-and-a-machine-27348524/"
       }
     }
   ]
