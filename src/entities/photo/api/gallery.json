@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-31T23:05:05.958Z",
+  "generatedAt": "2026-11-01T04:26:01.447Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "analogue film grain",
+      "id": "9780172",
+      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#B99C96",
+      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
       }
     },
     {
-      "prompt": "coastal sky",
-      "id": "570991",
-      "url": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/570991/pexels-photo-570991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3862,
-      "height": 2895,
-      "color": "#594943",
-      "alt": "Capture of a dramatic sunset over a calm ocean with dark, stormy clouds above, creating a stunning seascape.",
+      "prompt": "minimal desk setup",
+      "id": "19513471",
+      "url": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3166,
+      "height": 2100,
+      "color": "#A19D9A",
+      "alt": "Clean and modern workspace featuring keyboard, smartphone, and wireless mouse with minimalistic design.",
       "credit": {
-        "name": "Josh Sorenson",
-        "link": "https://www.pexels.com/@joshsorenson",
-        "photoLink": "https://www.pexels.com/photo/cumulonimbus-cloud-above-sea-570991/"
+        "name": "Jakub Zerdzicki",
+        "link": "https://www.pexels.com/@jakubzerdzicki",
+        "photoLink": "https://www.pexels.com/photo/modern-desk-with-wireless-peripherals-19513471/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "8177774",
-      "url": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6403,
-      "height": 4269,
-      "color": "#5A4C3F",
-      "alt": "Classic still life featuring fruits and flowers on a table with soft lighting.",
+      "prompt": "morning light rays",
+      "id": "13975",
+      "url": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3872,
+      "height": 2592,
+      "color": "#443A17",
+      "alt": "A serene backyard captured at sunrise with lens flare through trees.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/fruits-and-flowers-on-table-8177774/"
+        "name": "Anders Kristensen",
+        "link": "https://www.pexels.com/@andersbk",
+        "photoLink": "https://www.pexels.com/photo/green-grass-field-13975/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "9304500",
-      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5539,
-      "height": 3694,
-      "color": "#A17E2D",
-      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
+      "prompt": "urban concrete texture",
+      "id": "2455119",
+      "url": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#7B7C7D",
+      "alt": "Close-up of a textured grey concrete wall with a metal pipeline along the bottom edge.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
+        "name": "𝗛&𝗖𝗢 　",
+        "link": "https://www.pexels.com/@hngstrm",
+        "photoLink": "https://www.pexels.com/photo/gray-surface-2455119/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "6954767",
-      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4592,
-      "height": 3064,
-      "color": "#B5B3AB",
-      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
+      "prompt": "linen wood surface",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "7815314",
-      "url": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7815314/pexels-photo-7815314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 1999,
-      "color": "#B79F7B",
-      "alt": "Close-up of dew-covered grass backlit by a warm sunrise, creating a serene natural scene.",
+      "prompt": "handmade ceramic bowl",
+      "id": "31000471",
+      "url": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3999,
+      "height": 2666,
+      "color": "#A4A9AD",
+      "alt": "Intricately designed blue and white ceramic plate with floral patterns, perfect for traditional tableware.",
       "credit": {
-        "name": "Ch  SAAD",
-        "link": "https://www.pexels.com/@ch-saad-3019259",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-grass-with-raindrops-at-sunset-7815314/"
+        "name": "Markus Winkler",
+        "link": "https://www.pexels.com/@markus-winkler-1430818",
+        "photoLink": "https://www.pexels.com/photo/handcrafted-blue-and-white-ornate-ceramic-plate-31000471/"
       }
     }
   ]
