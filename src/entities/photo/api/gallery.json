@@ -1,68 +1,8 @@
 {
-  "generatedAt": "2026-11-01T04:26:01.447Z",
+  "generatedAt": "2026-11-01T11:40:28.249Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
-      }
-    },
-    {
-      "prompt": "minimal desk setup",
-      "id": "19513471",
-      "url": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19513471/pexels-photo-19513471.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3166,
-      "height": 2100,
-      "color": "#A19D9A",
-      "alt": "Clean and modern workspace featuring keyboard, smartphone, and wireless mouse with minimalistic design.",
-      "credit": {
-        "name": "Jakub Zerdzicki",
-        "link": "https://www.pexels.com/@jakubzerdzicki",
-        "photoLink": "https://www.pexels.com/photo/modern-desk-with-wireless-peripherals-19513471/"
-      }
-    },
-    {
-      "prompt": "morning light rays",
-      "id": "13975",
-      "url": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3872,
-      "height": 2592,
-      "color": "#443A17",
-      "alt": "A serene backyard captured at sunrise with lens flare through trees.",
-      "credit": {
-        "name": "Anders Kristensen",
-        "link": "https://www.pexels.com/@andersbk",
-        "photoLink": "https://www.pexels.com/photo/green-grass-field-13975/"
-      }
-    },
-    {
-      "prompt": "urban concrete texture",
-      "id": "2455119",
-      "url": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2455119/pexels-photo-2455119.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#7B7C7D",
-      "alt": "Close-up of a textured grey concrete wall with a metal pipeline along the bottom edge.",
-      "credit": {
-        "name": "𝗛&𝗖𝗢 　",
-        "link": "https://www.pexels.com/@hngstrm",
-        "photoLink": "https://www.pexels.com/photo/gray-surface-2455119/"
-      }
-    },
-    {
-      "prompt": "linen wood surface",
+      "prompt": "linen wood texture",
       "id": "34851017",
       "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -77,18 +17,78 @@
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "31000471",
-      "url": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31000471/pexels-photo-31000471.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3999,
-      "height": 2666,
-      "color": "#A4A9AD",
-      "alt": "Intricately designed blue and white ceramic plate with floral patterns, perfect for traditional tableware.",
+      "prompt": "coastal storm sky",
+      "id": "20422519",
+      "url": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20422519/pexels-photo-20422519.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#41494C",
+      "alt": "Dark storm clouds gather over a tranquil ocean, creating a moody seascape.",
       "credit": {
-        "name": "Markus Winkler",
-        "link": "https://www.pexels.com/@markus-winkler-1430818",
-        "photoLink": "https://www.pexels.com/photo/handcrafted-blue-and-white-ornate-ceramic-plate-31000471/"
+        "name": "Francesco Ungaro",
+        "link": "https://www.pexels.com/@francesco-ungaro",
+        "photoLink": "https://www.pexels.com/photo/storm-cloud-over-sea-coast-20422519/"
+      }
+    },
+    {
+      "prompt": "minimal desk setup",
+      "id": "4499765",
+      "url": "https://images.pexels.com/photos/4499765/pexels-photo-4499765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4499765/pexels-photo-4499765.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2602,
+      "height": 1920,
+      "color": "#222323",
+      "alt": "Stationery computer with keyboard and mouse on desk placed under white shelf in dark workspace with armchair near table in modern room",
+      "credit": {
+        "name": "Chelsey Horne",
+        "link": "https://www.pexels.com/@chelsey-horne-2961698",
+        "photoLink": "https://www.pexels.com/photo/computer-monitor-with-on-table-4499765/"
+      }
+    },
+    {
+      "prompt": "workshop hand tools",
+      "id": "29226694",
+      "url": "https://images.pexels.com/photos/29226694/pexels-photo-29226694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29226694/pexels-photo-29226694.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#505141",
+      "alt": "Detailed view of a hand operating a drill press in a workshop setting.",
+      "credit": {
+        "name": "Sergei Starostin",
+        "link": "https://www.pexels.com/@sejio402",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-drill-press-in-action-29226694/"
+      }
+    },
+    {
+      "prompt": "nordic interior light",
+      "id": "33054907",
+      "url": "https://images.pexels.com/photos/33054907/pexels-photo-33054907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33054907/pexels-photo-33054907.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3072,
+      "height": 2047,
+      "color": "#9F9F9F",
+      "alt": "Bright dining area in Kraków, featuring a wooden table, wicker lamp, and minimalist design.",
+      "credit": {
+        "name": "Mateusz Pielech",
+        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
+        "photoLink": "https://www.pexels.com/photo/modern-dining-area-with-scandinavian-decor-33054907/"
+      }
+    },
+    {
+      "prompt": "quiet architectural facade",
+      "id": "16258922",
+      "url": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16258922/pexels-photo-16258922.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#856E5E",
+      "alt": "A beautiful church facade with intricate stonework and arched wooden doors under bright sunlight.",
+      "credit": {
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/doors-to-church-16258922/"
       }
     }
   ]
