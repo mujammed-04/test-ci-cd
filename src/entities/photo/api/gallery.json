@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-02T01:15:46.195Z",
+  "generatedAt": "2026-11-02T08:52:46.258Z",
   "photos": [
     {
-      "prompt": "Nordic interior design",
-      "id": "39134614",
-      "url": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39134614/pexels-photo-39134614.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5328,
-      "height": 4000,
-      "color": "#75706A",
-      "alt": "Stylish modern living room featuring a beige sofa with decorative cushions and indoor plants.",
+      "prompt": "Morning light",
+      "id": "8656144",
+      "url": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8656144/pexels-photo-8656144.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#474842",
+      "alt": "Sunlight filtering through trees in a serene forest setting.",
       "credit": {
-        "name": "hank yu",
-        "link": "https://www.pexels.com/@hank-yu-2163709186",
-        "photoLink": "https://www.pexels.com/photo/modern-minimalist-living-room-with-cozy-sofa-39134614/"
+        "name": "Sudipta Mondal",
+        "link": "https://www.pexels.com/@sudipta-mondal-74513527",
+        "photoLink": "https://www.pexels.com/photo/trees-and-green-grass-during-morning-8656144/"
       }
     },
     {
-      "prompt": "Urban concrete wall",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
+      "prompt": "Nordic interiors",
+      "id": "39912945",
+      "url": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39912945/pexels-photo-39912945.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#825A41",
+      "alt": "Explore the elegance of a modern indoor sauna featuring a Huum electric heater and sleek wooden panels.",
       "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/modern-indoor-sauna-design-with-huum-heater-39912945/"
       }
     },
     {
-      "prompt": "Vintage still life",
-      "id": "10874297",
-      "url": "https://images.pexels.com/photos/10874297/pexels-photo-10874297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10874297/pexels-photo-10874297.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#AC937F",
-      "alt": "Artistic vintage tea cup surrounded by roses and cookies, perfect for cozy moments.",
+      "prompt": "Quiet architecture",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
       "credit": {
-        "name": "Ylanite Koppens",
-        "link": "https://www.pexels.com/@nietjuhart",
-        "photoLink": "https://www.pexels.com/photo/high-angle-shot-of-a-cup-of-coffee-and-roses-10874297/"
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "20539730",
-      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#8B8E95",
-      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
+      "prompt": "Linen wood",
+      "id": "34860703",
+      "url": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860703/pexels-photo-34860703.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#AA9576",
+      "alt": "A close-up view of beige fabric with subtle texture and waves, ideal for design purposes.",
       "credit": {
-        "name": "Nguyen Huy",
-        "link": "https://www.pexels.com/@ngochuy",
-        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-beige-textured-fabric-background-34860703/"
       }
     },
     {
-      "prompt": "Handmade ceramic bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
+      "prompt": "Urban textures",
+      "id": "5443369",
+      "url": "https://images.pexels.com/photos/5443369/pexels-photo-5443369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5443369/pexels-photo-5443369.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6960,
+      "height": 4640,
+      "color": "#797F7D",
+      "alt": "A textured wall with layers of torn and weathered paper for artistic backgrounds.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
+        "name": "max laurell",
+        "link": "https://www.pexels.com/@max-laurell-1958001",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-5443369/"
       }
     },
     {
-      "prompt": "Workshop tool set",
-      "id": "4140923",
-      "url": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5372,
-      "height": 3581,
-      "color": "#785C58",
-      "alt": "Top view collection of assorted instruments for printing machine placed on table in light typography workshop",
+      "prompt": "Still life",
+      "id": "19135397",
+      "url": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19135397/pexels-photo-19135397.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3260,
+      "height": 2518,
+      "color": "#A4A488",
+      "alt": "Yellow apples with bark casting a playful cat shadow in warm sunlight.",
       "credit": {
-        "name": "Erik Mclean",
-        "link": "https://www.pexels.com/@introspectivedsgn",
-        "photoLink": "https://www.pexels.com/photo/set-of-professional-tools-for-printing-press-4140923/"
+        "name": "Dagmara Dombrovska",
+        "link": "https://www.pexels.com/@dagmara-dombrovska-22732579",
+        "photoLink": "https://www.pexels.com/photo/two-yellow-apples-and-a-piece-of-bark-on-the-table-19135397/"
       }
     }
   ]
