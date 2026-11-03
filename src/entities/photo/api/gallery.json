@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-02T19:10:56.858Z",
+  "generatedAt": "2026-11-03T01:59:40.188Z",
   "photos": [
     {
-      "prompt": "handcrafted ceramic bowl",
-      "id": "9304555",
-      "url": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304555/pexels-photo-9304555.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5509,
-      "height": 3672,
-      "color": "#AF9073",
-      "alt": "Close-up of hands shaping a ceramic bowl on a pottery wheel, showcasing craftsmanship.",
+      "prompt": "vintage workshop tools",
+      "id": "30335372",
+      "url": "https://images.pexels.com/photos/30335372/pexels-photo-30335372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335372/pexels-photo-30335372.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#3B4039",
+      "alt": "Old industrial machines in an abandoned workshop with vintage tools and equipment.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/woman-shaping-a-clay-bowl-on-a-potters-lathe-9304555/"
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/vintage-industrial-machines-in-abandoned-workshop-30335372/"
       }
     },
     {
-      "prompt": "linen draped table",
-      "id": "5706888",
-      "url": "https://images.pexels.com/photos/5706888/pexels-photo-5706888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5706888/pexels-photo-5706888.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#A8A8A8",
-      "alt": "Close-up of soft, white bedding fabric draped naturally in a minimalist style.",
+      "prompt": "quiet modern architecture",
+      "id": "19128992",
+      "url": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19128992/pexels-photo-19128992.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#696F61",
+      "alt": "A modern minimalist building facade with glass windows and clear skies.",
       "credit": {
-        "name": "Andrei C",
-        "link": "https://www.pexels.com/@andrei",
-        "photoLink": "https://www.pexels.com/photo/fresh-white-sheets-on-bed-5706888/"
+        "name": "Mengtry  Lorn",
+        "link": "https://www.pexels.com/@mengtry-lorn-782826812",
+        "photoLink": "https://www.pexels.com/photo/clear-sky-over-white-building-19128992/"
       }
     },
     {
-      "prompt": "weathered wooden plank",
-      "id": "131664",
-      "url": "https://images.pexels.com/photos/131664/pexels-photo-131664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/131664/pexels-photo-131664.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#C5AA80",
-      "alt": "High-resolution image of rustic wooden planks, perfect for background use.",
+      "prompt": "morning light interior",
+      "id": "8358607",
+      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5329,
+      "height": 4000,
+      "color": "#807863",
+      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
       "credit": {
-        "name": "FWStudio",
-        "link": "https://www.pexels.com/@fwstudio-33348",
-        "photoLink": "https://www.pexels.com/photo/brown-wooden-plank-131664/"
+        "name": "Kübra Arslaner",
+        "link": "https://www.pexels.com/@nediyodukenson",
+        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
+      }
+    },
+    {
+      "prompt": "still life arrangement",
+      "id": "10525839",
+      "url": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10525839/pexels-photo-10525839.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5658,
+      "height": 3772,
+      "color": "#766C6B",
+      "alt": "Artistic still life photo of pears, stones, and branches with a minimalist design.",
+      "credit": {
+        "name": "Ron Lach",
+        "link": "https://www.pexels.com/@ron-lach",
+        "photoLink": "https://www.pexels.com/photo/pears-near-stones-and-paper-10525839/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
+      "id": "9941176",
+      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1698,
+      "color": "#41494C",
+      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
+        "name": "Karina Guseva",
+        "link": "https://www.pexels.com/@karina-guseva-101151339",
+        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "14920358",
-      "url": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5978,
-      "height": 3991,
-      "color": "#445660",
-      "alt": "Moody seascape with storm clouds looming over rocky coastline and driftwood on sandy beach.",
+      "prompt": "minimal desk setup",
+      "id": "8961409",
+      "url": "https://images.pexels.com/photos/8961409/pexels-photo-8961409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8961409/pexels-photo-8961409.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5392,
+      "height": 3595,
+      "color": "#999999",
+      "alt": "A modern minimalistic desk setup with a laptop, ceramic cup, and candle for a serene workspace.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/storm-clouds-gathering-over-the-sea-14920358/"
-      }
-    },
-    {
-      "prompt": "morning sunrise light",
-      "id": "13975",
-      "url": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13975/pexels-photo-13975.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3872,
-      "height": 2592,
-      "color": "#443A17",
-      "alt": "A serene backyard captured at sunrise with lens flare through trees.",
-      "credit": {
-        "name": "Anders Kristensen",
-        "link": "https://www.pexels.com/@andersbk",
-        "photoLink": "https://www.pexels.com/photo/green-grass-field-13975/"
+        "name": "TRAVEL BLOG",
+        "link": "https://www.pexels.com/@travel-blog-26954066",
+        "photoLink": "https://www.pexels.com/photo/silver-and-black-laptop-beside-white-cup-on-white-table-8961409/"
       }
     }
   ]
