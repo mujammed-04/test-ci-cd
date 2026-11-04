@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-04T10:28:22.199Z",
+  "generatedAt": "2026-11-04T18:27:40.031Z",
   "photos": [
     {
-      "prompt": "workshop tools",
-      "id": "3844516",
-      "url": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3844516/pexels-photo-3844516.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7680,
-      "height": 5120,
-      "color": "#6A6052",
-      "alt": "From above of vise fixing at workbench among different tools in workshop",
+      "prompt": "vintage workshop tools",
+      "id": "30335395",
+      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#302E22",
+      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
       "credit": {
-        "name": "Andrea Piacquadio",
-        "link": "https://www.pexels.com/@olly",
-        "photoLink": "https://www.pexels.com/photo/metal-vise-and-assorted-tools-in-workshop-3844516/"
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
       }
     },
     {
-      "prompt": "nordic interiors",
-      "id": "37173314",
-      "url": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173314/pexels-photo-37173314.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#C6C8C7",
-      "alt": "Stylish Scandinavian living room in Espoo, Finland, featuring a grey sofa, houseplants, and minimalist decor.",
+      "prompt": "linen wood textures",
+      "id": "7533973",
+      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2592,
+      "height": 1728,
+      "color": "#C9B79F",
+      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-grey-sofa-37173314/"
+        "name": "amanda cavalcante",
+        "link": "https://www.pexels.com/@amandaaaaaaaa",
+        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "1590078",
-      "url": "https://images.pexels.com/photos/1590078/pexels-photo-1590078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1590078/pexels-photo-1590078.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3330,
-      "height": 2220,
-      "color": "#685135",
-      "alt": "Warm interior scene with sunlight streaming through a window and curtain.",
+      "prompt": "botanical leaf detail",
+      "id": "35993620",
+      "url": "https://images.pexels.com/photos/35993620/pexels-photo-35993620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35993620/pexels-photo-35993620.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4288,
+      "height": 2848,
+      "color": "#803E04",
+      "alt": "Vibrant macro shot of a plant leaf showcasing its rich colors and textures.",
       "credit": {
-        "name": "Dương Nhân",
-        "link": "https://www.pexels.com/@d-ng-nhan-324384",
-        "photoLink": "https://www.pexels.com/photo/brown-and-white-window-curtain-1590078/"
+        "name": "wal_ 172619",
+        "link": "https://www.pexels.com/@wal_-172619-2156618639",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-colorful-plant-leaf-texture-35993620/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "39338444",
-      "url": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39338444/pexels-photo-39338444.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2560,
-      "color": "#9A9591",
-      "alt": "An elegant hotel bedroom with crisp white linens and modern fixtures.",
+      "prompt": "nordic interior design",
+      "id": "6523299",
+      "url": "https://images.pexels.com/photos/6523299/pexels-photo-6523299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6523299/pexels-photo-6523299.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4640,
+      "height": 3093,
+      "color": "#BEB8AE",
+      "alt": "Wooden chairs at round table placed between couch and kitchen counter with white cabinet in modern light apartment with window",
       "credit": {
-        "name": "Mateusz Pielech",
-        "link": "https://www.pexels.com/@mateusz-pielech-1032276948",
-        "photoLink": "https://www.pexels.com/photo/modern-hotel-bedroom-with-sleek-minimalist-design-39338444/"
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/table-with-chairs-in-apartment-6523299/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "prompt": "minimalist desk setup",
+      "id": "28228014",
+      "url": "https://images.pexels.com/photos/28228014/pexels-photo-28228014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28228014/pexels-photo-28228014.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5016,
+      "height": 3344,
+      "color": "#7D796E",
+      "alt": "Sleek office desk with wireless keyboard, mouse, and modern decor, perfect for tech enthusiasts.",
       "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+        "name": "minhphuc .workspace",
+        "link": "https://www.pexels.com/@mintworkspace",
+        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-keyboard-and-mouse-on-it-28228014/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "7055",
-      "url": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055/desk-computer-imac-home.jpg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#9F9C99",
-      "alt": "A clean and modern home office workspace featuring an iMac, keyboard, and magic mouse on a minimalist desk.",
+      "prompt": "urban concrete texture",
+      "id": "3964832",
+      "url": "https://images.pexels.com/photos/3964832/pexels-photo-3964832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3964832/pexels-photo-3964832.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#9D9390",
+      "alt": "Close-up of a rough, weathered concrete wall with visible texture and marks.",
       "credit": {
-        "name": "Startup Stock Photos",
-        "link": "https://www.pexels.com/@startup-stock-photos",
-        "photoLink": "https://www.pexels.com/photo/silver-imac-set-on-table-7055/"
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/brown-and-gray-concrete-floor-3964832/"
       }
     }
   ]
