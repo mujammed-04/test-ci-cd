@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-05T00:09:09.615Z",
+  "generatedAt": "2026-11-05T07:42:20.975Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "4884116",
-      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#B1B6B7",
-      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
-      "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
-      }
-    },
-    {
-      "prompt": "still life",
-      "id": "12687108",
-      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Rustic workshop tools",
+      "id": "34611566",
+      "url": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#853F33",
-      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
+      "color": "#554025",
+      "alt": "Close-up of vintage woodworking tools on a wooden workbench, showcasing craftsmanship.",
       "credit": {
-        "name": "Yusra  Mizgin Günay",
-        "link": "https://www.pexels.com/@yusramizgingunay",
-        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
+        "name": "Carel Voorhorst",
+        "link": "https://www.pexels.com/@carel-voorhorst-854238",
+        "photoLink": "https://www.pexels.com/photo/vintage-workshop-tools-on-wooden-bench-34611566/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "209724",
-      "url": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Handcrafted ceramic vase",
+      "id": "36312202",
+      "url": "https://images.pexels.com/photos/36312202/pexels-photo-36312202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36312202/pexels-photo-36312202.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3896,
+      "height": 3000,
+      "color": "#867B65",
+      "alt": "Classic white ceramic vase with rustic floral design on wooden shelf against a pastel wall.",
+      "credit": {
+        "name": "Michael Vest",
+        "link": "https://www.pexels.com/@michael-vest-2158818556",
+        "photoLink": "https://www.pexels.com/photo/vintage-ceramic-vase-on-wooden-shelf-36312202/"
+      }
+    },
+    {
+      "prompt": "Coastal foggy morning",
+      "id": "28954018",
+      "url": "https://images.pexels.com/photos/28954018/pexels-photo-28954018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28954018/pexels-photo-28954018.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3030,
+      "height": 2447,
+      "color": "#9B9FA8",
+      "alt": "Misty view of a rocky jetty extending into the ocean in Galveston, TX.",
+      "credit": {
+        "name": "Lloyd Bridges",
+        "link": "https://www.pexels.com/@lloyd-bridges-1448697156",
+        "photoLink": "https://www.pexels.com/photo/foggy-ocean-jetty-in-galveston-texas-28954018/"
+      }
+    },
+    {
+      "prompt": "Botanical leaf closeup",
+      "id": "7718431",
+      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#8C5235",
+      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
+      }
+    },
+    {
+      "prompt": "Morning light studio",
+      "id": "6229183",
+      "url": "https://images.pexels.com/photos/6229183/pexels-photo-6229183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6229183/pexels-photo-6229183.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#757375",
+      "alt": "An artistic capture of legs and feet of a contemporary dance duo near a sunlit window.",
+      "credit": {
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/sunny-fashion-man-couple-6229183/"
+      }
+    },
+    {
+      "prompt": "Still life fruit",
+      "id": "33729670",
+      "url": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#817166",
-      "alt": "Classic vintage camera on a rustic wooden surface, evoking nostalgia and history.",
+      "color": "#24201F",
+      "alt": "Colorful grapes and apple in a blue bowl on a black backdrop, perfect for food photography.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/black-milc-on-brown-panel-209724/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "5953786",
-      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5778,
-      "height": 4000,
-      "color": "#A29F9A",
-      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
-      "credit": {
-        "name": "Claudia Schmalz",
-        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
-        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
-      "id": "40751967",
-      "url": "https://images.pexels.com/photos/40751967/pexels-photo-40751967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40751967/pexels-photo-40751967.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 9504,
-      "height": 6336,
-      "color": "#A37E64",
-      "alt": "Artisan crafting pottery on a wheel with various tools in view, showcasing the craft of ceramics.",
-      "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/pottery-making-on-wheel-artisan-at-work-40751967/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "12175481",
-      "url": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 3024,
-      "color": "#D0D1D3",
-      "alt": "Low angle view of modern white building with pillars in snowy weather, showcasing minimalist design.",
-      "credit": {
-        "name": "alexander ermakov",
-        "link": "https://www.pexels.com/@ermakov",
-        "photoLink": "https://www.pexels.com/photo/concrete-building-with-pillars-12175481/"
+        "name": "Rafael Minguet Delgado",
+        "link": "https://www.pexels.com/@thales13",
+        "photoLink": "https://www.pexels.com/photo/vibrant-bowl-of-grapes-and-apple-on-black-background-33729670/"
       }
     }
   ]
