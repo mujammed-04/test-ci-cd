@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-05T16:08:19.196Z",
+  "generatedAt": "2026-11-05T22:32:08.569Z",
   "photos": [
     {
-      "prompt": "weathered wooden desk",
-      "id": "13075330",
-      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3956,
-      "height": 2225,
-      "color": "#5C5451",
-      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
+      "prompt": "Nordic living room",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "Pușcaș Adryan",
-        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
-        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
       }
     },
     {
-      "prompt": "soft linen drape",
-      "id": "4641864",
-      "url": "https://images.pexels.com/photos/4641864/pexels-photo-4641864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4641864/pexels-photo-4641864.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#BEBAB3",
-      "alt": "Soft white fabric adorned with delicate flowers, bathed in gentle sunlight.",
+      "prompt": "Botanical leaf closeup",
+      "id": "7718272",
+      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#314D22",
+      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
       "credit": {
-        "name": "Nataliya Vaitkevich",
-        "link": "https://www.pexels.com/@n-voitkevich",
-        "photoLink": "https://www.pexels.com/photo/white-veil-on-a-bed-4641864/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
       }
     },
     {
-      "prompt": "bright morning light",
-      "id": "31373204",
-      "url": "https://images.pexels.com/photos/31373204/pexels-photo-31373204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31373204/pexels-photo-31373204.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2450,
-      "height": 1633,
-      "color": "#7C5C35",
-      "alt": "Warm sunlight streaming through curtains onto a cozy, unmade bed in a tranquil room.",
+      "prompt": "Coastal storm clouds",
+      "id": "9764167",
+      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4854,
+      "height": 2731,
+      "color": "#565D67",
+      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
       "credit": {
-        "name": "Alina Degli",
-        "link": "https://www.pexels.com/@alinadegli",
-        "photoLink": "https://www.pexels.com/photo/sunlit-bedroom-with-soft-morning-light-31373204/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
       }
     },
     {
-      "prompt": "rusty workshop tools",
-      "id": "27348529",
-      "url": "https://images.pexels.com/photos/27348529/pexels-photo-27348529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27348529/pexels-photo-27348529.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#5C584D",
-      "alt": "Rustic industrial workshop filled with vintage machinery, tools, and metal parts, set in a dimly lit room.",
+      "prompt": "Urban brick wall",
+      "id": "14982351",
+      "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5878,
+      "height": 3919,
+      "color": "#C09376",
+      "alt": "Detailed image of a rough, multicolored brick wall texture for backgrounds or design.",
       "credit": {
-        "name": "Marian  Cosnete",
-        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
-        "photoLink": "https://www.pexels.com/photo/a-room-with-a-lot-of-tools-and-machinery-27348529/"
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/brick-on-a-wall-14982351/"
       }
     },
     {
-      "prompt": "urban brick texture",
-      "id": "9756559",
-      "url": "https://images.pexels.com/photos/9756559/pexels-photo-9756559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9756559/pexels-photo-9756559.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#83726B",
-      "alt": "Detailed close-up of a weathered brick wall showcasing texture and earthy tones.",
+      "prompt": "Linen wood table",
+      "id": "6962755",
+      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6201,
+      "height": 4134,
+      "color": "#B0A79F",
+      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
       "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-9756559/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
       }
     },
     {
-      "prompt": "minimalist still life",
-      "id": "30977542",
-      "url": "https://images.pexels.com/photos/30977542/pexels-photo-30977542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30977542/pexels-photo-30977542.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4272,
-      "height": 2848,
-      "color": "#D4D2C6",
-      "alt": "Artistic minimalist photo featuring a stone and stick on a clean background.",
+      "prompt": "Workshop hand tools",
+      "id": "10824760",
+      "url": "https://images.pexels.com/photos/10824760/pexels-photo-10824760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10824760/pexels-photo-10824760.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4424,
+      "height": 2318,
+      "color": "#5F3F40",
+      "alt": "Hands working on industrial machinery with precision tools, showcasing engineering skills.",
       "credit": {
-        "name": "Karen Laårk Boshoff",
-        "link": "https://www.pexels.com/@laarkstudio",
-        "photoLink": "https://www.pexels.com/photo/abstract-minimalist-composition-with-stone-and-stick-30977542/"
+        "name": "Daniel Smyth",
+        "link": "https://www.pexels.com/@daniel-smyth-83914874",
+        "photoLink": "https://www.pexels.com/photo/person-working-at-tapping-machine-10824760/"
       }
     }
   ]
