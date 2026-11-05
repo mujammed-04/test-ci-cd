@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-05T07:42:20.975Z",
+  "generatedAt": "2026-11-05T16:08:19.196Z",
   "photos": [
     {
-      "prompt": "Rustic workshop tools",
-      "id": "34611566",
-      "url": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34611566/pexels-photo-34611566.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#554025",
-      "alt": "Close-up of vintage woodworking tools on a wooden workbench, showcasing craftsmanship.",
+      "prompt": "weathered wooden desk",
+      "id": "13075330",
+      "url": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13075330/pexels-photo-13075330.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3956,
+      "height": 2225,
+      "color": "#5C5451",
+      "alt": "Sleek and stylish home office with wooden furniture and glass desk.",
       "credit": {
-        "name": "Carel Voorhorst",
-        "link": "https://www.pexels.com/@carel-voorhorst-854238",
-        "photoLink": "https://www.pexels.com/photo/vintage-workshop-tools-on-wooden-bench-34611566/"
+        "name": "Pușcaș Adryan",
+        "link": "https://www.pexels.com/@pu-ca-adryan-163345030",
+        "photoLink": "https://www.pexels.com/photo/futuristic-desk-with-glass-top-in-room-13075330/"
       }
     },
     {
-      "prompt": "Handcrafted ceramic vase",
-      "id": "36312202",
-      "url": "https://images.pexels.com/photos/36312202/pexels-photo-36312202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36312202/pexels-photo-36312202.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3896,
-      "height": 3000,
-      "color": "#867B65",
-      "alt": "Classic white ceramic vase with rustic floral design on wooden shelf against a pastel wall.",
-      "credit": {
-        "name": "Michael Vest",
-        "link": "https://www.pexels.com/@michael-vest-2158818556",
-        "photoLink": "https://www.pexels.com/photo/vintage-ceramic-vase-on-wooden-shelf-36312202/"
-      }
-    },
-    {
-      "prompt": "Coastal foggy morning",
-      "id": "28954018",
-      "url": "https://images.pexels.com/photos/28954018/pexels-photo-28954018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28954018/pexels-photo-28954018.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3030,
-      "height": 2447,
-      "color": "#9B9FA8",
-      "alt": "Misty view of a rocky jetty extending into the ocean in Galveston, TX.",
-      "credit": {
-        "name": "Lloyd Bridges",
-        "link": "https://www.pexels.com/@lloyd-bridges-1448697156",
-        "photoLink": "https://www.pexels.com/photo/foggy-ocean-jetty-in-galveston-texas-28954018/"
-      }
-    },
-    {
-      "prompt": "Botanical leaf closeup",
-      "id": "7718431",
-      "url": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718431/pexels-photo-7718431.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#8C5235",
-      "alt": "Close-up view capturing intricate vein patterns and texture on a vibrant leaf surface.",
-      "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718431/"
-      }
-    },
-    {
-      "prompt": "Morning light studio",
-      "id": "6229183",
-      "url": "https://images.pexels.com/photos/6229183/pexels-photo-6229183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6229183/pexels-photo-6229183.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "soft linen drape",
+      "id": "4641864",
+      "url": "https://images.pexels.com/photos/4641864/pexels-photo-4641864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4641864/pexels-photo-4641864.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6240,
       "height": 4160,
-      "color": "#757375",
-      "alt": "An artistic capture of legs and feet of a contemporary dance duo near a sunlit window.",
+      "color": "#BEBAB3",
+      "alt": "Soft white fabric adorned with delicate flowers, bathed in gentle sunlight.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/sunny-fashion-man-couple-6229183/"
+        "name": "Nataliya Vaitkevich",
+        "link": "https://www.pexels.com/@n-voitkevich",
+        "photoLink": "https://www.pexels.com/photo/white-veil-on-a-bed-4641864/"
       }
     },
     {
-      "prompt": "Still life fruit",
-      "id": "33729670",
-      "url": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33729670/pexels-photo-33729670.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#24201F",
-      "alt": "Colorful grapes and apple in a blue bowl on a black backdrop, perfect for food photography.",
+      "prompt": "bright morning light",
+      "id": "31373204",
+      "url": "https://images.pexels.com/photos/31373204/pexels-photo-31373204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31373204/pexels-photo-31373204.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2450,
+      "height": 1633,
+      "color": "#7C5C35",
+      "alt": "Warm sunlight streaming through curtains onto a cozy, unmade bed in a tranquil room.",
       "credit": {
-        "name": "Rafael Minguet Delgado",
-        "link": "https://www.pexels.com/@thales13",
-        "photoLink": "https://www.pexels.com/photo/vibrant-bowl-of-grapes-and-apple-on-black-background-33729670/"
+        "name": "Alina Degli",
+        "link": "https://www.pexels.com/@alinadegli",
+        "photoLink": "https://www.pexels.com/photo/sunlit-bedroom-with-soft-morning-light-31373204/"
+      }
+    },
+    {
+      "prompt": "rusty workshop tools",
+      "id": "27348529",
+      "url": "https://images.pexels.com/photos/27348529/pexels-photo-27348529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27348529/pexels-photo-27348529.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#5C584D",
+      "alt": "Rustic industrial workshop filled with vintage machinery, tools, and metal parts, set in a dimly lit room.",
+      "credit": {
+        "name": "Marian  Cosnete",
+        "link": "https://www.pexels.com/@marian-cosnete-1556886778",
+        "photoLink": "https://www.pexels.com/photo/a-room-with-a-lot-of-tools-and-machinery-27348529/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
+      "id": "9756559",
+      "url": "https://images.pexels.com/photos/9756559/pexels-photo-9756559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9756559/pexels-photo-9756559.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#83726B",
+      "alt": "Detailed close-up of a weathered brick wall showcasing texture and earthy tones.",
+      "credit": {
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-9756559/"
+      }
+    },
+    {
+      "prompt": "minimalist still life",
+      "id": "30977542",
+      "url": "https://images.pexels.com/photos/30977542/pexels-photo-30977542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30977542/pexels-photo-30977542.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#D4D2C6",
+      "alt": "Artistic minimalist photo featuring a stone and stick on a clean background.",
+      "credit": {
+        "name": "Karen Laårk Boshoff",
+        "link": "https://www.pexels.com/@laarkstudio",
+        "photoLink": "https://www.pexels.com/photo/abstract-minimalist-composition-with-stone-and-stick-30977542/"
       }
     }
   ]
