@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-04T18:27:40.031Z",
+  "generatedAt": "2026-11-05T00:09:09.615Z",
   "photos": [
     {
-      "prompt": "vintage workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "prompt": "minimal desk",
+      "id": "4884116",
+      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#B1B6B7",
+      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
+      "credit": {
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "12687108",
+      "url": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12687108/pexels-photo-12687108.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#853F33",
+      "alt": "A retro still life composition featuring a vintage camera, red glass, cherries, and sunglasses.",
+      "credit": {
+        "name": "Yusra  Mizgin Günay",
+        "link": "https://www.pexels.com/@yusramizgingunay",
+        "photoLink": "https://www.pexels.com/photo/fruit-glass-sunglasses-and-a-camera-on-a-table-12687108/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "209724",
+      "url": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#817166",
+      "alt": "Classic vintage camera on a rustic wooden surface, evoking nostalgia and history.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/black-milc-on-brown-panel-209724/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "5953786",
+      "url": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5953786/pexels-photo-5953786.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5778,
+      "height": 4000,
+      "color": "#A29F9A",
+      "alt": "Interior of elegant room with table with vase with bouquet of various flowers near mirror on wall and curtains next to sofa with pillows under lamp",
+      "credit": {
+        "name": "Claudia Schmalz",
+        "link": "https://www.pexels.com/@claudia-schmalz-3928374",
+        "photoLink": "https://www.pexels.com/photo/house-interior-with-table-with-vase-with-flowers-near-mirror-5953786/"
+      }
+    },
+    {
+      "prompt": "handmade ceramics",
+      "id": "40751967",
+      "url": "https://images.pexels.com/photos/40751967/pexels-photo-40751967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40751967/pexels-photo-40751967.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 9504,
+      "height": 6336,
+      "color": "#A37E64",
+      "alt": "Artisan crafting pottery on a wheel with various tools in view, showcasing the craft of ceramics.",
       "credit": {
         "name": "Sami TÜRK",
         "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
+        "photoLink": "https://www.pexels.com/photo/pottery-making-on-wheel-artisan-at-work-40751967/"
       }
     },
     {
-      "prompt": "linen wood textures",
-      "id": "7533973",
-      "url": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533973/pexels-photo-7533973.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#C9B79F",
-      "alt": "Detailed close-up of beige fabric showcasing frayed edges and texture, ideal for design and textile references.",
+      "prompt": "quiet architecture",
+      "id": "12175481",
+      "url": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#D0D1D3",
+      "alt": "Low angle view of modern white building with pillars in snowy weather, showcasing minimalist design.",
       "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/canvas-fabric-in-close-up-photography-7533973/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "35993620",
-      "url": "https://images.pexels.com/photos/35993620/pexels-photo-35993620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35993620/pexels-photo-35993620.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4288,
-      "height": 2848,
-      "color": "#803E04",
-      "alt": "Vibrant macro shot of a plant leaf showcasing its rich colors and textures.",
-      "credit": {
-        "name": "wal_ 172619",
-        "link": "https://www.pexels.com/@wal_-172619-2156618639",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-colorful-plant-leaf-texture-35993620/"
-      }
-    },
-    {
-      "prompt": "nordic interior design",
-      "id": "6523299",
-      "url": "https://images.pexels.com/photos/6523299/pexels-photo-6523299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6523299/pexels-photo-6523299.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4640,
-      "height": 3093,
-      "color": "#BEB8AE",
-      "alt": "Wooden chairs at round table placed between couch and kitchen counter with white cabinet in modern light apartment with window",
-      "credit": {
-        "name": "Max Vakhtbovych",
-        "link": "https://www.pexels.com/@artbovich",
-        "photoLink": "https://www.pexels.com/photo/table-with-chairs-in-apartment-6523299/"
-      }
-    },
-    {
-      "prompt": "minimalist desk setup",
-      "id": "28228014",
-      "url": "https://images.pexels.com/photos/28228014/pexels-photo-28228014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28228014/pexels-photo-28228014.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5016,
-      "height": 3344,
-      "color": "#7D796E",
-      "alt": "Sleek office desk with wireless keyboard, mouse, and modern decor, perfect for tech enthusiasts.",
-      "credit": {
-        "name": "minhphuc .workspace",
-        "link": "https://www.pexels.com/@mintworkspace",
-        "photoLink": "https://www.pexels.com/photo/a-desk-with-a-keyboard-and-mouse-on-it-28228014/"
-      }
-    },
-    {
-      "prompt": "urban concrete texture",
-      "id": "3964832",
-      "url": "https://images.pexels.com/photos/3964832/pexels-photo-3964832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3964832/pexels-photo-3964832.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#9D9390",
-      "alt": "Close-up of a rough, weathered concrete wall with visible texture and marks.",
-      "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/brown-and-gray-concrete-floor-3964832/"
+        "name": "alexander ermakov",
+        "link": "https://www.pexels.com/@ermakov",
+        "photoLink": "https://www.pexels.com/photo/concrete-building-with-pillars-12175481/"
       }
     }
   ]
