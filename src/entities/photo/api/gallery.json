@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-06T11:49:02.860Z",
+  "generatedAt": "2026-11-06T18:53:22.561Z",
   "photos": [
     {
-      "prompt": "workshop tools",
-      "id": "7484795",
-      "url": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5968,
-      "height": 3979,
-      "color": "#BBB5A9",
-      "alt": "Neatly organized tools hanging on a workshop wall, including hammers and scissors.",
+      "prompt": "quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/hammer-and-mallets-hanging-on-the-wall-7484795/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "7435691",
-      "url": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7435691/pexels-photo-7435691.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#5D563A",
-      "alt": "A vivid close-up shot of green pointed leaves creating a natural texture and pattern.",
+      "prompt": "still life composition",
+      "id": "7629878",
+      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C7D0DF",
+      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
       "credit": {
-        "name": "Ventill8  Productions",
-        "link": "https://www.pexels.com/@ventill8-productions-3270833",
-        "photoLink": "https://www.pexels.com/photo/close-up-shot-of-grass-7435691/"
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
       }
     },
     {
-      "prompt": "handmade ceramics",
-      "id": "28271468",
-      "url": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28271468/pexels-photo-28271468.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#899591",
-      "alt": "An artistic collection of handcrafted turquoise pottery bowls and plates.",
+      "prompt": "minimal desk setup",
+      "id": "346731",
+      "url": "https://images.pexels.com/photos/346731/pexels-photo-346731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/346731/pexels-photo-346731.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#D6D8C9",
+      "alt": "Top-down view of a clean workspace featuring a keyboard, mouse, stylish glasses, and an open notebook.",
+      "credit": {
+        "name": "Porapak Apichodilok",
+        "link": "https://www.pexels.com/@nurseryart",
+        "photoLink": "https://www.pexels.com/photo/white-and-yellow-notebook-placed-near-keyboard-and-eyeglasses-346731/"
+      }
+    },
+    {
+      "prompt": "handmade ceramic bowl",
+      "id": "3847451",
+      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#655F62",
+      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
+      "credit": {
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
+      }
+    },
+    {
+      "prompt": "urban texture wall",
+      "id": "12008050",
+      "url": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6224,
+      "height": 4150,
+      "color": "#9B928B",
+      "alt": "A close-up of a textured wall featuring worn wood and partially painted surfaces.",
       "credit": {
         "name": "Mathias Reding",
         "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/a-group-of-blue-and-green-ceramic-bowls-28271468/"
+        "photoLink": "https://www.pexels.com/photo/photo-of-daubed-wall-and-glass-door-12008050/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "38958556",
-      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#6C4E12",
-      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
+      "prompt": "workshop tool bench",
+      "id": "1571736",
+      "url": "https://images.pexels.com/photos/1571736/pexels-photo-1571736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1571736/pexels-photo-1571736.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3888,
+      "height": 2592,
+      "color": "#50493C",
+      "alt": "A detailed view of a workshop filled with various tools and machinery, capturing an industrious environment.",
       "credit": {
-        "name": "meryem",
-        "link": "https://www.pexels.com/@meryem-2157128767",
-        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
-      }
-    },
-    {
-      "prompt": "minimal desks",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
-      "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/brown-sander-1571736/"
       }
     }
   ]
