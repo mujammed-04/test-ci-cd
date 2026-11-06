@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-05T22:32:08.569Z",
+  "generatedAt": "2026-11-06T03:09:48.586Z",
   "photos": [
     {
-      "prompt": "Nordic living room",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "prompt": "rusty brick wall",
+      "id": "374718",
+      "url": "https://images.pexels.com/photos/374718/pexels-photo-374718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/374718/pexels-photo-374718.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5451,
+      "height": 3666,
+      "color": "#4E4538",
+      "alt": "An empty basketball court with an old hoop against brick walls, emphasizing urban decay.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/basketball-ring-near-brown-brick-walls-374718/"
       }
     },
     {
-      "prompt": "Botanical leaf closeup",
-      "id": "7718272",
-      "url": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7718272/pexels-photo-7718272.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "soft morning light",
+      "id": "35657809",
+      "url": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35657809/pexels-photo-35657809.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5129,
+      "height": 4037,
+      "color": "#413A32",
+      "alt": "A minimalist interior space with soft morning light casting shadows on a wall and a sweater hanging in a calm setting.",
+      "credit": {
+        "name": "Yunuen Zempoaltecatl",
+        "link": "https://www.pexels.com/@yunuen-zempoaltecatl-2158880957",
+        "photoLink": "https://www.pexels.com/photo/moody-interior-with-soft-light-and-shadows-35657809/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "34851017",
+      "url": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34851017/pexels-photo-34851017.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#1B3448",
+      "alt": "Close-up of a blue textured fabric with a wavy pattern, perfect for backgrounds or design projects.",
+      "credit": {
+        "name": "3D Render",
+        "link": "https://www.pexels.com/@3d-render-1058120333",
+        "photoLink": "https://www.pexels.com/photo/abstract-blue-textile-fabric-with-soft-waves-34851017/"
+      }
+    },
+    {
+      "prompt": "metal workshop tools",
+      "id": "10290627",
+      "url": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#5B5138",
+      "alt": "Overhead view of a workshop scene with an angle grinder and welding helmet on a textured floor.",
+      "credit": {
+        "name": "Jonathan Cooper",
+        "link": "https://www.pexels.com/@theshuttervision",
+        "photoLink": "https://www.pexels.com/photo/helmet-and-an-electric-angle-grinder-10290627/"
+      }
+    },
+    {
+      "prompt": "handcrafted ceramic bowl",
+      "id": "18464086",
+      "url": "https://images.pexels.com/photos/18464086/pexels-photo-18464086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18464086/pexels-photo-18464086.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
-      "height": 2667,
-      "color": "#314D22",
-      "alt": "High-resolution macro photograph highlighting the intricate veins of a green leaf.",
+      "height": 3824,
+      "color": "#D8BA96",
+      "alt": "A set of colorful ceramic bowls featuring floral patterns, perfect for kitchenware and home decor.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/a-macro-shot-of-a-leaf-7718272/"
+        "name": "Sứ Bát Tràng",
+        "link": "https://www.pexels.com/@s-bat-trang-108848915",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-ceramic-bowls-with-floral-patterns-18464086/"
       }
     },
     {
-      "prompt": "Coastal storm clouds",
-      "id": "9764167",
-      "url": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9764167/pexels-photo-9764167.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4854,
-      "height": 2731,
-      "color": "#565D67",
-      "alt": "Dramatic stormy seascape with waves crashing on the coast of Norway's Nordland region.",
+      "prompt": "still life fruit",
+      "id": "36794066",
+      "url": "https://images.pexels.com/photos/36794066/pexels-photo-36794066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36794066/pexels-photo-36794066.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3600,
+      "height": 2377,
+      "color": "#473B2D",
+      "alt": "A classic still life featuring watermelon, grapes, pear, plums, and rustic pottery on a wooden table.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/waves-crashing-on-the-shore-9764167/"
-      }
-    },
-    {
-      "prompt": "Urban brick wall",
-      "id": "14982351",
-      "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5878,
-      "height": 3919,
-      "color": "#C09376",
-      "alt": "Detailed image of a rough, multicolored brick wall texture for backgrounds or design.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/brick-on-a-wall-14982351/"
-      }
-    },
-    {
-      "prompt": "Linen wood table",
-      "id": "6962755",
-      "url": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6962755/pexels-photo-6962755.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6201,
-      "height": 4134,
-      "color": "#B0A79F",
-      "alt": "Close-up of rustic wooden bowls and spoons on a kitchen table with a linen cloth.",
-      "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/wooden-bowls-and-wooden-spoons-on-the-table-6962755/"
-      }
-    },
-    {
-      "prompt": "Workshop hand tools",
-      "id": "10824760",
-      "url": "https://images.pexels.com/photos/10824760/pexels-photo-10824760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10824760/pexels-photo-10824760.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4424,
-      "height": 2318,
-      "color": "#5F3F40",
-      "alt": "Hands working on industrial machinery with precision tools, showcasing engineering skills.",
-      "credit": {
-        "name": "Daniel Smyth",
-        "link": "https://www.pexels.com/@daniel-smyth-83914874",
-        "photoLink": "https://www.pexels.com/photo/person-working-at-tapping-machine-10824760/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/rustic-still-life-with-fruit-and-pottery-36794066/"
       }
     }
   ]
