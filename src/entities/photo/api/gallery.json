@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-06T18:53:22.561Z",
+  "generatedAt": "2026-11-06T23:39:08.976Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
-      "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
-      }
-    },
-    {
-      "prompt": "still life composition",
-      "id": "7629878",
-      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "linen texture wood",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4000,
       "height": 2667,
-      "color": "#C7D0DF",
-      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
       }
     },
     {
-      "prompt": "minimal desk setup",
-      "id": "346731",
-      "url": "https://images.pexels.com/photos/346731/pexels-photo-346731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/346731/pexels-photo-346731.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#D6D8C9",
-      "alt": "Top-down view of a clean workspace featuring a keyboard, mouse, stylish glasses, and an open notebook.",
+      "prompt": "botanical leaf closeup",
+      "id": "36622451",
+      "url": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#2C5327",
+      "alt": "Detailed macro shot of green plant leaves with vibrant stripes, creating a natural texture.",
       "credit": {
-        "name": "Porapak Apichodilok",
-        "link": "https://www.pexels.com/@nurseryart",
-        "photoLink": "https://www.pexels.com/photo/white-and-yellow-notebook-placed-near-keyboard-and-eyeglasses-346731/"
+        "name": "Rafael Rodrigues",
+        "link": "https://www.pexels.com/@rrodriguesim",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-plant-leaves-36622451/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "12306604",
+      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3983,
+      "height": 2241,
+      "color": "#3181A2",
+      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "credit": {
+        "name": "Peggy Anke",
+        "link": "https://www.pexels.com/@reisefreiheit",
+        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
       }
     },
     {
       "prompt": "handmade ceramic bowl",
-      "id": "3847451",
-      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#655F62",
-      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
+      "id": "9304481",
+      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5722,
+      "height": 3814,
+      "color": "#A88E37",
+      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
       "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
+        "name": "Mikhail Nilov",
+        "link": "https://www.pexels.com/@mikhail-nilov",
+        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
       }
     },
     {
-      "prompt": "urban texture wall",
-      "id": "12008050",
-      "url": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12008050/pexels-photo-12008050.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6224,
-      "height": 4150,
-      "color": "#9B928B",
-      "alt": "A close-up of a textured wall featuring worn wood and partially painted surfaces.",
+      "prompt": "analogue film grain",
+      "id": "9780172",
+      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#B99C96",
+      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
       "credit": {
-        "name": "Mathias Reding",
-        "link": "https://www.pexels.com/@matreding",
-        "photoLink": "https://www.pexels.com/photo/photo-of-daubed-wall-and-glass-door-12008050/"
+        "name": "Alexey Demidov",
+        "link": "https://www.pexels.com/@alexeydemidov",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
       }
     },
     {
-      "prompt": "workshop tool bench",
-      "id": "1571736",
-      "url": "https://images.pexels.com/photos/1571736/pexels-photo-1571736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1571736/pexels-photo-1571736.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3888,
-      "height": 2592,
-      "color": "#50493C",
-      "alt": "A detailed view of a workshop filled with various tools and machinery, capturing an industrious environment.",
+      "prompt": "quiet modern architecture",
+      "id": "4948983",
+      "url": "https://images.pexels.com/photos/4948983/pexels-photo-4948983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4948983/pexels-photo-4948983.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5760,
+      "height": 3840,
+      "color": "#717578",
+      "alt": "Black and white of small glowing lamp mounted to wooden wall of luxury house in daytime",
       "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/brown-sander-1571736/"
+        "name": "Talal Hakim",
+        "link": "https://www.pexels.com/@talalih",
+        "photoLink": "https://www.pexels.com/photo/wall-mounted-lamp-near-door-in-yard-of-modern-house-4948983/"
       }
     }
   ]
