@@ -1,19 +1,49 @@
 {
-  "generatedAt": "2026-11-06T23:39:08.976Z",
+  "generatedAt": "2026-11-07T04:40:21.740Z",
   "photos": [
     {
-      "prompt": "linen texture wood",
-      "id": "7794365",
-      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#C1B4AB",
-      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "prompt": "vintage wooden desk",
+      "id": "34084890",
+      "url": "https://images.pexels.com/photos/34084890/pexels-photo-34084890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34084890/pexels-photo-34084890.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#453D30",
+      "alt": "Rustic classroom featuring wooden desks and bookshelves filled with books.",
       "credit": {
-        "name": "Monstera Production",
-        "link": "https://www.pexels.com/@gabby-k",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/vintage-classroom-with-wooden-desks-and-bookshelves-34084890/"
+      }
+    },
+    {
+      "prompt": "soft linen drape",
+      "id": "4268526",
+      "url": "https://images.pexels.com/photos/4268526/pexels-photo-4268526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4268526/pexels-photo-4268526.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2333,
+      "color": "#B7B1A1",
+      "alt": "A close-up of a beige tablecloth draped over a table, showcasing texture and folds.",
+      "credit": {
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/white-textile-on-brown-wooden-table-4268526/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
+      "id": "1696261",
+      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4989,
+      "height": 3326,
+      "color": "#8C726B",
+      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
+      "credit": {
+        "name": "pasha kres",
+        "link": "https://www.pexels.com/@pashakres",
+        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
       }
     },
     {
@@ -32,63 +62,33 @@
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "12306604",
-      "url": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12306604/pexels-photo-12306604.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3983,
-      "height": 2241,
-      "color": "#3181A2",
-      "alt": "A dramatic formation of dark storm clouds hovering over a vast ocean expanse.",
+      "prompt": "minimalist nordic interior",
+      "id": "37173282",
+      "url": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4776,
+      "height": 3712,
+      "color": "#BABABA",
+      "alt": "Elegant white staircase with dried flowers and a glass lantern, showcasing a modern minimalist design.",
       "credit": {
-        "name": "Peggy Anke",
-        "link": "https://www.pexels.com/@reisefreiheit",
-        "photoLink": "https://www.pexels.com/photo/dark-cloud-formation-in-the-sky-12306604/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-interior-with-dried-flowers-37173282/"
       }
     },
     {
-      "prompt": "handmade ceramic bowl",
-      "id": "9304481",
-      "url": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304481/pexels-photo-9304481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5722,
-      "height": 3814,
-      "color": "#A88E37",
-      "alt": "Artistic display of handmade pottery with cotton on a vibrant yellow cloth.",
+      "prompt": "rustic linen wood",
+      "id": "16471855",
+      "url": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#C2AFA9",
+      "alt": "A cozy breakfast setup featuring rustic bread, butter, and milk on a wooden table.",
       "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/person-holding-a-handcrafted-ceramic-bowl-9304481/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "9780172",
-      "url": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9780172/pexels-photo-9780172.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#B99C96",
-      "alt": "Film negative of a seacoast scene on lightbox, showcasing vintage photography style.",
-      "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-picture-on-a-film-roll-9780172/"
-      }
-    },
-    {
-      "prompt": "quiet modern architecture",
-      "id": "4948983",
-      "url": "https://images.pexels.com/photos/4948983/pexels-photo-4948983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4948983/pexels-photo-4948983.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5760,
-      "height": 3840,
-      "color": "#717578",
-      "alt": "Black and white of small glowing lamp mounted to wooden wall of luxury house in daytime",
-      "credit": {
-        "name": "Talal Hakim",
-        "link": "https://www.pexels.com/@talalih",
-        "photoLink": "https://www.pexels.com/photo/wall-mounted-lamp-near-door-in-yard-of-modern-house-4948983/"
+        "name": "hello aesthe",
+        "link": "https://www.pexels.com/@helloaesthe",
+        "photoLink": "https://www.pexels.com/photo/bread-and-butter-on-the-table-16471855/"
       }
     }
   ]
