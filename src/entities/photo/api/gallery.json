@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-07T17:25:37.996Z",
+  "generatedAt": "2026-11-07T21:26:55.438Z",
   "photos": [
     {
-      "prompt": "Nordic interiors",
-      "id": "8092417",
-      "url": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092417/pexels-photo-8092417.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6715,
-      "height": 4477,
-      "color": "#CFCECC",
-      "alt": "Minimalist desk setup with a ceramic vase, dried grass, mug, and notebook in a modern interior.",
+      "prompt": "Nordic interior",
+      "id": "6805417",
+      "url": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6805417/pexels-photo-6805417.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6378,
+      "height": 4252,
+      "color": "#BDB0A7",
+      "alt": "A minimalist setup featuring a candle, books, and modern home decor.",
       "credit": {
         "name": "https://kaboompics.com/",
         "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/dried-grass-on-ceramic-vase-8092417/"
+        "photoLink": "https://www.pexels.com/photo/candlelight-on-book-6805417/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "16243257",
-      "url": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "Workshop tools",
+      "id": "4140923",
+      "url": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4140923/pexels-photo-4140923.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5372,
+      "height": 3581,
+      "color": "#785C58",
+      "alt": "Top view collection of assorted instruments for printing machine placed on table in light typography workshop",
+      "credit": {
+        "name": "Erik Mclean",
+        "link": "https://www.pexels.com/@introspectivedsgn",
+        "photoLink": "https://www.pexels.com/photo/set-of-professional-tools-for-printing-press-4140923/"
+      }
+    },
+    {
+      "prompt": "Morning light",
+      "id": "11156146",
+      "url": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5784,
+      "height": 3856,
+      "color": "#956D49",
+      "alt": "Tranquil sunrise over a misty field with bare trees and a winding dirt road.",
+      "credit": {
+        "name": "Amir H. Bakhtiari",
+        "link": "https://www.pexels.com/@amir-h-bakhtiari-254523",
+        "photoLink": "https://www.pexels.com/photo/leafless-trees-near-dirt-road-11156146/"
+      }
+    },
+    {
+      "prompt": "Botanical detail",
+      "id": "59812",
+      "url": "https://images.pexels.com/photos/59812/small-flower-flower-wild-flower-green-59812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/59812/small-flower-flower-wild-flower-green-59812.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#606257",
-      "alt": "A cluttered workshop with tools, welding equipment, and storage solutions.",
+      "color": "#2E2F15",
+      "alt": "Detailed macro shot of a green flower bud against a black background.",
       "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/tools-and-accessories-on-wall-in-workshop-16243257/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/green-plant-59812/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "28337781",
-      "url": "https://images.pexels.com/photos/28337781/pexels-photo-28337781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28337781/pexels-photo-28337781.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6354,
-      "height": 4236,
-      "color": "#8899B3",
-      "alt": "Modern architecture featuring a minimalist white facade against a clear blue sky.",
+      "prompt": "Linen wood",
+      "id": "30405792",
+      "url": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30405792/pexels-photo-30405792.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3456,
+      "height": 2304,
+      "color": "#757575",
+      "alt": "Clothes drying on a line with clothespins on a cloudy day in Wrocław.",
       "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/a-white-building-with-blue-sky-in-the-background-28337781/"
+        "name": "Darcy Lis | Photography & travels",
+        "link": "https://www.pexels.com/@darcy-lis-photography-travels-1478124445",
+        "photoLink": "https://www.pexels.com/photo/laundry-hanging-outdoors-on-a-cloudy-day-30405792/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "6044837",
-      "url": "https://images.pexels.com/photos/6044837/pexels-photo-6044837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044837/pexels-photo-6044837.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#8C8A85",
-      "alt": "Contemporary computers placed on table with mobile phone on charge in business office",
+      "prompt": "Handmade ceramics",
+      "id": "6611184",
+      "url": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6611184/pexels-photo-6611184.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5000,
+      "height": 3338,
+      "color": "#777369",
+      "alt": "A collection of elegant ceramic dishes and cups organized on storage shelves.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/modern-computers-with-wireless-mouse-and-keyboard-near-smartphone-6044837/"
-      }
-    },
-    {
-      "prompt": "botanical detail",
-      "id": "3894786",
-      "url": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3894786/pexels-photo-3894786.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#223427",
-      "alt": "Macro shot of lush green agave plant leaves showing natural patterns and textures.",
-      "credit": {
-        "name": "Alice Castro",
-        "link": "https://www.pexels.com/@alicedecasttro",
-        "photoLink": "https://www.pexels.com/photo/green-leafed-plant-in-close-up-photography-3894786/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
-      "id": "33703946",
-      "url": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33703946/pexels-photo-33703946.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#4D3B2F",
-      "alt": "Rustic clay bowls stacked in a traditional Oaxaca workshop, showcasing Mexican craftsmanship.",
-      "credit": {
-        "name": "Miguel González",
-        "link": "https://www.pexels.com/@mikegles",
-        "photoLink": "https://www.pexels.com/photo/stacked-clay-bowls-in-oaxaca-workshop-33703946/"
+        "name": "Yan Krukau",
+        "link": "https://www.pexels.com/@yankrukov",
+        "photoLink": "https://www.pexels.com/photo/ceramic-products-on-a-shelf-6611184/"
       }
     }
   ]
