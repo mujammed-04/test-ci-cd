@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-07T04:40:21.740Z",
+  "generatedAt": "2026-11-07T11:30:07.411Z",
   "photos": [
     {
-      "prompt": "vintage wooden desk",
-      "id": "34084890",
-      "url": "https://images.pexels.com/photos/34084890/pexels-photo-34084890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34084890/pexels-photo-34084890.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#453D30",
-      "alt": "Rustic classroom featuring wooden desks and bookshelves filled with books.",
+      "prompt": "brick wall texture",
+      "id": "32968373",
+      "url": "https://images.pexels.com/photos/32968373/pexels-photo-32968373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32968373/pexels-photo-32968373.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6048,
+      "height": 4033,
+      "color": "#A7998C",
+      "alt": "Detailed close-up of a multicolored brick wall offering a textured background.",
       "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/vintage-classroom-with-wooden-desks-and-bookshelves-34084890/"
+        "name": "Nur  Yilmaz",
+        "link": "https://www.pexels.com/@nur-yilmaz-53801215",
+        "photoLink": "https://www.pexels.com/photo/textured-brick-wall-background-for-design-32968373/"
       }
     },
     {
-      "prompt": "soft linen drape",
-      "id": "4268526",
-      "url": "https://images.pexels.com/photos/4268526/pexels-photo-4268526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4268526/pexels-photo-4268526.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#B7B1A1",
-      "alt": "A close-up of a beige tablecloth draped over a table, showcasing texture and folds.",
+      "prompt": "weathered pier clouds",
+      "id": "34981318",
+      "url": "https://images.pexels.com/photos/34981318/pexels-photo-34981318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34981318/pexels-photo-34981318.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4239,
+      "height": 2826,
+      "color": "#6E6E6E",
+      "alt": "Serene black and white image of a seaside pier beneath dramatic clouds.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/white-textile-on-brown-wooden-table-4268526/"
+        "name": "Cara Denison",
+        "link": "https://www.pexels.com/@cara-denison-886614634",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-coastal-pier-with-clouds-34981318/"
       }
     },
     {
-      "prompt": "urban brick texture",
-      "id": "1696261",
-      "url": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1696261/pexels-photo-1696261.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4989,
-      "height": 3326,
-      "color": "#8C726B",
-      "alt": "Detailed shot of a weathered red brick wall with mortar, showcasing rustic charm and texture.",
+      "prompt": "minimalist desk setup",
+      "id": "6045232",
+      "url": "https://images.pexels.com/photos/6045232/pexels-photo-6045232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6045232/pexels-photo-6045232.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#5F5551",
+      "alt": "Contemporary computer with headphones hanging on monitor placed on table with laptop keyboard and mouse at convenient workplace in room",
       "credit": {
-        "name": "pasha kres",
-        "link": "https://www.pexels.com/@pashakres",
-        "photoLink": "https://www.pexels.com/photo/brick-wall-1696261/"
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/flatscreen-on-top-of-a-desk-6045232/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "36622451",
-      "url": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36622451/pexels-photo-36622451.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#2C5327",
-      "alt": "Detailed macro shot of green plant leaves with vibrant stripes, creating a natural texture.",
+      "prompt": "morning light window",
+      "id": "48828",
+      "url": "https://images.pexels.com/photos/48828/pexels-photo-48828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/48828/pexels-photo-48828.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2048,
+      "height": 1536,
+      "color": "#9D642D",
+      "alt": "Warm sunlight streams through an open window, creating bold shadows on a yellow wall, offering a minimalist composition.",
       "credit": {
-        "name": "Rafael Rodrigues",
-        "link": "https://www.pexels.com/@rrodriguesim",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-plant-leaves-36622451/"
+        "name": "drmakete lab",
+        "link": "https://www.pexels.com/@drmakete",
+        "photoLink": "https://www.pexels.com/photo/beige-wall-48828/"
       }
     },
     {
-      "prompt": "minimalist nordic interior",
-      "id": "37173282",
-      "url": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4776,
-      "height": 3712,
-      "color": "#BABABA",
-      "alt": "Elegant white staircase with dried flowers and a glass lantern, showcasing a modern minimalist design.",
+      "prompt": "workshop tool collection",
+      "id": "6075992",
+      "url": "https://images.pexels.com/photos/6075992/pexels-photo-6075992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6075992/pexels-photo-6075992.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#6E4A21",
+      "alt": "A collection of chisels and wood carving tools organized in a workshop setting.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/minimalist-white-interior-with-dried-flowers-37173282/"
+        "name": "Stefan Donchev",
+        "link": "https://www.pexels.com/@stefan-donchev-9043182",
+        "photoLink": "https://www.pexels.com/photo/a-variety-of-chisels-for-carving-wood-6075992/"
       }
     },
     {
-      "prompt": "rustic linen wood",
-      "id": "16471855",
-      "url": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16471855/pexels-photo-16471855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#C2AFA9",
-      "alt": "A cozy breakfast setup featuring rustic bread, butter, and milk on a wooden table.",
+      "prompt": "linen wood surface",
+      "id": "1487713",
+      "url": "https://images.pexels.com/photos/1487713/pexels-photo-1487713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1487713/pexels-photo-1487713.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7680,
+      "height": 5120,
+      "color": "#C9CCB0",
+      "alt": "A close-up view of a soft, light-colored linen fabric displaying its intricate texture and weave.",
       "credit": {
-        "name": "hello aesthe",
-        "link": "https://www.pexels.com/@helloaesthe",
-        "photoLink": "https://www.pexels.com/photo/bread-and-butter-on-the-table-16471855/"
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/gray-textile-closeup-photo-1487713/"
       }
     }
   ]
