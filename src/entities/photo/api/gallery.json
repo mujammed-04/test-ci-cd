@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-08T15:47:34.709Z",
+  "generatedAt": "2026-11-08T20:11:32.721Z",
   "photos": [
     {
-      "prompt": "stormy coastline",
-      "id": "18729795",
-      "url": "https://images.pexels.com/photos/18729795/pexels-photo-18729795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18729795/pexels-photo-18729795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "soft morning light",
+      "id": "997565",
+      "url": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3086,
+      "height": 3080,
+      "color": "#6A676A",
+      "alt": "Snow-covered branches create a serene winter ambiance against a neutral background.",
+      "credit": {
+        "name": "Alissa Nabiullina",
+        "link": "https://www.pexels.com/@alissa-nabiullina-367960",
+        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-white-clustered-flowers-997565/"
+      }
+    },
+    {
+      "prompt": "rustic linen wood",
+      "id": "6954767",
+      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4592,
+      "height": 3064,
+      "color": "#B5B3AB",
+      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
+      "credit": {
+        "name": "Polina ⠀",
+        "link": "https://www.pexels.com/@polina-kovaleva",
+        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
+      }
+    },
+    {
+      "prompt": "coastal storm clouds",
+      "id": "6189849",
+      "url": "https://images.pexels.com/photos/6189849/pexels-photo-6189849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6189849/pexels-photo-6189849.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 8192,
+      "height": 5464,
+      "color": "#5D6376",
+      "alt": "Dark clouds gather over a calm ocean, creating a dramatic and moody seascape.",
+      "credit": {
+        "name": "Engin Akyurt",
+        "link": "https://www.pexels.com/@enginakyurt",
+        "photoLink": "https://www.pexels.com/photo/sea-under-cloudy-sky-6189849/"
+      }
+    },
+    {
+      "prompt": "urban brick texture",
+      "id": "14982351",
+      "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5878,
+      "height": 3919,
+      "color": "#C09376",
+      "alt": "Detailed image of a rough, multicolored brick wall texture for backgrounds or design.",
+      "credit": {
+        "name": "Jan van der Wolf",
+        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+        "photoLink": "https://www.pexels.com/photo/brick-on-a-wall-14982351/"
+      }
+    },
+    {
+      "prompt": "vintage workshop tools",
+      "id": "16243260",
+      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#767D75",
-      "alt": "Explore the rugged coastal landscape with waves crashing on rocky shores under a cloudy sky.",
+      "color": "#817B61",
+      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
       "credit": {
-        "name": "Carsten Ruthemann",
-        "link": "https://www.pexels.com/@cannontaler",
-        "photoLink": "https://www.pexels.com/photo/waves-by-the-shore-18729795/"
+        "name": "Luis Quintero",
+        "link": "https://www.pexels.com/@jibarofoto",
+        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
       }
     },
     {
-      "prompt": "Scandinavian interior",
-      "id": "36353420",
-      "url": "https://images.pexels.com/photos/36353420/pexels-photo-36353420.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36353420/pexels-photo-36353420.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2543,
-      "color": "#8E7F72",
-      "alt": "Bright modern living room with wooden chair, cozy pillows, and stylish decor.",
+      "prompt": "minimalist still life",
+      "id": "10016503",
+      "url": "https://images.pexels.com/photos/10016503/pexels-photo-10016503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10016503/pexels-photo-10016503.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3650,
+      "height": 2232,
+      "color": "#CD2D1D",
+      "alt": "Vibrant red background featuring a delicate berry twig, a study in minimalism and bold color.",
       "credit": {
-        "name": "The Ghazi",
-        "link": "https://www.pexels.com/@the-ghazi-2152398165",
-        "photoLink": "https://www.pexels.com/photo/cozy-modern-living-room-with-wooden-armchair-36353420/"
-      }
-    },
-    {
-      "prompt": "soft linen",
-      "id": "6653658",
-      "url": "https://images.pexels.com/photos/6653658/pexels-photo-6653658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6653658/pexels-photo-6653658.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#EECBBC",
-      "alt": "A close-up view of a soft pink pastel fabric, showcasing its delicate texture and gentle folds.",
-      "credit": {
-        "name": "Sandra Filipe",
-        "link": "https://www.pexels.com/@sandra-filipe-64798",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-pink-cloth-6653658/"
-      }
-    },
-    {
-      "prompt": "polished wood",
-      "id": "13399462",
-      "url": "https://images.pexels.com/photos/13399462/pexels-photo-13399462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13399462/pexels-photo-13399462.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#987756",
-      "alt": "Close-up of wooden columns and carved beams in a classic library setting.",
-      "credit": {
-        "name": "Lalada .",
-        "link": "https://www.pexels.com/@dacapture",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-miniature-wooden-beams-and-columns-13399462/"
-      }
-    },
-    {
-      "prompt": "hand tools",
-      "id": "9606734",
-      "url": "https://images.pexels.com/photos/9606734/pexels-photo-9606734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9606734/pexels-photo-9606734.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4604,
-      "height": 3069,
-      "color": "#7A6852",
-      "alt": "Close-up of a man's hand arranging wrenches on a motorcycle seat outdoors.",
-      "credit": {
-        "name": "Anastasia  Shuraeva",
-        "link": "https://www.pexels.com/@anastasia-shuraeva",
-        "photoLink": "https://www.pexels.com/photo/man-hand-holding-wrenches-on-motorbike-9606734/"
-      }
-    },
-    {
-      "prompt": "sunrise light",
-      "id": "219890",
-      "url": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#674927",
-      "alt": "Captivating sunrise over a misty countryside with silhouetted trees and soft morning light.",
-      "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/trees-next-to-body-of-water-219890/"
+        "name": "le john",
+        "link": "https://www.pexels.com/@le-john-75311609",
+        "photoLink": "https://www.pexels.com/photo/twig-on-red-background-10016503/"
       }
     }
   ]
