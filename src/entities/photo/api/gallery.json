@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-08T08:36:01.530Z",
+  "generatedAt": "2026-11-08T15:47:34.709Z",
   "photos": [
     {
-      "prompt": "quiet stone architecture",
-      "id": "6876580",
-      "url": "https://images.pexels.com/photos/6876580/pexels-photo-6876580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6876580/pexels-photo-6876580.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5791,
-      "height": 3861,
-      "color": "#4F565D",
-      "alt": "A serene stone alleyway in Bana Hills, Vietnam, enveloped in fog with lush greenery.",
+      "prompt": "stormy coastline",
+      "id": "18729795",
+      "url": "https://images.pexels.com/photos/18729795/pexels-photo-18729795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18729795/pexels-photo-18729795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#767D75",
+      "alt": "Explore the rugged coastal landscape with waves crashing on rocky shores under a cloudy sky.",
       "credit": {
-        "name": "Quang Nguyen Vinh",
-        "link": "https://www.pexels.com/@quang-nguyen-vinh-222549",
-        "photoLink": "https://www.pexels.com/photo/an-empty-street-6876580/"
+        "name": "Carsten Ruthemann",
+        "link": "https://www.pexels.com/@cannontaler",
+        "photoLink": "https://www.pexels.com/photo/waves-by-the-shore-18729795/"
       }
     },
     {
-      "prompt": "still life fruit arrangement",
-      "id": "7172169",
-      "url": "https://images.pexels.com/photos/7172169/pexels-photo-7172169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7172169/pexels-photo-7172169.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4574,
-      "height": 3052,
-      "color": "#B4ACA0",
-      "alt": "Minimalist still life featuring kiwano, melon, and stone fruit on marble pedestals.",
+      "prompt": "Scandinavian interior",
+      "id": "36353420",
+      "url": "https://images.pexels.com/photos/36353420/pexels-photo-36353420.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36353420/pexels-photo-36353420.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2543,
+      "color": "#8E7F72",
+      "alt": "Bright modern living room with wooden chair, cozy pillows, and stylish decor.",
       "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/fruit-and-candles-on-white-background-7172169/"
+        "name": "The Ghazi",
+        "link": "https://www.pexels.com/@the-ghazi-2152398165",
+        "photoLink": "https://www.pexels.com/photo/cozy-modern-living-room-with-wooden-armchair-36353420/"
       }
     },
     {
-      "prompt": "coastal stormy sky",
-      "id": "9493189",
-      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4737,
-      "height": 3153,
-      "color": "#68757E",
-      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
+      "prompt": "soft linen",
+      "id": "6653658",
+      "url": "https://images.pexels.com/photos/6653658/pexels-photo-6653658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6653658/pexels-photo-6653658.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#EECBBC",
+      "alt": "A close-up view of a soft pink pastel fabric, showcasing its delicate texture and gentle folds.",
       "credit": {
-        "name": "stein egil liland",
-        "link": "https://www.pexels.com/@therato",
-        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
+        "name": "Sandra Filipe",
+        "link": "https://www.pexels.com/@sandra-filipe-64798",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-pink-cloth-6653658/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "33733109",
-      "url": "https://images.pexels.com/photos/33733109/pexels-photo-33733109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33733109/pexels-photo-33733109.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "polished wood",
+      "id": "13399462",
+      "url": "https://images.pexels.com/photos/13399462/pexels-photo-13399462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13399462/pexels-photo-13399462.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 4608,
-      "height": 3456,
-      "color": "#5D7C30",
-      "alt": "Detailed macro shot highlighting the intricate pattern and texture of a green leaf.",
+      "height": 3072,
+      "color": "#987756",
+      "alt": "Close-up of wooden columns and carved beams in a classic library setting.",
       "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-vibrant-green-leaf-texture-33733109/"
+        "name": "Lalada .",
+        "link": "https://www.pexels.com/@dacapture",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-miniature-wooden-beams-and-columns-13399462/"
       }
     },
     {
-      "prompt": "nordic interior wood",
-      "id": "36077591",
-      "url": "https://images.pexels.com/photos/36077591/pexels-photo-36077591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36077591/pexels-photo-36077591.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#64554E",
-      "alt": "Explore the elegance of a Nordic-style sauna with modern wood paneling and a unique heater.",
+      "prompt": "hand tools",
+      "id": "9606734",
+      "url": "https://images.pexels.com/photos/9606734/pexels-photo-9606734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9606734/pexels-photo-9606734.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4604,
+      "height": 3069,
+      "color": "#7A6852",
+      "alt": "Close-up of a man's hand arranging wrenches on a motorcycle seat outdoors.",
       "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/contemporary-nordic-sauna-interior-design-36077591/"
+        "name": "Anastasia  Shuraeva",
+        "link": "https://www.pexels.com/@anastasia-shuraeva",
+        "photoLink": "https://www.pexels.com/photo/man-hand-holding-wrenches-on-motorbike-9606734/"
       }
     },
     {
-      "prompt": "linen wood texture",
-      "id": "7232397",
-      "url": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7232397/pexels-photo-7232397.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6144,
-      "height": 3456,
-      "color": "#AC9D8C",
-      "alt": "Close-up of beige cotton fabric showcasing natural texture and crumples.",
+      "prompt": "sunrise light",
+      "id": "219890",
+      "url": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/219890/pexels-photo-219890.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#674927",
+      "alt": "Captivating sunrise over a misty countryside with silhouetted trees and soft morning light.",
       "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/close-up-white-fabric-with-crumple-7232397/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/trees-next-to-body-of-water-219890/"
       }
     }
   ]
