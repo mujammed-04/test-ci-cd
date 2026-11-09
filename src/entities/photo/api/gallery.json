@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-08T20:11:32.721Z",
+  "generatedAt": "2026-11-09T00:32:06.970Z",
   "photos": [
     {
       "prompt": "soft morning light",
-      "id": "997565",
-      "url": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/997565/pexels-photo-997565.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3086,
-      "height": 3080,
-      "color": "#6A676A",
-      "alt": "Snow-covered branches create a serene winter ambiance against a neutral background.",
+      "id": "40694676",
+      "url": "https://images.pexels.com/photos/40694676/pexels-photo-40694676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40694676/pexels-photo-40694676.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 19008,
+      "height": 12672,
+      "color": "#292114",
+      "alt": "Close-up of a pink rose with dewdrops, captured in soft, natural light.",
       "credit": {
-        "name": "Alissa Nabiullina",
-        "link": "https://www.pexels.com/@alissa-nabiullina-367960",
-        "photoLink": "https://www.pexels.com/photo/selective-focus-photo-of-white-clustered-flowers-997565/"
-      }
-    },
-    {
-      "prompt": "rustic linen wood",
-      "id": "6954767",
-      "url": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6954767/pexels-photo-6954767.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4592,
-      "height": 3064,
-      "color": "#B5B3AB",
-      "alt": "A serene arrangement of coffee and milk on a wooden tray, ideal for a cozy morning.",
-      "credit": {
-        "name": "Polina ⠀",
-        "link": "https://www.pexels.com/@polina-kovaleva",
-        "photoLink": "https://www.pexels.com/photo/photo-of-cups-on-a-wooden-surface-6954767/"
-      }
-    },
-    {
-      "prompt": "coastal storm clouds",
-      "id": "6189849",
-      "url": "https://images.pexels.com/photos/6189849/pexels-photo-6189849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6189849/pexels-photo-6189849.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#5D6376",
-      "alt": "Dark clouds gather over a calm ocean, creating a dramatic and moody seascape.",
-      "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/sea-under-cloudy-sky-6189849/"
-      }
-    },
-    {
-      "prompt": "urban brick texture",
-      "id": "14982351",
-      "url": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14982351/pexels-photo-14982351.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5878,
-      "height": 3919,
-      "color": "#C09376",
-      "alt": "Detailed image of a rough, multicolored brick wall texture for backgrounds or design.",
-      "credit": {
-        "name": "Jan van der Wolf",
-        "link": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-        "photoLink": "https://www.pexels.com/photo/brick-on-a-wall-14982351/"
+        "name": "Manish Sharma",
+        "link": "https://www.pexels.com/@manish-sharma-1900698",
+        "photoLink": "https://www.pexels.com/photo/delicate-pink-rose-with-dew-in-soft-light-40694676/"
       }
     },
     {
       "prompt": "vintage workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "34149254",
+      "url": "https://images.pexels.com/photos/34149254/pexels-photo-34149254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34149254/pexels-photo-34149254.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
+      "color": "#503927",
+      "alt": "Old iron weights on a wooden table in a rustic workshop. Perfect for vintage themes.",
       "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
+        "name": "Çağrı Selçuk",
+        "link": "https://www.pexels.com/@cagri-selcuk-526331916",
+        "photoLink": "https://www.pexels.com/photo/rustic-weights-in-vintage-workshop-setting-34149254/"
       }
     },
     {
-      "prompt": "minimalist still life",
-      "id": "10016503",
-      "url": "https://images.pexels.com/photos/10016503/pexels-photo-10016503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10016503/pexels-photo-10016503.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3650,
-      "height": 2232,
-      "color": "#CD2D1D",
-      "alt": "Vibrant red background featuring a delicate berry twig, a study in minimalism and bold color.",
+      "prompt": "quiet stone architecture",
+      "id": "6876580",
+      "url": "https://images.pexels.com/photos/6876580/pexels-photo-6876580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6876580/pexels-photo-6876580.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5791,
+      "height": 3861,
+      "color": "#4F565D",
+      "alt": "A serene stone alleyway in Bana Hills, Vietnam, enveloped in fog with lush greenery.",
       "credit": {
-        "name": "le john",
-        "link": "https://www.pexels.com/@le-john-75311609",
-        "photoLink": "https://www.pexels.com/photo/twig-on-red-background-10016503/"
+        "name": "Quang Nguyen Vinh",
+        "link": "https://www.pexels.com/@quang-nguyen-vinh-222549",
+        "photoLink": "https://www.pexels.com/photo/an-empty-street-6876580/"
+      }
+    },
+    {
+      "prompt": "urban concrete textures",
+      "id": "13023755",
+      "url": "https://images.pexels.com/photos/13023755/pexels-photo-13023755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13023755/pexels-photo-13023755.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#A2A19D",
+      "alt": "Close-up of a textured gray concrete wall, ideal for backgrounds and design elements.",
+      "credit": {
+        "name": "Ani Nedkova",
+        "link": "https://www.pexels.com/@ani-nedkova-3768341",
+        "photoLink": "https://www.pexels.com/photo/a-gray-concrete-wall-13023755/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "20937747",
+      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3954,
+      "height": 2666,
+      "color": "#98A2A4",
+      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "credit": {
+        "name": "Nam Quân Nguyễn",
+        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
+        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "34860693",
+      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#2D4255",
+      "alt": "Close-up of blue textile with textured surface and subtle folds.",
+      "credit": {
+        "name": "Robert Grant",
+        "link": "https://www.pexels.com/@robertgrantnet",
+        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
       }
     }
   ]
