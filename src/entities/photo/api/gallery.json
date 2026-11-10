@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-10T09:15:49.798Z",
+  "generatedAt": "2026-11-10T17:29:11.277Z",
   "photos": [
     {
-      "prompt": "rusty workshop tools",
-      "id": "11966615",
-      "url": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "analogue film grain",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "credit": {
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "35197904",
+      "url": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7952,
+      "height": 4472,
+      "color": "#23541C",
+      "alt": "Captivating macro shot showcasing the intricate veining of a green leaf.",
+      "credit": {
+        "name": "Damir K",
+        "link": "https://www.pexels.com/@damir",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-a-vibrant-green-leaf-vein-35197904/"
+      }
+    },
+    {
+      "prompt": "quiet courtyard architecture",
+      "id": "36471383",
+      "url": "https://images.pexels.com/photos/36471383/pexels-photo-36471383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36471383/pexels-photo-36471383.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#412814",
-      "alt": "A nostalgic view of an old workshop, showcasing vintage tools and machinery against a timeworn backdrop.",
+      "color": "#58504D",
+      "alt": "Peaceful stone courtyard with arched entrances and central tree, showcasing historical architecture.",
       "credit": {
-        "name": "Barbaros Gültekin",
-        "link": "https://www.pexels.com/@barbarosgultekin",
-        "photoLink": "https://www.pexels.com/photo/old-and-rusty-hand-tools-11966615/"
+        "name": "Tahir Xəlfəquliyev",
+        "link": "https://www.pexels.com/@tahir",
+        "photoLink": "https://www.pexels.com/photo/historic-stone-courtyard-with-arched-entrances-36471383/"
       }
     },
     {
-      "prompt": "urban brick wall",
-      "id": "1227515",
-      "url": "https://images.pexels.com/photos/1227515/pexels-photo-1227515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/1227515/pexels-photo-1227515.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#A98366",
-      "alt": "Detailed image of a textured red brick wall with a concrete base, ideal for architectural and design backgrounds.",
+      "prompt": "vintage workshop tools",
+      "id": "30335395",
+      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7728,
+      "height": 5152,
+      "color": "#302E22",
+      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
       "credit": {
-        "name": "ShonEjai",
-        "link": "https://www.pexels.com/@shonejai-445753",
-        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-1227515/"
+        "name": "Sami TÜRK",
+        "link": "https://www.pexels.com/@trksami",
+        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
       }
     },
     {
-      "prompt": "minimal desk setup",
-      "id": "8473794",
-      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#B7AB95",
-      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
+      "prompt": "morning light interior",
+      "id": "2889618",
+      "url": "https://images.pexels.com/photos/2889618/pexels-photo-2889618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/2889618/pexels-photo-2889618.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5628,
+      "height": 3752,
+      "color": "#5B4227",
+      "alt": "A contemporary hotel room draped in warm morning light casting shadows on the wall.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
+        "name": "Lukas Rychvalsky",
+        "link": "https://www.pexels.com/@lukas-rychvalsky",
+        "photoLink": "https://www.pexels.com/photo/white-and-black-curtains-2889618/"
       }
     },
     {
-      "prompt": "coastal storm clouds",
-      "id": "14920358",
-      "url": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5978,
-      "height": 3991,
-      "color": "#445660",
-      "alt": "Moody seascape with storm clouds looming over rocky coastline and driftwood on sandy beach.",
+      "prompt": "still life arrangement",
+      "id": "12042192",
+      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5686,
+      "height": 3887,
+      "color": "#262624",
+      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
       "credit": {
-        "name": "Connor Scott McManus",
-        "link": "https://www.pexels.com/@connorscottmcmanus",
-        "photoLink": "https://www.pexels.com/photo/storm-clouds-gathering-over-the-sea-14920358/"
-      }
-    },
-    {
-      "prompt": "botanical leaf macro",
-      "id": "32616991",
-      "url": "https://images.pexels.com/photos/32616991/pexels-photo-32616991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32616991/pexels-photo-32616991.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#586F37",
-      "alt": "Macro shot of textured green leaves illuminated by sunlight, showcasing natural beauty and detail.",
-      "credit": {
-        "name": "Mikhail Peace",
-        "link": "https://www.pexels.com/@mikhail-peace-939247406",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaves-in-sunlight-32616991/"
-      }
-    },
-    {
-      "prompt": "nordic wood interior",
-      "id": "31092898",
-      "url": "https://images.pexels.com/photos/31092898/pexels-photo-31092898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31092898/pexels-photo-31092898.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7008,
-      "height": 4672,
-      "color": "#675048",
-      "alt": "Elegant Nordic sauna interior featuring wooden benches and modern sauna heater.",
-      "credit": {
-        "name": "HUUM  │sauna heaters",
-        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
-        "photoLink": "https://www.pexels.com/photo/nordic-style-sauna-interior-with-wooden-benches-31092898/"
+        "name": "Gintare Baradinske",
+        "link": "https://www.pexels.com/@gintare",
+        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
       }
     }
   ]
