@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-10T01:52:52.592Z",
+  "generatedAt": "2026-11-10T09:15:49.798Z",
   "photos": [
     {
-      "prompt": "minimal desk",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
+      "prompt": "rusty workshop tools",
+      "id": "11966615",
+      "url": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11966615/pexels-photo-11966615.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#412814",
+      "alt": "A nostalgic view of an old workshop, showcasing vintage tools and machinery against a timeworn backdrop.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
+        "name": "Barbaros Gültekin",
+        "link": "https://www.pexels.com/@barbarosgultekin",
+        "photoLink": "https://www.pexels.com/photo/old-and-rusty-hand-tools-11966615/"
       }
     },
     {
-      "prompt": "quiet architecture",
-      "id": "12175481",
-      "url": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12175481/pexels-photo-12175481.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 3024,
-      "color": "#D0D1D3",
-      "alt": "Low angle view of modern white building with pillars in snowy weather, showcasing minimalist design.",
+      "prompt": "urban brick wall",
+      "id": "1227515",
+      "url": "https://images.pexels.com/photos/1227515/pexels-photo-1227515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/1227515/pexels-photo-1227515.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#A98366",
+      "alt": "Detailed image of a textured red brick wall with a concrete base, ideal for architectural and design backgrounds.",
       "credit": {
-        "name": "alexander ermakov",
-        "link": "https://www.pexels.com/@ermakov",
-        "photoLink": "https://www.pexels.com/photo/concrete-building-with-pillars-12175481/"
+        "name": "ShonEjai",
+        "link": "https://www.pexels.com/@shonejai-445753",
+        "photoLink": "https://www.pexels.com/photo/brown-brick-wall-1227515/"
       }
     },
     {
-      "prompt": "urban texture",
-      "id": "30397830",
-      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#C2BEBB",
-      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
+      "prompt": "minimal desk setup",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "linen wood",
-      "id": "545046",
-      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4460,
-      "height": 2974,
-      "color": "#CEBBA8",
-      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
+      "prompt": "coastal storm clouds",
+      "id": "14920358",
+      "url": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14920358/pexels-photo-14920358.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5978,
+      "height": 3991,
+      "color": "#445660",
+      "alt": "Moody seascape with storm clouds looming over rocky coastline and driftwood on sandy beach.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
+        "name": "Connor Scott McManus",
+        "link": "https://www.pexels.com/@connorscottmcmanus",
+        "photoLink": "https://www.pexels.com/photo/storm-clouds-gathering-over-the-sea-14920358/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "24603870",
-      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3018,
-      "color": "#8E9196",
-      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
+      "prompt": "botanical leaf macro",
+      "id": "32616991",
+      "url": "https://images.pexels.com/photos/32616991/pexels-photo-32616991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32616991/pexels-photo-32616991.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 3000,
+      "color": "#586F37",
+      "alt": "Macro shot of textured green leaves illuminated by sunlight, showcasing natural beauty and detail.",
       "credit": {
-        "name": "Olga Prilepskaya",
-        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
+        "name": "Mikhail Peace",
+        "link": "https://www.pexels.com/@mikhail-peace-939247406",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaves-in-sunlight-32616991/"
       }
     },
     {
-      "prompt": "still life",
-      "id": "207116",
-      "url": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#1E1B0F",
-      "alt": "A refined still life featuring Talisker whisky, floral arrangement, and vintage decor.",
+      "prompt": "nordic wood interior",
+      "id": "31092898",
+      "url": "https://images.pexels.com/photos/31092898/pexels-photo-31092898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31092898/pexels-photo-31092898.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#675048",
+      "alt": "Elegant Nordic sauna interior featuring wooden benches and modern sauna heater.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/yellow-and-pink-roses-in-vase-beside-wine-bottle-close-up-photography-207116/"
+        "name": "HUUM  │sauna heaters",
+        "link": "https://www.pexels.com/@huum-sauna-heaters-718199222",
+        "photoLink": "https://www.pexels.com/photo/nordic-style-sauna-interior-with-wooden-benches-31092898/"
       }
     }
   ]
