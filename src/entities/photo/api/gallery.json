@@ -1,64 +1,19 @@
 {
-  "generatedAt": "2026-11-09T18:19:18.236Z",
+  "generatedAt": "2026-11-10T01:52:52.592Z",
   "photos": [
     {
-      "prompt": "urban texture",
-      "id": "9756577",
-      "url": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9756577/pexels-photo-9756577.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 8192,
-      "height": 5464,
-      "color": "#838A9C",
-      "alt": "Detailed photograph of a weathered wall with peeling blue and yellow paint, showcasing abstract textures.",
+      "prompt": "minimal desk",
+      "id": "8092461",
+      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CEC8C8",
+      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
       "credit": {
-        "name": "Engin Akyurt",
-        "link": "https://www.pexels.com/@enginakyurt",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-a-textured-surface-9756577/"
-      }
-    },
-    {
-      "prompt": "linen wood surface",
-      "id": "7533977",
-      "url": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7533977/pexels-photo-7533977.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2592,
-      "height": 1728,
-      "color": "#CCBDA7",
-      "alt": "Detailed close-up of soft beige fabric showing texture and stitching.",
-      "credit": {
-        "name": "amanda cavalcante",
-        "link": "https://www.pexels.com/@amandaaaaaaaa",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-white-fabric-7533977/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
-      "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "30236967",
-      "url": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30236967/pexels-photo-30236967.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5328,
-      "height": 4000,
-      "color": "#E8E3E0",
-      "alt": "Artistic still life featuring ceramics, books, and a bust for a classic look.",
-      "credit": {
-        "name": "İrem Dur",
-        "link": "https://www.pexels.com/@i-rem-dur-1175044181",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-ceramic-and-books-30236967/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
       }
     },
     {
@@ -77,18 +32,63 @@
       }
     },
     {
-      "prompt": "minimal desk",
-      "id": "8473795",
-      "url": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473795/pexels-photo-8473795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#BAB7A8",
-      "alt": "A clean and modern minimalist workspace featuring a laptop, cactus, and decorative elements on a white desk.",
+      "prompt": "urban texture",
+      "id": "30397830",
+      "url": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30397830/pexels-photo-30397830.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2268,
+      "color": "#C2BEBB",
+      "alt": "Detailed texture of a weathered concrete wall featuring peeling paint and abstract patterns.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-sticky-notes-on-a-desk-8473795/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/weathered-concrete-wall-with-peeling-paint-texture-30397830/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "545046",
+      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4460,
+      "height": 2974,
+      "color": "#CEBBA8",
+      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
+      "credit": {
+        "name": "Burst",
+        "link": "https://www.pexels.com/@burst",
+        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "24603870",
+      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3018,
+      "color": "#8E9196",
+      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
+      "credit": {
+        "name": "Olga Prilepskaya",
+        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
+        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
+      }
+    },
+    {
+      "prompt": "still life",
+      "id": "207116",
+      "url": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/207116/pexels-photo-207116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4256,
+      "height": 2832,
+      "color": "#1E1B0F",
+      "alt": "A refined still life featuring Talisker whisky, floral arrangement, and vintage decor.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/yellow-and-pink-roses-in-vase-beside-wine-bottle-close-up-photography-207116/"
       }
     }
   ]
