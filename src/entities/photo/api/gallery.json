@@ -1,53 +1,23 @@
 {
-  "generatedAt": "2026-11-10T17:29:11.277Z",
+  "generatedAt": "2026-11-10T22:50:25.734Z",
   "photos": [
     {
-      "prompt": "analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
-      "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "35197904",
-      "url": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35197904/pexels-photo-35197904.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7952,
-      "height": 4472,
-      "color": "#23541C",
-      "alt": "Captivating macro shot showcasing the intricate veining of a green leaf.",
-      "credit": {
-        "name": "Damir K",
-        "link": "https://www.pexels.com/@damir",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-a-vibrant-green-leaf-vein-35197904/"
-      }
-    },
-    {
-      "prompt": "quiet courtyard architecture",
-      "id": "36471383",
-      "url": "https://images.pexels.com/photos/36471383/pexels-photo-36471383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36471383/pexels-photo-36471383.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet architecture",
+      "id": "30227710",
+      "url": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#58504D",
-      "alt": "Peaceful stone courtyard with arched entrances and central tree, showcasing historical architecture.",
+      "color": "#3B586A",
+      "alt": "Sharp angles of a minimalist building against a clear blue sky, showcasing modern design.",
       "credit": {
-        "name": "Tahir Xəlfəquliyev",
-        "link": "https://www.pexels.com/@tahir",
-        "photoLink": "https://www.pexels.com/photo/historic-stone-courtyard-with-arched-entrances-36471383/"
+        "name": "Matthew Jesús",
+        "link": "https://www.pexels.com/@matthew-jesus-468170389",
+        "photoLink": "https://www.pexels.com/photo/minimalist-modern-architecture-against-blue-sky-30227710/"
       }
     },
     {
-      "prompt": "vintage workshop tools",
+      "prompt": "workshop tools",
       "id": "30335395",
       "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -62,33 +32,63 @@
       }
     },
     {
-      "prompt": "morning light interior",
-      "id": "2889618",
-      "url": "https://images.pexels.com/photos/2889618/pexels-photo-2889618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2889618/pexels-photo-2889618.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5628,
-      "height": 3752,
-      "color": "#5B4227",
-      "alt": "A contemporary hotel room draped in warm morning light casting shadows on the wall.",
+      "prompt": "nordic interior",
+      "id": "7055629",
+      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5834,
+      "height": 3895,
+      "color": "#7D756D",
+      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
       "credit": {
-        "name": "Lukas Rychvalsky",
-        "link": "https://www.pexels.com/@lukas-rychvalsky",
-        "photoLink": "https://www.pexels.com/photo/white-and-black-curtains-2889618/"
+        "name": "Pavel Danilyuk",
+        "link": "https://www.pexels.com/@pavel-danilyuk",
+        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "12042192",
-      "url": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12042192/pexels-photo-12042192.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5686,
-      "height": 3887,
-      "color": "#262624",
-      "alt": "A stunning bouquet of lilac, lavender, and other flowers against a dark background.",
+      "prompt": "urban textures",
+      "id": "11897600",
+      "url": "https://images.pexels.com/photos/11897600/pexels-photo-11897600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11897600/pexels-photo-11897600.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 1840,
+      "color": "#9A898F",
+      "alt": "Aged concrete wall with faded red typography, perfect for grunge backgrounds.",
       "credit": {
-        "name": "Gintare Baradinske",
-        "link": "https://www.pexels.com/@gintare",
-        "photoLink": "https://www.pexels.com/photo/a-purple-and-white-flower-bouquet-12042192/"
+        "name": "Krakograff Textures",
+        "link": "https://www.pexels.com/@krakograff-textures-124842124",
+        "photoLink": "https://www.pexels.com/photo/red-and-white-i-m-a-little-print-11897600/"
+      }
+    },
+    {
+      "prompt": "analogue film grain",
+      "id": "17775539",
+      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3091,
+      "height": 2048,
+      "color": "#DEE0DD",
+      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
+      "credit": {
+        "name": "Tom McCarten",
+        "link": "https://www.pexels.com/@tom-mccarten-664869279",
+        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "35228360",
+      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 2688,
+      "color": "#5F4632",
+      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "credit": {
+        "name": "Meltem  B.",
+        "link": "https://www.pexels.com/@meltem-b-300284420",
+        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
       }
     }
   ]
