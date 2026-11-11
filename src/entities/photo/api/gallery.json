@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-11T10:20:04.134Z",
+  "generatedAt": "2026-11-11T18:23:24.292Z",
   "photos": [
     {
-      "prompt": "workshop tools",
-      "id": "7484795",
-      "url": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5968,
-      "height": 3979,
-      "color": "#BBB5A9",
-      "alt": "Neatly organized tools hanging on a workshop wall, including hammers and scissors.",
+      "prompt": "linen wood texture",
+      "id": "34860693",
+      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#2D4255",
+      "alt": "Close-up of blue textile with textured surface and subtle folds.",
+      "credit": {
+        "name": "Robert Grant",
+        "link": "https://www.pexels.com/@robertgrantnet",
+        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
+      }
+    },
+    {
+      "prompt": "quiet architectural hallway",
+      "id": "31716253",
+      "url": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7255,
+      "height": 4842,
+      "color": "#0E1118",
+      "alt": "View of a historic gothic church corridor in Basel, showcasing architectural beauty.",
+      "credit": {
+        "name": "Ramon Karolan",
+        "link": "https://www.pexels.com/@ramonkaphotography",
+        "photoLink": "https://www.pexels.com/photo/gothic-church-corridor-in-basel-switzerland-31716253/"
+      }
+    },
+    {
+      "prompt": "still life arrangement",
+      "id": "31998295",
+      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5398,
+      "height": 4000,
+      "color": "#352315",
+      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
+      "credit": {
+        "name": "Alejandra Figueroa Ordoñez",
+        "link": "https://www.pexels.com/@afigueroaa",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
+      }
+    },
+    {
+      "prompt": "morning light interior",
+      "id": "5519987",
+      "url": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 3456,
+      "color": "#86643B",
+      "alt": "Three wooden chairs with shadows against a sunlit wall in a calm and minimalist interior setting.",
+      "credit": {
+        "name": "zahra Moradkhani",
+        "link": "https://www.pexels.com/@zahra-moradkhani-3682605",
+        "photoLink": "https://www.pexels.com/photo/chairs-standing-by-the-wall-with-window-throwing-shadow-on-it-5519987/"
+      }
+    },
+    {
+      "prompt": "urban concrete texture",
+      "id": "3964653",
+      "url": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4240,
+      "height": 2832,
+      "color": "#A8A5A1",
+      "alt": "Close-up view of a rough textured concrete wall, ideal for backgrounds.",
+      "credit": {
+        "name": "ready made",
+        "link": "https://www.pexels.com/@readymade",
+        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-3964653/"
+      }
+    },
+    {
+      "prompt": "workshop tool set",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
       "credit": {
         "name": "cottonbro studio",
         "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/hammer-and-mallets-hanging-on-the-wall-7484795/"
-      }
-    },
-    {
-      "prompt": "minimal desk",
-      "id": "8092312",
-      "url": "https://images.pexels.com/photos/8092312/pexels-photo-8092312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092312/pexels-photo-8092312.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CACAC8",
-      "alt": "Elegant white desk setup with potted plants and white carnations, exuding a minimal and clean aesthetic.",
-      "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/a-green-plants-on-a-white-wooden-drawer-8092312/"
-      }
-    },
-    {
-      "prompt": "handmade ceramics",
-      "id": "9304500",
-      "url": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9304500/pexels-photo-9304500.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5539,
-      "height": 3694,
-      "color": "#A17E2D",
-      "alt": "Flat lay of handmade ceramic bowls and a cotton twig on vibrant fabric.",
-      "credit": {
-        "name": "Mikhail Nilov",
-        "link": "https://www.pexels.com/@mikhail-nilov",
-        "photoLink": "https://www.pexels.com/photo/twig-with-white-flowers-between-handmade-dishes-9304500/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
-      "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "2463329",
-      "url": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/2463329/pexels-photo-2463329.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#6A7681",
-      "alt": "Rough concrete wall texture with faint graffiti heart shape, ideal for backgrounds.",
-      "credit": {
-        "name": "Archie Binamira",
-        "link": "https://www.pexels.com/@chiecharon",
-        "photoLink": "https://www.pexels.com/photo/concrete-wall-2463329/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "38958556",
-      "url": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38958556/pexels-photo-38958556.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#6C4E12",
-      "alt": "Beautiful play of light and shadow from arched windows in Istanbul.",
-      "credit": {
-        "name": "meryem",
-        "link": "https://www.pexels.com/@meryem-2157128767",
-        "photoLink": "https://www.pexels.com/photo/sunlit-arch-windows-casting-elegant-shadows-38958556/"
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
       }
     }
   ]
