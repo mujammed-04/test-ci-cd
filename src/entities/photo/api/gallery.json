@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-10T22:50:25.734Z",
+  "generatedAt": "2026-11-11T02:31:44.319Z",
   "photos": [
     {
-      "prompt": "quiet architecture",
-      "id": "30227710",
-      "url": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30227710/pexels-photo-30227710.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#3B586A",
-      "alt": "Sharp angles of a minimalist building against a clear blue sky, showcasing modern design.",
+      "prompt": "minimal desk",
+      "id": "4884116",
+      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#B1B6B7",
+      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
       "credit": {
-        "name": "Matthew Jesús",
-        "link": "https://www.pexels.com/@matthew-jesus-468170389",
-        "photoLink": "https://www.pexels.com/photo/minimalist-modern-architecture-against-blue-sky-30227710/"
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "39400251",
+      "url": "https://images.pexels.com/photos/39400251/pexels-photo-39400251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39400251/pexels-photo-39400251.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5029,
+      "height": 2829,
+      "color": "#C7D6DB",
+      "alt": "Minimalist structure with geometric design in Lisbon's Parque das Nações, Portugal",
+      "credit": {
+        "name": "Igor Passchier",
+        "link": "https://www.pexels.com/@igor-passchier-111147847",
+        "photoLink": "https://www.pexels.com/photo/modern-architecture-at-parque-das-nacoes-lisbon-39400251/"
       }
     },
     {
       "prompt": "workshop tools",
-      "id": "30335395",
-      "url": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30335395/pexels-photo-30335395.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7728,
-      "height": 5152,
-      "color": "#302E22",
-      "alt": "A rustic industrial workshop filled with vintage machinery and tools.",
+      "id": "7540627",
+      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#362E25",
+      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
       "credit": {
-        "name": "Sami TÜRK",
-        "link": "https://www.pexels.com/@trksami",
-        "photoLink": "https://www.pexels.com/photo/industrial-workshop-with-vintage-machinery-30335395/"
-      }
-    },
-    {
-      "prompt": "nordic interior",
-      "id": "7055629",
-      "url": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7055629/pexels-photo-7055629.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5834,
-      "height": 3895,
-      "color": "#7D756D",
-      "alt": "Elegant rustic living room featuring a brick fireplace, wicker armchair, and vintage decor.",
-      "credit": {
-        "name": "Pavel Danilyuk",
-        "link": "https://www.pexels.com/@pavel-danilyuk",
-        "photoLink": "https://www.pexels.com/photo/armchair-beside-a-fireplace-7055629/"
-      }
-    },
-    {
-      "prompt": "urban textures",
-      "id": "11897600",
-      "url": "https://images.pexels.com/photos/11897600/pexels-photo-11897600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/11897600/pexels-photo-11897600.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 1840,
-      "color": "#9A898F",
-      "alt": "Aged concrete wall with faded red typography, perfect for grunge backgrounds.",
-      "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/red-and-white-i-m-a-little-print-11897600/"
-      }
-    },
-    {
-      "prompt": "analogue film grain",
-      "id": "17775539",
-      "url": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17775539/pexels-photo-17775539.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3091,
-      "height": 2048,
-      "color": "#DEE0DD",
-      "alt": "Abstract image illustrating the end of a film roll in analog photography.",
-      "credit": {
-        "name": "Tom McCarten",
-        "link": "https://www.pexels.com/@tom-mccarten-664869279",
-        "photoLink": "https://www.pexels.com/photo/abstract-analog-photography-end-of-roll-17775539/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
       }
     },
     {
       "prompt": "morning light",
-      "id": "35228360",
-      "url": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#5F4632",
-      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner.",
+      "id": "11156146",
+      "url": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/11156146/pexels-photo-11156146.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5784,
+      "height": 3856,
+      "color": "#956D49",
+      "alt": "Tranquil sunrise over a misty field with bare trees and a winding dirt road.",
       "credit": {
-        "name": "Meltem  B.",
-        "link": "https://www.pexels.com/@meltem-b-300284420",
-        "photoLink": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/"
+        "name": "Amir H. Bakhtiari",
+        "link": "https://www.pexels.com/@amir-h-bakhtiari-254523",
+        "photoLink": "https://www.pexels.com/photo/leafless-trees-near-dirt-road-11156146/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "37173282",
+      "url": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173282/pexels-photo-37173282.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4776,
+      "height": 3712,
+      "color": "#BABABA",
+      "alt": "Elegant white staircase with dried flowers and a glass lantern, showcasing a modern minimalist design.",
+      "credit": {
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/minimalist-white-interior-with-dried-flowers-37173282/"
+      }
+    },
+    {
+      "prompt": "analog film grain",
+      "id": "33276114",
+      "url": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33276114/pexels-photo-33276114.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2500,
+      "height": 1678,
+      "color": "#7F645D",
+      "alt": "Close-up of hands holding a film strip, vintage aesthetic with red tones.",
+      "credit": {
+        "name": "Şeyma Emine  TAMER GÜL",
+        "link": "https://www.pexels.com/@seyma-emine-tamer-gul-2154462601",
+        "photoLink": "https://www.pexels.com/photo/vintage-style-hands-holding-a-film-strip-33276114/"
       }
     }
   ]
