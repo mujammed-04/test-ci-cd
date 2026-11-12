@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-12T09:17:50.199Z",
+  "generatedAt": "2026-11-12T17:55:14.647Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "7561304",
-      "url": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7561304/pexels-photo-7561304.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5647,
-      "height": 3757,
-      "color": "#C3C2C2",
-      "alt": "Elderly woman relaxing on a modern white sofa with a minimalist design theme.",
+      "prompt": "linen wood",
+      "id": "17994857",
+      "url": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17994857/pexels-photo-17994857.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7008,
+      "height": 4672,
+      "color": "#968677",
+      "alt": "A warm, inviting bedroom with modern decor and soft lighting, perfect for relaxation.",
       "credit": {
-        "name": "SHVETS production",
-        "link": "https://www.pexels.com/@shvets-production",
-        "photoLink": "https://www.pexels.com/photo/a-woman-in-white-reclining-on-white-couch-using-a-laptop-7561304/"
+        "name": "Osmany Mederos",
+        "link": "https://www.pexels.com/@osmany-mederos-211956483",
+        "photoLink": "https://www.pexels.com/photo/bed-in-hotel-17994857/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "32909013",
-      "url": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/32909013/pexels-photo-32909013.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#8A8A8A",
-      "alt": "A captivating abstract image showcasing black and white film grain texture, creating a vintage feel.",
+      "prompt": "botanical detail",
+      "id": "6142130",
+      "url": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6142130/pexels-photo-6142130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#333E39",
+      "alt": "Closeup of abstract blurred green leaves with white stems of plant growing in garden",
       "credit": {
-        "name": "Faruk Canpolat",
-        "link": "https://www.pexels.com/@farukcanpolat",
-        "photoLink": "https://www.pexels.com/photo/abstract-black-and-white-film-grain-texture-32909013/"
+        "name": "Diana ✨",
+        "link": "https://www.pexels.com/@didsss",
+        "photoLink": "https://www.pexels.com/photo/blurred-green-leaves-of-plants-6142130/"
       }
     },
     {
-      "prompt": "Urban texture",
-      "id": "30397833",
-      "url": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30397833/pexels-photo-30397833.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2268,
-      "color": "#B4B1AC",
-      "alt": "Close-up of a weathered wall showing peeling paint and cracked textures, ideal for backgrounds.",
+      "prompt": "still life",
+      "id": "8177774",
+      "url": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8177774/pexels-photo-8177774.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6403,
+      "height": 4269,
+      "color": "#5A4C3F",
+      "alt": "Classic still life featuring fruits and flowers on a table with soft lighting.",
       "credit": {
-        "name": "Krakograff Textures",
-        "link": "https://www.pexels.com/@krakograff-textures-124842124",
-        "photoLink": "https://www.pexels.com/photo/weathered-wall-with-peeling-paint-texture-30397833/"
+        "name": "cottonbro studio",
+        "link": "https://www.pexels.com/@cottonbro",
+        "photoLink": "https://www.pexels.com/photo/fruits-and-flowers-on-table-8177774/"
       }
     },
     {
-      "prompt": "Handmade ceramic bowl",
-      "id": "3847451",
-      "url": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3847451/pexels-photo-3847451.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "analogue film grain",
+      "id": "209724",
+      "url": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/209724/pexels-photo-209724.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#655F62",
-      "alt": "A variety of stylish ceramic dishware including bowls, cups, and plates arranged artistically on a table.",
+      "color": "#817166",
+      "alt": "Classic vintage camera on a rustic wooden surface, evoking nostalgia and history.",
       "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/colorful-dishware-3847451/"
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/black-milc-on-brown-panel-209724/"
       }
     },
     {
-      "prompt": "Morning light",
-      "id": "39002189",
-      "url": "https://images.pexels.com/photos/39002189/pexels-photo-39002189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39002189/pexels-photo-39002189.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4256,
-      "height": 2832,
-      "color": "#717264",
-      "alt": "Elegant sunlight patterns on a lace curtain and chair, creating a serene indoor atmosphere.",
+      "prompt": "morning light",
+      "id": "8358607",
+      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5329,
+      "height": 4000,
+      "color": "#807863",
+      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
       "credit": {
-        "name": "Alexander Zvir",
-        "link": "https://www.pexels.com/@algrey",
-        "photoLink": "https://www.pexels.com/photo/sunlight-patterns-on-curtain-and-chair-39002189/"
+        "name": "Kübra Arslaner",
+        "link": "https://www.pexels.com/@nediyodukenson",
+        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "545046",
-      "url": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/545046/pexels-photo-545046.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4460,
-      "height": 2974,
-      "color": "#CEBBA8",
-      "alt": "A modern bedroom setup featuring a wooden bed, stylish lamp, and round side table with a plant.",
+      "prompt": "coastal weather",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
       "credit": {
-        "name": "Burst",
-        "link": "https://www.pexels.com/@burst",
-        "photoLink": "https://www.pexels.com/photo/bed-bedroom-comfort-contemporary-545046/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
       }
     }
   ]
