@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-11T18:23:24.292Z",
+  "generatedAt": "2026-11-12T01:18:43.277Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34860693",
-      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#2D4255",
-      "alt": "Close-up of blue textile with textured surface and subtle folds.",
-      "credit": {
-        "name": "Robert Grant",
-        "link": "https://www.pexels.com/@robertgrantnet",
-        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
-      }
-    },
-    {
-      "prompt": "quiet architectural hallway",
-      "id": "31716253",
-      "url": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31716253/pexels-photo-31716253.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7255,
-      "height": 4842,
-      "color": "#0E1118",
-      "alt": "View of a historic gothic church corridor in Basel, showcasing architectural beauty.",
-      "credit": {
-        "name": "Ramon Karolan",
-        "link": "https://www.pexels.com/@ramonkaphotography",
-        "photoLink": "https://www.pexels.com/photo/gothic-church-corridor-in-basel-switzerland-31716253/"
-      }
-    },
-    {
-      "prompt": "still life arrangement",
-      "id": "31998295",
-      "url": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/31998295/pexels-photo-31998295.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5398,
-      "height": 4000,
-      "color": "#352315",
-      "alt": "Moody still life of a flower vase, French press, and pottery on textured background.",
-      "credit": {
-        "name": "Alejandra Figueroa Ordoñez",
-        "link": "https://www.pexels.com/@afigueroaa",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-flower-and-french-press-31998295/"
-      }
-    },
-    {
-      "prompt": "morning light interior",
-      "id": "5519987",
-      "url": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5519987/pexels-photo-5519987.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "delicate fern texture",
+      "id": "5277397",
+      "url": "https://images.pexels.com/photos/5277397/pexels-photo-5277397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5277397/pexels-photo-5277397.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 5184,
       "height": 3456,
-      "color": "#86643B",
-      "alt": "Three wooden chairs with shadows against a sunlit wall in a calm and minimalist interior setting.",
+      "color": "#62624A",
+      "alt": "Closeup of green fern leaves with veins and pointed surface growing in rainforest",
       "credit": {
-        "name": "zahra Moradkhani",
-        "link": "https://www.pexels.com/@zahra-moradkhani-3682605",
-        "photoLink": "https://www.pexels.com/photo/chairs-standing-by-the-wall-with-window-throwing-shadow-on-it-5519987/"
+        "name": "Lucas Pezeta",
+        "link": "https://www.pexels.com/@lucaspezeta",
+        "photoLink": "https://www.pexels.com/photo/green-leaves-of-herbal-plant-in-forest-5277397/"
       }
     },
     {
-      "prompt": "urban concrete texture",
-      "id": "3964653",
-      "url": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3964653/pexels-photo-3964653.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4240,
-      "height": 2832,
-      "color": "#A8A5A1",
-      "alt": "Close-up view of a rough textured concrete wall, ideal for backgrounds.",
-      "credit": {
-        "name": "ready made",
-        "link": "https://www.pexels.com/@readymade",
-        "photoLink": "https://www.pexels.com/photo/white-and-gray-concrete-wall-3964653/"
-      }
-    },
-    {
-      "prompt": "workshop tool set",
-      "id": "7540627",
-      "url": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7540627/pexels-photo-7540627.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "crisp coastal haze",
+      "id": "21530649",
+      "url": "https://images.pexels.com/photos/21530649/pexels-photo-21530649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/21530649/pexels-photo-21530649.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6240,
       "height": 4160,
-      "color": "#362E25",
-      "alt": "Close-up view of wrenches placed on a textured surface in a workshop setting.",
+      "color": "#71796A",
+      "alt": "Abstract view of an island in a misty seascape, creating an ethereal and tranquil ambiance.",
       "credit": {
-        "name": "cottonbro studio",
-        "link": "https://www.pexels.com/@cottonbro",
-        "photoLink": "https://www.pexels.com/photo/close-up-photograph-of-wrenches-7540627/"
+        "name": "Robert Clark",
+        "link": "https://www.pexels.com/@robert-clark-504241532",
+        "photoLink": "https://www.pexels.com/photo/tropical-monsoon-21530649/"
+      }
+    },
+    {
+      "prompt": "soft sunrise glow",
+      "id": "32047103",
+      "url": "https://images.pexels.com/photos/32047103/pexels-photo-32047103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/32047103/pexels-photo-32047103.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6128,
+      "height": 4086,
+      "color": "#807070",
+      "alt": "Peaceful early morning view of soft pink sky at sunrise over Cove Island Park, Stamford.",
+      "credit": {
+        "name": "David Kanigan",
+        "link": "https://www.pexels.com/@david-kanigan-239927285",
+        "photoLink": "https://www.pexels.com/photo/serene-sunrise-over-cove-island-park-connecticut-32047103/"
+      }
+    },
+    {
+      "prompt": "handcrafted ceramic bowl",
+      "id": "8063833",
+      "url": "https://images.pexels.com/photos/8063833/pexels-photo-8063833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8063833/pexels-photo-8063833.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5616,
+      "height": 3744,
+      "color": "#555555",
+      "alt": "Black and white image of ceramic bowls and pots in artistic arrangement.",
+      "credit": {
+        "name": "ROMAN ODINTSOV",
+        "link": "https://www.pexels.com/@roman-odintsov",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-ceramic-clay-bowl-8063833/"
+      }
+    },
+    {
+      "prompt": "minimalist wooden desk",
+      "id": "17198943",
+      "url": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17198943/pexels-photo-17198943.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5547,
+      "height": 3698,
+      "color": "#625D57",
+      "alt": "A minimalist workspace featuring a smartphone, keyboard, and mouse on a wooden desk.",
+      "credit": {
+        "name": "Ionela Mat",
+        "link": "https://www.pexels.com/@ionela-mat-268382825",
+        "photoLink": "https://www.pexels.com/photo/apple-electronics-on-table-17198943/"
+      }
+    },
+    {
+      "prompt": "vintage film grain",
+      "id": "7399857",
+      "url": "https://images.pexels.com/photos/7399857/pexels-photo-7399857.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7399857/pexels-photo-7399857.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 3008,
+      "height": 1995,
+      "color": "#999282",
+      "alt": "A sunlit urban street showcasing classic European architecture with autumn trees lining the road.",
+      "credit": {
+        "name": "Whicdhemein One",
+        "link": "https://www.pexels.com/@whicdhemein-one-3020162",
+        "photoLink": "https://www.pexels.com/photo/analog-photograph-of-a-city-street-in-autumn-7399857/"
       }
     }
   ]
