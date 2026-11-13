@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-12T23:13:32.657Z",
+  "generatedAt": "2026-11-13T05:05:00.948Z",
   "photos": [
     {
-      "prompt": "Nordic interior",
-      "id": "6952331",
-      "url": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6952331/pexels-photo-6952331.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6610,
-      "height": 4407,
-      "color": "#BDB2A8",
-      "alt": "A collection of elegant minimalist ceramic vases on a white surface, perfect for modern home decor.",
+      "prompt": "Morning light",
+      "id": "40650629",
+      "url": "https://images.pexels.com/photos/40650629/pexels-photo-40650629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/40650629/pexels-photo-40650629.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2663,
+      "color": "#8B735B",
+      "alt": "Abstract shadow of tree branches cast on a white brick wall in warm sunlight.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/minimalist-decoration-in-nude-home-interior-6952331/"
+        "name": "Jon Champaigne",
+        "link": "https://www.pexels.com/@jon-champaigne-622172690",
+        "photoLink": "https://www.pexels.com/photo/artistic-tree-shadow-on-white-brick-wall-40650629/"
       }
     },
     {
       "prompt": "Botanical detail",
-      "id": "38511748",
-      "url": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38511748/pexels-photo-38511748.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 3000,
-      "color": "#C6BB8E",
-      "alt": "A cluster of dried maple leaves and samaras arranged on a white backdrop, showcasing their intricate textures.",
+      "id": "35992427",
+      "url": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 3376,
+      "color": "#594739",
+      "alt": "Detailed macro image of a cactus showing its unique texture and patterns.",
       "credit": {
-        "name": "Umut Hasanoğlu",
-        "link": "https://www.pexels.com/@umut-hasanoglu-419900369",
-        "photoLink": "https://www.pexels.com/photo/dried-maple-leaves-and-samaras-on-white-background-38511748/"
+        "name": "Nathan J Hilton",
+        "link": "https://www.pexels.com/@nathanjhilton",
+        "photoLink": "https://www.pexels.com/photo/close-up-macro-of-cactus-texture-and-detail-35992427/"
       }
     },
     {
-      "prompt": "Analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "prompt": "Quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
-      }
-    },
-    {
-      "prompt": "Coastal weather",
-      "id": "24603870",
-      "url": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/24603870/pexels-photo-24603870.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3018,
-      "color": "#8E9196",
-      "alt": "Stormy ocean scene with waves crashing against a pier in Batumi, Georgia.",
-      "credit": {
-        "name": "Olga Prilepskaya",
-        "link": "https://www.pexels.com/@olga-prilepskaya-567509987",
-        "photoLink": "https://www.pexels.com/photo/stormy-sea-by-beach-with-pier-24603870/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
       "prompt": "Linen wood",
-      "id": "10772797",
-      "url": "https://images.pexels.com/photos/10772797/pexels-photo-10772797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10772797/pexels-photo-10772797.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4032,
-      "height": 2688,
-      "color": "#8A817A",
-      "alt": "Top view of rustic beads and necklace on textured linen fabric.",
+      "id": "6123304",
+      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5040,
+      "height": 3360,
+      "color": "#8A8E91",
+      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
       "credit": {
-        "name": "Alexey Demidov",
-        "link": "https://www.pexels.com/@alexeydemidov",
-        "photoLink": "https://www.pexels.com/photo/brown-beaded-necklace-on-white-textile-10772797/"
+        "name": "Rachel Claire",
+        "link": "https://www.pexels.com/@rachel-claire",
+        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
       }
     },
     {
-      "prompt": "Morning light",
-      "id": "3734875",
-      "url": "https://images.pexels.com/photos/3734875/pexels-photo-3734875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/3734875/pexels-photo-3734875.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4656,
-      "height": 3496,
-      "color": "#585B66",
-      "alt": "Sunrise through misty forest trees with sunlight streaming beautifully.",
+      "prompt": "Coastal weather",
+      "id": "132709",
+      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5184,
+      "height": 2814,
+      "color": "#878F8A",
+      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
       "credit": {
-        "name": "David Gierth",
-        "link": "https://www.pexels.com/@davidgierth",
-        "photoLink": "https://www.pexels.com/photo/sun-glare-in-the-forest-3734875/"
+        "name": "Snapwire",
+        "link": "https://www.pexels.com/@snapwire",
+        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
+      }
+    },
+    {
+      "prompt": "Analogue film grain",
+      "id": "30369053",
+      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3088,
+      "height": 2048,
+      "color": "#626D73",
+      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
+      "credit": {
+        "name": "Maria Suslova",
+        "link": "https://www.pexels.com/@maria-suslova-541493887",
+        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
       }
     }
   ]
