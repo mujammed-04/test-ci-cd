@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-13T13:55:36.441Z",
+  "generatedAt": "2026-11-13T20:46:13.420Z",
   "photos": [
     {
       "prompt": "minimal desk",
-      "id": "8473794",
-      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#B7AB95",
-      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
+      "id": "4884116",
+      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3840,
+      "height": 2160,
+      "color": "#B1B6B7",
+      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
+      "credit": {
+        "name": "Artem Podrez",
+        "link": "https://www.pexels.com/@artempodrez",
+        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
+      }
+    },
+    {
+      "prompt": "quiet architecture",
+      "id": "18431230",
+      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3499,
+      "height": 2403,
+      "color": "#7B7165",
+      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
+      "credit": {
+        "name": "Javid Hashimov",
+        "link": "https://www.pexels.com/@javidhashimov",
+        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
+      }
+    },
+    {
+      "prompt": "coastal weather",
+      "id": "38350381",
+      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4896,
+      "height": 3264,
+      "color": "#829091",
+      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
+      "credit": {
+        "name": "Margarita K",
+        "link": "https://www.pexels.com/@margarita-k-105195494",
+        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
+      }
+    },
+    {
+      "prompt": "linen wood",
+      "id": "39761773",
+      "url": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#7E6E61",
+      "alt": "A modern minimalist bedroom with a double bed, wooden accents, and soft lighting.",
+      "credit": {
+        "name": "Mustafa  Fatemi",
+        "link": "https://www.pexels.com/@solaticace",
+        "photoLink": "https://www.pexels.com/photo/cozy-minimalist-bedroom-interior-with-lamp-39761773/"
+      }
+    },
+    {
+      "prompt": "nordic interior",
+      "id": "7303855",
+      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6133,
+      "height": 4089,
+      "color": "#BEB8AB",
+      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
       "credit": {
         "name": "Cup of  Couple",
         "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
-      }
-    },
-    {
-      "prompt": "urban brick texture",
-      "id": "12715969",
-      "url": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#7D5D50",
-      "alt": "Close-up of a red brick wall displaying rustic texture and pattern, ideal for background use.",
-      "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/photo-of-a-brick-wall-12715969/"
-      }
-    },
-    {
-      "prompt": "botanical leaf detail",
-      "id": "36331945",
-      "url": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 3375,
-      "color": "#798D08",
-      "alt": "Detailed macro shot of vibrant green leaf veins showcasing nature's intricate patterns.",
-      "credit": {
-        "name": "Amel Uzunovic",
-        "link": "https://www.pexels.com/@amel-uzunovic-440739273",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-veins-36331945/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "28137318",
-      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2738,
-      "height": 1825,
-      "color": "#1B1B0F",
-      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
-      "credit": {
-        "name": "Felix",
-        "link": "https://www.pexels.com/@felix-57767809",
-        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
+        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "20539730",
-      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": "27054254",
+      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 3543,
       "height": 2397,
-      "color": "#8B8E95",
-      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
+      "color": "#7B8D81",
+      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
       "credit": {
-        "name": "Nguyen Huy",
-        "link": "https://www.pexels.com/@ngochuy",
-        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
-      }
-    },
-    {
-      "prompt": "still life fruit",
-      "id": "37511476",
-      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2659,
-      "height": 1775,
-      "color": "#382E24",
-      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
-      "credit": {
-        "name": "Matvei",
-        "link": "https://www.pexels.com/@matvei-2160105320",
-        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
+        "name": "kittbui",
+        "link": "https://www.pexels.com/@kittbui-2131870",
+        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
       }
     }
   ]
