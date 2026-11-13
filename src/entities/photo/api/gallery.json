@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-13T05:05:00.948Z",
+  "generatedAt": "2026-11-13T13:55:36.441Z",
   "photos": [
     {
-      "prompt": "Morning light",
-      "id": "40650629",
-      "url": "https://images.pexels.com/photos/40650629/pexels-photo-40650629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/40650629/pexels-photo-40650629.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2663,
-      "color": "#8B735B",
-      "alt": "Abstract shadow of tree branches cast on a white brick wall in warm sunlight.",
+      "prompt": "minimal desk",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "Jon Champaigne",
-        "link": "https://www.pexels.com/@jon-champaigne-622172690",
-        "photoLink": "https://www.pexels.com/photo/artistic-tree-shadow-on-white-brick-wall-40650629/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "Botanical detail",
-      "id": "35992427",
-      "url": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35992427/pexels-photo-35992427.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "urban brick texture",
+      "id": "12715969",
+      "url": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/12715969/pexels-photo-12715969.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#7D5D50",
+      "alt": "Close-up of a red brick wall displaying rustic texture and pattern, ideal for background use.",
+      "credit": {
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/photo-of-a-brick-wall-12715969/"
+      }
+    },
+    {
+      "prompt": "botanical leaf detail",
+      "id": "36331945",
+      "url": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36331945/pexels-photo-36331945.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
-      "height": 3376,
-      "color": "#594739",
-      "alt": "Detailed macro image of a cactus showing its unique texture and patterns.",
+      "height": 3375,
+      "color": "#798D08",
+      "alt": "Detailed macro shot of vibrant green leaf veins showcasing nature's intricate patterns.",
       "credit": {
-        "name": "Nathan J Hilton",
-        "link": "https://www.pexels.com/@nathanjhilton",
-        "photoLink": "https://www.pexels.com/photo/close-up-macro-of-cactus-texture-and-detail-35992427/"
+        "name": "Amel Uzunovic",
+        "link": "https://www.pexels.com/@amel-uzunovic-440739273",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-vibrant-green-leaf-veins-36331945/"
       }
     },
     {
-      "prompt": "Quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
+      "prompt": "morning light",
+      "id": "28137318",
+      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2738,
+      "height": 1825,
+      "color": "#1B1B0F",
+      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
       "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
+        "name": "Felix",
+        "link": "https://www.pexels.com/@felix-57767809",
+        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
       }
     },
     {
-      "prompt": "Linen wood",
-      "id": "6123304",
-      "url": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6123304/pexels-photo-6123304.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5040,
-      "height": 3360,
-      "color": "#8A8E91",
-      "alt": "Cozy bedroom interior featuring a unique hanging decoration on a wooden headboard.",
+      "prompt": "analogue film grain",
+      "id": "20539730",
+      "url": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/20539730/pexels-photo-20539730.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3543,
+      "height": 2397,
+      "color": "#8B8E95",
+      "alt": "Retro-style photo of a Fujifilm camera on a granite surface, evoking nostalgia.",
       "credit": {
-        "name": "Rachel Claire",
-        "link": "https://www.pexels.com/@rachel-claire",
-        "photoLink": "https://www.pexels.com/photo/bed-with-wooden-headboard-and-ropes-hanging-6123304/"
+        "name": "Nguyen Huy",
+        "link": "https://www.pexels.com/@ngochuy",
+        "photoLink": "https://www.pexels.com/photo/fujifilm-camera-lying-on-windowsill-20539730/"
       }
     },
     {
-      "prompt": "Coastal weather",
-      "id": "132709",
-      "url": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/132709/pexels-photo-132709.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5184,
-      "height": 2814,
-      "color": "#878F8A",
-      "alt": "Moody seascape with powerful waves hitting the rocks under a cloudy sky.",
+      "prompt": "still life fruit",
+      "id": "37511476",
+      "url": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37511476/pexels-photo-37511476.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2659,
+      "height": 1775,
+      "color": "#382E24",
+      "alt": "Artistic still life featuring grapes, nuts, and decorative tableware in a classic setting.",
       "credit": {
-        "name": "Snapwire",
-        "link": "https://www.pexels.com/@snapwire",
-        "photoLink": "https://www.pexels.com/photo/body-of-water-during-daytime-132709/"
-      }
-    },
-    {
-      "prompt": "Analogue film grain",
-      "id": "30369053",
-      "url": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30369053/pexels-photo-30369053.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3088,
-      "height": 2048,
-      "color": "#626D73",
-      "alt": "Analog-style photo of historical architecture in Krakow, Poland with a street sign foreground.",
-      "credit": {
-        "name": "Maria Suslova",
-        "link": "https://www.pexels.com/@maria-suslova-541493887",
-        "photoLink": "https://www.pexels.com/photo/vintage-architectural-view-in-krakow-poland-30369053/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/elegant-still-life-with-grapes-and-tableware-37511476/"
       }
     }
   ]
