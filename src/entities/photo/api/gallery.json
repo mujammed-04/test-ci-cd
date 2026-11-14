@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-14T01:17:13.177Z",
+  "generatedAt": "2026-11-14T08:36:11.524Z",
   "photos": [
     {
+      "prompt": "linen texture",
+      "id": "7794365",
+      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C1B4AB",
+      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "credit": {
+        "name": "Monstera Production",
+        "link": "https://www.pexels.com/@gabby-k",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+      }
+    },
+    {
+      "prompt": "wood grain",
+      "id": "9823160",
+      "url": "https://images.pexels.com/photos/9823160/pexels-photo-9823160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9823160/pexels-photo-9823160.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6452,
+      "height": 4340,
+      "color": "#7E7D79",
+      "alt": "Rustic wooden texture with grains and knots, ideal for backgrounds and design projects.",
+      "credit": {
+        "name": "James Frid",
+        "link": "https://www.pexels.com/@james-frid-81279",
+        "photoLink": "https://www.pexels.com/photo/wooden-boards-9823160/"
+      }
+    },
+    {
       "prompt": "minimal desk",
-      "id": "8092507",
-      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CCCBC9",
-      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
+      "id": "8534373",
+      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5654,
+      "height": 3769,
+      "color": "#B5B5B5",
+      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
+        "name": "Hanna Pad",
+        "link": "https://www.pexels.com/@anna-nekrashevich",
+        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
       }
     },
     {
-      "prompt": "nordic interior",
-      "id": "37173313",
-      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5568,
-      "height": 3712,
-      "color": "#ACB0AF",
-      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
+      "prompt": "quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "Margo Evardson",
-        "link": "https://www.pexels.com/@margo-evardson-2158292018",
-        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "28137318",
-      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2738,
-      "height": 1825,
-      "color": "#1B1B0F",
-      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
-      "credit": {
-        "name": "Felix",
-        "link": "https://www.pexels.com/@felix-57767809",
-        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "27054254",
-      "url": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/27054254/pexels-photo-27054254.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3543,
-      "height": 2397,
-      "color": "#7B8D81",
-      "alt": "A nostalgic look at vintage film reels captured outdoors in Ho Chi Minh City, Vietnam.",
+      "id": "8181512",
+      "url": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2715,
+      "height": 1818,
+      "color": "#868686",
+      "alt": "A serene black and white river scene featuring a distant ferris wheel and lush vegetation.",
       "credit": {
-        "name": "kittbui",
-        "link": "https://www.pexels.com/@kittbui-2131870",
-        "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+        "name": "Andrey Karpov",
+        "link": "https://www.pexels.com/@andrey-karpov-3835451",
+        "photoLink": "https://www.pexels.com/photo/black-and-white-film-photograph-of-a-river-in-a-park-and-a-ferris-wheel-in-distance-8181512/"
       }
     },
     {
-      "prompt": "still life composition",
-      "id": "7629878",
-      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#C7D0DF",
-      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
+      "prompt": "morning light",
+      "id": "9564681",
+      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5799,
+      "height": 4000,
+      "color": "#716956",
+      "alt": "A serene forest scene with sun rays through trees and morning fog.",
       "credit": {
-        "name": "Marina Leonova",
-        "link": "https://www.pexels.com/@marina-zasorina",
-        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
-      }
-    },
-    {
-      "prompt": "linen wood texture",
-      "id": "34860678",
-      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#0D2D54",
-      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
-      "credit": {
-        "name": "Robert Grant",
-        "link": "https://www.pexels.com/@robertgrantnet",
-        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
+        "name": "Ludvig Hedenborg",
+        "link": "https://www.pexels.com/@ludvighedenborg",
+        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
       }
     }
   ]
