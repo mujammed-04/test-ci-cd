@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-14T15:33:14.976Z",
+  "generatedAt": "2026-11-14T20:25:03.445Z",
   "photos": [
     {
-      "prompt": "golden sunrise glow",
-      "id": "35043905",
-      "url": "https://images.pexels.com/photos/35043905/pexels-photo-35043905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35043905/pexels-photo-35043905.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4239,
-      "height": 2826,
-      "color": "#7F3B16",
-      "alt": "A breathtaking sunset over the ocean with dramatic clouds and vivid colors.",
+      "prompt": "analog film grain",
+      "id": "9941176",
+      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2560,
+      "height": 1698,
+      "color": "#41494C",
+      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
       "credit": {
-        "name": "Cara Denison",
-        "link": "https://www.pexels.com/@cara-denison-886614634",
-        "photoLink": "https://www.pexels.com/photo/stunning-ocean-sunset-with-vibrant-colors-35043905/"
+        "name": "Karina Guseva",
+        "link": "https://www.pexels.com/@karina-guseva-101151339",
+        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
       }
     },
     {
-      "prompt": "vintage workshop tools",
-      "id": "16243260",
-      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#817B61",
-      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
+      "prompt": "morning light",
+      "id": "13009040",
+      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 2000,
+      "color": "#352C23",
+      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
       "credit": {
-        "name": "Luis Quintero",
-        "link": "https://www.pexels.com/@jibarofoto",
-        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
+        "name": "Erik Schereder",
+        "link": "https://www.pexels.com/@erik-schereder-3173655",
+        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
       }
     },
     {
-      "prompt": "delicate botanical texture",
-      "id": "268671",
-      "url": "https://images.pexels.com/photos/268671/pexels-photo-268671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/268671/pexels-photo-268671.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5280,
-      "height": 3664,
-      "color": "#526157",
-      "alt": "Detailed close-up of a frosty green branch, showcasing winter nature with intricate frost patterns.",
+      "prompt": "coastal weather",
+      "id": "19157371",
+      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6192,
+      "height": 4128,
+      "color": "#999896",
+      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
       "credit": {
-        "name": "Pixabay",
-        "link": "https://www.pexels.com/@pixabay",
-        "photoLink": "https://www.pexels.com/photo/green-leafed-plants-268671/"
+        "name": "Parveen Singh",
+        "link": "https://www.pexels.com/@psingh",
+        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
       }
     },
     {
-      "prompt": "minimal wooden desk",
-      "id": "8092466",
-      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#D2D2D2",
-      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "prompt": "minimal desks",
+      "id": "6044837",
+      "url": "https://images.pexels.com/photos/6044837/pexels-photo-6044837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6044837/pexels-photo-6044837.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3696,
+      "height": 2448,
+      "color": "#8C8A85",
+      "alt": "Contemporary computers placed on table with mobile phone on charge in business office",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+        "name": "Skylar Kang",
+        "link": "https://www.pexels.com/@skylar-kang",
+        "photoLink": "https://www.pexels.com/photo/modern-computers-with-wireless-mouse-and-keyboard-near-smartphone-6044837/"
       }
     },
     {
-      "prompt": "urban brick surface",
-      "id": "36259359",
-      "url": "https://images.pexels.com/photos/36259359/pexels-photo-36259359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/36259359/pexels-photo-36259359.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3072,
-      "color": "#BD674E",
-      "alt": "Detailed red brick wall texture showing strong horizontal alignment.",
+      "prompt": "workshop tools",
+      "id": "220639",
+      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3264,
+      "height": 2448,
+      "color": "#D7D7D7",
+      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
       "credit": {
-        "name": "Ünzile Aslan",
-        "link": "https://www.pexels.com/@unzile-aslan-2153424045",
-        "photoLink": "https://www.pexels.com/photo/red-brick-wall-with-horizontal-pattern-36259359/"
+        "name": "icon0 com",
+        "link": "https://www.pexels.com/@icon0",
+        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "10929789",
-      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3251,
-      "height": 2266,
-      "color": "#A1A1A3",
-      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
+      "prompt": "botanical detail",
+      "id": "39200567",
+      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#5B4F41",
+      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
       "credit": {
-        "name": "Zsófia Fehér",
-        "link": "https://www.pexels.com/@zsofia-feher-685822",
-        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
+        "name": "NEOSiAM 18+",
+        "link": "https://www.pexels.com/@neosiam",
+        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
       }
     }
   ]
