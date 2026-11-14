@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-14T08:36:11.524Z",
+  "generatedAt": "2026-11-14T15:33:14.976Z",
   "photos": [
     {
-      "prompt": "linen texture",
-      "id": "7794365",
-      "url": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7794365/pexels-photo-7794365.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4000,
-      "height": 2667,
-      "color": "#C1B4AB",
-      "alt": "Detailed macro view of a neutral linen fabric surface showing texture and weave.",
+      "prompt": "golden sunrise glow",
+      "id": "35043905",
+      "url": "https://images.pexels.com/photos/35043905/pexels-photo-35043905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35043905/pexels-photo-35043905.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4239,
+      "height": 2826,
+      "color": "#7F3B16",
+      "alt": "A breathtaking sunset over the ocean with dramatic clouds and vivid colors.",
       "credit": {
-        "name": "Monstera Production",
-        "link": "https://www.pexels.com/@gabby-k",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-linen-texture-7794365/"
+        "name": "Cara Denison",
+        "link": "https://www.pexels.com/@cara-denison-886614634",
+        "photoLink": "https://www.pexels.com/photo/stunning-ocean-sunset-with-vibrant-colors-35043905/"
       }
     },
     {
-      "prompt": "wood grain",
-      "id": "9823160",
-      "url": "https://images.pexels.com/photos/9823160/pexels-photo-9823160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9823160/pexels-photo-9823160.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6452,
-      "height": 4340,
-      "color": "#7E7D79",
-      "alt": "Rustic wooden texture with grains and knots, ideal for backgrounds and design projects.",
-      "credit": {
-        "name": "James Frid",
-        "link": "https://www.pexels.com/@james-frid-81279",
-        "photoLink": "https://www.pexels.com/photo/wooden-boards-9823160/"
-      }
-    },
-    {
-      "prompt": "minimal desk",
-      "id": "8534373",
-      "url": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8534373/pexels-photo-8534373.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5654,
-      "height": 3769,
-      "color": "#B5B5B5",
-      "alt": "Modern minimalist workspace featuring a laptop, notebook, and stationery on a white surface.",
-      "credit": {
-        "name": "Hanna Pad",
-        "link": "https://www.pexels.com/@anna-nekrashevich",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-8534373/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "28874130",
-      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "vintage workshop tools",
+      "id": "16243260",
+      "url": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/16243260/pexels-photo-16243260.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#42535A",
-      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
+      "color": "#817B61",
+      "alt": "A collection of wrenches hanging neatly on a workshop wall displaying organization.",
       "credit": {
-        "name": "Pham Ngoc Anh",
-        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
-        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
+        "name": "Luis Quintero",
+        "link": "https://www.pexels.com/@jibarofoto",
+        "photoLink": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/"
+      }
+    },
+    {
+      "prompt": "delicate botanical texture",
+      "id": "268671",
+      "url": "https://images.pexels.com/photos/268671/pexels-photo-268671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/268671/pexels-photo-268671.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5280,
+      "height": 3664,
+      "color": "#526157",
+      "alt": "Detailed close-up of a frosty green branch, showcasing winter nature with intricate frost patterns.",
+      "credit": {
+        "name": "Pixabay",
+        "link": "https://www.pexels.com/@pixabay",
+        "photoLink": "https://www.pexels.com/photo/green-leafed-plants-268671/"
+      }
+    },
+    {
+      "prompt": "minimal wooden desk",
+      "id": "8092466",
+      "url": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092466/pexels-photo-8092466.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#D2D2D2",
+      "alt": "Elegant minimalist workspace with wooden desk, glass vase and panel wall.",
+      "credit": {
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/pen-and-notebook-on-wooden-table-with-glass-vase-8092466/"
+      }
+    },
+    {
+      "prompt": "urban brick surface",
+      "id": "36259359",
+      "url": "https://images.pexels.com/photos/36259359/pexels-photo-36259359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/36259359/pexels-photo-36259359.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3072,
+      "color": "#BD674E",
+      "alt": "Detailed red brick wall texture showing strong horizontal alignment.",
+      "credit": {
+        "name": "Ünzile Aslan",
+        "link": "https://www.pexels.com/@unzile-aslan-2153424045",
+        "photoLink": "https://www.pexels.com/photo/red-brick-wall-with-horizontal-pattern-36259359/"
       }
     },
     {
       "prompt": "analogue film grain",
-      "id": "8181512",
-      "url": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8181512/pexels-photo-8181512.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2715,
-      "height": 1818,
-      "color": "#868686",
-      "alt": "A serene black and white river scene featuring a distant ferris wheel and lush vegetation.",
+      "id": "10929789",
+      "url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3251,
+      "height": 2266,
+      "color": "#A1A1A3",
+      "alt": "Abstract image capturing light leaks and textures from the end of a film roll.",
       "credit": {
-        "name": "Andrey Karpov",
-        "link": "https://www.pexels.com/@andrey-karpov-3835451",
-        "photoLink": "https://www.pexels.com/photo/black-and-white-film-photograph-of-a-river-in-a-park-and-a-ferris-wheel-in-distance-8181512/"
-      }
-    },
-    {
-      "prompt": "morning light",
-      "id": "9564681",
-      "url": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9564681/pexels-photo-9564681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5799,
-      "height": 4000,
-      "color": "#716956",
-      "alt": "A serene forest scene with sun rays through trees and morning fog.",
-      "credit": {
-        "name": "Ludvig Hedenborg",
-        "link": "https://www.pexels.com/@ludvighedenborg",
-        "photoLink": "https://www.pexels.com/photo/green-trees-in-forest-in-the-morning-9564681/"
+        "name": "Zsófia Fehér",
+        "link": "https://www.pexels.com/@zsofia-feher-685822",
+        "photoLink": "https://www.pexels.com/photo/white-and-blue-abstract-film-photo-10929789/"
       }
     }
   ]
