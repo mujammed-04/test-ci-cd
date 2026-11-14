@@ -1,79 +1,49 @@
 {
-  "generatedAt": "2026-11-13T20:46:13.420Z",
+  "generatedAt": "2026-11-14T01:17:13.177Z",
   "photos": [
     {
       "prompt": "minimal desk",
-      "id": "4884116",
-      "url": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/4884116/pexels-photo-4884116.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3840,
-      "height": 2160,
-      "color": "#B1B6B7",
-      "alt": "A sleek black laptop on a white desk in a minimalist setup with natural lighting.",
+      "id": "8092507",
+      "url": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092507/pexels-photo-8092507.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CCCBC9",
+      "alt": "Clean and organized white workspace with laptop, plant, and books against a brick wall.",
       "credit": {
-        "name": "Artem Podrez",
-        "link": "https://www.pexels.com/@artempodrez",
-        "photoLink": "https://www.pexels.com/photo/black-and-silver-laptop-on-white-table-4884116/"
-      }
-    },
-    {
-      "prompt": "quiet architecture",
-      "id": "18431230",
-      "url": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18431230/pexels-photo-18431230.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3499,
-      "height": 2403,
-      "color": "#7B7165",
-      "alt": "A man sits on a bench near a modern building with closed doors on a sunny day.",
-      "credit": {
-        "name": "Javid Hashimov",
-        "link": "https://www.pexels.com/@javidhashimov",
-        "photoLink": "https://www.pexels.com/photo/exterior-of-a-building-18431230/"
-      }
-    },
-    {
-      "prompt": "coastal weather",
-      "id": "38350381",
-      "url": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/38350381/pexels-photo-38350381.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4896,
-      "height": 3264,
-      "color": "#829091",
-      "alt": "Moody ocean scene with stormy waves and dark clouds creating a dramatic atmosphere.",
-      "credit": {
-        "name": "Margarita K",
-        "link": "https://www.pexels.com/@margarita-k-105195494",
-        "photoLink": "https://www.pexels.com/photo/dramatic-ocean-waves-under-cloudy-sky-38350381/"
-      }
-    },
-    {
-      "prompt": "linen wood",
-      "id": "39761773",
-      "url": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39761773/pexels-photo-39761773.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#7E6E61",
-      "alt": "A modern minimalist bedroom with a double bed, wooden accents, and soft lighting.",
-      "credit": {
-        "name": "Mustafa  Fatemi",
-        "link": "https://www.pexels.com/@solaticace",
-        "photoLink": "https://www.pexels.com/photo/cozy-minimalist-bedroom-interior-with-lamp-39761773/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-on-white-desk-beside-white-brick-wall-8092507/"
       }
     },
     {
       "prompt": "nordic interior",
-      "id": "7303855",
-      "url": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/7303855/pexels-photo-7303855.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6133,
-      "height": 4089,
-      "color": "#BEB8AB",
-      "alt": "A minimalist interior featuring a table with red leaves in a vase, a teapot, and a wooden chair against a neutral wall.",
+      "id": "37173313",
+      "url": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/37173313/pexels-photo-37173313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5568,
+      "height": 3712,
+      "color": "#ACB0AF",
+      "alt": "Bright Scandinavian-style living room with gray sofa, houseplants, and cozy decor.",
       "credit": {
-        "name": "Cup of  Couple",
-        "link": "https://www.pexels.com/@cup-of-couple",
-        "photoLink": "https://www.pexels.com/photo/chair-and-table-with-teapot-7303855/"
+        "name": "Margo Evardson",
+        "link": "https://www.pexels.com/@margo-evardson-2158292018",
+        "photoLink": "https://www.pexels.com/photo/modern-scandinavian-living-room-with-houseplants-37173313/"
+      }
+    },
+    {
+      "prompt": "morning light",
+      "id": "28137318",
+      "url": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28137318/pexels-photo-28137318.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 2738,
+      "height": 1825,
+      "color": "#1B1B0F",
+      "alt": "Detailed view of leaves illuminated by sunlight in a dense forest.",
+      "credit": {
+        "name": "Felix",
+        "link": "https://www.pexels.com/@felix-57767809",
+        "photoLink": "https://www.pexels.com/photo/a-green-leaf-is-in-the-sun-in-the-woods-28137318/"
       }
     },
     {
@@ -89,6 +59,36 @@
         "name": "kittbui",
         "link": "https://www.pexels.com/@kittbui-2131870",
         "photoLink": "https://www.pexels.com/photo/35mm-film-reels-27054254/"
+      }
+    },
+    {
+      "prompt": "still life composition",
+      "id": "7629878",
+      "url": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/7629878/pexels-photo-7629878.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4000,
+      "height": 2667,
+      "color": "#C7D0DF",
+      "alt": "Abstract arrangement of quinces and spheres in a minimalist still life composition.",
+      "credit": {
+        "name": "Marina Leonova",
+        "link": "https://www.pexels.com/@marina-zasorina",
+        "photoLink": "https://www.pexels.com/photo/close-up-photo-of-quinces-and-balls-7629878/"
+      }
+    },
+    {
+      "prompt": "linen wood texture",
+      "id": "34860678",
+      "url": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860678/pexels-photo-34860678.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#0D2D54",
+      "alt": "A high-quality image of deep blue textured fabric with flowing patterns and subtle folds.",
+      "credit": {
+        "name": "Robert Grant",
+        "link": "https://www.pexels.com/@robertgrantnet",
+        "photoLink": "https://www.pexels.com/photo/rich-blue-textured-fabric-background-34860678/"
       }
     }
   ]
