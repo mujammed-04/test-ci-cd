@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-15T00:45:29.546Z",
+  "generatedAt": "2026-11-15T07:33:16.741Z",
   "photos": [
     {
-      "prompt": "linen wood texture",
-      "id": "34860693",
-      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7200,
-      "height": 5400,
-      "color": "#2D4255",
-      "alt": "Close-up of blue textile with textured surface and subtle folds.",
+      "prompt": "vintage fruit bowl",
+      "id": "38323065",
+      "url": "https://images.pexels.com/photos/38323065/pexels-photo-38323065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/38323065/pexels-photo-38323065.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3200,
+      "height": 2136,
+      "color": "#543D37",
+      "alt": "Artistic still life with a ceramic jug and assorted fruits, showcasing rustic charm.",
       "credit": {
-        "name": "Robert Grant",
-        "link": "https://www.pexels.com/@robertgrantnet",
-        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
+        "name": "Matvei",
+        "link": "https://www.pexels.com/@matvei-2160105320",
+        "photoLink": "https://www.pexels.com/photo/rustic-still-life-with-jug-and-fruits-on-wooden-table-38323065/"
       }
     },
     {
-      "prompt": "morning light interior",
-      "id": "8358607",
-      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5329,
-      "height": 4000,
-      "color": "#807863",
-      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
+      "prompt": "stormy sea cliffs",
+      "id": "14354554",
+      "url": "https://images.pexels.com/photos/14354554/pexels-photo-14354554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/14354554/pexels-photo-14354554.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4032,
+      "height": 3024,
+      "color": "#355562",
+      "alt": "Stunning view of rocky coastal cliffs surrounded by turquoise ocean waves under a cloudy sky.",
       "credit": {
-        "name": "Kübra Arslaner",
-        "link": "https://www.pexels.com/@nediyodukenson",
-        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
+        "name": "Artem Zhukov",
+        "link": "https://www.pexels.com/@artemioz",
+        "photoLink": "https://www.pexels.com/photo/scenic-photo-of-the-sea-hitting-the-cliffs-14354554/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "8167283",
-      "url": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2800,
-      "color": "#C9B495",
-      "alt": "A minimalist still life featuring dried flowers in a pastel vase with scattered pebbles.",
+      "prompt": "minimalist wooden desk",
+      "id": "10567178",
+      "url": "https://images.pexels.com/photos/10567178/pexels-photo-10567178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/10567178/pexels-photo-10567178.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#B3A69E",
+      "alt": "A person standing at a wooden desk with a laptop and office supplies. Minimalist aesthetic.",
       "credit": {
-        "name": "Daria Liudnaya",
-        "link": "https://www.pexels.com/@daria-liudnaya",
-        "photoLink": "https://www.pexels.com/photo/colorful-decorations-and-dried-flowers-in-a-vase-8167283/"
+        "name": "Ron Lach",
+        "link": "https://www.pexels.com/@ron-lach",
+        "photoLink": "https://www.pexels.com/photo/man-standing-next-to-desk-10567178/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "18877271",
-      "url": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6000,
-      "height": 4000,
-      "color": "#0C3304",
-      "alt": "Close-up image of a fresh green leaf against a black background.",
+      "prompt": "quiet marble hallway",
+      "id": "6987715",
+      "url": "https://images.pexels.com/photos/6987715/pexels-photo-6987715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6987715/pexels-photo-6987715.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 4912,
+      "color": "#9A9699",
+      "alt": "Passage interior with table under mirror against kitchen furniture on marble floor in contemporary house",
       "credit": {
-        "name": "Siarhei Nester",
-        "link": "https://www.pexels.com/@siarhei-nester-318033361",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-green-leaf-18877271/"
+        "name": "Max Vakhtbovych",
+        "link": "https://www.pexels.com/@artbovich",
+        "photoLink": "https://www.pexels.com/photo/modern-corridor-interior-with-entrance-door-and-mirror-at-home-6987715/"
       }
     },
     {
-      "prompt": "urban brick facade",
-      "id": "18731596",
-      "url": "https://images.pexels.com/photos/18731596/pexels-photo-18731596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/18731596/pexels-photo-18731596.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6240,
-      "height": 4160,
-      "color": "#5C5447",
-      "alt": "A sunny day highlights the charming brick facade of a city street lined with trees.",
+      "prompt": "soft sunrise light",
+      "id": "6195976",
+      "url": "https://images.pexels.com/photos/6195976/pexels-photo-6195976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6195976/pexels-photo-6195976.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3000,
+      "height": 1731,
+      "color": "#866B48",
+      "alt": "A serene landscape with mist and silhouetted trees at sunrise, creating a tranquil atmosphere.",
       "credit": {
-        "name": "Ramon Karolan",
-        "link": "https://www.pexels.com/@ramonkaphotography",
-        "photoLink": "https://www.pexels.com/photo/trees-casting-shadow-on-a-building-in-city-18731596/"
+        "name": "Ray Bilcliff",
+        "link": "https://www.pexels.com/@raybilcliff",
+        "photoLink": "https://www.pexels.com/photo/silhouette-of-trees-on-a-foggy-sky-during-sunset-6195976/"
       }
     },
     {
-      "prompt": "minimal desk workspace",
-      "id": "8092461",
-      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6720,
-      "height": 4480,
-      "color": "#CEC8C8",
-      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
+      "prompt": "delicate fern frond",
+      "id": "6544932",
+      "url": "https://images.pexels.com/photos/6544932/pexels-photo-6544932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6544932/pexels-photo-6544932.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4272,
+      "height": 2848,
+      "color": "#9B8A2E",
+      "alt": "Macro shot of bright green fern fronds unfurling against a blurred background.",
       "credit": {
-        "name": "https://kaboompics.com/",
-        "link": "https://www.pexels.com/@karola-g",
-        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
+        "name": "Javier Balseiro",
+        "link": "https://www.pexels.com/@javierbalseiro",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-fresh-bright-green-fern-leaf-6544932/"
       }
     }
   ]
