@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-14T20:25:03.445Z",
+  "generatedAt": "2026-11-15T00:45:29.546Z",
   "photos": [
     {
-      "prompt": "analog film grain",
-      "id": "9941176",
-      "url": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9941176/pexels-photo-9941176.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 2560,
-      "height": 1698,
-      "color": "#41494C",
-      "alt": "Tranquil twilight over a frozen lake with silhouetted figures by the shore.",
+      "prompt": "linen wood texture",
+      "id": "34860693",
+      "url": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/34860693/pexels-photo-34860693.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7200,
+      "height": 5400,
+      "color": "#2D4255",
+      "alt": "Close-up of blue textile with textured surface and subtle folds.",
       "credit": {
-        "name": "Karina Guseva",
-        "link": "https://www.pexels.com/@karina-guseva-101151339",
-        "photoLink": "https://www.pexels.com/photo/dark-landscape-with-a-lake-at-dawn-9941176/"
+        "name": "Robert Grant",
+        "link": "https://www.pexels.com/@robertgrantnet",
+        "photoLink": "https://www.pexels.com/photo/textured-blue-fabric-with-subtle-waves-34860693/"
       }
     },
     {
-      "prompt": "morning light",
-      "id": "13009040",
-      "url": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3000,
-      "height": 2000,
-      "color": "#352C23",
-      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere.",
+      "prompt": "morning light interior",
+      "id": "8358607",
+      "url": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8358607/pexels-photo-8358607.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5329,
+      "height": 4000,
+      "color": "#807863",
+      "alt": "Tranquil scene of sunlight casting soft shadows through a lace curtain in a cozy room corner.",
       "credit": {
-        "name": "Erik Schereder",
-        "link": "https://www.pexels.com/@erik-schereder-3173655",
-        "photoLink": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/"
+        "name": "Kübra Arslaner",
+        "link": "https://www.pexels.com/@nediyodukenson",
+        "photoLink": "https://www.pexels.com/photo/white-window-curtain-8358607/"
       }
     },
     {
-      "prompt": "coastal weather",
-      "id": "19157371",
-      "url": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/19157371/pexels-photo-19157371.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 6192,
-      "height": 4128,
-      "color": "#999896",
-      "alt": "A serene beach with misty hills under an overcast sky, showcasing the tranquil ocean coastline.",
+      "prompt": "still life arrangement",
+      "id": "8167283",
+      "url": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 3500,
+      "height": 2800,
+      "color": "#C9B495",
+      "alt": "A minimalist still life featuring dried flowers in a pastel vase with scattered pebbles.",
       "credit": {
-        "name": "Parveen Singh",
-        "link": "https://www.pexels.com/@psingh",
-        "photoLink": "https://www.pexels.com/photo/view-of-a-beach-19157371/"
+        "name": "Daria Liudnaya",
+        "link": "https://www.pexels.com/@daria-liudnaya",
+        "photoLink": "https://www.pexels.com/photo/colorful-decorations-and-dried-flowers-in-a-vase-8167283/"
       }
     },
     {
-      "prompt": "minimal desks",
-      "id": "6044837",
-      "url": "https://images.pexels.com/photos/6044837/pexels-photo-6044837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6044837/pexels-photo-6044837.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3696,
-      "height": 2448,
-      "color": "#8C8A85",
-      "alt": "Contemporary computers placed on table with mobile phone on charge in business office",
+      "prompt": "botanical leaf closeup",
+      "id": "18877271",
+      "url": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18877271/pexels-photo-18877271.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6000,
+      "height": 4000,
+      "color": "#0C3304",
+      "alt": "Close-up image of a fresh green leaf against a black background.",
       "credit": {
-        "name": "Skylar Kang",
-        "link": "https://www.pexels.com/@skylar-kang",
-        "photoLink": "https://www.pexels.com/photo/modern-computers-with-wireless-mouse-and-keyboard-near-smartphone-6044837/"
+        "name": "Siarhei Nester",
+        "link": "https://www.pexels.com/@siarhei-nester-318033361",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-green-leaf-18877271/"
       }
     },
     {
-      "prompt": "workshop tools",
-      "id": "220639",
-      "url": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/220639/pexels-photo-220639.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3264,
-      "height": 2448,
-      "color": "#D7D7D7",
-      "alt": "A collection of steel wrenches displayed against a white backdrop, perfect for toolkits.",
+      "prompt": "urban brick facade",
+      "id": "18731596",
+      "url": "https://images.pexels.com/photos/18731596/pexels-photo-18731596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/18731596/pexels-photo-18731596.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6240,
+      "height": 4160,
+      "color": "#5C5447",
+      "alt": "A sunny day highlights the charming brick facade of a city street lined with trees.",
       "credit": {
-        "name": "icon0 com",
-        "link": "https://www.pexels.com/@icon0",
-        "photoLink": "https://www.pexels.com/photo/grayscale-photo-of-combination-wrenches-220639/"
+        "name": "Ramon Karolan",
+        "link": "https://www.pexels.com/@ramonkaphotography",
+        "photoLink": "https://www.pexels.com/photo/trees-casting-shadow-on-a-building-in-city-18731596/"
       }
     },
     {
-      "prompt": "botanical detail",
-      "id": "39200567",
-      "url": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39200567/pexels-photo-39200567.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#5B4F41",
-      "alt": "Artistic close-up of intricate patterns on dried lotus leaves creating a natural abstract texture.",
+      "prompt": "minimal desk workspace",
+      "id": "8092461",
+      "url": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8092461/pexels-photo-8092461.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#CEC8C8",
+      "alt": "A serene workspace featuring a simple desk with a laptop, notebook, and a vase of flowers.",
       "credit": {
-        "name": "NEOSiAM 18+",
-        "link": "https://www.pexels.com/@neosiam",
-        "photoLink": "https://www.pexels.com/photo/detailed-close-up-of-dried-lotus-leaves-39200567/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
       }
     }
   ]
