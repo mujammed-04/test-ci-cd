@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-16T00:45:28.221Z",
+  "generatedAt": "2026-11-16T07:39:11.856Z",
   "photos": [
     {
-      "prompt": "minimalist desk",
-      "id": "8004107",
-      "url": "https://images.pexels.com/photos/8004107/pexels-photo-8004107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8004107/pexels-photo-8004107.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2333,
-      "color": "#B5BEBD",
-      "alt": "Clean minimalist desk featuring a laptop, blue vase with plant, and coffee mug.",
+      "prompt": "quiet courtyard",
+      "id": "29791490",
+      "url": "https://images.pexels.com/photos/29791490/pexels-photo-29791490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/29791490/pexels-photo-29791490.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5472,
+      "height": 3648,
+      "color": "#898989",
+      "alt": "Charming European courtyard with historic architecture, leafless trees, and stone path.",
       "credit": {
-        "name": "Darina Belonogova",
-        "link": "https://www.pexels.com/@darina-belonogova",
-        "photoLink": "https://www.pexels.com/photo/a-minimalist-workspace-set-up-on-white-table-8004107/"
+        "name": "Magda Ehlers",
+        "link": "https://www.pexels.com/@magda-ehlers-pexels",
+        "photoLink": "https://www.pexels.com/photo/historic-european-courtyard-with-leafless-trees-29791490/"
       }
     },
     {
-      "prompt": "handcrafted ceramic vase",
-      "id": "17209708",
-      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
-      "width": 5864,
-      "height": 3933,
-      "color": "#A8948F",
-      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
+      "prompt": "rustic workshop",
+      "id": "35389334",
+      "url": "https://images.pexels.com/photos/35389334/pexels-photo-35389334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/35389334/pexels-photo-35389334.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4080,
+      "height": 3060,
+      "color": "#5F5B58",
+      "alt": "Vintage distillery workshop with old barrels and glass bottles, rustic atmosphere.",
       "credit": {
-        "name": "Anna Romanova",
-        "link": "https://www.pexels.com/@anna-romanova-1406375",
-        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
+        "name": "Filipa Moreira",
+        "link": "https://www.pexels.com/@filipa-moreira-2149871975",
+        "photoLink": "https://www.pexels.com/photo/rustic-distillery-workshop-with-vintage-equipment-35389334/"
       }
     },
     {
-      "prompt": "analogue film grain",
-      "id": "20937747",
-      "url": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/20937747/pexels-photo-20937747.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3954,
-      "height": 2666,
-      "color": "#98A2A4",
-      "alt": "A vintage camera, glass, and ashtray on a sunlit wooden table outdoors, evoking a retro feel.",
+      "prompt": "ceramic vase",
+      "id": "26634882",
+      "url": "https://images.pexels.com/photos/26634882/pexels-photo-26634882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/26634882/pexels-photo-26634882.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#A69A8E",
+      "alt": "A collection of colorful ceramic vases elegantly arranged with a delicate floral accent on a soft white background.",
       "credit": {
-        "name": "Nam Quân Nguyễn",
-        "link": "https://www.pexels.com/@nam-quan-nguy-n-459228913",
-        "photoLink": "https://www.pexels.com/photo/camera-glass-and-ashtray-20937747/"
+        "name": "Ionela Mat",
+        "link": "https://www.pexels.com/@ionela-mat-268382825",
+        "photoLink": "https://www.pexels.com/photo/flowers-and-vases-26634882/"
       }
     },
     {
-      "prompt": "still life arrangement",
-      "id": "8167283",
-      "url": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/8167283/pexels-photo-8167283.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 3500,
-      "height": 2800,
-      "color": "#C9B495",
-      "alt": "A minimalist still life featuring dried flowers in a pastel vase with scattered pebbles.",
-      "credit": {
-        "name": "Daria Liudnaya",
-        "link": "https://www.pexels.com/@daria-liudnaya",
-        "photoLink": "https://www.pexels.com/photo/colorful-decorations-and-dried-flowers-in-a-vase-8167283/"
-      }
-    },
-    {
-      "prompt": "workshop tool set",
-      "id": "9607048",
-      "url": "https://images.pexels.com/photos/9607048/pexels-photo-9607048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/9607048/pexels-photo-9607048.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "urban brick wall",
+      "id": "6205564",
+      "url": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#736059",
-      "alt": "Hands selecting tools from a well-organized toolbox on a concrete surface.",
+      "color": "#A67D60",
+      "alt": "Detailed close-up of an aged brick wall, showcasing texture and construction pattern.",
       "credit": {
-        "name": "Anastasia  Shuraeva",
-        "link": "https://www.pexels.com/@anastasia-shuraeva",
-        "photoLink": "https://www.pexels.com/photo/a-person-touching-tools-in-a-box-9607048/"
+        "name": "Ivan",
+        "link": "https://www.pexels.com/@ywanphoto",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-6205564/"
       }
     },
     {
-      "prompt": "quiet architectural hallway",
-      "id": "39972076",
-      "url": "https://images.pexels.com/photos/39972076/pexels-photo-39972076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/39972076/pexels-photo-39972076.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5083,
-      "height": 3401,
-      "color": "#2F2219",
-      "alt": "A mysterious and dimly lit hallway leading to a closed door, creating an eerie atmosphere.",
+      "prompt": "botanical leaf closeup",
+      "id": "33733109",
+      "url": "https://images.pexels.com/photos/33733109/pexels-photo-33733109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/33733109/pexels-photo-33733109.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4608,
+      "height": 3456,
+      "color": "#5D7C30",
+      "alt": "Detailed macro shot highlighting the intricate pattern and texture of a green leaf.",
       "credit": {
-        "name": "女子 正真",
-        "link": "https://www.pexels.com/@1433506698",
-        "photoLink": "https://www.pexels.com/photo/dimly-lit-empty-corridor-with-closed-door-39972076/"
+        "name": "Ali Goode",
+        "link": "https://www.pexels.com/@ali-goode-2151511157",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-vibrant-green-leaf-texture-33733109/"
+      }
+    },
+    {
+      "prompt": "architectural arch",
+      "id": "30205602",
+      "url": "https://images.pexels.com/photos/30205602/pexels-photo-30205602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/30205602/pexels-photo-30205602.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 7903,
+      "height": 5464,
+      "color": "#9A9A9A",
+      "alt": "Upward view of minimalist architectural arches with a patterned lattice facade, showcasing modern design.",
+      "credit": {
+        "name": "Khaled  Al amad",
+        "link": "https://www.pexels.com/@khaled-al-amad-2148387226",
+        "photoLink": "https://www.pexels.com/photo/modern-architectural-arches-with-intricate-lattice-design-30205602/"
       }
     }
   ]
