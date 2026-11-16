@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-16T07:39:11.856Z",
+  "generatedAt": "2026-11-16T17:56:18.326Z",
   "photos": [
     {
-      "prompt": "quiet courtyard",
-      "id": "29791490",
-      "url": "https://images.pexels.com/photos/29791490/pexels-photo-29791490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/29791490/pexels-photo-29791490.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5472,
-      "height": 3648,
-      "color": "#898989",
-      "alt": "Charming European courtyard with historic architecture, leafless trees, and stone path.",
+      "prompt": "handmade ceramics",
+      "id": "17209708",
+      "url": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/17209708/pexels-photo-17209708.png?auto=compress&cs=tinysrgb&h=350",
+      "width": 5864,
+      "height": 3933,
+      "color": "#A8948F",
+      "alt": "Collection of intricately designed pottery jugs and vases on a white background showcasing traditional craftsmanship.",
       "credit": {
-        "name": "Magda Ehlers",
-        "link": "https://www.pexels.com/@magda-ehlers-pexels",
-        "photoLink": "https://www.pexels.com/photo/historic-european-courtyard-with-leafless-trees-29791490/"
+        "name": "Anna Romanova",
+        "link": "https://www.pexels.com/@anna-romanova-1406375",
+        "photoLink": "https://www.pexels.com/photo/pottery-collection-on-white-background-17209708/"
       }
     },
     {
-      "prompt": "rustic workshop",
-      "id": "35389334",
-      "url": "https://images.pexels.com/photos/35389334/pexels-photo-35389334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/35389334/pexels-photo-35389334.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4080,
-      "height": 3060,
-      "color": "#5F5B58",
-      "alt": "Vintage distillery workshop with old barrels and glass bottles, rustic atmosphere.",
+      "prompt": "morning light",
+      "id": "3734875",
+      "url": "https://images.pexels.com/photos/3734875/pexels-photo-3734875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/3734875/pexels-photo-3734875.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4656,
+      "height": 3496,
+      "color": "#585B66",
+      "alt": "Sunrise through misty forest trees with sunlight streaming beautifully.",
       "credit": {
-        "name": "Filipa Moreira",
-        "link": "https://www.pexels.com/@filipa-moreira-2149871975",
-        "photoLink": "https://www.pexels.com/photo/rustic-distillery-workshop-with-vintage-equipment-35389334/"
+        "name": "David Gierth",
+        "link": "https://www.pexels.com/@davidgierth",
+        "photoLink": "https://www.pexels.com/photo/sun-glare-in-the-forest-3734875/"
       }
     },
     {
-      "prompt": "ceramic vase",
-      "id": "26634882",
-      "url": "https://images.pexels.com/photos/26634882/pexels-photo-26634882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/26634882/pexels-photo-26634882.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 5808,
-      "height": 3872,
-      "color": "#A69A8E",
-      "alt": "A collection of colorful ceramic vases elegantly arranged with a delicate floral accent on a soft white background.",
+      "prompt": "coastal weather",
+      "id": "9493189",
+      "url": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/9493189/pexels-photo-9493189.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 4737,
+      "height": 3153,
+      "color": "#68757E",
+      "alt": "Stormy clouds over the rugged Nordland coastline create a dramatic seascape with mountains in the distance.",
       "credit": {
-        "name": "Ionela Mat",
-        "link": "https://www.pexels.com/@ionela-mat-268382825",
-        "photoLink": "https://www.pexels.com/photo/flowers-and-vases-26634882/"
+        "name": "stein egil liland",
+        "link": "https://www.pexels.com/@therato",
+        "photoLink": "https://www.pexels.com/photo/seacoast-against-a-cloudy-sky-9493189/"
       }
     },
     {
-      "prompt": "urban brick wall",
-      "id": "6205564",
-      "url": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/6205564/pexels-photo-6205564.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "prompt": "quiet architecture",
+      "id": "28874130",
+      "url": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/28874130/pexels-photo-28874130.jpeg?auto=compress&cs=tinysrgb&h=350",
       "width": 6000,
       "height": 4000,
-      "color": "#A67D60",
-      "alt": "Detailed close-up of an aged brick wall, showcasing texture and construction pattern.",
+      "color": "#42535A",
+      "alt": "Empty street with historic architecture in twilight showcasing urban tranquility.",
       "credit": {
-        "name": "Ivan",
-        "link": "https://www.pexels.com/@ywanphoto",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-brick-wall-6205564/"
+        "name": "Pham Ngoc Anh",
+        "link": "https://www.pexels.com/@pham-ngoc-anh-170983008",
+        "photoLink": "https://www.pexels.com/photo/quiet-urban-street-scene-at-twilight-in-a-historic-city-28874130/"
       }
     },
     {
-      "prompt": "botanical leaf closeup",
-      "id": "33733109",
-      "url": "https://images.pexels.com/photos/33733109/pexels-photo-33733109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/33733109/pexels-photo-33733109.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 4608,
-      "height": 3456,
-      "color": "#5D7C30",
-      "alt": "Detailed macro shot highlighting the intricate pattern and texture of a green leaf.",
+      "prompt": "minimal desks",
+      "id": "8473794",
+      "url": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/8473794/pexels-photo-8473794.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 5808,
+      "height": 3872,
+      "color": "#B7AB95",
+      "alt": "A clean and modern minimalist desk setup with a laptop, plants, and a ceramic cup.",
       "credit": {
-        "name": "Ali Goode",
-        "link": "https://www.pexels.com/@ali-goode-2151511157",
-        "photoLink": "https://www.pexels.com/photo/close-up-of-a-vibrant-green-leaf-texture-33733109/"
+        "name": "Cup of  Couple",
+        "link": "https://www.pexels.com/@cup-of-couple",
+        "photoLink": "https://www.pexels.com/photo/potted-plant-and-flower-vase-near-laptop-8473794/"
       }
     },
     {
-      "prompt": "architectural arch",
-      "id": "30205602",
-      "url": "https://images.pexels.com/photos/30205602/pexels-photo-30205602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/30205602/pexels-photo-30205602.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "width": 7903,
-      "height": 5464,
-      "color": "#9A9A9A",
-      "alt": "Upward view of minimalist architectural arches with a patterned lattice facade, showcasing modern design.",
+      "prompt": "botanical detail",
+      "id": "5978657",
+      "url": "https://images.pexels.com/photos/5978657/pexels-photo-5978657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "thumb": "https://images.pexels.com/photos/5978657/pexels-photo-5978657.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "width": 6720,
+      "height": 4480,
+      "color": "#8F7863",
+      "alt": "Close-up of a beige, textured flower showing intricate seeds and natural beauty.",
       "credit": {
-        "name": "Khaled  Al amad",
-        "link": "https://www.pexels.com/@khaled-al-amad-2148387226",
-        "photoLink": "https://www.pexels.com/photo/modern-architectural-arches-with-intricate-lattice-design-30205602/"
+        "name": "https://kaboompics.com/",
+        "link": "https://www.pexels.com/@karola-g",
+        "photoLink": "https://www.pexels.com/photo/close-up-of-a-beige-flower-seeds-5978657/"
       }
     }
   ]
